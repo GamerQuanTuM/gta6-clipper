@@ -63,8 +63,10 @@ def recent_broadcasts(platform, user, cfg):
         dur = info.get("duration") or 0
         ts = info.get("timestamp") or 0
         if not dur or not ts:
+            log(f"  {user}: skipped '{(info.get('title') or '')[:40]}' (no duration/timestamp: duration={dur}, ts={ts}, live={info.get('is_live')})")
             continue
         if time.time() - (ts + dur) > max_age:
+            log(f"  {user}: skipped '{(info.get('title') or '')[:40]}' (ended {(time.time() - ts - dur) / 3600:.1f}h ago)")
             continue  # ended too long ago
         if not game_match(info, active_phase(cfg)[0]):
             log(f"  {user}: '{(info.get('title') or '')[:60]}' isn't GTA VI, skipping")
