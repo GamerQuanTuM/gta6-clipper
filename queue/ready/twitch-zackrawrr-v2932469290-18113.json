@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-18113",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -354,5 +354,22 @@
   ],
   "chat_sample": [],
   "created_unix": 1795040053,
-  "meta": null
+  "meta": {
+    "hook": "FROM BLACKWATER TO DELIVERING WATER",
+    "title": "zackrawrr realizes he's an errand boy in GTA 6 😭 #shorts",
+    "description": "zackrawrr goes from working at Blackwater to delivering water in GTA 6 and he is NOT okay with it 💀\n\nWould you take the errand-boy job? Tell us below 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2932305259-30389",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -94,5 +94,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795039671,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled hype, no identifiable moment in transcript"
 }
