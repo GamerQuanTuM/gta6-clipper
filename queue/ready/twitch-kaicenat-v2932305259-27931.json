@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2932305259-27931",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -324,5 +324,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795036045,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game cutscene dialogue (Dodo repairs, Ryan's operation), not a live reaction"
 }
