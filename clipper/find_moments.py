@@ -178,10 +178,12 @@ def transcribe(audio_path, ss, to, model_name):
     from faster_whisper import WhisperModel
     if _MODEL is None:
         _MODEL = WhisperModel(model_name, device="cpu", compute_type="int8")
-    wav = Path(audio_path).with_name(f"seg_{int(ss)}.wav")
-    run(["ffmpeg", "-v", "error", "-y", "-ss", f"{ss:.2f}", "-to", f"{to:.2f}", "-i", str(audio_path),
-         "-ac", "1", "-ar", "16000", str(wav)], timeout=120)
-    segs, info = _MODEL.transcribe(str(wav), word_timestamps=True, vad_filter=True, beam_size=1)
+    import subprocess  # decode with ffmpeg ourselves; avoids faster-whisper/PyAV version clashes
+    pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ss:.2f}", "-to", f"{to:.2f}", "-i", str(audio_path),
+                          "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+                         capture_output=True, timeout=180).stdout
+    pcm_arr = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
+    segs, info = _MODEL.transcribe(pcm_arr, word_timestamps=True, vad_filter=True, beam_size=1)
     words = []
     for s in segs:
         for w in s.words or []:
