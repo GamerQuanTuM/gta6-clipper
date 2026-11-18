@@ -1,6 +1,6 @@
 {
   "id": "kick-n3on-01a1ee36-00d8-7c57-b985-bab8088d1768-24656",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "n3on",
   "streamer_name": "n3on",
@@ -15,44 +15,12 @@
   "score": 2.53,
   "language": "en",
   "transcript": "SHUT UP! Oh god, holy shit.",
-  "words": [
-    [
-      0.15,
-      0.77,
-      "SHUT"
-    ],
-    [
-      0.77,
-      0.97,
-      "UP!"
-    ],
-    [
-      50.28,
-      50.46,
-      "Oh"
-    ],
-    [
-      50.46,
-      50.58,
-      "god,"
-    ],
-    [
-      50.66,
-      50.82,
-      "holy"
-    ],
-    [
-      50.82,
-      51.3,
-      "shit."
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795035348,
   "meta": {
     "hook": "N3ON CANNOT BELIEVE WHAT HE SEES",
     "title": "N3ON loses it playing GTA 6 early 😭 #gta6 #shorts",
-    "description": "N3ON's reaction to this GTA 6 moment says it all 💀\n\nWhat would you have done? 👇\n\n#gta6 #gtavi #n3on #shorts #gaming",
+    "description": "🎥 Clip from n3on's live stream: https://kick.com/n3on\n\nN3ON's reaction to this GTA 6 moment says it all 💀\n\nWhat would you have done? 👇\n\n#gta6 #gtavi #n3on #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -67,5 +35,7 @@
     ],
     "priority": 2,
     "source": "claude"
-  }
+  },
+  "duration_s": 53.6,
+  "rendered_unix": 1795036709
 }
