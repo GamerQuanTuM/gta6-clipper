@@ -1,0 +1,113 @@
+{
+  "id": "twitch-zackrawrr-v2932469290-13194",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2932469290",
+  "vod_id": "v2932469290",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247 2026-11-18 20:34",
+  "game": "GTA 6",
+  "start": 13160.83,
+  "end": 13205.91,
+  "peak": 13194,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "God wait, how do I get through? I I okay, okay. All right. Thank you. Thank you. Oh,",
+  "words": [
+    [
+      0.15,
+      0.69,
+      "God"
+    ],
+    [
+      0.69,
+      2.71,
+      "wait,"
+    ],
+    [
+      2.75,
+      2.87,
+      "how"
+    ],
+    [
+      2.87,
+      2.95,
+      "do"
+    ],
+    [
+      2.95,
+      3.03,
+      "I"
+    ],
+    [
+      3.03,
+      3.17,
+      "get"
+    ],
+    [
+      3.17,
+      3.45,
+      "through?"
+    ],
+    [
+      34.1,
+      34.46,
+      "I"
+    ],
+    [
+      34.46,
+      34.82,
+      "I"
+    ],
+    [
+      34.82,
+      36.0,
+      "okay,"
+    ],
+    [
+      37.94,
+      38.26,
+      "okay."
+    ],
+    [
+      38.32,
+      38.48,
+      "All"
+    ],
+    [
+      38.48,
+      38.82,
+      "right."
+    ],
+    [
+      38.96,
+      39.0,
+      "Thank"
+    ],
+    [
+      39.0,
+      39.2,
+      "you."
+    ],
+    [
+      39.28,
+      39.44,
+      "Thank"
+    ],
+    [
+      39.44,
+      39.82,
+      "you."
+    ],
+    [
+      44.42,
+      44.78,
+      "Oh,"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795034068,
+  "meta": null
+}
