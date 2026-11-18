@@ -1,0 +1,88 @@
+{
+  "id": "twitch-xqc-v2932113307-47100",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2932113307",
+  "vod_id": "v2932113307",
+  "vod_title": "🌴LIVE🌴GTA 6🌴 AT 6AM EST🌴STUFF BEFORE🌴ALERT🌴NOT A DRILL🌴NZ FLIGHT TAKEN🌴LIVE🌴QUICK🌴DONT MISS IT🌴ONESHOTTING THE GAME?🌴 2026-11-18 19:47",
+  "game": "GTA 6",
+  "start": 47068.73,
+  "end": 47113,
+  "peak": 47100,
+  "score": 2.24,
+  "language": "en",
+  "transcript": "You are guys you ready? Sure. Dabba Uda because we just getting started",
+  "words": [
+    [
+      0.15,
+      0.79,
+      "You"
+    ],
+    [
+      0.79,
+      1.43,
+      "are"
+    ],
+    [
+      6.29,
+      6.63,
+      "guys"
+    ],
+    [
+      6.63,
+      7.09,
+      "you"
+    ],
+    [
+      7.09,
+      7.33,
+      "ready?"
+    ],
+    [
+      7.69,
+      8.01,
+      "Sure."
+    ],
+    [
+      8.31,
+      8.95,
+      "Dabba"
+    ],
+    [
+      8.95,
+      9.31,
+      "Uda"
+    ],
+    [
+      9.31,
+      9.79,
+      "because"
+    ],
+    [
+      9.79,
+      9.95,
+      "we"
+    ],
+    [
+      9.95,
+      10.21,
+      "just"
+    ],
+    [
+      10.21,
+      10.53,
+      "getting"
+    ],
+    [
+      10.53,
+      10.93,
+      "started"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795031256,
+  "meta": null
+}
