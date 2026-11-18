@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-13194",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -109,5 +109,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795034068,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Low-energy filler; nothing identifiable happening, possibly NPC dialogue."
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-n3on-01a1ee36-00d8-7c57-b985-bab8088d1768-24268",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "n3on",
   "streamer_name": "n3on",
@@ -29,5 +29,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795035351,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game cutscene dialogue ('Our family!'), not a live reaction."
 }
