@@ -11,7 +11,10 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
 2. For each candidate, read `vod_title`, `streamer_name`, `transcript`,
    `chat_sample`, and `score`. Decide:
    - **Reject** it if the transcript shows nothing happening: dead air, ads,
-     reading donations, a sponsor read, or not about the game. Set
+     reading donations, a sponsor read, or not about the game. Also reject loud
+     **game cutscenes, in-game dialogue or music** (the finder picks loud audio, so
+     these slip through): if the transcript reads like scripted lines rather than a
+     person reacting live, reject it. Set
      `"status": "rejected"` and add `"reject_reason"`.
    - Otherwise write a `"meta"` object (format below) and set `"status": "ready"`.
 3. Move each processed file from `queue/pending/` to `queue/ready/` with
