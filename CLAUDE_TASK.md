@@ -32,6 +32,11 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
 5. Commit with message `claude: metadata for N clips` and push to `main`.
    If the push is rejected, run `git pull --rebase` and push again. Pushing
    files into `queue/ready/` starts the render workflow automatically.
+6. **Start the next scan (always, even if there was nothing to prepare).** GitHub's own
+   timer is unreliable, so write the current time into `trigger/tick.txt`
+   (`mkdir -p trigger; date -u > trigger/tick.txt`), commit it as `claude: tick` and
+   push to `main`. That push starts the finder workflow. Skip this step only if the
+   campaign has ended.
 
 ## Which game?
 

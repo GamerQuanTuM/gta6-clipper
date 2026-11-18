@@ -1,6 +1,8 @@
 name: 1-find-moments
 # Every hour 1:00-6:00 AM IST (19:30-00:30 UTC): scan streams, queue hype moments
 on:
+  push:
+    paths: ["trigger/**"]   # backup: Claude's hourly task pushes trigger/tick.txt to start a scan
   schedule:
     - cron: "30 19-23 * * *"
     - cron: "30 0 * * *"
