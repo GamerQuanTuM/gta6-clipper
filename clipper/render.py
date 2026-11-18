@@ -214,7 +214,7 @@ def ai_facecam(src, spans, crop, out_path, k, total):
         _ORT.run(None, {"x": dummy})
     ft = (time.time() - t0) / 2
     fps = min(int(k.get("facecam_ai_fps", 12)), int(float(k.get("facecam_ai_budget_seconds", 300)) / (ft * total)))
-    if fps < 8:
+    if fps < 6:
         log(f"  AI facecam would be too slow ({ft:.2f}s/frame), using normal upscale")
         return False
     log(f"  AI facecam: {ft:.2f}s/frame -> {fps} fps (about {int(ft * total * fps)}s)")
@@ -335,7 +335,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     if face:
         gx, gy, gw, gh, GH = game
         if face_vid:
-            fcpart = "[2:v]fps=30,tpad=stop_mode=clone:stop_duration=2,setpts=PTS-STARTPTS[fc];"
+            fcpart = "[2:v]tpad=stop_mode=clone:stop_duration=2,framerate=fps=30,setpts=PTS-STARTPTS[fc];"
             head = f"[cv]split=2[a][b];"
         else:
             fcpart = (f"[c]crop={cw}:{ch}:{x0}:{y0},hqdn3d=3:2.5:4:4,scale={W}:{FH}:flags=lanczos,"
