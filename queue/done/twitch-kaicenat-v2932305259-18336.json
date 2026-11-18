@@ -1,0 +1,39 @@
+{
+  "id": "twitch-kaicenat-v2932305259-18336",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2932305259",
+  "vod_id": "v2932305259",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-18 18:54",
+  "game": "GTA 6",
+  "start": 18304,
+  "end": 18349,
+  "peak": 18336,
+  "score": 2.12,
+  "language": "en",
+  "transcript": "",
+  "chat_sample": [],
+  "created_unix": 1795028071,
+  "meta": {
+    "hook": "KAICENAT WAS NOT READY FOR THIS",
+    "title": "KaiCenat loses it in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKaiCenat reacts live in GTA 6.\n\n#gta6 #shorts #gaming #kaicenat",
+    "tags": [
+      "gta 6",
+      "gta 6 funny moments",
+      "KaiCenat",
+      "kaicenat",
+      "streamer moments",
+      "gaming",
+      "shorts",
+      "gta vi",
+      "grand theft auto 6"
+    ],
+    "source": "template"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795028199
+}
