@@ -83,7 +83,7 @@ def esc(text):
     return text.replace("\\", "").replace("{", "(").replace("}", ")").replace("\n", " ")
 
 
-def build_ass(words, hook, credit, teaser, total, cap_margin):
+def build_ass(words, hook, credit, teaser, total, cap_margin, hook_mv=190, top_mv=210):
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -93,8 +93,8 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Hook,Anton,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,7,3,8,70,70,190,1
-Style: Top,Anton,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,5,2,8,80,80,210,1
+Style: Hook,Anton,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,7,3,8,70,70,{hook_mv},1
+Style: Top,Anton,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,5,2,8,80,80,{top_mv},1
 Style: Cap,Anton,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,6,2,2,70,70,{cap_margin},1
 Style: Credit,Anton,40,&H00E6E6E6,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,3,1,2,40,40,95,1
 
@@ -150,6 +150,44 @@ def download_segment(c, workdir):
     return files[0], a
 
 
+def detect_facecam(src, start, dur):
+    """Find a static webcam overlay: a face that stays in the same spot across the clip.
+    Returns (cx, cy, face_w) in 1920x1080 coordinates, or None."""
+    try:
+        import cv2
+        import numpy as np
+        import subprocess
+    except ImportError:
+        return None
+    dw, dh = 960, 540
+    raw = subprocess.run(
+        ["ffmpeg", "-v", "error", "-ss", f"{start:.2f}", "-t", f"{dur:.2f}", "-i", str(src), "-vf",
+         f"fps=1/3,scale={dw}:{dh}:force_original_aspect_ratio=decrease,pad={dw}:{dh}:(ow-iw)/2:(oh-ih)/2,format=gray",
+         "-f", "rawvideo", "-pix_fmt", "gray", "-"], capture_output=True, timeout=300).stdout
+    n = len(raw) // (dw * dh)
+    if n < 3:
+        return None
+    casc = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    hits = []
+    for i in range(n):
+        img = np.frombuffer(raw[i * dw * dh:(i + 1) * dw * dh], dtype=np.uint8).reshape(dh, dw)
+        img = cv2.equalizeHist(img)
+        for (x, y, w, h) in casc.detectMultiScale(img, 1.1, 6, minSize=(30, 30), maxSize=(240, 240)):
+            hits.append((x + w / 2, y + h / 2, float(w), i))
+    best = []
+    for (cx, cy, w, _) in hits:
+        grp = [h for h in hits if abs(h[0] - cx) < 28 and abs(h[1] - cy) < 28 and abs(h[2] - w) < 0.4 * w]
+        if len({h[3] for h in grp}) > len({h[3] for h in best}):
+            best = grp
+    if len({h[3] for h in best}) < max(3, int(0.4 * n)):
+        return None
+    xs = sorted(h[0] for h in best)
+    ys = sorted(h[1] for h in best)
+    ws = sorted(h[2] for h in best)
+    m = len(best) // 2
+    return xs[m] * 2, ys[m] * 2, ws[m] * 2
+
+
 def render(c, meta, cfg, src, src_offset, out_path, workdir):
     k = cfg["clip"]
     teaser = float(k["teaser_seconds"])
@@ -160,24 +198,52 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
         tz = max(0.0, main_start + main_dur - teaser)
     total = teaser + main_dur
 
-    fg_h = int(round(W * 9 / 16 * float(k["zoom"]) / 2) * 2)
-    fg_top = (H - fg_h) // 2
-    cap_margin = max(150, H - (fg_top + fg_h) - 230)
+    face = detect_facecam(src, main_start, main_dur) if k.get("facecam_split", True) else None
+    FT, FH, GH = 250, 720, 608          # facecam top / facecam height / gameplay height (1080 wide)
+    if face:
+        cx, cy, fw = face
+        cw = min(1920.0, fw * 2.6)
+        ch = cw * FH / W
+        if ch > 1080:
+            ch, cw = 1080.0, 1080.0 * W / FH
+        x0 = min(max(cx - cw / 2, 0), 1920 - cw)
+        y0 = min(max(cy - ch * 0.45, 0), 1080 - ch)
+        cw, ch, x0, y0 = (int(v) // 2 * 2 for v in (cw, ch, x0, y0))
+        log(f"  facecam found at ({int(cx)},{int(cy)}), using stacked layout")
+        cap_margin, hook_mv, top_mv = 190, 60, 80
+    else:
+        zoom = float(k.get("zoom", 1.0))
+        fg_h = int(round(W * 9 / 16 * zoom / 2) * 2)
+        fg_top = (H - fg_h) // 2
+        cap_margin = max(150, H - (fg_top + fg_h) - 230)
+        hook_mv, top_mv = 190, 210
     credit = c["channel_url"].replace("https://", "").replace("www.", "")
     ass = workdir / "subs.ass"
-    ass.write_text(build_ass(c["words"], meta["hook"], credit, teaser, total, cap_margin), encoding="utf-8")
+    ass.write_text(build_ass(c["words"], meta["hook"], credit, teaser, total, cap_margin, hook_mv, top_mv),
+                   encoding="utf-8")
 
     fonts = ROOT / "fonts"
     norm = "fps=30,scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1"
+    bgchain = (f"scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=8,"
+               f"scale={W}:{H},eq=brightness=-0.12")
+    if face:
+        layout = (
+            f"[cv]split=3[a][b][c];[a]{bgchain}[bg];"
+            f"[b]scale={W}:{GH}[gp];"
+            f"[c]crop={cw}:{ch}:{x0}:{y0},scale={W}:{FH}[fc];"
+            f"[bg][fc]overlay=0:{FT}[t1];[t1][gp]overlay=0:{FT + FH}"
+        )
+    else:
+        layout = (
+            f"[cv]split[a][b];[a]{bgchain}[bg];"
+            f"[b]scale=-2:{fg_h},crop=min(iw\\,{W}):{fg_h}[fg];"
+            f"[bg][fg]overlay=(W-w)/2:{fg_top}"
+        )
     fc = (
         f"[0:v]{norm},setpts=PTS-STARTPTS[tv];[0:a]asetpts=PTS-STARTPTS[ta];"
         f"[1:v]{norm},setpts=PTS-STARTPTS[mv];[1:a]asetpts=PTS-STARTPTS[ma];"
         f"[tv][ta][mv][ma]concat=n=2:v=1:a=1[cv][ca];"
-        f"[cv]split[a][b];"
-        f"[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=8,"
-        f"scale={W}:{H},eq=brightness=-0.12[bg];"
-        f"[b]scale=-2:{fg_h},crop=min(iw\\,{W}):{fg_h}[fg];"
-        f"[bg][fg]overlay=(W-w)/2:{fg_top},ass={ass}:fontsdir={fonts},format=yuv420p[v];"
+        f"{layout},ass={ass}:fontsdir={fonts},format=yuv420p[v];"
         f"[ca]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]"
     )
     # two separate inputs (teaser + main) so ffmpeg never buffers minutes of raw frames

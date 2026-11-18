@@ -5,3 +5,4 @@ numpy
 pyyaml
 google-api-python-client
 google-auth
+opencv-python-headless==4.10.0.84

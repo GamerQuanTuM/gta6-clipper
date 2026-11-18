@@ -48,7 +48,8 @@ clip:
   before_moment: 32           # seconds kept before the peak moment
   after_moment: 13            # seconds kept after it
   teaser_seconds: 2.0         # the hook: best moment flashed first
-  zoom: 1.45                  # 1.0 = whole frame, higher = tighter centre crop
+  facecam_split: true         # facecam on top, gameplay below (auto-detected face overlay)
+  zoom: 1.0                   # used only when no facecam: 1.0 = whole frame (nothing cut off)
   whisper_model: small        # tiny / base / small (small = best captions on CPU)
 
 publish:
