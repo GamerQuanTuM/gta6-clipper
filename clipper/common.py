@@ -88,3 +88,12 @@ def active_phase(cfg):
         if today <= dt.date.fromisoformat(str(ph["until_date_ist"])):
             return [k.lower() for k in (ph.get("keywords") or [])], ph.get("name", "")
     return [], "any game"
+
+
+def phase_label(cfg):
+    """Short game name for the current phase (e.g. "GTA 6"), or "" to use the platform category."""
+    today = now_ist().date()
+    for ph in cfg.get("game_phases") or []:
+        if today <= dt.date.fromisoformat(str(ph["until_date_ist"])):
+            return ph.get("label", "")
+    return ""

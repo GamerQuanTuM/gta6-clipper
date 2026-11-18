@@ -35,7 +35,9 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
 
 ## Which game?
 
-Each candidate has a `game` field. Name that game in the hook/title/tags. Never
+Each candidate has a `game` field. Name that game in the hook/title/tags. If `game`
+clearly conflicts with the `vod_title` or what the transcript is about, trust the
+title and transcript. Never
 call a clip "GTA 6" unless its `game` says so. The target game changes by date
 (`game_phases` in `config.yaml`). The user can also ask Claude in chat to
 switch games, and it edits that file.

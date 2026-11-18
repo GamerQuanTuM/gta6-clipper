@@ -172,7 +172,7 @@ def detect_facecam(src, start, dur):
     for i in range(n):
         img = np.frombuffer(raw[i * dw * dh:(i + 1) * dw * dh], dtype=np.uint8).reshape(dh, dw)
         img = cv2.equalizeHist(img)
-        for (x, y, w, h) in casc.detectMultiScale(img, 1.1, 6, minSize=(30, 30), maxSize=(240, 240)):
+        for (x, y, w, h) in casc.detectMultiScale(img, 1.05, 3, minSize=(22, 22), maxSize=(240, 240)):
             hits.append((x + w / 2, y + h / 2, float(w), i))
     best = []
     for (cx, cy, w, _) in hits:
@@ -202,12 +202,12 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     FT, FH, GH = 250, 720, 608          # facecam top / facecam height / gameplay height (1080 wide)
     if face:
         cx, cy, fw = face
-        cw = min(1920.0, fw * 2.6)
+        cw = min(1920.0, max(fw * 4.5, 380.0))   # whole webcam overlay, but not blown up too far
         ch = cw * FH / W
         if ch > 1080:
             ch, cw = 1080.0, 1080.0 * W / FH
         x0 = min(max(cx - cw / 2, 0), 1920 - cw)
-        y0 = min(max(cy - ch * 0.45, 0), 1080 - ch)
+        y0 = min(max(cy - ch * 0.5, 0), 1080 - ch)
         cw, ch, x0, y0 = (int(v) // 2 * 2 for v in (cw, ch, x0, y0))
         log(f"  facecam found at ({int(cx)},{int(cy)}), using stacked layout")
         cap_margin, hook_mv, top_mv = 190, 60, 80
@@ -230,7 +230,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
         layout = (
             f"[cv]split=3[a][b][c];[a]{bgchain}[bg];"
             f"[b]scale={W}:{GH}[gp];"
-            f"[c]crop={cw}:{ch}:{x0}:{y0},scale={W}:{FH}[fc];"
+            f"[c]crop={cw}:{ch}:{x0}:{y0},scale={W}:{FH}:flags=lanczos,unsharp=5:5:0.7[fc];"
             f"[bg][fc]overlay=0:{FT}[t1];[t1][gp]overlay=0:{FT + FH}"
         )
     else:

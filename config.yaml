@@ -11,6 +11,7 @@ campaign:
 # To switch games, change/add a phase here (or ask Claude in chat to do it).
 game_phases:
   - name: GTA VI launch week
+    label: GTA 6              # name used in titles/hooks
     until_date_ist: 2026-11-25
     keywords: ["grand theft auto vi", "grand theft auto 6", "gta vi", "gta 6", "gta6", "gtavi"]
   - name: Any game (creators' choice)

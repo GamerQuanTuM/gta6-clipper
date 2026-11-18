@@ -20,7 +20,7 @@ import numpy as np
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import (QUEUE, STATE, active_phase, campaign_active, load_config, load_json, log,  # noqa: E402
-                    run, save_json, ytdlp_base)
+                    phase_label, run, save_json, ytdlp_base)
 
 HYPE = re.compile(
     r"(kekw|omegalul|lul|lmao+|lol|💀|😂|\?{3,}|\bw+\b|pog|holy|no way|clip (it|that)|"
@@ -74,7 +74,7 @@ def recent_broadcasts(platform, user, cfg):
             "streamer_name": info.get("uploader") or info.get("channel") or user,
             "vod_id": str(info["id"]), "vod_url": vurl,
             "vod_title": info.get("title") or "", "duration": int(dur),
-            "game": ((info.get("categories") or [""])[0]
+            "game": phase_label(cfg) or ((info.get("categories") or [""])[0]
                      or next((c.get("title") for c in reversed(info.get("chapters") or []) if c.get("title")), "")),
             "channel_url": (f"https://www.twitch.tv/{user}" if platform == "twitch"
                             else f"https://kick.com/{user}"),
@@ -294,7 +294,8 @@ def main():
     if not campaign_active(cfg):
         return
     progress = load_json(STATE / "progress.json", {})
-    known = {p.stem for d in ("pending", "ready", "done", "failed") for p in (QUEUE / d).glob("*.json")}
+    known = set() if os.environ.get("TEST_STREAMERS") else {
+        p.stem for d in ("pending", "ready", "done", "failed") for p in (QUEUE / d).glob("*.json")}
     log(f"Game phase tonight: {active_phase(cfg)[1] or '?'} {active_phase(cfg)[0] or '(any game)'}")
     test = os.environ.get("TEST_STREAMERS", "").strip()
     if test:
