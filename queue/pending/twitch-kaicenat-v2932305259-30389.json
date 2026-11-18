@@ -1,0 +1,98 @@
+{
+  "id": "twitch-kaicenat-v2932305259-30389",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2932305259",
+  "vod_id": "v2932305259",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-18 22:07",
+  "game": "GTA 6",
+  "start": 30357.45,
+  "end": 30402,
+  "peak": 30389,
+  "score": 2.15,
+  "language": "en",
+  "transcript": "war guys! You ready? I've never said this clear! Dabaura! Cause we just getting sordid!",
+  "words": [
+    [
+      0.15,
+      0.41,
+      "war"
+    ],
+    [
+      0.41,
+      0.77,
+      "guys!"
+    ],
+    [
+      1.09,
+      1.19,
+      "You"
+    ],
+    [
+      1.19,
+      1.45,
+      "ready?"
+    ],
+    [
+      1.65,
+      1.81,
+      "I've"
+    ],
+    [
+      1.81,
+      2.01,
+      "never"
+    ],
+    [
+      2.01,
+      2.23,
+      "said"
+    ],
+    [
+      2.23,
+      2.53,
+      "this"
+    ],
+    [
+      2.53,
+      2.77,
+      "clear!"
+    ],
+    [
+      2.81,
+      3.31,
+      "Dabaura!"
+    ],
+    [
+      3.61,
+      3.89,
+      "Cause"
+    ],
+    [
+      3.89,
+      4.05,
+      "we"
+    ],
+    [
+      4.05,
+      4.33,
+      "just"
+    ],
+    [
+      4.33,
+      4.63,
+      "getting"
+    ],
+    [
+      4.63,
+      5.31,
+      "sordid!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795039671,
+  "meta": null
+}

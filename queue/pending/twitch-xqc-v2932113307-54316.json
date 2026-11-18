@@ -1,0 +1,93 @@
+{
+  "id": "twitch-xqc-v2932113307-54316",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2932113307",
+  "vod_id": "v2932113307",
+  "vod_title": "🌴LIVE🌴GTA 6🌴 AT 6AM EST🌴STUFF BEFORE🌴ALERT🌴NOT A DRILL🌴NZ FLIGHT TAKEN🌴LIVE🌴QUICK🌴DONT MISS IT🌴ONESHOTTING THE GAME?🌴 2026-11-18 22:08",
+  "game": "GTA 6",
+  "start": 54281.89,
+  "end": 54327.15,
+  "peak": 54316,
+  "score": 2.11,
+  "language": "en",
+  "transcript": "What a fucking question! I wasn't looking man, I mean did we over mean?",
+  "words": [
+    [
+      0.15,
+      0.71,
+      "What"
+    ],
+    [
+      0.71,
+      1.11,
+      "a"
+    ],
+    [
+      1.11,
+      1.11,
+      "fucking"
+    ],
+    [
+      1.11,
+      2.03,
+      "question!"
+    ],
+    [
+      3.13,
+      3.37,
+      "I"
+    ],
+    [
+      42.76,
+      43.22,
+      "wasn't"
+    ],
+    [
+      43.22,
+      43.54,
+      "looking"
+    ],
+    [
+      43.54,
+      43.82,
+      "man,"
+    ],
+    [
+      43.92,
+      43.92,
+      "I"
+    ],
+    [
+      43.92,
+      44.12,
+      "mean"
+    ],
+    [
+      44.12,
+      44.34,
+      "did"
+    ],
+    [
+      44.34,
+      44.6,
+      "we"
+    ],
+    [
+      44.6,
+      44.76,
+      "over"
+    ],
+    [
+      44.76,
+      44.96,
+      "mean?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795039710,
+  "meta": null
+}
