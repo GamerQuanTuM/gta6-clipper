@@ -199,19 +199,50 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     total = teaser + main_dur
 
     face = detect_facecam(src, main_start, main_dur) if k.get("facecam_split", True) else None
-    FT, FH, GH = 250, 720, 608          # facecam top / facecam height / gameplay height (1080 wide)
+    try:
+        log("  source video:", run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
+                                   "stream=width,height,r_frame_rate", "-of", "csv=p=0", str(src)]).strip())
+    except Exception:
+        pass
+    FT, FH = 170, 640                      # facecam panel: top y, height (1080 wide)
+    game = None
     if face:
         cx, cy, fw = face
-        cw = min(1920.0, max(fw * 4.5, 380.0))   # whole webcam overlay, but not blown up too far
-        ch = cw * FH / W
-        if ch > 1080:
-            ch, cw = 1080.0, 1080.0 * W / FH
-        x0 = min(max(cx - cw / 2, 0), 1920 - cw)
-        y0 = min(max(cy - ch * 0.5, 0), 1080 - ch)
-        cw, ch, x0, y0 = (int(v) // 2 * 2 for v in (cw, ch, x0, y0))
-        log(f"  facecam found at ({int(cx)},{int(cy)}), using stacked layout")
-        cap_margin, hook_mv, top_mv = 190, 60, 80
+        ow = min(900.0, max(fw * 5.0, 380.0))        # estimated webcam overlay size in the source
+        oh = ow * 0.9
+        pad = 48
+        opts = []                                     # (area removed, crop x, y, w, h): drop the strip holding the webcam
+        if cx + ow / 2 < 0.5 * 1920:
+            xk = min(0.45 * 1920, cx + ow / 2 + pad)
+            opts.append((xk * 1080, xk, 0, 1920 - xk, 1080))
+        if cx - ow / 2 > 0.5 * 1920:
+            xk = max(0.55 * 1920, cx - ow / 2 - pad)
+            opts.append(((1920 - xk) * 1080, 0, 0, xk, 1080))
+        if cy + oh / 2 < 0.5 * 1080:
+            yk = cy + oh / 2 + pad
+            opts.append((yk * 1920, 0, yk, 1920, 1080 - yk))
+        if cy - oh / 2 > 0.5 * 1080:
+            yk = cy - oh / 2 - pad
+            opts.append(((1080 - yk) * 1920, 0, 0, 1920, yk))
+        if opts:
+            _, gx, gy, gw, gh = min(opts)
+            gx, gy, gw, gh = (int(v) // 2 * 2 for v in (gx, gy, gw, gh))
+            GH = min(900, int(round(W * gh / gw / 2) * 2))
+            game = (gx, gy, gw, gh, GH)
+            # facecam crop: the whole webcam overlay, centred on the face
+            cw = ow
+            ch = cw * FH / W
+            x0 = min(max(cx - cw / 2, 0), 1920 - cw)
+            y0 = min(max(cy - ch * 0.5, 0), 1080 - ch)
+            cw, ch, x0, y0 = (int(v) // 2 * 2 for v in (cw, ch, x0, y0))
+            log(f"  facecam at ({int(cx)},{int(cy)}); gameplay crop {gw}x{gh} (webcam removed)")
+        else:
+            face = None                                # webcam in the middle: can't separate it, keep whole frame
+    if game:
+        end_y = FT + FH + game[4]
+        cap_margin, hook_mv, top_mv = max(170, H - (end_y + 130)), 60, 80
     else:
+        face = None
         zoom = float(k.get("zoom", 1.0))
         fg_h = int(round(W * 9 / 16 * zoom / 2) * 2)
         fg_top = (H - fg_h) // 2
@@ -227,10 +258,11 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     bgchain = (f"scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=8,"
                f"scale={W}:{H},eq=brightness=-0.12")
     if face:
+        gx, gy, gw, gh, GH = game
         layout = (
             f"[cv]split=3[a][b][c];[a]{bgchain}[bg];"
-            f"[b]scale={W}:{GH}[gp];"
-            f"[c]crop={cw}:{ch}:{x0}:{y0},scale={W}:{FH}:flags=lanczos,unsharp=5:5:0.7[fc];"
+            f"[b]crop={gw}:{gh}:{gx}:{gy},scale={W}:{GH}:flags=lanczos[gp];"
+            f"[c]crop={cw}:{ch}:{x0}:{y0},hqdn3d=3:2.5:4:4,scale={W}:{FH}:flags=lanczos,unsharp=5:5:0.6[fc];"
             f"[bg][fc]overlay=0:{FT}[t1];[t1][gp]overlay=0:{FT + FH}"
         )
     else:
