@@ -1,0 +1,54 @@
+name: 2-render-and-publish
+# Runs when Claude pushes metadata (queue/ready), plus a safety run at :55 IST
+# every hour 1-6 AM that renders anything Claude didn't get to (template text).
+on:
+  push:
+    paths: ["queue/ready/**"]
+  schedule:
+    - cron: "25 20-23 * * *"
+    - cron: "25 0-1 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even outside campaign hours (testing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q -r requirements.txt
+      - name: Render & publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FORCE_RUN: ${{ inputs.force && '1' || '0' }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python clipper/render.py
+      - name: Save queue
+        if: always()
+        run: |
+          git config user.name "clip-bot"
+          git config user.email "clip-bot@users.noreply.github.com"
+          git add -A queue state
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -q -m "render: published clips $(date -u +%H:%M)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*4)); done

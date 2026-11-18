@@ -1,0 +1,50 @@
+name: 1-find-moments
+# Every hour 1:00-6:00 AM IST (19:30-00:30 UTC): scan streams, queue hype moments
+on:
+  schedule:
+    - cron: "30 19-23 * * *"
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even outside campaign hours (testing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: find
+  cancel-in-progress: false
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-models-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q -r requirements.txt
+      - name: Find moments
+        env:
+          FORCE_RUN: ${{ inputs.force && '1' || '0' }}
+        run: python clipper/find_moments.py
+      - name: Save queue
+        run: |
+          git config user.name "clip-bot"
+          git config user.email "clip-bot@users.noreply.github.com"
+          git add queue state
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -q -m "find: new moments $(date -u +%H:%M)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*4)); done
