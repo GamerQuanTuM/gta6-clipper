@@ -224,7 +224,7 @@ def snap_bounds(words, lo, hi, cfg):
 def process_broadcast(b, cfg, progress, workdir):
     f, c = cfg["finder"], cfg["clip"]
     key = f"{b['platform']}:{b['vod_id']}"
-    end = max(0, b["duration"] - 20)
+    end = max(0, b["duration"] - 90)   # stay clear of the live edge (ffmpeg stalls waiting for segments there)
     start = max(progress.get(key, 0), end - f["lookback_minutes"] * 60, 0)
     if end - start < 150:
         log(f"  {b['streamer']}: only {end - start}s new since last run, skipping")

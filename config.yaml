@@ -40,7 +40,7 @@ finder:
   chat_delay_seconds: 6       # chat reacts ~6s after the moment happens
   use_chat: false             # Twitch chat reader is currently broken; audio spikes only
   min_score_audio_only: 1.8   # threshold when chat isn't used
-  download_timeout: 300       # seconds before giving up on one streamer's audio download
+  download_timeout: 150       # seconds before giving up on one streamer's audio download
   run_budget_minutes: 32      # stop starting new streamers after this long
 
 clip:
