@@ -79,10 +79,10 @@ def recent_broadcasts(platform, user, cfg):
 
 # ── signals ─────────────────────────────────────────────────────────────────
 
-def download_audio(vod_url, start, end, workdir):
+def download_audio(vod_url, start, end, workdir, timeout=300):
     out = workdir / "window.%(ext)s"
     run([*ytdlp_base(), "-f", "ba/worst", "--download-sections", f"*{start}-{end}",
-         "-o", str(out), vod_url], timeout=900)
+         "-o", str(out), vod_url], timeout=timeout)
     files = [p for p in workdir.glob("window.*") if not p.name.endswith(".part")]
     if not files:
         raise RuntimeError("audio download produced no file")
@@ -223,13 +223,13 @@ def process_broadcast(b, cfg, progress, workdir):
         log(f"  {b['streamer']}: only {end - start}s new since last run, skipping")
         return [], key, None
     log(f"  {b['streamer']}: scanning {start // 60}-{end // 60} min of '{b['vod_title'][:50]}'")
-    audio = download_audio(b["vod_url"], start, end, workdir)
+    audio = download_audio(b["vod_url"], start, end, workdir, f.get("download_timeout", 300))
     loud = audio_loudness(audio)
     secs = len(loud)
     if secs < 120:
         return [], key, end
     chat, samples = (chat_activity(b["vod_url"], start, start + secs, secs)
-                     if b["platform"] == "twitch" else (None, {}))
+                     if b["platform"] == "twitch" and f.get("use_chat", False) else (None, {}))
     az = robust_z(loud)
     cz = robust_z(chat)
     if cz is not None:
@@ -238,7 +238,10 @@ def process_broadcast(b, cfg, progress, workdir):
         score = 0.65 * cz + 0.35 * az
     else:
         score = az
-    peaks = pick_peaks(score, f["clips_per_streamer"], f["min_gap_seconds"], f["min_score"],
+    thr = f["min_score"] if cz is not None else f.get("min_score_audio_only", 1.8)
+    top = np.sort(score)[::-1][:3]
+    log(f"    loudest scores: {[round(float(v), 1) for v in top]} (need {thr})")
+    peaks = pick_peaks(score, f["clips_per_streamer"], f["min_gap_seconds"], thr,
                        margin_lo=c["before_moment"] + 5, margin_hi=c["after_moment"] + 5)
     cands = []
     for p in peaks:
@@ -280,8 +283,12 @@ def main():
     progress = load_json(STATE / "progress.json", {})
     known = {p.stem for d in ("pending", "ready", "done", "failed") for p in (QUEUE / d).glob("*.json")}
     all_cands = []
+    deadline = time.time() + cfg["finder"].get("run_budget_minutes", 32) * 60
     for platform in ("twitch", "kick"):
         for user in cfg["streamers"].get(platform) or []:
+            if time.time() > deadline:
+                log(f"Time budget used up, skipping {platform}/{user} (will be first next run)")
+                continue
             log(f"{platform}/{user}")
             workdir = Path(tempfile.mkdtemp(prefix=f"{user}_"))
             try:
@@ -291,7 +298,7 @@ def main():
                         progress[key] = new_end
                     all_cands += [x for x in cands if x["id"] not in known]
             except Exception:
-                log(f"  {user}: failed\n{traceback.format_exc()[-800:]}")
+                log(f"  {user}: failed: {traceback.format_exc()[-300:]}")
             finally:
                 shutil.rmtree(workdir, ignore_errors=True)
     all_cands.sort(key=lambda x: x["score"], reverse=True)
