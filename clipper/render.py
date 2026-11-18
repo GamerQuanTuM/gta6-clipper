@@ -186,7 +186,29 @@ def detect_facecam(src, start, dur):
     ys = sorted(h[1] for h in best)
     ws = sorted(h[2] for h in best)
     m = len(best) // 2
-    return xs[m] * 2, ys[m] * 2, ws[m] * 2
+    fx, fy, fw = xs[m], ys[m], ws[m]
+    # webcam overlay edge: a vertical line that is strong in (almost) every frame
+    frames = [np.frombuffer(raw[i * dw * dh:(i + 1) * dw * dh], dtype=np.uint8).reshape(dh, dw).astype(np.float32)
+              for i in range(n)]
+    r0, r1 = int(max(0, fy - 1.2 * fw)), int(min(dh, fy + 1.2 * fw))
+    prof = np.array([np.abs(np.diff(cv2.GaussianBlur(g[r0:r1], (3, 3), 0), axis=1)).mean(axis=0) for g in frames])
+    low = np.percentile(prof, 25, axis=0)
+    base = float(np.median(low)) + 1e-3
+
+    def edge(lo_x, hi_x, outward_right):
+        """Outermost strong persistent vertical edge (inner edges like furniture must not win)."""
+        lo_x, hi_x = int(max(1, lo_x)), int(min(dw - 2, hi_x))
+        if hi_x - lo_x < 6:
+            return None
+        seg = low[lo_x:hi_x]
+        if seg.max() <= max(6.0, 8 * base):
+            return None
+        cand = np.where(seg >= max(6.0, 8 * base, 0.35 * seg.max()))[0]
+        j = int(cand.max() if outward_right else cand.min())
+        return (lo_x + j + 1) * 2
+    er = edge(fx + 0.6 * fw, fx + 3.2 * fw, True)
+    el = edge(fx - 3.2 * fw, fx - 0.6 * fw, False)
+    return fx * 2, fy * 2, fw * 2, er, el
 
 
 _AI_USED = 0
@@ -272,17 +294,22 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     FT, FH = 170, FACE_H                   # facecam panel: top y, height (1080 wide)
     game = None
     if face:
-        cx, cy, fw = face
+        cx, cy, fw, er, el = face
         ow = min(900.0, max(fw * 5.0, 380.0))        # estimated webcam overlay size in the source
         oh = ow * 0.9
         pad = 48
         hw = max(120.0, min(ow / 2, cx, 1920 - cx))   # webcam sits against the screen edge: it ends about where the face mirrors
+        fx0, fx1 = cx - hw, cx + hw                   # webcam x-range: detected edge if found, else symmetric guess
+        if er and cx < 960 and er - cx < 6 * fw:
+            fx0, fx1 = 0.0, float(er)
+        elif el and cx >= 960 and cx - el < 6 * fw:
+            fx0, fx1 = float(el), 1920.0
         opts = []                                     # (area removed, crop x, y, w, h): drop the strip holding the webcam
-        if cx + hw < 0.5 * 1920:
-            xk = min(0.45 * 1920, cx + hw + pad)
+        if fx1 < 0.5 * 1920:
+            xk = min(0.45 * 1920, fx1 + pad)
             opts.append((xk * 1080, xk, 0, 1920 - xk, 1080))
-        if cx - hw > 0.5 * 1920:
-            xk = max(0.55 * 1920, cx - hw - pad)
+        if fx0 > 0.5 * 1920:
+            xk = max(0.55 * 1920, fx0 - pad)
             opts.append(((1920 - xk) * 1080, 0, 0, xk, 1080))
         if cy + oh / 2 < 0.5 * 1080:
             yk = cy + oh / 2 + pad
@@ -296,9 +323,9 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
             GH = min(900, int(round(W * gh / gw / 2) * 2))
             game = (gx, gy, gw, gh, GH)
             # facecam crop: the whole webcam overlay, centred on the face
-            cw = 2 * hw
+            cw = max(240.0, fx1 - fx0)
             ch = cw * FH / W
-            x0 = min(max(cx - cw / 2, 0), 1920 - cw)
+            x0 = min(max(fx0, 0), 1920 - cw)
             y0 = min(max(cy - ch * 0.5, 0), 1080 - ch)
             cw, ch, x0, y0 = (int(v) // 2 * 2 for v in (cw, ch, x0, y0))
             log(f"  facecam at ({int(cx)},{int(cy)}); gameplay crop {gw}x{gh} (webcam removed)")
