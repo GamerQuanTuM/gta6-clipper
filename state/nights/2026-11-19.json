@@ -190,5 +190,53 @@
       "source": "template"
     },
     "duration_s": 47.6
+  },
+  {
+    "id": "twitch-xqc-v2932113307-42187",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "XQC WAS NOT READY FOR THIS",
+      "title": "xQc loses it in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc reacts live in GTA 6.\n\n#gta6 #shorts #gaming #xqc",
+      "tags": [
+        "gta 6",
+        "gta 6 funny moments",
+        "xQc",
+        "xqc",
+        "streamer moments",
+        "gaming",
+        "shorts",
+        "gta vi",
+        "grand theft auto 6"
+      ],
+      "source": "template"
+    },
+    "duration_s": 50.5
+  },
+  {
+    "id": "twitch-xqc-v2932113307-43318",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "XQC WAS NOT READY FOR THIS",
+      "title": "xQc loses it in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc reacts live in GTA 6.\n\n#gta6 #shorts #gaming #xqc",
+      "tags": [
+        "gta 6",
+        "gta 6 funny moments",
+        "xQc",
+        "xqc",
+        "streamer moments",
+        "gaming",
+        "shorts",
+        "gta vi",
+        "grand theft auto 6"
+      ],
+      "source": "template"
+    },
+    "duration_s": 47.6
   }
 ]

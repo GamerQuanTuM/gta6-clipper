@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2932113307-42187",
-  "status": "pending",
+  "status": "done",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -15,24 +15,25 @@
   "score": 1.84,
   "language": "en",
   "transcript": "It's got you!",
-  "words": [
-    [
-      0.15,
-      0.73,
-      "It's"
-    ],
-    [
-      0.73,
-      0.89,
-      "got"
-    ],
-    [
-      0.89,
-      1.11,
-      "you!"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795029708,
-  "meta": null
+  "meta": {
+    "hook": "XQC WAS NOT READY FOR THIS",
+    "title": "xQc loses it in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc reacts live in GTA 6.\n\n#gta6 #shorts #gaming #xqc",
+    "tags": [
+      "gta 6",
+      "gta 6 funny moments",
+      "xQc",
+      "xqc",
+      "streamer moments",
+      "gaming",
+      "shorts",
+      "gta vi",
+      "grand theft auto 6"
+    ],
+    "source": "template"
+  },
+  "duration_s": 50.5,
+  "rendered_unix": 1795030286
 }
