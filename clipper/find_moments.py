@@ -60,6 +60,12 @@ def recent_broadcasts(platform, user, cfg):
         except Exception as ex:
             log(f"  {user}: could not read {vurl}: {str(ex)[-200:]}")
             continue
+        # Kick: a video page read on its own lacks title/duration/start time; the channel list has them
+        for key in ("duration", "timestamp", "categories", "title"):
+            if e.get(key) and (not info.get(key) or (key == "title" and str(info.get("title", "")).startswith("kick-vod"))):
+                info[key] = e[key]
+        if platform == "kick" and (e.get("is_live") or info.get("is_live")) and (info.get("timestamp") or 0):
+            info["duration"] = int(time.time() - info["timestamp"])      # still recording: length = time since it started
         dur = info.get("duration") or 0
         ts = info.get("timestamp") or 0
         if not dur or not ts:
