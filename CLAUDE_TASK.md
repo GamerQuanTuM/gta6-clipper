@@ -19,13 +19,26 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
    - Otherwise write a `"meta"` object (format below) and set `"status": "ready"`.
 3. Move each processed file from `queue/pending/` to `queue/ready/` with
    `git mv`. Rejected files go there too; the renderer discards them.
-4. **Streamer scouting (≤ 2 searches).** Use WebSearch to check which big
-   creators are streaming GTA 6 tonight (Twitch / Kick). If a very famous one
-   is missing from `config.yaml → streamers`, add them (max 16 total names).
-   Do not remove names.
+4. **Streamer scouting (≤ 2 searches).** Use WebSearch to find big
+   **English-speaking** Twitch/Kick creators who are live or trending right now,
+   from anywhere in the world, not only the US: UK, Ireland, Canada,
+   Australia/NZ, India, South Africa, the Philippines and so on. They should be
+   playing tonight's target game (see `game_phases` in `config.yaml`: GTA 6
+   until 25 Nov, any popular game after). Check the exact channel name from the
+   search result before adding it to `config.yaml → streamers`. Add at most 3
+   per run, 40 names max in total, never remove names. Skip YouTube-only creators
+   (cloud downloads are blocked) and non-English channels (the finder drops
+   non-English clips anyway).
 5. Commit with message `claude: metadata for N clips` and push to `main`.
    If the push is rejected, run `git pull --rebase` and push again. Pushing
    files into `queue/ready/` starts the render workflow automatically.
+
+## Which game?
+
+Each candidate has a `game` field. Name that game in the hook/title/tags. Never
+call a clip "GTA 6" unless its `game` says so. The target game changes by date
+(`game_phases` in `config.yaml`). The user can also ask Claude in chat to
+switch games, and it edits that file.
 
 ## The `meta` object
 
@@ -47,12 +60,13 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
   or show stakes: "HE DID NOT SEE THAT COMING", "CHAT WARNED HIM 3 TIMES",
   "GTA 6 PHYSICS ARE INSANE". It must be **true to what happens** in the
   transcript. No fake claims.
-- **title**: ≤ 70 characters. Name the streamer and "GTA 6" in it. 0–1 emoji.
+- **title**: ≤ 70 characters. Name the streamer and the game in it (use the
+  candidate's `game` field; write GTA VI as "GTA 6"). 0–1 emoji.
   End with `#shorts`. Don't repeat the hook word for word.
 - **description**: 2–4 short lines, a question that invites comments,
   then 4–6 hashtags. The renderer adds a credit link to the streamer
   automatically. Keep it.
-- **tags**: 8–15, lowercase, include the streamer's name and GTA 6 variants.
+- **tags**: 8–15, lowercase, include the streamer's name and the game's name and common variants.
 - **priority**: 0–3. Use 3 for genuinely viral moments: big chat spike,
   shocked or funny transcript. Higher priority renders first and gets the
   limited upload slots.

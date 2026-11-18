@@ -19,7 +19,7 @@ from pathlib import Path
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import (QUEUE, STATE, campaign_active, load_config, load_json, log,  # noqa: E402
+from common import (QUEUE, STATE, active_phase, campaign_active, load_config, load_json, log,  # noqa: E402
                     run, save_json, ytdlp_base)
 
 HYPE = re.compile(
@@ -34,7 +34,7 @@ def ytdlp_json(args, timeout=120):
 
 
 def game_match(info, keywords):
-    if os.environ.get("ANY_GAME") == "1":  # test mode
+    if os.environ.get("ANY_GAME") == "1" or not keywords:  # test mode / "any game" phase
         return True
     hay = " ".join([
         info.get("title") or "", info.get("description") or "",
@@ -66,7 +66,7 @@ def recent_broadcasts(platform, user, cfg):
             continue
         if time.time() - (ts + dur) > max_age:
             continue  # ended too long ago
-        if not game_match(info, cfg["game_keywords"]):
+        if not game_match(info, active_phase(cfg)[0]):
             log(f"  {user}: '{(info.get('title') or '')[:60]}' isn't GTA VI, skipping")
             continue
         yield {
@@ -74,6 +74,8 @@ def recent_broadcasts(platform, user, cfg):
             "streamer_name": info.get("uploader") or info.get("channel") or user,
             "vod_id": str(info["id"]), "vod_url": vurl,
             "vod_title": info.get("title") or "", "duration": int(dur),
+            "game": ((info.get("categories") or [""])[0]
+                     or next((c.get("title") for c in reversed(info.get("chapters") or []) if c.get("title")), "")),
             "channel_url": (f"https://www.twitch.tv/{user}" if platform == "twitch"
                             else f"https://kick.com/{user}"),
         }
@@ -188,7 +190,7 @@ def transcribe(audio_path, ss, to, model_name):
     for s in segs:
         for w in s.words or []:
             words.append([round(w.start, 2), round(w.end, 2), w.word.strip()])
-    return words, info.language
+    return words, info.language, info.language_probability
 
 
 def snap_bounds(words, lo, hi, cfg):
@@ -253,7 +255,11 @@ def process_broadcast(b, cfg, progress, workdir):
     cands = []
     for p in peaks:
         lo, hi = p - c["before_moment"], p + c["after_moment"]
-        words, lang = transcribe(audio, max(0, lo - 5), min(secs, hi + 5), c["whisper_model"])
+        words, lang, prob = transcribe(audio, max(0, lo - 5), min(secs, hi + 5), c["whisper_model"])
+        allowed = f.get("allowed_languages")
+        if allowed and lang not in allowed and prob > 0.6:
+            log(f"    skipped a moment: speech is '{lang}', not English")
+            continue
         base = max(0, lo - 5)
         rel = [[w[0] + base, w[1] + base, w[2]] for w in words]  # window-relative
         lo2, hi2 = snap_bounds(rel, lo, hi, cfg)
@@ -267,7 +273,7 @@ def process_broadcast(b, cfg, progress, workdir):
             "id": re.sub(r"[^A-Za-z0-9_-]", "", cid),
             "status": "pending",
             **{k: b[k] for k in ("platform", "streamer", "streamer_name", "channel_url",
-                                 "vod_url", "vod_id", "vod_title")},
+                                 "vod_url", "vod_id", "vod_title", "game")},
             "start": round(start + lo2, 2),
             "end": round(start + hi2, 2),
             "peak": round(start + p, 2),
@@ -289,6 +295,7 @@ def main():
         return
     progress = load_json(STATE / "progress.json", {})
     known = {p.stem for d in ("pending", "ready", "done", "failed") for p in (QUEUE / d).glob("*.json")}
+    log(f"Game phase tonight: {active_phase(cfg)[1] or '?'} {active_phase(cfg)[0] or '(any game)'}")
     test = os.environ.get("TEST_STREAMERS", "").strip()
     if test:
         cfg["streamers"] = {"twitch": [], "kick": []}

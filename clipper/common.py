@@ -79,3 +79,12 @@ def ytdlp_base():
     """Common yt-dlp flags. Impersonation helps with Kick's Cloudflare."""
     return [sys.executable, "-m", "yt_dlp", "--no-warnings", "--no-progress",
             "--socket-timeout", "30", "--retries", "5"]
+
+
+def active_phase(cfg):
+    """(keywords, name) for tonight's game phase. Empty keywords = any game."""
+    today = now_ist().date()
+    for ph in cfg.get("game_phases") or []:
+        if today <= dt.date.fromisoformat(str(ph["until_date_ist"])):
+            return [k.lower() for k in (ph.get("keywords") or [])], ph.get("name", "")
+    return [], "any game"

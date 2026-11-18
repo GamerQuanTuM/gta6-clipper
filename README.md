@@ -23,6 +23,13 @@ Post it from the YouTube app: **+ → Short → upload from device**.
 > but Google locks every upload from an un-audited API project as **private
 > permanently**. Keep it off unless your project passes the YouTube API audit.
 
+## Switching games
+
+`config.yaml → game_phases` sets which game is clipped on which dates. GTA VI
+runs to 25 Nov, then any game the creators play (empty `keywords` = any game).
+To switch to a specific game, edit its `keywords` (e.g. `["minecraft"]`) in the
+GitHub app, or just tell Claude in chat: "clip Fortnite from tomorrow".
+
 ## Changing things
 
 Edit `config.yaml` in the GitHub app (pencil icon):

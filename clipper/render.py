@@ -25,13 +25,27 @@ W, H = 1080, 1920
 
 # ── metadata ────────────────────────────────────────────────────────────────
 
+def game_label(c):
+    g = (c.get("game") or "").strip()
+    if re.search(r"grand theft auto (vi|6)\b", g, re.I) or g.lower() in ("gta vi", "gta 6"):
+        return "GTA 6"
+    return g or "this game"
+
+
 def fallback_meta(c):
     name = c.get("streamer_name") or c["streamer"]
+    game = game_label(c)
+    tag = re.sub(r"[^a-z0-9]", "", game.lower()) or "gaming"
+    tags = [name, c["streamer"], "streamer moments", "gaming", "shorts"]
+    if game != "this game":
+        tags = [game.lower(), f"{game.lower()} funny moments"] + tags
+    if game == "GTA 6":
+        tags += ["gta vi", "grand theft auto 6"]
     return {
         "hook": f"{name.upper()} WAS NOT READY FOR THIS",
-        "title": f"{name} loses it in GTA 6 😭 #gta6 #shorts",
-        "description": f"{name} reacts live in GTA 6 on launch week.\n\n#gta6 #gtavi #shorts #{c['streamer']}",
-        "tags": ["gta 6", "gta vi", "gta 6 funny moments", "grand theft auto 6", c["streamer"], name, "shorts"],
+        "title": f"{name} loses it in {game} \U0001F62D #shorts"[:100],
+        "description": f"{name} reacts live in {game}.\n\n#{tag} #shorts #gaming #{c['streamer']}",
+        "tags": tags,
         "source": "template",
     }
 

@@ -3,18 +3,30 @@
 
 campaign:
   start_date_ist: 2026-11-19   # first night (1 AM IST, 19 Nov)
-  end_date_ist: 2026-11-25     # last night  -> 7 nights total
+  end_date_ist: 2026-12-02     # last night (GTA week + one more week of any game)
   start_hour_ist: 1            # runs only between these hours (IST)
   end_hour_ist: 7
 
-# Only clip streams whose title / category / chapters mention one of these.
-game_keywords: ["grand theft auto vi", "grand theft auto 6", "gta vi", "gta 6", "gta6", "gtavi"]
+# Which game to clip, by date (IST). Empty keywords = ANY game.
+# To switch games, change/add a phase here (or ask Claude in chat to do it).
+game_phases:
+  - name: GTA VI launch week
+    until_date_ist: 2026-11-25
+    keywords: ["grand theft auto vi", "grand theft auto 6", "gta vi", "gta 6", "gta6", "gtavi"]
+  - name: Any game (creators' choice)
+    until_date_ist: 2026-12-02
+    keywords: []
 
 # Streamers to watch. Prefer creators who allow clip channels.
 # Usernames exactly as in the URL (twitch.tv/<name>, kick.com/<name>).
+# English-speaking creators from anywhere (US, Canada, UK, Ireland, Australia, ...).
+# Usernames exactly as in the URL. Unknown names are skipped harmlessly.
+# Claude adds more each night after checking they exist. Twitch/Kick only
+# (YouTube blocks cloud downloads).
 streamers:
-  twitch: [kaicenat, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, jynxzi, timthetatman, shroud]
-  kick: [adinross, xqc, trainwreckstv]
+  twitch: [kaicenat, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
+           pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel]
+  kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth]
 
 finder:
   lookback_minutes: 70        # how much of each stream to scan per run
@@ -23,6 +35,7 @@ finder:
   clips_per_run: 5            # total per hourly run (across all streamers)
   min_score: 2.2              # higher = only bigger reactions
   min_gap_seconds: 120        # keep picked moments this far apart
+  allowed_languages: [en]     # skip clips where the streamer speaks another language
   chat_delay_seconds: 6       # chat reacts ~6s after the moment happens
   use_chat: false             # Twitch chat reader is currently broken; audio spikes only
   min_score_audio_only: 1.8   # threshold when chat isn't used
