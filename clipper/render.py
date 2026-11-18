@@ -276,12 +276,13 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
         ow = min(900.0, max(fw * 5.0, 380.0))        # estimated webcam overlay size in the source
         oh = ow * 0.9
         pad = 48
+        hw = max(120.0, min(ow / 2, cx, 1920 - cx))   # webcam sits against the screen edge: it ends about where the face mirrors
         opts = []                                     # (area removed, crop x, y, w, h): drop the strip holding the webcam
-        if cx + ow / 2 < 0.5 * 1920:
-            xk = min(0.45 * 1920, cx + ow / 2 + pad)
+        if cx + hw < 0.5 * 1920:
+            xk = min(0.45 * 1920, cx + hw + pad)
             opts.append((xk * 1080, xk, 0, 1920 - xk, 1080))
-        if cx - ow / 2 > 0.5 * 1920:
-            xk = max(0.55 * 1920, cx - ow / 2 - pad)
+        if cx - hw > 0.5 * 1920:
+            xk = max(0.55 * 1920, cx - hw - pad)
             opts.append(((1920 - xk) * 1080, 0, 0, xk, 1080))
         if cy + oh / 2 < 0.5 * 1080:
             yk = cy + oh / 2 + pad
@@ -295,7 +296,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
             GH = min(900, int(round(W * gh / gw / 2) * 2))
             game = (gx, gy, gw, gh, GH)
             # facecam crop: the whole webcam overlay, centred on the face
-            cw = ow
+            cw = 2 * hw
             ch = cw * FH / W
             x0 = min(max(cx - cw / 2, 0), 1920 - cw)
             y0 = min(max(cy - ch * 0.5, 0), 1080 - ch)
