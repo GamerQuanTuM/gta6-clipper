@@ -1,0 +1,22 @@
+{
+  "id": "twitch-jynxzi-v2932568279-15902",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2932568279",
+  "vod_id": "v2932568279",
+  "vod_title": "[679/730] 🏖️  FIRST TIME PLAYING GTA 6 🏖️  MY HOME STATE OF FLORIDA 🏖️ 2026-11-18 23:08",
+  "game": "GTA 6",
+  "start": 15870,
+  "end": 15915,
+  "peak": 15902,
+  "score": 3.07,
+  "language": "en",
+  "transcript": "",
+  "words": [],
+  "chat_sample": [],
+  "created_unix": 1795043316,
+  "meta": null
+}
