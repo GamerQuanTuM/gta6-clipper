@@ -10,6 +10,10 @@ on:
         description: "Run even outside campaign hours (testing)"
         type: boolean
         default: false
+      test_streamers:
+        description: "TEST: e.g. twitch:kaicenat,twitch:summit1g (skips GTA check)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -39,6 +43,8 @@ jobs:
       - name: Find moments
         env:
           FORCE_RUN: ${{ inputs.force && '1' || '0' }}
+          TEST_STREAMERS: ${{ inputs.test_streamers }}
+          ANY_GAME: ${{ inputs.test_streamers != '' && '1' || '0' }}
         run: python clipper/find_moments.py
       - name: Save queue
         run: |

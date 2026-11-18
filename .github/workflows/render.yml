@@ -13,6 +13,10 @@ on:
         description: "Run even outside campaign hours (testing)"
         type: boolean
         default: false
+      render_now:
+        description: "TEST: render queued clips immediately with template text"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +43,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           FORCE_RUN: ${{ inputs.force && '1' || '0' }}
+          RENDER_NOW: ${{ inputs.render_now && '1' || '0' }}
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}

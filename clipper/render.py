@@ -221,7 +221,7 @@ def due_items(cfg):
     items = []
     for p in sorted((QUEUE / "ready").glob("*.json")):
         items.append((p, json.loads(p.read_text())))
-    wait = cfg["publish"]["fallback_after_minutes"] * 60
+    wait = 0 if os.environ.get("RENDER_NOW") == "1" else cfg["publish"]["fallback_after_minutes"] * 60
     for p in sorted((QUEUE / "pending").glob("*.json")):
         c = json.loads(p.read_text())
         if time.time() - c.get("created_unix", 0) >= wait:

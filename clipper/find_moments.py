@@ -6,6 +6,7 @@ platforms), transcribe the best moments with faster-whisper, and write each
 candidate to queue/pending/<id>.json for Claude to write hooks/titles.
 """
 import json
+import os
 import re
 import shutil
 import signal
@@ -33,6 +34,8 @@ def ytdlp_json(args, timeout=120):
 
 
 def game_match(info, keywords):
+    if os.environ.get("ANY_GAME") == "1":  # test mode
+        return True
     hay = " ".join([
         info.get("title") or "", info.get("description") or "",
         " ".join(info.get("categories") or []),
@@ -239,6 +242,8 @@ def process_broadcast(b, cfg, progress, workdir):
     else:
         score = az
     thr = f["min_score"] if cz is not None else f.get("min_score_audio_only", 1.8)
+    if os.environ.get("TEST_STREAMERS"):
+        thr = min(thr, 1.0)  # test mode: always produce something
     top = np.sort(score)[::-1][:3]
     log(f"    loudest scores: {[round(float(v), 1) for v in top]} (need {thr})")
     peaks = pick_peaks(score, f["clips_per_streamer"], f["min_gap_seconds"], thr,
@@ -282,6 +287,14 @@ def main():
         return
     progress = load_json(STATE / "progress.json", {})
     known = {p.stem for d in ("pending", "ready", "done", "failed") for p in (QUEUE / d).glob("*.json")}
+    test = os.environ.get("TEST_STREAMERS", "").strip()
+    if test:
+        cfg["streamers"] = {"twitch": [], "kick": []}
+        for item in test.split(","):
+            plat, _, name = item.strip().partition(":")
+            if plat in cfg["streamers"] and name:
+                cfg["streamers"][plat].append(name)
+        log(f"TEST MODE: {cfg['streamers']}")
     all_cands = []
     deadline = time.time() + cfg["finder"].get("run_budget_minutes", 32) * 60
     for platform in ("twitch", "kick"):
@@ -305,7 +318,8 @@ def main():
     keep = all_cands[: cfg["finder"]["clips_per_run"]]
     for x in keep:
         save_json(QUEUE / "pending" / f"{x['id']}.json", x)
-    save_json(STATE / "progress.json", progress)
+    if not test:
+        save_json(STATE / "progress.json", progress)
     log(f"Queued {len(keep)} new moments (found {len(all_cands)}).")
 
 
