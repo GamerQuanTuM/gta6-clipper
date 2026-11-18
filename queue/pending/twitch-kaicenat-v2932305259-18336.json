@@ -1,0 +1,22 @@
+{
+  "id": "twitch-kaicenat-v2932305259-18336",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2932305259",
+  "vod_id": "v2932305259",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-18 18:54",
+  "game": "GTA 6",
+  "start": 18304,
+  "end": 18349,
+  "peak": 18336,
+  "score": 2.12,
+  "language": "en",
+  "transcript": "",
+  "words": [],
+  "chat_sample": [],
+  "created_unix": 1795028071,
+  "meta": null
+}
