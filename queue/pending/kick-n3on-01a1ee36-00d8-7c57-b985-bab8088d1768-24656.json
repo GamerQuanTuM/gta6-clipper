@@ -1,0 +1,53 @@
+{
+  "id": "kick-n3on-01a1ee36-00d8-7c57-b985-bab8088d1768-24656",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "n3on",
+  "streamer_name": "n3on",
+  "channel_url": "https://kick.com/n3on",
+  "vod_url": "https://kick.com/n3on/videos/01a1ee36-00d8-7c57-b985-bab8088d1768#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1ee36-00d8-7c57-b985-bab8088d1768",
+  "vod_title": "PLAYING GTA 6 EARLY",
+  "game": "GTA 6",
+  "start": 24621.52,
+  "end": 24673.12,
+  "peak": 24656,
+  "score": 2.53,
+  "language": "en",
+  "transcript": "SHUT UP! Oh god, holy shit.",
+  "words": [
+    [
+      0.15,
+      0.77,
+      "SHUT"
+    ],
+    [
+      0.77,
+      0.97,
+      "UP!"
+    ],
+    [
+      50.28,
+      50.46,
+      "Oh"
+    ],
+    [
+      50.46,
+      50.58,
+      "god,"
+    ],
+    [
+      50.66,
+      50.82,
+      "holy"
+    ],
+    [
+      50.82,
+      51.3,
+      "shit."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795035348,
+  "meta": null
+}
