@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-8085",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -264,5 +264,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795031446,
-  "meta": null
+  "meta": {
+    "hook": "HE HAS TO BUY A GUN FROM THE STORE",
+    "title": "zackrawrr heads to buy a gun in GTA 6 launch stream #shorts",
+    "description": "zackrawrr scrambles to grab a gun in GTA 6 and heads for the store 🔫\n\nWhat was the first thing you bought in GTA 6? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "zack",
+      "gta 6 gameplay",
+      "gta 6 guns",
+      "gta 6 launch",
+      "streamer moments",
+      "twitch clips",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-7208",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -259,5 +259,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795031450,
-  "meta": null
+  "meta": {
+    "hook": "THEY PUT THAT CAR THERE FOR NO REASON",
+    "title": "zackrawrr reacts to a car dropped in his way in GTA 6 #shorts",
+    "description": "zackrawrr is driving hard in GTA 6 when a car shows up out of nowhere 😳\n\nHave you hit a random car in GTA 6 yet? Tell us below 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "zack",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 driving",
+      "streamer moments",
+      "twitch clips",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

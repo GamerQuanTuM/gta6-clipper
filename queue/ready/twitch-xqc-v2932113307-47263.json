@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2932113307-47263",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -79,5 +79,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795031259,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Pre-gameplay hype talk (\"you have no idea\"); no actual moment shown"
 }
