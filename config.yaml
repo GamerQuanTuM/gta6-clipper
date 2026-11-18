@@ -49,6 +49,7 @@ clip:
   before_moment: 32           # seconds kept before the peak moment
   after_moment: 13            # seconds kept after it
   teaser_seconds: 2.0         # the hook: best moment flashed first
+  facecam_mode: "off"   # off = webcam cut out, gameplay big and centred | split = webcam panel on top
   facecam_ai: true            # Real-ESRGAN upscaling of the webcam (CPU, ~6-7 min per clip)
   facecam_ai_fps: 12          # webcam panel frame rate when AI-upscaled
   facecam_ai_budget_seconds: 420   # per clip; if too slow it falls back to normal upscaling

@@ -331,7 +331,20 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
             log(f"  facecam at ({int(cx)},{int(cy)}); gameplay crop {gw}x{gh} (webcam removed)")
         else:
             face = None                                # webcam in the middle: can't separate it, keep whole frame
-    if game:
+    mode = k.get("facecam_mode", "off")      # "off": webcam removed, gameplay big & centred; "split": webcam panel on top
+    mode = "off" if mode in (False, None, "off") else str(mode)   # YAML turns a bare `off` into False
+    solo = bool(game) and mode == "off"
+    if solo:
+        gx, gy, gw, gh, _ = game
+        nw = min(gw, int(gh * W / 1000) // 2 * 2)        # aim for a ~1080x1000 gameplay picture
+        gx += (gw - nw) // 2 // 2 * 2
+        gw = nw
+        GH = int(round(W * gh / gw / 2) * 2)
+        game = (gx, gy, gw, gh, GH)
+        GT = 330
+        face = None
+        cap_margin, hook_mv, top_mv = max(170, H - (GT + GH + 170)), 70, 90
+    elif game:
         end_y = FT + FH + game[4]
         cap_margin, hook_mv, top_mv = max(170, H - (end_y + 130)), 60, 80
     else:
@@ -343,7 +356,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
         hook_mv, top_mv = 190, 210
     face_vid = None
     global _AI_USED
-    if game and k.get("facecam_ai", True) and _AI_USED < int(k.get("facecam_ai_max_per_run", 2)):
+    if face and game and k.get("facecam_ai", True) and _AI_USED < int(k.get("facecam_ai_max_per_run", 2)):
         try:
             fv = workdir / "face_ai.mp4"
             if ai_facecam(src, [(tz, teaser), (main_start, main_dur)], (cw, ch, x0, y0), fv, k, total):
@@ -374,6 +387,13 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
             f"[b]crop={gw}:{gh}:{gx}:{gy},scale={W}:{GH}:flags=lanczos[gp];"
             f"{fcpart}"
             f"[bg][fc]overlay=0:{FT}[t1];[t1][gp]overlay=0:{FT + FH}"
+        )
+    elif solo:
+        gx, gy, gw, gh, GH = game
+        layout = (
+            f"[cv]split=2[a][b];[a]{bgchain}[bg];"
+            f"[b]crop={gw}:{gh}:{gx}:{gy},scale={W}:{GH}:flags=lanczos[gp];"
+            f"[bg][gp]overlay=0:{GT}"
         )
     else:
         layout = (
