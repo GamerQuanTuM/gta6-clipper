@@ -21,6 +21,7 @@ from common import (QUEUE, ROOT, STATE, campaign_active, load_config, load_json,
                     night_key, run, save_json, ytdlp_base)
 
 W, H = 1080, 1920
+FACE_H = 640   # facecam panel height
 
 
 # ── metadata ────────────────────────────────────────────────────────────────
@@ -188,6 +189,70 @@ def detect_facecam(src, start, dur):
     return xs[m] * 2, ys[m] * 2, ws[m] * 2
 
 
+_AI_USED = 0
+_ORT = None
+
+
+def ai_facecam(src, spans, crop, out_path, k, total):
+    """Upscale the webcam crop with Real-ESRGAN (ONNX, CPU) into a 1080xFH video.
+    spans = [(start, dur), ...] on `src`. Returns True on success; False = use the normal filter."""
+    global _ORT
+    import subprocess
+    import numpy as np
+    import cv2
+    import onnxruntime as ort
+    cw, ch, x0, y0 = crop
+    if _ORT is None:
+        so = ort.SessionOptions()
+        so.intra_op_num_threads = os.cpu_count() or 2
+        _ORT = ort.InferenceSession(str(ROOT / "models" / "realesr-general-x4v3.onnx"), so,
+                                    providers=["CPUExecutionProvider"])
+    dummy = np.zeros((1, 3, ch, cw), np.float32)
+    _ORT.run(None, {"x": dummy})
+    t0 = time.time()
+    for _ in range(2):
+        _ORT.run(None, {"x": dummy})
+    ft = (time.time() - t0) / 2
+    fps = min(int(k.get("facecam_ai_fps", 12)), int(float(k.get("facecam_ai_budget_seconds", 300)) / (ft * total)))
+    if fps < 8:
+        log(f"  AI facecam would be too slow ({ft:.2f}s/frame), using normal upscale")
+        return False
+    log(f"  AI facecam: {ft:.2f}s/frame -> {fps} fps (about {int(ft * total * fps)}s)")
+    norm = "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2"
+    writer = subprocess.Popen(
+        ["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{FACE_H}", "-r", str(fps),
+         "-i", "-", "-c:v", "libx264", "-preset", "veryfast", "-crf", "15", "-pix_fmt", "yuv420p", str(out_path)],
+        stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+    nbytes = cw * ch * 3
+    t_start, limit = time.time(), float(k.get("facecam_ai_budget_seconds", 300)) * 1.6
+    for (st, du) in spans:
+        rd = subprocess.Popen(
+            ["ffmpeg", "-v", "error", "-ss", f"{st:.3f}", "-t", f"{du:.3f}", "-i", str(src), "-vf",
+             f"fps={fps},{norm},crop={cw}:{ch}:{x0}:{y0}", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
+            stdout=subprocess.PIPE, stderr=subprocess.DEVNULL)
+        while True:
+            buf = rd.stdout.read(nbytes)
+            while buf and len(buf) < nbytes:
+                more = rd.stdout.read(nbytes - len(buf))
+                if not more:
+                    break
+                buf += more
+            if len(buf) < nbytes:
+                break
+            if time.time() - t_start > limit:
+                rd.kill(); writer.kill()
+                raise RuntimeError("AI facecam over time budget")
+            x = np.frombuffer(buf, np.uint8).reshape(ch, cw, 3).astype(np.float32).transpose(2, 0, 1)[None] / 255.0
+            y = _ORT.run(None, {"x": x})[0][0].transpose(1, 2, 0)
+            y = (np.clip(y, 0, 1) * 255).astype(np.uint8)
+            y = cv2.resize(y, (W, FACE_H), interpolation=cv2.INTER_AREA)
+            writer.stdin.write(y.tobytes())
+        rd.wait()
+    writer.stdin.close()
+    writer.wait(timeout=120)
+    return writer.returncode == 0 and Path(out_path).exists()
+
+
 def render(c, meta, cfg, src, src_offset, out_path, workdir):
     k = cfg["clip"]
     teaser = float(k["teaser_seconds"])
@@ -204,7 +269,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
                                    "stream=width,height,r_frame_rate", "-of", "csv=p=0", str(src)]).strip())
     except Exception:
         pass
-    FT, FH = 170, 640                      # facecam panel: top y, height (1080 wide)
+    FT, FH = 170, FACE_H                   # facecam panel: top y, height (1080 wide)
     game = None
     if face:
         cx, cy, fw = face
@@ -248,6 +313,16 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
         fg_top = (H - fg_h) // 2
         cap_margin = max(150, H - (fg_top + fg_h) - 230)
         hook_mv, top_mv = 190, 210
+    face_vid = None
+    global _AI_USED
+    if game and k.get("facecam_ai", True) and _AI_USED < int(k.get("facecam_ai_max_per_run", 2)):
+        try:
+            fv = workdir / "face_ai.mp4"
+            if ai_facecam(src, [(tz, teaser), (main_start, main_dur)], (cw, ch, x0, y0), fv, k, total):
+                face_vid = fv
+                _AI_USED += 1
+        except Exception as ex:
+            log(f"  AI facecam failed, using normal upscale: {str(ex)[-200:]}")
     credit = c["channel_url"].replace("https://", "").replace("www.", "")
     ass = workdir / "subs.ass"
     ass.write_text(build_ass(c["words"], meta["hook"], credit, teaser, total, cap_margin, hook_mv, top_mv),
@@ -259,10 +334,17 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
                f"scale={W}:{H},eq=brightness=-0.12")
     if face:
         gx, gy, gw, gh, GH = game
+        if face_vid:
+            fcpart = "[2:v]fps=30,tpad=stop_mode=clone:stop_duration=2,setpts=PTS-STARTPTS[fc];"
+            head = f"[cv]split=2[a][b];"
+        else:
+            fcpart = (f"[c]crop={cw}:{ch}:{x0}:{y0},hqdn3d=3:2.5:4:4,scale={W}:{FH}:flags=lanczos,"
+                      f"unsharp=5:5:0.6[fc];")
+            head = f"[cv]split=3[a][b][c];"
         layout = (
-            f"[cv]split=3[a][b][c];[a]{bgchain}[bg];"
+            f"{head}[a]{bgchain}[bg];"
             f"[b]crop={gw}:{gh}:{gx}:{gy},scale={W}:{GH}:flags=lanczos[gp];"
-            f"[c]crop={cw}:{ch}:{x0}:{y0},hqdn3d=3:2.5:4:4,scale={W}:{FH}:flags=lanczos,unsharp=5:5:0.6[fc];"
+            f"{fcpart}"
             f"[bg][fc]overlay=0:{FT}[t1];[t1][gp]overlay=0:{FT + FH}"
         )
     else:
@@ -282,6 +364,7 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
     run(["ffmpeg", "-v", "error", "-y",
          "-ss", f"{tz:.3f}", "-t", f"{teaser:.3f}", "-i", str(src),
          "-ss", f"{main_start:.3f}", "-t", f"{main_dur:.3f}", "-i", str(src),
+         *(["-i", str(face_vid)] if face_vid else []),
          "-filter_complex", fc,
          "-map", "[v]", "-map", "[aout]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
          "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
