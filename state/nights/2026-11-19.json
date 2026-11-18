@@ -78,5 +78,55 @@
       "source": "claude"
     },
     "duration_s": 53.6
+  },
+  {
+    "id": "twitch-zackrawrr-v2932469290-18113",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "FROM BLACKWATER TO DELIVERING WATER",
+      "title": "zackrawrr realizes he's an errand boy in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr goes from working at Blackwater to delivering water in GTA 6 and he is NOT okay with it 💀\n\nWould you take the errand-boy job? Tell us below 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 49.4
+  },
+  {
+    "id": "twitch-zackrawrr-v2932469290-19201",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "HE WENT THE WRONG WAY AND IT'S OVER",
+      "title": "zackrawrr takes a wrong turn in GTA 6 and panics 😭 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr goes the wrong way in GTA 6 and instantly decides it's over 💀\n\nHave you ever panicked like this in a game? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 44.8
   }
 ]
