@@ -1,0 +1,42 @@
+{
+  "id": "kick-n3on-01a1f56f-c3e8-7321-8b19-f28a2b963bd4-4704",
+  "status": "done",
+  "platform": "kick",
+  "streamer": "n3on",
+  "streamer_name": "n3on",
+  "channel_url": "https://kick.com/n3on",
+  "vod_url": "https://kick.com/n3on/videos/01a1f56f-c3e8-7321-8b19-f28a2b963bd4#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1f56f-c3e8-7321-8b19-f28a2b963bd4",
+  "vod_title": "GTA VI GRIND",
+  "game": "GTA 6",
+  "start": 4671.79,
+  "end": 4717,
+  "peak": 4704,
+  "score": 2.0,
+  "language": "en",
+  "transcript": "Little shiver again brother, I already got my nut on. I feel like I should help them. Oh my god, they're streaming! Yo, they're streaming their car crash! I just found the first ever streamer!",
+  "chat_sample": [],
+  "created_unix": 1795124019,
+  "meta": {
+    "hook": "HE FOUND A STREAMER STREAMING A CRASH",
+    "title": "n3on finds a streamer livestreaming their own crash in GTA 6 #shorts",
+    "description": "🎥 Clip from n3on's live stream: https://kick.com/n3on\n\nn3on can't believe his eyes when he spots someone streaming their own car crash in GTA 6 💀\n\nIs this the first ever in-game streamer? Tell us below 👇\n\n#gta6 #gtavi #n3on #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "n3on",
+      "n3on gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 launch",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  },
+  "duration_s": 47.2,
+  "rendered_unix": 1795126922
+}

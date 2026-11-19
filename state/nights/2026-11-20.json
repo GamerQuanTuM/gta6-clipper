@@ -162,5 +162,89 @@
     },
     "duration_s": 48.0,
     "release": "2026-11-20-06-summit1g"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-6028",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "SOMETHING WANTED A BITE OF HIS LEG",
+      "title": "SteveWillDoIt fights for his life bleeding out in GTA 6 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt is bleeding out and something is coming straight at him in GTA 6 😳\n\nWho else would have panicked here? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "stevewilldoit gta 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "grand theft auto 6",
+        "gta 6 marathon",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 47.2,
+    "release": "2026-11-20-07-stevewilldoit--6028"
+  },
+  {
+    "id": "kick-n3on-01a1f56f-c3e8-7321-8b19-f28a2b963bd4-4704",
+    "streamer": "n3on",
+    "streamer_name": "n3on",
+    "channel_url": "https://kick.com/n3on",
+    "meta": {
+      "hook": "HE FOUND A STREAMER STREAMING A CRASH",
+      "title": "n3on finds a streamer livestreaming their own crash in GTA 6 #shorts",
+      "description": "🎥 Clip from n3on's live stream: https://kick.com/n3on\n\nn3on can't believe his eyes when he spots someone streaming their own car crash in GTA 6 💀\n\nIs this the first ever in-game streamer? Tell us below 👇\n\n#gta6 #gtavi #n3on #kick #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "n3on",
+        "n3on gta 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 launch",
+        "streamer moments",
+        "kick streamer",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 47.2,
+    "release": "2026-11-20-08-n3on--4704"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-5257",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "CAN HE LOSE THE COPS IN THE WATER",
+      "title": "SteveWillDoIt tries to lose the cops in the water, GTA 6 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteve's plan to lose the cops in GTA 6: hop in the Phoenix and hit the water 🌊 \"I can't drive,\" he admits.\n\nWould this work for you? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "stevewilldoit gta 6",
+        "gta 6 police chase",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 marathon",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-20-09-stevewilldoit--5257"
   }
 ]
