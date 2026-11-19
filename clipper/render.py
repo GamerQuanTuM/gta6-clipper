@@ -465,8 +465,8 @@ def publish_clip(night, n, c, mp4, txt):
     return tag
 
 
-def silent_spots(mp4, seconds=8):
-    """Quarter-second windows in the first few seconds that are digitally silent."""
+def silent_spots(mp4, seconds=8, db=-55):
+    """Quarter-second windows in the first few seconds that are silent (below db)."""
     import subprocess
     import numpy as np
     raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(mp4), "-t", str(seconds), "-vn", "-ac", "1",
@@ -474,7 +474,7 @@ def silent_spots(mp4, seconds=8):
     a = np.frombuffer(raw, np.float32)
     out = []
     for i in range(0, len(a) - 4000, 4000):
-        if 20 * np.log10(np.sqrt(np.mean(a[i:i + 4000] ** 2)) + 1e-9) < -55:
+        if 20 * np.log10(np.sqrt(np.mean(a[i:i + 4000] ** 2)) + 1e-9) < db:
             out.append(round(i / 16000, 2))
     return out
 
@@ -552,9 +552,16 @@ def main():
             out_dir.mkdir(exist_ok=True)
             mp4 = out_dir / f"{c['id']}.mp4"
             dur = render(c, meta, cfg, src, off, mp4, workdir)
+            muted = silent_spots(mp4, seconds=120, db=-90)   # pure digital silence = Twitch muted it
+            if len(muted) >= 8:
+                log(f"  {c['id']}: {len(muted) / 4:.1f}s of muted audio (Twitch copyright mute?), not publishing")
+                c.update(status="rejected", reject_reason="audio muted in the source stream")
+                save_json(QUEUE / "failed" / path.name, {k: v for k, v in c.items() if k != "words"})
+                path.unlink()
+                continue
             quiet = silent_spots(mp4)
             if quiet:
-                log(f"  warning: silent audio at {quiet} s")
+                log(f"  note: quiet audio at {quiet} s")
             txt = out_dir / f"{c['id']}.txt"
             txt.write_text(f"TITLE:\n{meta['title']}\n\nDESCRIPTION:\n{meta['description']}\n\nTAGS:\n"
                            f"{', '.join(meta['tags'])}\n", encoding="utf-8")
