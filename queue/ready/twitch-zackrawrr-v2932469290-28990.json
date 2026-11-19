@@ -1,6 +1,6 @@
 {
  "id": "twitch-zackrawrr-v2932469290-28990",
- "status": "pending",
+ "status": "ready",
  "platform": "twitch",
  "streamer": "zackrawrr",
  "streamer_name": "zackrawrr",
@@ -339,5 +339,22 @@
  ],
  "chat_sample": [],
  "created_unix": 1795112299,
- "meta": null
+ "meta": {
+  "hook": "SEE THE GORE SYSTEM",
+  "title": "zackrawrr tests the GTA 6 gore system on a whole crew \ud83d\udc80 #shorts",
+  "description": "zackrawrr takes out a whole group and shows off the GTA 6 gore system \ud83d\udc80\n\nIs the gore system too much or just right? \ud83d\udc47\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "zackrawrr",
+   "zack rawrr",
+   "gta 6 gore",
+   "gta 6 gameplay",
+   "grand theft auto 6",
+   "streamer moments",
+   "shorts"
+  ],
+  "priority": 2,
+  "source": "claude"
+ }
 }

@@ -1,6 +1,6 @@
 {
  "id": "twitch-timthetatman-v2932346119-37239",
- "status": "pending",
+ "status": "ready",
  "platform": "twitch",
  "streamer": "timthetatman",
  "streamer_name": "TimTheTatman",
@@ -139,5 +139,22 @@
  ],
  "chat_sample": [],
  "created_unix": 1795112299,
- "meta": null
+ "meta": {
+  "hook": "HOW MANY STAIRS IS THIS",
+  "title": "TimTheTatman walks down endless stairs in GTA 6 \ud83d\ude2d #shorts",
+  "description": "TimTheTatman loses count of the stairs in GTA 6 \ud83d\udc80\n\nHow deep did your first GTA 6 descent go? \ud83d\udc47\n\n#gta6 #gtavi #timthetatman #gaming #shorts",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "timthetatman",
+   "tim the tatman",
+   "gta 6 funny moments",
+   "gta 6 gameplay",
+   "grand theft auto 6",
+   "streamer moments",
+   "shorts"
+  ],
+  "priority": 1,
+  "source": "claude"
+ }
 }

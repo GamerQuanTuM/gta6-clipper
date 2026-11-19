@@ -1,6 +1,6 @@
 {
  "id": "twitch-zackrawrr-v2932469290-28145",
- "status": "pending",
+ "status": "ready",
  "platform": "twitch",
  "streamer": "zackrawrr",
  "streamer_name": "zackrawrr",
@@ -609,5 +609,22 @@
  ],
  "chat_sample": [],
  "created_unix": 1795112299,
- "meta": null
+ "meta": {
+  "hook": "THE AIRPLANE WIZARD STRIKES",
+  "title": "zackrawrr is the airplane wizard in GTA 6 \u2708\ufe0f #gta6 #shorts",
+  "description": "zackrawrr takes to the sky in GTA 6 and claims the title of airplane wizard \u2708\ufe0f\n\nCan you fly better? \ud83d\udc47\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "zackrawrr",
+   "zack rawrr",
+   "gta 6 plane",
+   "gta 6 gameplay",
+   "grand theft auto 6",
+   "streamer moments",
+   "shorts"
+  ],
+  "priority": 1,
+  "source": "claude"
+ }
 }

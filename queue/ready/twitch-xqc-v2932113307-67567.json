@@ -1,13 +1,13 @@
 {
  "id": "twitch-xqc-v2932113307-67567",
- "status": "pending",
+ "status": "ready",
  "platform": "twitch",
  "streamer": "xqc",
  "streamer_name": "xQc",
  "channel_url": "https://www.twitch.tv/xqc",
  "vod_url": "https://www.twitch.tv/videos/2932113307",
  "vod_id": "v2932113307",
- "vod_title": "🌴LIVE🌴GTA 6🌴 AT 6AM EST🌴STUFF BEFORE🌴ALERT🌴NOT A DRILL🌴NZ FLIGHT TAKEN🌴LIVE🌴QUICK🌴DONT MISS IT🌴ONESHOTTING THE GAME?🌴 2026-11-19 01:21",
+ "vod_title": "\ud83c\udf34LIVE\ud83c\udf34GTA 6\ud83c\udf34 AT 6AM EST\ud83c\udf34STUFF BEFORE\ud83c\udf34ALERT\ud83c\udf34NOT A DRILL\ud83c\udf34NZ FLIGHT TAKEN\ud83c\udf34LIVE\ud83c\udf34QUICK\ud83c\udf34DONT MISS IT\ud83c\udf34ONESHOTTING THE GAME?\ud83c\udf34 2026-11-19 01:21",
  "game": "GTA 6",
  "start": 67533.42,
  "end": 67577.67,
@@ -84,5 +84,22 @@
  ],
  "chat_sample": [],
  "created_unix": 1795112299,
- "meta": null
+ "meta": {
+  "hook": "XQC JUST SENDS IT",
+  "title": "xQc just sends it in GTA 6 launch stream #gta6 #shorts",
+  "description": "xQc goes all in during his GTA 6 launch stream \ud83d\udd25\n\nWould you have sent it too? \ud83d\udc47\n\n#gta6 #gtavi #xqc #gaming #shorts",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "xqc",
+   "gta 6 xqc",
+   "gta 6 gameplay",
+   "grand theft auto 6",
+   "streamer moments",
+   "gta 6 launch",
+   "shorts"
+  ],
+  "priority": 1,
+  "source": "claude"
+ }
 }
