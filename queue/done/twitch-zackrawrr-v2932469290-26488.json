@@ -1,0 +1,42 @@
+{
+  "id": "twitch-zackrawrr-v2932469290-26488",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2932469290",
+  "vod_id": "v2932469290",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247 2026-11-19 00:11",
+  "game": "GTA 6",
+  "start": 26456.61,
+  "end": 26499.14,
+  "peak": 26488,
+  "score": 2.47,
+  "language": "en",
+  "transcript": "Oh my god, steal it? You think so? My car is going up my car it's driving sideways It's driving sideways bro like oh that's why cuz of my wheel You see my wheel isn't working That's the reason why You see what I'm saying?",
+  "chat_sample": [],
+  "created_unix": 1795047082,
+  "meta": {
+    "hook": "HIS CAR IS DRIVING SIDEWAYS",
+    "title": "zackrawrr's GTA 6 car drives sideways and he blames the wheel #shorts",
+    "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr's car in GTA 6 starts driving sideways and he has a theory why 😭\n\nWhat's the funniest GTA 6 glitch you've seen so far? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 glitch",
+      "gta 6 driving",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  },
+  "duration_s": 44.5,
+  "rendered_unix": 1795050559
+}
