@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-26488",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -244,5 +244,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795047082,
-  "meta": null
+  "meta": {
+    "hook": "HIS CAR IS DRIVING SIDEWAYS",
+    "title": "zackrawrr's GTA 6 car drives sideways and he blames the wheel #shorts",
+    "description": "zackrawrr's car in GTA 6 starts driving sideways and he has a theory why 😭\n\nWhat's the funniest GTA 6 glitch you've seen so far? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 glitch",
+      "gta 6 driving",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

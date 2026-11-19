@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2932641914-14469",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -304,5 +304,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795047289,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Just picking car paint colors; no real moment or stakes."
 }

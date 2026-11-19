@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2932469290-24894",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -594,5 +594,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795047092,
-  "meta": null
+  "meta": {
+    "hook": "HE HIT THE WRONG BUTTON",
+    "title": "zackrawrr hits the wrong button in GTA 6 and denies it #shorts",
+    "description": "zackrawrr messes up in GTA 6 and tries to pretend it never happened 😅\n\nHave you ever hit the wrong button at the worst time? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 fail",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2932568279-19714",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -194,5 +194,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795046889,
-  "meta": null
+  "meta": {
+    "hook": "HE GOT ROAD RAGED IN GTA 6",
+    "title": "Jynxzi gets rear-ended and road raged in GTA 6 😭 #shorts",
+    "description": "Jynxzi's first drive through Florida in GTA 6 turns into instant road rage 💀\n\nDoes anybody actually drive well in this game? 👇\n\n#gta6 #gtavi #jynxzi #roadrage #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 road rage",
+      "gta 6 gameplay",
+      "gta 6 cops",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "source": "claude"
+  }
 }
