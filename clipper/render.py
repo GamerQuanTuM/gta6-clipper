@@ -139,8 +139,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 # ── video ───────────────────────────────────────────────────────────────────
 
 def download_segment(c, workdir):
-    a = max(0.0, c["start"] - 1.0)
-    b = c["end"] + 1.0
+    # extra lead-in: the first ~2 s of a downloaded HLS section can come out without audio
+    a = max(0.0, c["start"] - 6.0)
+    b = c["end"] + 3.0
     out = workdir / "src.%(ext)s"
     run([*ytdlp_base(), "-f", "b[height<=1080][height>=480]/bv*[height<=1080]+ba/b", "-S", "res:1080,fps",
          "--download-sections", f"*{a:.2f}-{b:.2f}", "--force-keyframes-at-cuts",
@@ -464,6 +465,20 @@ def publish_clip(night, n, c, mp4, txt):
     return tag
 
 
+def silent_spots(mp4, seconds=8):
+    """Quarter-second windows in the first few seconds that are digitally silent."""
+    import subprocess
+    import numpy as np
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(mp4), "-t", str(seconds), "-vn", "-ac", "1",
+                          "-ar", "16000", "-f", "f32le", "-"], capture_output=True).stdout
+    a = np.frombuffer(raw, np.float32)
+    out = []
+    for i in range(0, len(a) - 4000, 4000):
+        if 20 * np.log10(np.sqrt(np.mean(a[i:i + 4000] ** 2)) + 1e-9) < -55:
+            out.append(round(i / 16000, 2))
+    return out
+
+
 def subprocess_ok(cmd):
     import subprocess
     return subprocess.run(cmd, capture_output=True).returncode == 0
@@ -504,6 +519,11 @@ def main():
     cap = cfg["finder"].get("max_clips_per_night") or 999
     min_words = cfg["finder"].get("min_words", 0)
     for path, c in items:
+        if c.get("night", night) != night:      # re-render of an earlier night's clip
+            save_json(night_file, night_items)
+            night = c["night"]
+            night_file = STATE / "nights" / f"{night}.json"
+            night_items = load_json(night_file, [])
         if c.get("status") == "rejected":
             shutil.move(str(path), QUEUE / "failed" / path.name)
             continue
@@ -524,10 +544,17 @@ def main():
             meta = finalize_meta(c, c.get("meta") or fallback_meta(c))
             log(f"Rendering {c['id']}  ->  {meta['title']}")
             src, off = download_segment(c, workdir)
+            if not c.get("words"):          # re-render: captions weren't kept, transcribe again
+                from find_moments import transcribe
+                ms = c["start"] - off
+                c["words"], _, _ = transcribe(src, ms, ms + c["end"] - c["start"], cfg["clip"]["whisper_model"])
             out_dir = ROOT / "out"
             out_dir.mkdir(exist_ok=True)
             mp4 = out_dir / f"{c['id']}.mp4"
             dur = render(c, meta, cfg, src, off, mp4, workdir)
+            quiet = silent_spots(mp4)
+            if quiet:
+                log(f"  warning: silent audio at {quiet} s")
             txt = out_dir / f"{c['id']}.txt"
             txt.write_text(f"TITLE:\n{meta['title']}\n\nDESCRIPTION:\n{meta['description']}\n\nTAGS:\n"
                            f"{', '.join(meta['tags'])}\n", encoding="utf-8")

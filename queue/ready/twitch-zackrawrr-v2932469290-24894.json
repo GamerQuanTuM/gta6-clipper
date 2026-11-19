@@ -1,0 +1,43 @@
+{
+ "id": "twitch-zackrawrr-v2932469290-24894",
+ "status": "ready",
+ "platform": "twitch",
+ "streamer": "zackrawrr",
+ "streamer_name": "zackrawrr",
+ "channel_url": "https://www.twitch.tv/zackrawrr",
+ "vod_url": "https://www.twitch.tv/videos/2932469290",
+ "vod_id": "v2932469290",
+ "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247 2026-11-19 00:11",
+ "game": "GTA 6",
+ "start": 24859.07,
+ "end": 24904.4,
+ "peak": 24894,
+ "score": 2.17,
+ "language": "en",
+ "transcript": "I hit the wrong button. I hit the wrong button. I hit the wrong button. Like that I don't want to talk about it bro. Like my brain just did something that it wasn't supposed to. We're gonna pretend like that didn't happen. Okay, alright, alright. We're gonna go back. That was the wrong button. You know why I hit the wrong button is because that guy told me. He told me earlier he's like, you gotta hit Y. To go forward. And I was like, oh that's right. That's where it was. And then I ended up fucking my shit up. Damn. Look at that view. Wow. It's not bad, huh? Looks nice. So,",
+ "chat_sample": [],
+ "created_unix": 1795047092,
+ "meta": {
+  "hook": "HE HIT THE WRONG BUTTON",
+  "title": "zackrawrr hits the wrong button in GTA 6 and denies it #shorts",
+  "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr messes up in GTA 6 and tries to pretend it never happened 😅\n\nHave you ever hit the wrong button at the worst time? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "zackrawrr",
+   "zack rawrr",
+   "grand theft auto 6",
+   "gta 6 funny moments",
+   "gta 6 gameplay",
+   "gta 6 fail",
+   "streamer moments",
+   "shorts"
+  ],
+  "priority": 1,
+  "source": "claude"
+ },
+ "duration_s": 47.3,
+ "rendered_unix": 1795050613,
+ "night": "2026-11-19",
+ "attempts": 0
+}

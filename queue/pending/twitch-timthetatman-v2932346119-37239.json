@@ -1,143 +1,143 @@
 {
-  "id": "twitch-timthetatman-v2932346119-37239",
-  "status": "pending",
-  "platform": "twitch",
-  "streamer": "timthetatman",
-  "streamer_name": "TimTheTatman",
-  "channel_url": "https://www.twitch.tv/timthetatman",
-  "vod_url": "https://www.twitch.tv/videos/2932346119",
-  "vod_id": "v2932346119",
-  "vod_title": "KEY DROPS ON - GTA 6 IS FINALLY HERE",
-  "game": "GTA 6",
-  "start": 37203.95,
-  "end": 37252,
-  "peak": 37239,
-  "score": 2.03,
-  "language": "en",
-  "transcript": "How people big is this? I mean it's what four levels how many fucking stairs did I just walk down? Good old fashioned code",
-  "words": [
-    [
-      0.15,
-      0.99,
-      "How"
-    ],
-    [
-      0.99,
-      1.43,
-      "people"
-    ],
-    [
-      1.43,
-      1.71,
-      "big"
-    ],
-    [
-      1.71,
-      2.01,
-      "is"
-    ],
-    [
-      2.01,
-      2.19,
-      "this?"
-    ],
-    [
-      2.47,
-      2.47,
-      "I"
-    ],
-    [
-      2.47,
-      5.49,
-      "mean"
-    ],
-    [
-      6.83,
-      7.35,
-      "it's"
-    ],
-    [
-      7.35,
-      7.47,
-      "what"
-    ],
-    [
-      7.47,
-      7.79,
-      "four"
-    ],
-    [
-      7.79,
-      8.15,
-      "levels"
-    ],
-    [
-      8.15,
-      8.37,
-      "how"
-    ],
-    [
-      8.37,
-      8.49,
-      "many"
-    ],
-    [
-      8.49,
-      8.83,
-      "fucking"
-    ],
-    [
-      8.83,
-      9.17,
-      "stairs"
-    ],
-    [
-      9.17,
-      9.33,
-      "did"
-    ],
-    [
-      9.33,
-      9.43,
-      "I"
-    ],
-    [
-      9.43,
-      9.55,
-      "just"
-    ],
-    [
-      9.55,
-      9.73,
-      "walk"
-    ],
-    [
-      9.73,
-      10.33,
-      "down?"
-    ],
-    [
-      29.7,
-      30.04,
-      "Good"
-    ],
-    [
-      30.04,
-      30.72,
-      "old"
-    ],
-    [
-      30.72,
-      31.06,
-      "fashioned"
-    ],
-    [
-      31.06,
-      31.62,
-      "code"
-    ]
+ "id": "twitch-timthetatman-v2932346119-37239",
+ "status": "pending",
+ "platform": "twitch",
+ "streamer": "timthetatman",
+ "streamer_name": "TimTheTatman",
+ "channel_url": "https://www.twitch.tv/timthetatman",
+ "vod_url": "https://www.twitch.tv/videos/2932346119",
+ "vod_id": "v2932346119",
+ "vod_title": "KEY DROPS ON - GTA 6 IS FINALLY HERE",
+ "game": "GTA 6",
+ "start": 37203.95,
+ "end": 37252,
+ "peak": 37239,
+ "score": 2.03,
+ "language": "en",
+ "transcript": "How people big is this? I mean it's what four levels how many fucking stairs did I just walk down? Good old fashioned code",
+ "words": [
+  [
+   0.15,
+   0.99,
+   "How"
   ],
-  "chat_sample": [],
-  "created_unix": 1795051388,
-  "meta": null
+  [
+   0.99,
+   1.43,
+   "people"
+  ],
+  [
+   1.43,
+   1.71,
+   "big"
+  ],
+  [
+   1.71,
+   2.01,
+   "is"
+  ],
+  [
+   2.01,
+   2.19,
+   "this?"
+  ],
+  [
+   2.47,
+   2.47,
+   "I"
+  ],
+  [
+   2.47,
+   5.49,
+   "mean"
+  ],
+  [
+   6.83,
+   7.35,
+   "it's"
+  ],
+  [
+   7.35,
+   7.47,
+   "what"
+  ],
+  [
+   7.47,
+   7.79,
+   "four"
+  ],
+  [
+   7.79,
+   8.15,
+   "levels"
+  ],
+  [
+   8.15,
+   8.37,
+   "how"
+  ],
+  [
+   8.37,
+   8.49,
+   "many"
+  ],
+  [
+   8.49,
+   8.83,
+   "fucking"
+  ],
+  [
+   8.83,
+   9.17,
+   "stairs"
+  ],
+  [
+   9.17,
+   9.33,
+   "did"
+  ],
+  [
+   9.33,
+   9.43,
+   "I"
+  ],
+  [
+   9.43,
+   9.55,
+   "just"
+  ],
+  [
+   9.55,
+   9.73,
+   "walk"
+  ],
+  [
+   9.73,
+   10.33,
+   "down?"
+  ],
+  [
+   29.7,
+   30.04,
+   "Good"
+  ],
+  [
+   30.04,
+   30.72,
+   "old"
+  ],
+  [
+   30.72,
+   31.06,
+   "fashioned"
+  ],
+  [
+   31.06,
+   31.62,
+   "code"
+  ]
+ ],
+ "chat_sample": [],
+ "created_unix": 1795112299,
+ "meta": null
 }

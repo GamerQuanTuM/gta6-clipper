@@ -1,0 +1,42 @@
+{
+ "id": "twitch-zackrawrr-v2932469290-19201",
+ "status": "ready",
+ "platform": "twitch",
+ "streamer": "zackrawrr",
+ "streamer_name": "zackrawrr",
+ "channel_url": "https://www.twitch.tv/zackrawrr",
+ "vod_url": "https://www.twitch.tv/videos/2932469290",
+ "vod_id": "v2932469290",
+ "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247 2026-11-18 22:13",
+ "game": "GTA 6",
+ "start": 19169.21,
+ "end": 19212.05,
+ "peak": 19201,
+ "score": 2.34,
+ "language": "en",
+ "transcript": "Oh my god. Shit, I went the wrong way. I have to go, I have to turn around. I'm trying to turn around. I'm trying to... Dude, what the fuck? Hey, hey! No. Oh, it's so over. It's actually so over, bro. Like, it's so over.",
+ "chat_sample": [],
+ "created_unix": 1795040060,
+ "meta": {
+  "hook": "HE WENT THE WRONG WAY AND IT'S OVER",
+  "title": "zackrawrr takes a wrong turn in GTA 6 and panics 😭 #shorts",
+  "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr goes the wrong way in GTA 6 and instantly decides it's over 💀\n\nHave you ever panicked like this in a game? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+  "tags": [
+   "gta 6",
+   "gta vi",
+   "zackrawrr",
+   "gta 6 funny moments",
+   "gta 6 gameplay",
+   "grand theft auto 6",
+   "gta 6 reaction",
+   "streamer moments",
+   "shorts"
+  ],
+  "priority": 2,
+  "source": "claude"
+ },
+ "duration_s": 44.8,
+ "rendered_unix": 1795044188,
+ "night": "2026-11-19",
+ "attempts": 0
+}
