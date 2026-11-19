@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2932641914-9732",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -619,5 +619,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795043845,
-  "meta": null
+  "meta": {
+    "hook": "THEY THOUGHT GTA 6 WAS ANTI WOKE",
+    "title": "Hasan says GTA 6 was never on their side 😂 #shorts",
+    "description": "Hasan on Rockstar's take: this franchise has always poked fun at the people who thought the game was on their side.\n\nIs GTA 6 satire or just a game? Tell us 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 reaction",
+      "gta 6 satire",
+      "rockstar games",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

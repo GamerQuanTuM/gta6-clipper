@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2932628507-8034",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -784,5 +784,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795043816,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Off-topic small talk about camera crew and gear; nothing happening in the game."
 }

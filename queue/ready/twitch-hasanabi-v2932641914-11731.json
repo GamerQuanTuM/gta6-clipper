@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2932641914-11731",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -484,5 +484,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795043851,
-  "meta": null
+  "meta": {
+    "hook": "GTA 6 HAS A BOXING BAG WORKOUT",
+    "title": "Hasan finds the GTA 6 boxing bag cardio workout 😭 #shorts",
+    "description": "Hasan hits the hanging bag in GTA 6 and chat jokes about running out of stamina 💀\n\nWould you actually work out in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 gym",
+      "gta 6 boxing bag",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

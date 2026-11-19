@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2932628507-9484",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -369,5 +369,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795043807,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Casual chat with event staff; no game moment or reaction."
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2932568279-15902",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -18,5 +18,6 @@
   "words": [],
   "chat_sample": [],
   "created_unix": 1795043316,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Empty transcript: no speech detected, likely game audio/cutscene or dead air; nothing to verify a hook against."
 }
