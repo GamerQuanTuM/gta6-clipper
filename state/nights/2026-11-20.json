@@ -246,5 +246,86 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-20-09-stevewilldoit--5257"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-6841",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "SO MANY COPS IN GTA 6",
+      "title": "Stevewilldoit gets swarmed by cops in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nStevewilldoit spots the cops closing in and tries to bail in GTA 6 🚓\n\nHave you survived a police chase in this game yet? 👇\n\n#gta6 #gtavi #stevewilldoit #gta6cops #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "steve will do it",
+        "grand theft auto 6",
+        "gta 6 cops",
+        "gta 6 police chase",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 47.2,
+    "release": "2026-11-20-10-stevewilldoit"
+  },
+  {
+    "id": "twitch-jynxzi-v2933861646-17315",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "I'M OUT I'M OUT I'M OUT",
+      "title": "Jynxzi bails fast after a wild moment in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi grabs the cash and gets out of there in GTA 6, then something weird happens 💀\n\nWhat would you have done? 👇\n\n#gta6 #gtavi #jynxzi #gta6funny #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "gta 6 florida",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 50.3,
+    "release": "2026-11-20-11-jynxzi"
+  },
+  {
+    "id": "twitch-zackrawrr-v2933941381-12813",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "10 HOURS OF GTA 6 AND HE DIDN'T NOTICE",
+      "title": "Zackrawrr played GTA 6 for 10 hours straight 💀 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nZackrawrr jumps back into GTA 6 after a 10 hour session and heads home in-game 😭\n\nHow many hours have you put in so far? 👇\n\n#gta6 #gtavi #zackrawrr #gta6gameplay #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack rawrr",
+        "grand theft auto 6",
+        "gta 6 gameplay",
+        "gta 6 funny moments",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 49.2,
+    "release": "2026-11-20-12-zackrawrr"
   }
 ]

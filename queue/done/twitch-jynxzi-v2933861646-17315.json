@@ -1,0 +1,41 @@
+{
+  "id": "twitch-jynxzi-v2933861646-17315",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2933861646",
+  "vod_id": "v2933861646",
+  "vod_title": "[679/730] 🏖️  FIRST TIME PLAYING GTA 6 🏖️  MY HOME STATE OF FLORIDA 🏖️ 2026-11-19 22:11",
+  "game": "GTA 6",
+  "start": 17279.66,
+  "end": 17328,
+  "peak": 17315,
+  "score": 2.37,
+  "language": "en",
+  "transcript": "Oh, yeah, big money, big money, big money. Give me all this shit on YouTube. I'm out, I'm out, I'm out, I'm out. What the? Why did she just singling?",
+  "chat_sample": [],
+  "created_unix": 1795126271,
+  "meta": {
+    "hook": "I'M OUT I'M OUT I'M OUT",
+    "title": "Jynxzi bails fast after a wild moment in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi grabs the cash and gets out of there in GTA 6, then something weird happens 💀\n\nWhat would you have done? 👇\n\n#gta6 #gtavi #jynxzi #gta6funny #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "gta 6 florida",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  },
+  "duration_s": 50.3,
+  "rendered_unix": 1795129875
+}
