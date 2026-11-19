@@ -1,0 +1,198 @@
+{
+  "id": "twitch-jynxzi-v2932568279-19714",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2932568279",
+  "vod_id": "v2932568279",
+  "vod_title": "[679/730] 🏖️  FIRST TIME PLAYING GTA 6 🏖️  MY HOME STATE OF FLORIDA 🏖️ 2026-11-19 00:07",
+  "game": "GTA 6",
+  "start": 19680.96,
+  "end": 19727,
+  "peak": 19714,
+  "score": 2.92,
+  "language": "en",
+  "transcript": "We got that cop blind Crap, I'm sorry Yo, what I just got fucking rear -ended Roast up this road rage me. Oh my god Does anybody know how to drive in this town? Jesus",
+  "words": [
+    [
+      0.15,
+      0.63,
+      "We"
+    ],
+    [
+      0.63,
+      1.07,
+      "got"
+    ],
+    [
+      1.07,
+      1.21,
+      "that"
+    ],
+    [
+      1.21,
+      1.49,
+      "cop"
+    ],
+    [
+      1.49,
+      2.07,
+      "blind"
+    ],
+    [
+      7.96,
+      8.44,
+      "Crap,"
+    ],
+    [
+      8.48,
+      8.66,
+      "I'm"
+    ],
+    [
+      8.66,
+      9.02,
+      "sorry"
+    ],
+    [
+      14.94,
+      15.42,
+      "Yo,"
+    ],
+    [
+      15.5,
+      15.82,
+      "what"
+    ],
+    [
+      15.82,
+      16.02,
+      "I"
+    ],
+    [
+      16.02,
+      16.18,
+      "just"
+    ],
+    [
+      16.18,
+      16.32,
+      "got"
+    ],
+    [
+      16.32,
+      16.72,
+      "fucking"
+    ],
+    [
+      16.72,
+      17.06,
+      "rear"
+    ],
+    [
+      17.06,
+      17.4,
+      "-ended"
+    ],
+    [
+      19.6,
+      20.08,
+      "Roast"
+    ],
+    [
+      20.08,
+      20.56,
+      "up"
+    ],
+    [
+      20.56,
+      21.06,
+      "this"
+    ],
+    [
+      27.01,
+      27.45,
+      "road"
+    ],
+    [
+      27.45,
+      27.79,
+      "rage"
+    ],
+    [
+      27.79,
+      28.03,
+      "me."
+    ],
+    [
+      28.33,
+      28.81,
+      "Oh"
+    ],
+    [
+      32.17,
+      32.41,
+      "my"
+    ],
+    [
+      32.41,
+      32.85,
+      "god"
+    ],
+    [
+      32.85,
+      33.55,
+      "Does"
+    ],
+    [
+      33.55,
+      33.77,
+      "anybody"
+    ],
+    [
+      33.77,
+      33.97,
+      "know"
+    ],
+    [
+      33.97,
+      34.07,
+      "how"
+    ],
+    [
+      34.07,
+      34.15,
+      "to"
+    ],
+    [
+      34.15,
+      34.45,
+      "drive"
+    ],
+    [
+      34.45,
+      34.63,
+      "in"
+    ],
+    [
+      34.63,
+      34.77,
+      "this"
+    ],
+    [
+      34.77,
+      35.27,
+      "town?"
+    ],
+    [
+      35.35,
+      35.83,
+      "Jesus"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795046889,
+  "meta": null
+}
