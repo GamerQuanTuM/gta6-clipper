@@ -142,7 +142,7 @@ def download_segment(c, workdir):
     a = max(0.0, c["start"] - 1.0)
     b = c["end"] + 1.0
     out = workdir / "src.%(ext)s"
-    run([*ytdlp_base(), "-f", "b[height<=1080][height>=480]/bv*[height<=1080]+ba/b",
+    run([*ytdlp_base(), "-f", "b[height<=1080][height>=480]/bv*[height<=1080]+ba/b", "-S", "res:1080,fps",
          "--download-sections", f"*{a:.2f}-{b:.2f}", "--force-keyframes-at-cuts",
          "--merge-output-format", "mp4", "-o", str(out), c["vod_url"]], timeout=1200)
     files = [p for p in workdir.glob("src.*") if not p.name.endswith(".part")]
@@ -370,13 +370,14 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
                    encoding="utf-8")
 
     fonts = ROOT / "fonts"
-    norm = "fps=30,scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1"
+    FPS = int(k.get("fps", 60))
+    norm = f"fps={FPS},scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1"
     bgchain = (f"scale=270:480:force_original_aspect_ratio=increase,crop=270:480,gblur=sigma=8,"
                f"scale={W}:{H},eq=brightness=-0.12")
     if face:
         gx, gy, gw, gh, GH = game
         if face_vid:
-            fcpart = "[2:v]tpad=stop_mode=clone:stop_duration=2,framerate=fps=30,setpts=PTS-STARTPTS[fc];"
+            fcpart = f"[2:v]tpad=stop_mode=clone:stop_duration=2,framerate=fps={FPS},setpts=PTS-STARTPTS[fc];"
             head = f"[cv]split=2[a][b];"
         else:
             fcpart = (f"[c]crop={cw}:{ch}:{x0}:{y0},hqdn3d=3:2.5:4:4,scale={W}:{FH}:flags=lanczos,"
@@ -414,8 +415,10 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
          "-ss", f"{main_start:.3f}", "-t", f"{main_dur:.3f}", "-i", str(src),
          *(["-i", str(face_vid)] if face_vid else []),
          "-filter_complex", fc,
-         "-map", "[v]", "-map", "[aout]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
-         "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
+         "-map", "[v]", "-map", "[aout]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
+         "-profile:v", "high", "-level", "4.2", "-r", str(FPS), "-g", str(FPS * 2),
+         "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-ac", "2", "-ar", "48000",
+         "-movflags", "+faststart",
          "-t", f"{total:.3f}", str(out_path)], timeout=1800)
     return total
 
@@ -426,30 +429,38 @@ def gh(*args, check=True):
     return run(["gh", *args], timeout=600, check=check)
 
 
-def publish_release(night, items, files):
-    tag = f"night-{night}"
-    notes = [f"# GTA VI clips: night of {night}\n",
-             "Download an MP4, then post it from the YouTube app (**Create → Short → upload**). "
-             "Copy the title/description below. Long-press a block to copy it.\n"]
-    for i, it in enumerate(items, 1):
-        m = it["meta"]
-        notes += [
-            f"\n---\n### {i}. {m['title']}",
-            f"**File:** `{it['id']}.mp4` · {it.get('duration_s', '?')}s · from [{it['streamer_name']}]({it['channel_url']})"
-            + (f" · YouTube: https://youtu.be/{it['youtube_id']}" if it.get("youtube_id") else ""),
-            "\n**Title**\n```\n" + m["title"] + "\n```",
-            "**Description**\n```\n" + m["description"] + "\n```",
-            "**Tags**\n```\n" + ", ".join(m["tags"]) + "\n```",
-        ]
-    nf = Path(tempfile.mkstemp(suffix=".md")[1])
-    nf.write_text("\n".join(notes), encoding="utf-8")
-    exists = subprocess_ok(["gh", "release", "view", tag])
-    if not exists:
-        gh("release", "create", tag, "--title", f"GTA VI clips · {night}", "--notes-file", str(nf))
-    else:
-        gh("release", "edit", tag, "--notes-file", str(nf))
-    if files:
-        gh("release", "upload", tag, *map(str, files), "--clobber")
+def publish_clip(night, n, c, mp4, txt):
+    """One GitHub Release per clip = one 'folder' holding the video and its post text."""
+    import datetime as _dt
+    m = c["meta"]
+    repo = os.environ.get("GITHUB_REPOSITORY", "GamerQuanTuM/gta6-clipper")
+    day = _dt.date.fromisoformat(night).strftime("%d %b")
+    name = f"{n:02d}-{c['streamer']}"
+    tag = f"{night}-{name}"
+    if subprocess_ok(["gh", "release", "view", tag]):
+        tag += f"-{c['id'][-5:]}"
+    folder = Path(tempfile.mkdtemp(prefix="pub_"))
+    v, t = folder / f"{name}.mp4", folder / f"{name}-post.txt"
+    shutil.copy(mp4, v)
+    shutil.copy(txt, t)
+    notes = "\n".join([
+        f"**Hook:** {m['hook']}  ",
+        f"**From:** [{c['streamer_name']}]({c['channel_url']}) · {c.get('duration_s', '?')}s · 1080x1920 60fps",
+        "",
+        "Download the MP4 below, then post it from the YouTube app (**Create → Short → upload**). "
+        "Long-press a block to copy it.",
+        "",
+        "**Title**\n```\n" + m["title"] + "\n```",
+        "**Description**\n```\n" + m["description"] + "\n```",
+        "**Tags**\n```\n" + ", ".join(m["tags"]) + "\n```",
+        "",
+        f"[All clips from {day}](https://github.com/{repo}/releases?q={night}&expanded=true)",
+    ])
+    nf = folder / "notes.md"
+    nf.write_text(notes, encoding="utf-8")
+    title = f"{day} · #{n:02d} · {c['streamer_name']}: {m['title']}"[:120]
+    gh("release", "create", tag, str(v), str(t), "--title", title, "--notes-file", str(nf))
+    shutil.rmtree(folder, ignore_errors=True)
     return tag
 
 
@@ -488,11 +499,25 @@ def main():
     night_file = STATE / "nights" / f"{night}.json"
     night_items = load_json(night_file, [])
     uploads = sum(1 for x in night_items if x.get("youtube_id"))
-    new_files = []
+    published = 0
     pub = cfg["publish"]
+    cap = cfg["finder"].get("max_clips_per_night") or 999
+    min_words = cfg["finder"].get("min_words", 0)
     for path, c in items:
         if c.get("status") == "rejected":
             shutil.move(str(path), QUEUE / "failed" / path.name)
+            continue
+        if len(night_items) >= cap:
+            log(f"Night cap of {cap} clips reached; leaving {path.name} unrendered")
+            c.update(status="rejected", reject_reason="night cap reached")
+            save_json(QUEUE / "failed" / path.name, c)
+            path.unlink()
+            continue
+        if (c.get("meta") or {}).get("source") != "claude" and len(c.get("words") or []) < min_words:
+            log(f"Skipping {c['id']}: not reviewed by Claude and the streamer barely speaks")
+            c.update(status="rejected", reject_reason="no speech (fallback)")
+            save_json(QUEUE / "failed" / path.name, c)
+            path.unlink()
             continue
         workdir = Path(tempfile.mkdtemp(prefix="r_"))
         try:
@@ -515,10 +540,16 @@ def main():
                     log(f"  uploaded: https://youtu.be/{c['youtube_id']}")
                 except Exception as ex:
                     log(f"  YouTube upload failed: {str(ex)[-300:]}")
-            new_files += [mp4, txt]
-            night_items.append({k: c[k] for k in ("id", "streamer", "streamer_name", "channel_url",
-                                                  "meta", "duration_s") if k in c}
-                               | ({"youtube_id": c["youtube_id"]} if c.get("youtube_id") else {}))
+            entry = ({k: c[k] for k in ("id", "streamer", "streamer_name", "channel_url",
+                                        "meta", "duration_s") if k in c}
+                     | ({"youtube_id": c["youtube_id"]} if c.get("youtube_id") else {}))
+            if pub.get("github_release"):
+                entry["release"] = publish_clip(night, len(night_items) + 1, c, mp4, txt)
+                log(f"  published folder {entry['release']}")
+                published += 1
+            night_items.append(entry)
+            save_json(night_file, night_items)
+            mp4.unlink(missing_ok=True)
             save_json(QUEUE / "done" / path.name, {k: v for k, v in c.items() if k != "words"})
             path.unlink()
         except Exception:
@@ -532,9 +563,7 @@ def main():
         finally:
             shutil.rmtree(workdir, ignore_errors=True)
     save_json(night_file, night_items)
-    if pub.get("github_release") and new_files:
-        tag = publish_release(night, night_items, new_files)
-        log(f"Published {len(new_files) // 2} clips to release {tag}")
+    log(f"Published {published} clips tonight's total: {len(night_items)}")
 
 
 if __name__ == "__main__":

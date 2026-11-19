@@ -20,7 +20,7 @@ import numpy as np
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import (QUEUE, STATE, active_phase, campaign_active, load_config, load_json, log,  # noqa: E402
-                    phase_label, run, save_json, ytdlp_base)
+                    night_key, phase_label, run, save_json, ytdlp_base)
 
 HYPE = re.compile(
     r"(kekw|omegalul|lul|lmao+|lol|💀|😂|\?{3,}|\bw+\b|pog|holy|no way|clip (it|that)|"
@@ -273,6 +273,9 @@ def process_broadcast(b, cfg, progress, workdir):
         lo2, hi2 = snap_bounds(rel, lo, hi, cfg)
         clip_words = [[round(w[0] - lo2, 2), round(w[1] - lo2, 2), w[2]]
                       for w in rel if w[0] >= lo2 and w[1] <= hi2]
+        if len(clip_words) < f.get("min_words", 0):
+            log(f"    skipped a moment: only {len(clip_words)} spoken words (game audio / no reaction)")
+            continue
         chat_near = []
         for s in range(p - 2, p + f["chat_delay_seconds"] + 8):
             chat_near += samples.get(s, [])
@@ -300,6 +303,11 @@ def process_broadcast(b, cfg, progress, workdir):
 def main():
     cfg = load_config()
     if not campaign_active(cfg):
+        return
+    cap = cfg["finder"].get("max_clips_per_night")
+    done_tonight = len(load_json(STATE / "nights" / f"{night_key()}.json", []))
+    if cap and done_tonight >= cap and not os.environ.get("TEST_STREAMERS"):
+        log(f"Already {done_tonight} clips published tonight (cap {cap}); nothing to find.")
         return
     progress = load_json(STATE / "progress.json", {})
     known = set() if os.environ.get("TEST_STREAMERS") else {

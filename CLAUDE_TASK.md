@@ -8,6 +8,10 @@ stop scrolling for, then hand it back so Actions renders and publishes it.
 ## Steps
 
 1. Read every file in `queue/pending/`. If there are none, skip to step 4.
+**Target: 20–25 published Shorts per night.** The finder now sends ~9 candidates an hour
+and skips moments where the streamer barely talks. Reject clear duds only; a decent,
+real reaction with a clear moment is worth publishing.
+
 2. For each candidate, read `vod_title`, `streamer_name`, `transcript`,
    `chat_sample`, and `score`. Decide:
    - **Reject** it if the transcript shows nothing happening: dead air, ads,

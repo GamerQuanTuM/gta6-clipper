@@ -32,16 +32,18 @@ streamers:
 finder:
   lookback_minutes: 70        # how much of each stream to scan per run
   max_vod_age_hours: 8        # ignore streams that ended longer ago
-  clips_per_streamer: 2       # per run
-  clips_per_run: 5            # total per hourly run (across all streamers)
+  clips_per_streamer: 3       # per run
+  clips_per_run: 9            # total per hourly run (Claude rejects ~40%, so ~5 publish per hour)
+  max_clips_per_night: 25     # stop finding once this many are published tonight
+  min_words: 8                # skip moments where the streamer barely speaks (game audio / cutscenes)
   min_score: 2.2              # higher = only bigger reactions
   min_gap_seconds: 120        # keep picked moments this far apart
   allowed_languages: [en]     # skip clips where the streamer speaks another language
   chat_delay_seconds: 6       # chat reacts ~6s after the moment happens
   use_chat: false             # Twitch chat reader is currently broken; audio spikes only
-  min_score_audio_only: 1.8   # threshold when chat isn't used
+  min_score_audio_only: 1.6   # threshold when chat isn't used
   download_timeout: 150       # seconds before giving up on one streamer's audio download
-  run_budget_minutes: 32      # stop starting new streamers after this long
+  run_budget_minutes: 36      # stop starting new streamers after this long
 
 clip:
   min_seconds: 30
@@ -49,8 +51,9 @@ clip:
   before_moment: 32           # seconds kept before the peak moment
   after_moment: 13            # seconds kept after it
   teaser_seconds: 2.0         # the hook: best moment flashed first
+  fps: 60                     # output frame rate (1080x1920)
   facecam_mode: "off"   # off = webcam cut out, gameplay big and centred | split = webcam panel on top
-  facecam_ai: true            # Real-ESRGAN upscaling of the webcam (CPU, ~6-7 min per clip)
+  facecam_ai: false           # Real-ESRGAN upscaling of the webcam (CPU, ~6-7 min per clip)
   facecam_ai_fps: 12          # webcam panel frame rate when AI-upscaled
   facecam_ai_budget_seconds: 420   # per clip; if too slow it falls back to normal upscaling
   facecam_ai_max_per_run: 2   # AI only for the best N clips per render run (rest use normal upscaling)
@@ -63,4 +66,4 @@ publish:
   youtube_api_upload: false   # only turn on after your Google API project passes the audit
   youtube_privacy: public
   max_youtube_uploads_per_night: 6
-  fallback_after_minutes: 40  # if Claude hasn't written metadata by then, use a template
+  fallback_after_minutes: 150 # only if Claude missed 2 hourly reviews: render with template text

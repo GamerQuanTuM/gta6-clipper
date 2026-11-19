@@ -53,3 +53,8 @@ GitHub Actions · Anton font (SIL OFL, in `fonts/`)
 - The hook, captions and editing make each clip transformative, but
   Take-Two/Rockstar and the streamer can still claim or strike reuploads.
   If a creator asks you to stop, remove their name from `streamers`.
+
+
+## Where the clips are (from 20 Nov)
+
+Every clip is its own GitHub Release, which acts as a folder: `NN-streamer.mp4` (1080x1920, 60 fps) and `NN-streamer-post.txt` (title, description, tags), with the same text on the page ready to copy. Release titles start with the date and number, e.g. `20 Nov · #03 · xQc: ...`. Each page links to all clips from that night. Up to 25 clips are published per night.
