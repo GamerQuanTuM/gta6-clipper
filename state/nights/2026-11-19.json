@@ -128,5 +128,59 @@
       "source": "claude"
     },
     "duration_s": 44.8
+  },
+  {
+    "id": "twitch-hasanabi-v2932641914-9732",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "THEY THOUGHT GTA 6 WAS ANTI WOKE",
+      "title": "Hasan says GTA 6 was never on their side 😂 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasan on Rockstar's take: this franchise has always poked fun at the people who thought the game was on their side.\n\nIs GTA 6 satire or just a game? Tell us 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan piker",
+        "gta 6 reaction",
+        "gta 6 satire",
+        "rockstar games",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 48.5
+  },
+  {
+    "id": "twitch-hasanabi-v2932641914-11731",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "GTA 6 HAS A BOXING BAG WORKOUT",
+      "title": "Hasan finds the GTA 6 boxing bag cardio workout 😭 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasan hits the hanging bag in GTA 6 and chat jokes about running out of stamina 💀\n\nWould you actually work out in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan piker",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 gym",
+        "gta 6 boxing bag",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 50.3
   }
 ]

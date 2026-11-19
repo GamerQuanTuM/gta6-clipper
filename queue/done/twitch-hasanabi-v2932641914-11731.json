@@ -1,0 +1,42 @@
+{
+  "id": "twitch-hasanabi-v2932641914-11731",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2932641914",
+  "vod_id": "v2932641914",
+  "vod_title": "🗽GTAVI🗽BANKS ARE DOWN🗽HAKEEM JEFFRIES VOTE🎞️CVH vs SCHUMER📽️TRUMPxXIxPUTIN📽️FUNDRAISER FOR GTA🚉🗽! 2026-11-18 23:16",
+  "game": "GTA 6",
+  "start": 11695.69,
+  "end": 11744,
+  "peak": 11731,
+  "score": 1.86,
+  "language": "en",
+  "transcript": "What is hanging the bag do chat? Oh, it's the it's the boxing bag Yeah, I'll save it right now. Don't worry. I'll save it Jason lost eleven hours He lost eleven hours of gameplay whoa Cardio workout. Yo, we're doing cardio. We're doing cardio. You got to go all the way You got to lose all your stamina. That's the only way to you got to push yourself to the limit boys You got to push yourself to the limit remember see See and then when you're at your limit you keep",
+  "chat_sample": [],
+  "created_unix": 1795043851,
+  "meta": {
+    "hook": "GTA 6 HAS A BOXING BAG WORKOUT",
+    "title": "Hasan finds the GTA 6 boxing bag cardio workout 😭 #shorts",
+    "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasan hits the hanging bag in GTA 6 and chat jokes about running out of stamina 💀\n\nWould you actually work out in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 gym",
+      "gta 6 boxing bag",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  },
+  "duration_s": 50.3,
+  "rendered_unix": 1795047381
+}
