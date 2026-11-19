@@ -1,0 +1,54 @@
+[
+  {
+    "id": "twitch-zackrawrr-v2932469290-28990",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "SEE THE GORE SYSTEM",
+      "title": "zackrawrr tests the GTA 6 gore system on a whole crew 💀 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr takes out a whole group and shows off the GTA 6 gore system 💀\n\nIs the gore system too much or just right? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack rawrr",
+        "gta 6 gore",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "source": "claude"
+    },
+    "duration_s": 52.7,
+    "release": "2026-11-20-01-zackrawrr"
+  },
+  {
+    "id": "twitch-timthetatman-v2932346119-37239",
+    "streamer": "timthetatman",
+    "streamer_name": "TimTheTatman",
+    "channel_url": "https://www.twitch.tv/timthetatman",
+    "meta": {
+      "hook": "HOW MANY STAIRS IS THIS",
+      "title": "TimTheTatman walks down endless stairs in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from TimTheTatman's live stream: https://www.twitch.tv/timthetatman\n\nTimTheTatman loses count of the stairs in GTA 6 💀\n\nHow deep did your first GTA 6 descent go? 👇\n\n#gta6 #gtavi #timthetatman #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "timthetatman",
+        "tim the tatman",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 50.1,
+    "release": "2026-11-20-02-timthetatman"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "twitch-timthetatman-v2932346119-37239",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "timthetatman",
+  "streamer_name": "TimTheTatman",
+  "channel_url": "https://www.twitch.tv/timthetatman",
+  "vod_url": "https://www.twitch.tv/videos/2932346119",
+  "vod_id": "v2932346119",
+  "vod_title": "KEY DROPS ON - GTA 6 IS FINALLY HERE",
+  "game": "GTA 6",
+  "start": 37203.95,
+  "end": 37252,
+  "peak": 37239,
+  "score": 2.03,
+  "language": "en",
+  "transcript": "How people big is this? I mean it's what four levels how many fucking stairs did I just walk down? Good old fashioned code",
+  "chat_sample": [],
+  "created_unix": 1795112299,
+  "meta": {
+    "hook": "HOW MANY STAIRS IS THIS",
+    "title": "TimTheTatman walks down endless stairs in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from TimTheTatman's live stream: https://www.twitch.tv/timthetatman\n\nTimTheTatman loses count of the stairs in GTA 6 💀\n\nHow deep did your first GTA 6 descent go? 👇\n\n#gta6 #gtavi #timthetatman #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "timthetatman",
+      "tim the tatman",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  },
+  "duration_s": 50.1,
+  "rendered_unix": 1795119464
+}
