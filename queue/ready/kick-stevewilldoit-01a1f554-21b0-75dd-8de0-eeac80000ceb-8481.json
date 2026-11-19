@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-8481",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -369,5 +369,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795126956,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Ad / sponsor read (Buffalo Wild Wings)"
 }

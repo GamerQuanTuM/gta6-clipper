@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2933861646-17315",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -169,5 +169,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795126271,
-  "meta": null
+  "meta": {
+    "hook": "I'M OUT I'M OUT I'M OUT",
+    "title": "Jynxzi bails fast after a wild moment in GTA 6 😭 #shorts",
+    "description": "Jynxzi grabs the cash and gets out of there in GTA 6, then something weird happens 💀\n\nWhat would you have done? 👇\n\n#gta6 #gtavi #jynxzi #gta6funny #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "gta 6 florida",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

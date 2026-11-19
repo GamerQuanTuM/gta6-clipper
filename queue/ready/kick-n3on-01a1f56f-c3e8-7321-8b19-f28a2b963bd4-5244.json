@@ -1,6 +1,6 @@
 {
   "id": "kick-n3on-01a1f56f-c3e8-7321-8b19-f28a2b963bd4-5244",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "n3on",
   "streamer_name": "n3on",
@@ -129,5 +129,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795126849,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Streamer reading chat, no game moment"
 }

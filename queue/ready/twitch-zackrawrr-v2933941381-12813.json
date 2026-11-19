@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2933941381-12813",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -604,5 +604,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795126626,
-  "meta": null
+  "meta": {
+    "hook": "10 HOURS OF GTA 6 AND HE DIDN'T NOTICE",
+    "title": "Zackrawrr played GTA 6 for 10 hours straight 💀 #shorts",
+    "description": "Zackrawrr jumps back into GTA 6 after a 10 hour session and heads home in-game 😭\n\nHow many hours have you put in so far? 👇\n\n#gta6 #gtavi #zackrawrr #gta6gameplay #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }
