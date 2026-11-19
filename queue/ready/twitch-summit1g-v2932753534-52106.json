@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2932753534-52106",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -374,5 +374,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795119080,
-  "meta": null
+  "meta": {
+    "hook": "HOW DID HE GET BROKEN OUT",
+    "title": "Summit1g can't believe his rogue sap got broken in WoW #shorts",
+    "description": "Summit1g's rogue is trying to sap a target in a WoW battleground and it all falls apart 😤\n\nWhat's the most annoying thing about rogue in PvP? 👇\n\n#wow #worldofwarcraft #summit1g #rogue #shorts",
+    "tags": [
+      "wow",
+      "world of warcraft",
+      "wow rogue",
+      "wow pvp",
+      "wow battleground",
+      "summit1g",
+      "summit",
+      "streamer moments",
+      "twitch clips",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

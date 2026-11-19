@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2932753534-52405",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -314,5 +314,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795119075,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Flat WoW commentary, no standout moment"
 }

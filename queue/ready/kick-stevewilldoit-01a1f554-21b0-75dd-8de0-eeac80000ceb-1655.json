@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-1655",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -544,5 +544,25 @@
   ],
   "chat_sample": [],
   "created_unix": 1795119889,
-  "meta": null
+  "meta": {
+    "hook": "WE GOT DONNY IN THE CAR",
+    "title": "SteveWillDoIt's GTA 6 squad pulls off a clutch escape #shorts",
+    "description": "SteveWillDoIt's squad is one mistake from wiping in GTA 6 when they finally get Donny into the car 😮\n\nHave you pulled off a clutch escape in GTA 6 yet? Tell us below 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 co-op",
+      "streamer moments",
+      "kick clips",
+      "shorts",
+      "steve will do it",
+      "gta 6 marathon"
+    ],
+    "priority": 3,
+    "source": "claude"
+  }
 }

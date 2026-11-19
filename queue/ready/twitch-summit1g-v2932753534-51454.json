@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2932753534-51454",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -389,5 +389,23 @@
   ],
   "chat_sample": [],
   "created_unix": 1795119070,
-  "meta": null
+  "meta": {
+    "hook": "I'M DEAD AREN'T I",
+    "title": "Summit1g thinks he's dead in a WoW battleground #shorts",
+    "description": "Summit1g gets caught in combat in a WoW battleground and the Horde wins before he can react 😮\n\nWho wins more battlegrounds, Horde or Alliance? 👇\n\n#wow #worldofwarcraft #summit1g #gaming #shorts",
+    "tags": [
+      "wow",
+      "world of warcraft",
+      "wow pvp",
+      "wow battleground",
+      "summit1g",
+      "summit",
+      "wow funny moments",
+      "streamer moments",
+      "twitch clips",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }
