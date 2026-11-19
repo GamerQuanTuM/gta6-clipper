@@ -1,0 +1,63 @@
+{
+  "id": "kick-n3on-01a1f56f-c3e8-7321-8b19-f28a2b963bd4-3796",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "n3on",
+  "streamer_name": "n3on",
+  "channel_url": "https://kick.com/n3on",
+  "vod_url": "https://kick.com/n3on/videos/01a1f56f-c3e8-7321-8b19-f28a2b963bd4#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1f56f-c3e8-7321-8b19-f28a2b963bd4",
+  "vod_title": "GTA VI GRIND",
+  "game": "GTA 6",
+  "start": 3764,
+  "end": 3809,
+  "peak": 3796,
+  "score": 2.53,
+  "language": "en",
+  "transcript": "my god, they all do the same shit!",
+  "words": [
+    [
+      26.02,
+      26.22,
+      "my"
+    ],
+    [
+      26.22,
+      26.56,
+      "god,"
+    ],
+    [
+      26.74,
+      26.84,
+      "they"
+    ],
+    [
+      26.84,
+      27.04,
+      "all"
+    ],
+    [
+      27.04,
+      27.22,
+      "do"
+    ],
+    [
+      27.22,
+      27.36,
+      "the"
+    ],
+    [
+      27.36,
+      27.84,
+      "same"
+    ],
+    [
+      27.84,
+      28.38,
+      "shit!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795124014,
+  "meta": null
+}
