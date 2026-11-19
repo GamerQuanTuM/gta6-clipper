@@ -1,0 +1,223 @@
+{
+  "id": "twitch-ludwig-v2934132437-7487",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2934132437",
+  "vod_id": "v2934132437",
+  "vod_title": "🚘 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-19 23:07",
+  "game": "GTA 6",
+  "start": 7453.51,
+  "end": 7501.86,
+  "peak": 7487,
+  "score": 1.92,
+  "language": "en",
+  "transcript": "I literally don't have the goooore hahaha oh my god oh my god get the fuck out bro get the fuck out get out there it is there it is okay I see it I see it I see it",
+  "words": [
+    [
+      0.15,
+      0.61,
+      "I"
+    ],
+    [
+      0.61,
+      1.07,
+      "literally"
+    ],
+    [
+      1.07,
+      1.41,
+      "don't"
+    ],
+    [
+      1.41,
+      1.49,
+      "have"
+    ],
+    [
+      1.49,
+      1.63,
+      "the"
+    ],
+    [
+      1.63,
+      2.49,
+      "goooore"
+    ],
+    [
+      2.49,
+      3.33,
+      "hahaha"
+    ],
+    [
+      28.23,
+      28.46,
+      "oh"
+    ],
+    [
+      28.46,
+      28.62,
+      "my"
+    ],
+    [
+      28.62,
+      29.0,
+      "god"
+    ],
+    [
+      29.0,
+      29.48,
+      "oh"
+    ],
+    [
+      29.48,
+      29.68,
+      "my"
+    ],
+    [
+      29.68,
+      30.08,
+      "god"
+    ],
+    [
+      31.52,
+      31.98,
+      "get"
+    ],
+    [
+      31.98,
+      32.1,
+      "the"
+    ],
+    [
+      32.1,
+      32.36,
+      "fuck"
+    ],
+    [
+      32.36,
+      32.68,
+      "out"
+    ],
+    [
+      32.68,
+      32.98,
+      "bro"
+    ],
+    [
+      32.98,
+      33.28,
+      "get"
+    ],
+    [
+      33.28,
+      33.42,
+      "the"
+    ],
+    [
+      33.42,
+      33.7,
+      "fuck"
+    ],
+    [
+      33.7,
+      34.34,
+      "out"
+    ],
+    [
+      35.1,
+      35.56,
+      "get"
+    ],
+    [
+      35.56,
+      36.02,
+      "out"
+    ],
+    [
+      45.45,
+      45.91,
+      "there"
+    ],
+    [
+      45.91,
+      46.03,
+      "it"
+    ],
+    [
+      46.03,
+      46.15,
+      "is"
+    ],
+    [
+      46.15,
+      46.35,
+      "there"
+    ],
+    [
+      46.35,
+      46.45,
+      "it"
+    ],
+    [
+      46.45,
+      46.65,
+      "is"
+    ],
+    [
+      46.65,
+      46.97,
+      "okay"
+    ],
+    [
+      46.97,
+      47.13,
+      "I"
+    ],
+    [
+      47.13,
+      47.27,
+      "see"
+    ],
+    [
+      47.27,
+      47.37,
+      "it"
+    ],
+    [
+      47.37,
+      47.43,
+      "I"
+    ],
+    [
+      47.43,
+      47.59,
+      "see"
+    ],
+    [
+      47.59,
+      47.69,
+      "it"
+    ],
+    [
+      47.69,
+      47.77,
+      "I"
+    ],
+    [
+      47.77,
+      47.89,
+      "see"
+    ],
+    [
+      47.89,
+      48.05,
+      "it"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795129670,
+  "meta": null
+}
