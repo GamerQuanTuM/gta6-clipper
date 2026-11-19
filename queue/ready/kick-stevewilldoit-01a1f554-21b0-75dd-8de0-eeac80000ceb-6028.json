@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-6028",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -639,5 +639,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795124090,
-  "meta": null
+  "meta": {
+    "hook": "SOMETHING WANTED A BITE OF HIS LEG",
+    "title": "SteveWillDoIt fights for his life bleeding out in GTA 6 #shorts",
+    "description": "SteveWillDoIt is bleeding out and something is coming straight at him in GTA 6 😳\n\nWho else would have panicked here? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "stevewilldoit gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "grand theft auto 6",
+      "gta 6 marathon",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

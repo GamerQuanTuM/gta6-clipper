@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2933941381-9094",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -699,5 +699,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795123787,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Rambling review-score chat and unrelated meme, no clear moment."
 }

@@ -25,7 +25,7 @@ game_phases:
 # Claude adds more each night after checking they exist. Twitch/Kick only
 # (YouTube blocks cloud downloads).
 streamers:
-  twitch: [kaicenat, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
+  twitch: [kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
            pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel]
   kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth]
 

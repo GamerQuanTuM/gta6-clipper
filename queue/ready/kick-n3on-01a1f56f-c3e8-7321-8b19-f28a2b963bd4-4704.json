@@ -1,6 +1,6 @@
 {
   "id": "kick-n3on-01a1f56f-c3e8-7321-8b19-f28a2b963bd4-4704",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "n3on",
   "streamer_name": "n3on",
@@ -194,5 +194,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795124019,
-  "meta": null
+  "meta": {
+    "hook": "HE FOUND A STREAMER STREAMING A CRASH",
+    "title": "n3on finds a streamer livestreaming their own crash in GTA 6 #shorts",
+    "description": "n3on can't believe his eyes when he spots someone streaming their own car crash in GTA 6 💀\n\nIs this the first ever in-game streamer? Tell us below 👇\n\n#gta6 #gtavi #n3on #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "n3on",
+      "n3on gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 launch",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "source": "claude"
+  }
 }

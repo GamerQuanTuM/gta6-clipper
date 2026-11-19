@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-5257",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -144,5 +144,24 @@
   ],
   "chat_sample": [],
   "created_unix": 1795124097,
-  "meta": null
+  "meta": {
+    "hook": "CAN HE LOSE THE COPS IN THE WATER",
+    "title": "SteveWillDoIt tries to shake the cops by jumping in water in GTA 6 #shorts",
+    "description": "Steve's plan to lose the cops in GTA 6: hop in the Phoenix and hit the water 🌊 \"I can't drive,\" he admits.\n\nWould this work for you? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "stevewilldoit gta 6",
+      "gta 6 police chase",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 marathon",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  }
 }

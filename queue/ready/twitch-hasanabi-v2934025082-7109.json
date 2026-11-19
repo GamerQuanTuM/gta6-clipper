@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2934025082-7109",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -709,5 +709,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795123974,
-  "meta": null
+  "meta": null,
+  "reject_reason": "News segment about GTA coverage plus a bit, no gameplay moment."
 }
