@@ -1,0 +1,41 @@
+{
+  "id": "twitch-summit1g-v2932753534-51454",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "summit1g",
+  "streamer_name": "summit1g",
+  "channel_url": "https://www.twitch.tv/summit1g",
+  "vod_url": "https://www.twitch.tv/videos/2932753534",
+  "vod_id": "v2932753534",
+  "vod_title": "GTA6 while im awake. If it's boring ill play WoW.  - !journey for %10 off - !starforge @StarforgeSystems",
+  "game": "GTA 6",
+  "start": 51422.21,
+  "end": 51466.7,
+  "peak": 51454,
+  "score": 2.38,
+  "language": "en",
+  "transcript": "Oh I'm dead aren't I have no, what's going on? Let's get out of combat or I'm dead It's already over horde wins. Oh holy shit dude Okay, hey listen, okay, we have to play probably Yeah, I told you we always win a B That was pretty crazy. Oh my god where my gouge is not on my bar bro Please for the love of God Blizzard Stop making dual spec hard, please",
+  "chat_sample": [],
+  "created_unix": 1795119070,
+  "meta": {
+    "hook": "I'M DEAD AREN'T I",
+    "title": "Summit1g thinks he's dead in a WoW battleground #shorts",
+    "description": "🎥 Clip from summit1g's live stream: https://www.twitch.tv/summit1g\n\nSummit1g gets caught in combat in a WoW battleground and the Horde wins before he can react 😮\n\nWho wins more battlegrounds, Horde or Alliance? 👇\n\n#wow #worldofwarcraft #summit1g #gaming #shorts",
+    "tags": [
+      "wow",
+      "world of warcraft",
+      "wow pvp",
+      "wow battleground",
+      "summit1g",
+      "summit",
+      "wow funny moments",
+      "streamer moments",
+      "twitch clips",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  },
+  "duration_s": 46.5,
+  "rendered_unix": 1795122771
+}
