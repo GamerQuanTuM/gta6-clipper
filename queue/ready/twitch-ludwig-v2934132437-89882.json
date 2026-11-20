@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-89882",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -364,5 +364,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212484,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Music/rap lyrics, not a live reaction"
 }

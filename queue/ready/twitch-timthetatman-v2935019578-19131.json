@@ -1,6 +1,6 @@
 {
   "id": "twitch-timthetatman-v2935019578-19131",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "timthetatman",
   "streamer_name": "TimTheTatman",
@@ -424,5 +424,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212716,
-  "meta": null
+  "meta": {
+    "hook": "HE ALMOST DID NOT MAKE THAT TURN",
+    "title": "TimTheTatman's GTA 6 street race comes down to the wire 😮 #shorts",
+    "description": "TimTheTatman needs the nitro and barely holds on in a GTA 6 race 🏎️\n\nCould you have pulled that off? 👇\n\n#gta6 #gtavi #timthetatman #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "timthetatman",
+      "tim the tatman",
+      "gta 6 racing",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "TimTheTatman needs nitro and almost loses it in a GTA 6 street race 😮 Could you have won? 👇\n\n🎥 TimTheTatman (twitch.tv/timthetatman)\n\n#gta6 #gtavi #timthetatman #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

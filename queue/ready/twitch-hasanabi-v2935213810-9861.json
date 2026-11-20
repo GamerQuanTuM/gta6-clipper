@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2935213810-9861",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -424,5 +424,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212769,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reading news (NYT Deal Book Summit), not the game"
 }

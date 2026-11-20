@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-11109",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -294,5 +294,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212690,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Talking about classic WoW raiding, not the game"
 }

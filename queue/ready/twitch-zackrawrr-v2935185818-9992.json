@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-9992",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -689,5 +689,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212685,
-  "meta": null
+  "meta": {
+    "hook": "TREVOR WAS A MADMAN, NOW THIS?",
+    "title": "zackrawrr's hot take: GTA 6 is a girlfriend simulator? #gta6 #shorts",
+    "description": "zackrawrr goes off on GTA 6 vs. the old Trevor days 💀\n\nIs he right, or is this the best GTA yet? 👇\n\n#gta6 #gtavi #zackrawrr #trevor #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 reaction",
+      "gta 6 trevor",
+      "gta 6 hot take",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr on GTA 6: \"Trevor was a madman\" 💀 Is he right? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #trevor #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

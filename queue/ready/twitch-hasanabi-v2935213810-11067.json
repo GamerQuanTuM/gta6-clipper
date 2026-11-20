@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2935213810-11067",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -314,5 +314,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212763,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Off-topic chat about mustache/poses, not the game"
 }

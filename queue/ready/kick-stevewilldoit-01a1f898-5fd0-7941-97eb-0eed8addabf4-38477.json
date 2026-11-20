@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-38477",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -464,5 +464,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795212959,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST TALKED TO A BARE KNUCKLE FIGHTER",
+    "title": "SteveWillDoIt's GTA 6 chat with a bare knuckle fighter 😭 #shorts",
+    "description": "SteveWillDoIt gets pulled into a wild conversation mid-session in GTA 6 💀\n\nWho would you connect to Steve? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "kick",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt just talked to a bare knuckle fighter in GTA 6 and it got weird fast 💀 Who would you call? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
