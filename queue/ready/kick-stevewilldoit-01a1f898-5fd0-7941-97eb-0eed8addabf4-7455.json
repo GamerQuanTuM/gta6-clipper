@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-7455",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -404,5 +404,30 @@
   ],
   "chat_sample": [],
   "created_unix": 1795180692,
-  "meta": null
+  "meta": {
+    "hook": "HE THOUGHT IT WAS WATER",
+    "title": "SteveWillDoIt jumps off a bridge in GTA 6 thinking it's water 💀 #shorts",
+    "description": "SteveWillDoIt tries to be smooth, jumps off a bridge in GTA 6 and thought it was water 💀\n\nHave you made this mistake too? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 reaction",
+      "shorts",
+      "stevewilldoit",
+      "steve will do it gta 6",
+      "gta 6 bridge jump"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt jumps off a bridge in GTA 6 thinking it's water 💀 Ever done this? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

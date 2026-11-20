@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-5746",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -179,5 +179,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795180687,
-  "meta": null
+  "meta": {
+    "hook": "STEVE CAN'T BELIEVE THIS GTA 6",
+    "title": "SteveWillDoIt reacts to pure chaos in GTA 6 😳 #shorts",
+    "description": "SteveWillDoIt is stunned by the chaos in GTA 6 😳\n\nWhat would you have done here? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 reaction",
+      "shorts",
+      "stevewilldoit",
+      "steve will do it gta 6"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt is stunned by the chaos in GTA 6 😳 What would you do? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

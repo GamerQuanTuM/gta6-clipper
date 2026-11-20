@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1f85e-d940-7fa7-b82e-b6be67b8dc89-9476",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -214,5 +214,30 @@
   ],
   "chat_sample": [],
   "created_unix": 1795180555,
-  "meta": null
+  "meta": {
+    "hook": "THIS GTA 6 MISSION IS INSANE",
+    "title": "Adin Ross: cops, a Lamborghini and a wild GTA 6 mission 🔥 #shorts",
+    "description": "Adin Ross runs into the cops mid-mission in GTA 6 and can't stop reacting 🔥\n\nIs this the best mission in the game so far? 👇\n\n#gta6 #gtavi #adinross #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "adin ross",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 reaction",
+      "shorts",
+      "adin ross",
+      "adin ross gta 6",
+      "gta 6 mission"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Adin Ross is losing it over this GTA 6 mission with the cops on his tail 🔥 Best mission yet? 👇\n\n🎥 Adin Ross (kick.com/adinross)\n\n#gta6 #gtavi #adinross #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
