@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-10909",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -334,5 +334,22 @@
   ],
   "chat_sample": [],
   "created_unix": 1795130215,
-  "meta": null
+  "meta": {
+    "hook": "WHY AM I MOVING TELEVISIONS",
+    "title": "Stevewilldoit's GTA 6 marathon gets weird fast 📺 #gta6 #shorts",
+    "description": "Stevewilldoit is deep into his nonstop GTA 6 marathon and somehow ends up moving TVs 😅\n\nWhat's the strangest thing you've done in GTA 6? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 marathon",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 0,
+    "source": "claude"
+  }
 }
