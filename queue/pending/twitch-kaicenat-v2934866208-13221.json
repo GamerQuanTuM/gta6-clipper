@@ -1,0 +1,218 @@
+{
+  "id": "twitch-kaicenat-v2934866208-13221",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-20 17:08",
+  "game": "GTA 6",
+  "start": 13189.95,
+  "end": 13234,
+  "peak": 13221,
+  "score": 2.39,
+  "language": "en",
+  "transcript": "Got a bunch of DQ. Me not sleep. Alright. If you are just waking up good morning, it's the breakfast club. Good morning, good morning everybody say good morning. Everybody spread positivity you are. Start the day with positivity.",
+  "words": [
+    [
+      0.15,
+      0.75,
+      "Got"
+    ],
+    [
+      0.75,
+      0.79,
+      "a"
+    ],
+    [
+      0.79,
+      0.91,
+      "bunch"
+    ],
+    [
+      0.91,
+      0.99,
+      "of"
+    ],
+    [
+      0.99,
+      1.43,
+      "DQ."
+    ],
+    [
+      2.89,
+      3.41,
+      "Me"
+    ],
+    [
+      3.41,
+      3.55,
+      "not"
+    ],
+    [
+      3.55,
+      3.87,
+      "sleep."
+    ],
+    [
+      6.56,
+      6.82,
+      "Alright."
+    ],
+    [
+      22.87,
+      23.05,
+      "If"
+    ],
+    [
+      23.05,
+      23.23,
+      "you"
+    ],
+    [
+      23.23,
+      23.37,
+      "are"
+    ],
+    [
+      23.37,
+      23.59,
+      "just"
+    ],
+    [
+      23.59,
+      23.97,
+      "waking"
+    ],
+    [
+      23.97,
+      24.21,
+      "up"
+    ],
+    [
+      24.21,
+      24.39,
+      "good"
+    ],
+    [
+      24.39,
+      24.79,
+      "morning,"
+    ],
+    [
+      25.03,
+      25.67,
+      "it's"
+    ],
+    [
+      25.67,
+      25.75,
+      "the"
+    ],
+    [
+      25.75,
+      26.09,
+      "breakfast"
+    ],
+    [
+      26.09,
+      26.55,
+      "club."
+    ],
+    [
+      29.23,
+      29.69,
+      "Good"
+    ],
+    [
+      29.69,
+      30.09,
+      "morning,"
+    ],
+    [
+      30.21,
+      30.31,
+      "good"
+    ],
+    [
+      30.31,
+      30.61,
+      "morning"
+    ],
+    [
+      30.61,
+      31.03,
+      "everybody"
+    ],
+    [
+      31.03,
+      31.33,
+      "say"
+    ],
+    [
+      31.33,
+      31.51,
+      "good"
+    ],
+    [
+      31.51,
+      31.83,
+      "morning."
+    ],
+    [
+      31.99,
+      32.29,
+      "Everybody"
+    ],
+    [
+      32.29,
+      32.51,
+      "spread"
+    ],
+    [
+      32.51,
+      33.07,
+      "positivity"
+    ],
+    [
+      33.07,
+      33.49,
+      "you"
+    ],
+    [
+      33.49,
+      33.69,
+      "are."
+    ],
+    [
+      33.93,
+      34.37,
+      "Start"
+    ],
+    [
+      36.09,
+      36.25,
+      "the"
+    ],
+    [
+      36.25,
+      36.37,
+      "day"
+    ],
+    [
+      36.37,
+      36.47,
+      "with"
+    ],
+    [
+      36.47,
+      36.93,
+      "positivity."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795194542,
+  "meta": null
+}
