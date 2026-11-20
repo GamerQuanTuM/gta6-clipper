@@ -25,14 +25,16 @@ game_phases:
 # Claude adds more each run after checking they exist. YouTube = channel @handle (without @);
 # YouTube streams are scanned once they end. Names in `hindi` are transcribed as Hindi.
 streamers:
-  twitch: [rvnxmango, kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
+  twitch: [kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
            pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel]
-  kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth]
+  kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth,
+         8bitheadflicker, rakazone, soulaman, anshyt, binks69]
   youtube: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
             SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093]
   # Hindi-speaking Indian creators (any platform above)
   hindi: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
-          SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093, rvnxmango]
+          SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093,
+          8bitheadflicker, rakazone, soulaman, anshyt, binks69]
 
 finder:
   lookback_minutes: 70        # how much of each stream to scan per run
