@@ -1,0 +1,188 @@
+{
+  "id": "twitch-hasanabi-v2934025082-20890",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2934025082",
+  "vod_id": "v2934025082",
+  "vod_title": "CHUD FATIGUE ON GTA🚉TRUMPxXIxPUTIN SUMMIT🗽DROPS ON!🗽GTAVI🗽FUNDRAISER FOR GTA- MELT THE ICE: NILC AND CHIRLA🚉🗽 !donate 2026-11-20 01:17",
+  "game": "GTA 6",
+  "start": 20858,
+  "end": 20902.16,
+  "peak": 20890,
+  "score": 2.19,
+  "language": "en",
+  "transcript": "We're going to the place. Okay. Okay. Guys, guys, you need to understand something. This is the greatest. Okay. I'm not a big fan of Miami. I'm not a big fan of Florida.",
+  "words": [
+    [
+      11.77,
+      11.83,
+      "We're"
+    ],
+    [
+      11.83,
+      11.93,
+      "going"
+    ],
+    [
+      11.93,
+      12.03,
+      "to"
+    ],
+    [
+      12.03,
+      12.11,
+      "the"
+    ],
+    [
+      12.11,
+      12.27,
+      "place."
+    ],
+    [
+      13.45,
+      13.85,
+      "Okay."
+    ],
+    [
+      18.83,
+      19.23,
+      "Okay."
+    ],
+    [
+      35.58,
+      35.98,
+      "Guys,"
+    ],
+    [
+      35.98,
+      36.38,
+      "guys,"
+    ],
+    [
+      36.58,
+      36.78,
+      "you"
+    ],
+    [
+      36.78,
+      36.9,
+      "need"
+    ],
+    [
+      36.9,
+      36.98,
+      "to"
+    ],
+    [
+      36.98,
+      37.24,
+      "understand"
+    ],
+    [
+      37.24,
+      37.48,
+      "something."
+    ],
+    [
+      38.1,
+      38.5,
+      "This"
+    ],
+    [
+      38.5,
+      38.9,
+      "is"
+    ],
+    [
+      38.9,
+      39.64,
+      "the"
+    ],
+    [
+      39.64,
+      40.12,
+      "greatest."
+    ],
+    [
+      40.5,
+      40.9,
+      "Okay."
+    ],
+    [
+      41.1,
+      41.34,
+      "I'm"
+    ],
+    [
+      41.34,
+      41.46,
+      "not"
+    ],
+    [
+      41.46,
+      41.6,
+      "a"
+    ],
+    [
+      41.6,
+      41.7,
+      "big"
+    ],
+    [
+      41.7,
+      41.98,
+      "fan"
+    ],
+    [
+      41.98,
+      42.3,
+      "of"
+    ],
+    [
+      42.3,
+      42.62,
+      "Miami."
+    ],
+    [
+      42.82,
+      42.98,
+      "I'm"
+    ],
+    [
+      42.98,
+      43.08,
+      "not"
+    ],
+    [
+      43.08,
+      43.16,
+      "a"
+    ],
+    [
+      43.16,
+      43.26,
+      "big"
+    ],
+    [
+      43.26,
+      43.46,
+      "fan"
+    ],
+    [
+      43.46,
+      43.56,
+      "of"
+    ],
+    [
+      43.56,
+      43.86,
+      "Florida."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795137546,
+  "meta": null
+}

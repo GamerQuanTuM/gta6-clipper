@@ -1,0 +1,153 @@
+{
+  "id": "twitch-hasanabi-v2934025082-20730",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2934025082",
+  "vod_id": "v2934025082",
+  "vod_title": "CHUD FATIGUE ON GTA🚉TRUMPxXIxPUTIN SUMMIT🗽DROPS ON!🗽GTAVI🗽FUNDRAISER FOR GTA- MELT THE ICE: NILC AND CHIRLA🚉🗽 !donate 2026-11-20 01:17",
+  "game": "GTA 6",
+  "start": 20694.05,
+  "end": 20743,
+  "peak": 20730,
+  "score": 2.18,
+  "language": "en",
+  "transcript": "I wonder what he's got planned for us. Hey! Hello? Ho ho ho! There you are guys! You ready? Sure! Dabaura! Cause we just getting started!",
+  "words": [
+    [
+      0.15,
+      0.15,
+      "I"
+    ],
+    [
+      0.15,
+      0.61,
+      "wonder"
+    ],
+    [
+      0.61,
+      0.71,
+      "what"
+    ],
+    [
+      0.71,
+      0.87,
+      "he's"
+    ],
+    [
+      0.87,
+      1.01,
+      "got"
+    ],
+    [
+      1.01,
+      1.31,
+      "planned"
+    ],
+    [
+      1.31,
+      1.53,
+      "for"
+    ],
+    [
+      1.53,
+      1.75,
+      "us."
+    ],
+    [
+      7.28,
+      7.7,
+      "Hey!"
+    ],
+    [
+      8.78,
+      9.22,
+      "Hello?"
+    ],
+    [
+      9.88,
+      10.26,
+      "Ho"
+    ],
+    [
+      10.26,
+      10.38,
+      "ho"
+    ],
+    [
+      10.38,
+      10.5,
+      "ho!"
+    ],
+    [
+      10.68,
+      10.8,
+      "There"
+    ],
+    [
+      10.8,
+      10.96,
+      "you"
+    ],
+    [
+      10.96,
+      11.18,
+      "are"
+    ],
+    [
+      11.18,
+      11.46,
+      "guys!"
+    ],
+    [
+      11.82,
+      11.94,
+      "You"
+    ],
+    [
+      11.94,
+      12.18,
+      "ready?"
+    ],
+    [
+      12.66,
+      13.0,
+      "Sure!"
+    ],
+    [
+      13.46,
+      14.06,
+      "Dabaura!"
+    ],
+    [
+      14.48,
+      14.64,
+      "Cause"
+    ],
+    [
+      14.64,
+      14.8,
+      "we"
+    ],
+    [
+      14.8,
+      15.1,
+      "just"
+    ],
+    [
+      15.1,
+      15.4,
+      "getting"
+    ],
+    [
+      15.4,
+      15.86,
+      "started!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795137552,
+  "meta": null
+}
