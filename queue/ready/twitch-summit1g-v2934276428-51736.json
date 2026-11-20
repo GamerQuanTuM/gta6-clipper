@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2934276428-51736",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -349,5 +349,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795183853,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Stream wrap-up chatter, no moment"
 }

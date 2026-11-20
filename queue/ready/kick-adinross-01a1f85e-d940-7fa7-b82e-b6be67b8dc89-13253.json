@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1f85e-d940-7fa7-b82e-b6be67b8dc89-13253",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -309,5 +309,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795183921,
-  "meta": null
+  "meta": {
+    "hook": "HE DID NOT SEE THAT GRENADE",
+    "title": "Adin Ross gets caught off guard by a grenade in GTA 6 💀 #gta6 #shorts",
+    "description": "Adin Ross is planning his next purchase in GTA 6 when a grenade changes everything 💀\n\nHave you been blown up like this yet? 👇\n\n#gta6 #gtavi #adinross #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "adin ross",
+      "adinross",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Adin Ross is mid-plan in GTA 6 when a grenade shows up: \"No way bro, how?\" 💀 Ever been caught like this? 👇\n\n🎥 adinross (kick.com/adinross)\n\n#gta6 #gtavi #adinross #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

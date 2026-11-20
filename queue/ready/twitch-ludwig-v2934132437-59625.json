@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-59625",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -774,5 +774,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795183828,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Trivia game show, not GTA gameplay"
 }

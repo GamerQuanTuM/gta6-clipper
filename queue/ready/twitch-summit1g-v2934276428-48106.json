@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2934276428-48106",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -339,5 +339,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795183848,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Queue/layer logistics talk, nothing happening"
 }

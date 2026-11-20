@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2934276428-48581",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -134,5 +134,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795183845,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Unclear, no clear moment"
 }
