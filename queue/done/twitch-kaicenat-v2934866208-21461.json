@@ -1,0 +1,47 @@
+{
+  "id": "twitch-kaicenat-v2934866208-21461",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-20 18:45",
+  "game": "GTA 6",
+  "start": 21425.18,
+  "end": 21474.0,
+  "peak": 21461,
+  "score": 1.63,
+  "language": "en",
+  "transcript": "Oh, yeah I'm going going going on the way on the way on the way other way Oh my gosh That was so close bro, I said now we go to the side mission this dude side mission is always fun This dude side missions is always fun, bro Shit for my little customers right here on",
+  "chat_sample": [],
+  "created_unix": 1795200331,
+  "meta": {
+    "hook": "THAT WAS SO CLOSE",
+    "title": "KaiCenat: 'that was so close' in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKaiCenat's first-time GTA 6 run has a way-too-close moment 😭\n\nWhat would you do on this mission? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "kai cenat",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts",
+      "kaicenat",
+      "kai cenat gta 6",
+      "gta 6 first time"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "KaiCenat's first-time GTA 6 run has a way-too-close moment 😭 Would you have made it? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.8,
+  "rendered_unix": 1795202271
+}
