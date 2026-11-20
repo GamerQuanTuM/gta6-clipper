@@ -435,5 +435,57 @@
     },
     "duration_s": 49.1,
     "release": "2026-11-20-16-stevewilldoit-15041"
+  },
+  {
+    "id": "twitch-ludwig-v2934132437-14884",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "DYING COST HIM 600 IN GTA 6",
+      "title": "Ludwig loses $600 for dying in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig finds out the hard way that dying in GTA 6 costs real money 💀\n\nWould you survive with a death penalty like this? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "priority": 2,
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-20-17-ludwig"
+  },
+  {
+    "id": "twitch-ludwig-v2934132437-15603",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "LUDWIG GOES OFF IN GTA 6",
+      "title": "Ludwig goes off in a GTA 6 confrontation 💀 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig loses his cool in the middle of his GTA 6 marathon 😭\n\nHow would you handle this in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "priority": 1,
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "source": "claude"
+    },
+    "duration_s": 44.3,
+    "release": "2026-11-20-18-ludwig"
   }
 ]
