@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-9804",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -174,5 +174,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795209753,
-  "meta": null
+  "meta": {
+    "hook": "THE GAME HAS A SONG ABOUT HIM",
+    "title": "zackrawrr hears a song about him in GTA 6 release stream 😭 #shorts",
+    "description": "zackrawrr can't believe what just happened on his GTA 6 release stream 💀\n\nWould you freak out if a song was about you? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "zack",
+      "gta 6 release",
+      "gta 6 funny moments",
+      "gta 6 radio",
+      "streamer moments",
+      "twitch streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr hears a song \"about him\" on his GTA 6 release stream 😭 Would you freak out? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels #twitch",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-37403",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -674,5 +674,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795209980,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST LOST FOUR HUNDRED BUCKS",
+    "title": "SteveWillDoIt loses $400 and scrambles to sell cars in GTA 6 😭 #shorts",
+    "description": "SteveWillDoIt loses $400 in GTA 6 and goes straight to selling cars to make it back 💀\n\nHave you lost cash in GTA 6 yet? Tell us below 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 money",
+      "kick streamer",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt loses $400 in GTA 6 and tries to sell cars to make it back 💀 Have you lost cash yet? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels #funnymoments",
+    "source": "claude"
+  }
 }
