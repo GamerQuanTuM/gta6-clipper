@@ -327,5 +327,57 @@
     },
     "duration_s": 49.2,
     "release": "2026-11-20-12-zackrawrr"
+  },
+  {
+    "id": "twitch-ludwig-v2934132437-7487",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "LUDWIG LOSES IT IN GTA 6",
+      "title": "Ludwig freaks out mid-chase in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig panics during his GTA 6 marathon and chat can't stop laughing 💀\n\nHave you had a moment this wild in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 50.3,
+    "release": "2026-11-20-13-ludwig"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-10909",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "WHY AM I MOVING TELEVISIONS",
+      "title": "Stevewilldoit's GTA 6 marathon gets weird fast 📺 #gta6 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nStevewilldoit is deep into his nonstop GTA 6 marathon and somehow ends up moving TVs 😅\n\nWhat's the strangest thing you've done in GTA 6? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 marathon",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 0,
+      "source": "claude"
+    },
+    "duration_s": 50.0,
+    "release": "2026-11-20-14-stevewilldoit"
   }
 ]

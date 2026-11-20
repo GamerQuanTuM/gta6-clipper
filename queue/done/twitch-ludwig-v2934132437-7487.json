@@ -1,0 +1,40 @@
+{
+  "id": "twitch-ludwig-v2934132437-7487",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2934132437",
+  "vod_id": "v2934132437",
+  "vod_title": "🚘 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-19 23:07",
+  "game": "GTA 6",
+  "start": 7453.51,
+  "end": 7501.86,
+  "peak": 7487,
+  "score": 1.92,
+  "language": "en",
+  "transcript": "I literally don't have the goooore hahaha oh my god oh my god get the fuck out bro get the fuck out get out there it is there it is okay I see it I see it I see it",
+  "chat_sample": [],
+  "created_unix": 1795129670,
+  "meta": {
+    "hook": "LUDWIG LOSES IT IN GTA 6",
+    "title": "Ludwig freaks out mid-chase in GTA 6 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig panics during his GTA 6 marathon and chat can't stop laughing 💀\n\nHave you had a moment this wild in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "source": "claude"
+  },
+  "duration_s": 50.3,
+  "rendered_unix": 1795133266
+}
