@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-16717",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -504,5 +504,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795137661,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Casual banter about subs and schedule; no game moment."
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-14884",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -209,5 +209,22 @@
   ],
   "chat_sample": [],
   "created_unix": 1795137084,
-  "meta": null
+  "meta": {
+    "hook": "DYING COST HIM $600 IN GTA 6",
+    "title": "Ludwig loses $600 for dying in GTA 6 😭 #gta6 #shorts",
+    "description": "Ludwig finds out the hard way that dying in GTA 6 costs real money 💀\n\nWould you survive with a death penalty like this? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "priority": 2,
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "source": "claude"
+  }
 }

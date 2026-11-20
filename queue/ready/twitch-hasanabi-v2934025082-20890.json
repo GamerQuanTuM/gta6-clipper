@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2934025082-20890",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -184,5 +184,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795137546,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Vague talk with no clear moment or reaction."
 }
