@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2934025082-14981",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -239,5 +239,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795134015,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled talk about politics/stream business, not a game moment"
 }

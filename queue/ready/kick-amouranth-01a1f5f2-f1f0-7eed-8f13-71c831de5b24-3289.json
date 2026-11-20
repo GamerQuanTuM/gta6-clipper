@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1f5f2-f1f0-7eed-8f13-71c831de5b24-3289",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -524,5 +524,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795134179,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Narrated documentary audio, not a live reaction; stream title says no GTA6"
 }

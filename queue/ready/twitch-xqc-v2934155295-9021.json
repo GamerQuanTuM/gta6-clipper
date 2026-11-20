@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2934155295-9021",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -764,5 +764,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795133747,
-  "meta": null
+  "meta": null,
+  "reject_reason": "In-game dialogue/music lines rather than the streamer reacting"
 }
