@@ -380,5 +380,99 @@
     },
     "duration_s": 47.9,
     "release": "2026-11-21-12-stevewilldoit"
+  },
+  {
+    "id": "twitch-zackrawrr-v2935185818-9992",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "TREVOR WAS A MADMAN, NOW THIS?",
+      "title": "zackrawrr's hot take: GTA 6 is a girlfriend simulator? #gta6 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr goes off on GTA 6 vs. the old Trevor days 💀\n\nIs he right, or is this the best GTA yet? 👇\n\n#gta6 #gtavi #zackrawrr #trevor #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack",
+        "gta 6 reaction",
+        "gta 6 trevor",
+        "gta 6 hot take",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 3,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr on GTA 6: \"Trevor was a madman\" 💀 Is he right? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #trevor #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 48.9,
+    "release": "2026-11-21-13-zackrawrr"
+  },
+  {
+    "id": "twitch-timthetatman-v2935019578-19131",
+    "streamer": "timthetatman",
+    "streamer_name": "TimTheTatman",
+    "channel_url": "https://www.twitch.tv/timthetatman",
+    "meta": {
+      "hook": "HE ALMOST DID NOT MAKE THAT TURN",
+      "title": "TimTheTatman's GTA 6 street race comes down to the wire 😮 #shorts",
+      "description": "🎥 Clip from TimTheTatman's live stream: https://www.twitch.tv/timthetatman\n\nTimTheTatman needs the nitro and barely holds on in a GTA 6 race 🏎️\n\nCould you have pulled that off? 👇\n\n#gta6 #gtavi #timthetatman #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "timthetatman",
+        "tim the tatman",
+        "gta 6 racing",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "TimTheTatman needs nitro and almost loses it in a GTA 6 street race 😮 Could you have won? 👇\n\n🎥 TimTheTatman (twitch.tv/timthetatman)\n\n#gta6 #gtavi #timthetatman #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.9,
+    "release": "2026-11-21-14-timthetatman"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-38477",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "HE JUST TALKED TO A BARE KNUCKLE FIGHTER",
+      "title": "SteveWillDoIt's GTA 6 chat with a bare knuckle fighter 😭 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt gets pulled into a wild conversation mid-session in GTA 6 💀\n\nWho would you connect to Steve? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "steve will do it",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "kick",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "SteveWillDoIt just talked to a bare knuckle fighter in GTA 6 and it got weird fast 💀 Who would you call? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.3,
+    "release": "2026-11-21-15-stevewilldoit"
   }
 ]
