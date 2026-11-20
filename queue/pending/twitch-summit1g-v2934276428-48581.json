@@ -1,0 +1,138 @@
+{
+  "id": "twitch-summit1g-v2934276428-48581",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "summit1g",
+  "streamer_name": "summit1g",
+  "channel_url": "https://www.twitch.tv/summit1g",
+  "vod_url": "https://www.twitch.tv/videos/2934276428",
+  "vod_id": "v2934276428",
+  "vod_title": "GTA6 CHILLIN - !journey for %10 off - !starforge @StarforgeSystems",
+  "game": "GTA 6",
+  "start": 48549.43,
+  "end": 48592.27,
+  "peak": 48581,
+  "score": 2.36,
+  "language": "en",
+  "transcript": "All right Ipatch is to work Fuck that son of a bitch put it on right before I vanished right before I vanished",
+  "words": [
+    [
+      0.15,
+      0.71,
+      "All"
+    ],
+    [
+      0.71,
+      1.63,
+      "right"
+    ],
+    [
+      9.76,
+      10.16,
+      "Ipatch"
+    ],
+    [
+      10.16,
+      10.3,
+      "is"
+    ],
+    [
+      10.3,
+      10.54,
+      "to"
+    ],
+    [
+      10.54,
+      11.04,
+      "work"
+    ],
+    [
+      29.41,
+      30.45,
+      "Fuck"
+    ],
+    [
+      30.45,
+      30.87,
+      "that"
+    ],
+    [
+      30.87,
+      31.17,
+      "son"
+    ],
+    [
+      31.17,
+      31.29,
+      "of"
+    ],
+    [
+      31.29,
+      31.41,
+      "a"
+    ],
+    [
+      31.41,
+      31.73,
+      "bitch"
+    ],
+    [
+      31.73,
+      31.97,
+      "put"
+    ],
+    [
+      31.97,
+      32.13,
+      "it"
+    ],
+    [
+      32.13,
+      32.21,
+      "on"
+    ],
+    [
+      32.21,
+      32.89,
+      "right"
+    ],
+    [
+      32.89,
+      33.41,
+      "before"
+    ],
+    [
+      33.41,
+      33.65,
+      "I"
+    ],
+    [
+      33.65,
+      34.11,
+      "vanished"
+    ],
+    [
+      34.11,
+      35.07,
+      "right"
+    ],
+    [
+      41.5,
+      41.92,
+      "before"
+    ],
+    [
+      41.92,
+      42.14,
+      "I"
+    ],
+    [
+      42.14,
+      42.54,
+      "vanished"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795183845,
+  "meta": null
+}
