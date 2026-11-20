@@ -3,9 +3,9 @@
 
 campaign:
   start_date_ist: 2026-11-19   # first night (1 AM IST, 19 Nov)
-  end_date_ist: 2026-12-02     # last night (GTA week + one more week of any game)
-  start_hour_ist: 1            # runs only between these hours (IST)
-  end_hour_ist: 7
+  end_date_ist: 2026-11-25     # last day (runs all day, every day, until the end of this date)
+  start_hour_ist: 0            # runs only between these hours (IST); 0-24 = all day
+  end_hour_ist: 24
 
 # Which game to clip, by date (IST). Empty keywords = ANY game.
 # To switch games, change/add a phase here (or ask Claude in chat to do it).
@@ -22,23 +22,29 @@ game_phases:
 # Usernames exactly as in the URL (twitch.tv/<name>, kick.com/<name>).
 # English-speaking creators from anywhere (US, Canada, UK, Ireland, Australia, ...).
 # Usernames exactly as in the URL. Unknown names are skipped harmlessly.
-# Claude adds more each night after checking they exist. Twitch/Kick only
-# (YouTube blocks cloud downloads).
+# Claude adds more each run after checking they exist. YouTube = channel @handle (without @);
+# YouTube streams are scanned once they end. Names in `hindi` are transcribed as Hindi.
 streamers:
-  twitch: [kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
+  twitch: [rvnxmango, kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
            pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel]
   kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth]
+  youtube: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
+            SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093]
+  # Hindi-speaking Indian creators (any platform above)
+  hindi: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
+          SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093, rvnxmango]
 
 finder:
   lookback_minutes: 70        # how much of each stream to scan per run
   max_vod_age_hours: 8        # ignore streams that ended longer ago
+  lookback_minutes_youtube: 240  # YouTube streams are scanned in one go after they end
   clips_per_streamer: 3       # per run
   clips_per_run: 9            # total per hourly run (Claude rejects ~40%, so ~5 publish per hour)
   max_clips_per_night: 25     # stop finding once this many are published tonight
   min_words: 8                # skip moments where the streamer barely speaks (game audio / cutscenes)
   min_score: 2.2              # higher = only bigger reactions
   min_gap_seconds: 120        # keep picked moments this far apart
-  allowed_languages: [en]     # skip clips where the streamer speaks another language
+  allowed_languages: [en, hi] # skip clips where the streamer speaks another language
   chat_delay_seconds: 6       # chat reacts ~6s after the moment happens
   use_chat: false             # Twitch chat reader is currently broken; audio spikes only
   min_score_audio_only: 1.6   # threshold when chat isn't used
@@ -60,6 +66,7 @@ clip:
   facecam_split: true         # facecam on top, gameplay below (auto-detected face overlay)
   zoom: 1.0                   # used only when no facecam: 1.0 = whole frame (nothing cut off)
   whisper_model: small        # tiny / base / small (small = best captions on CPU)
+  whisper_model_hi: large-v3-turbo  # Hindi needs a bigger model for usable captions
 
 publish:
   github_release: true        # MP4 + copy-paste text in a GitHub Release (phone friendly)

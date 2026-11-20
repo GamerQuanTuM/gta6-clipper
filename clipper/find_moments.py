@@ -44,10 +44,15 @@ def game_match(info, keywords):
     return any(k in hay for k in keywords)
 
 
+CHANNEL_URL = {"twitch": "https://www.twitch.tv/{u}", "kick": "https://kick.com/{u}",
+               "youtube": "https://www.youtube.com/@{u}"}
+
+
 def recent_broadcasts(platform, user, cfg):
-    url = (f"https://www.twitch.tv/{user}/videos?filter=all&sort=time" if platform == "twitch"
-           else f"https://kick.com/{user}/videos")
-    listing = ytdlp_json(["--flat-playlist", "--playlist-items", "1:3", url])
+    url = {"twitch": f"https://www.twitch.tv/{user}/videos?filter=all&sort=time",
+           "kick": f"https://kick.com/{user}/videos",
+           "youtube": f"https://www.youtube.com/@{user}/streams"}[platform]
+    listing = ytdlp_json(["--flat-playlist", "--playlist-items", "1:4", url])
     max_age = cfg["finder"]["max_vod_age_hours"] * 3600
     for e in listing.get("entries") or []:
         vurl = e.get("url") or e.get("webpage_url")
@@ -64,6 +69,11 @@ def recent_broadcasts(platform, user, cfg):
         for key in ("duration", "timestamp", "categories", "title"):
             if e.get(key) and (not info.get(key) or (key == "title" and str(info.get("title", "")).startswith("kick-vod"))):
                 info[key] = e[key]
+        if platform == "youtube":
+            if info.get("live_status") in ("is_live", "is_upcoming", "post_live"):
+                log(f"  {user}: '{(info.get('title') or '')[:40]}' is {info.get('live_status')}; will scan it once it ends")
+                continue
+            info["timestamp"] = info.get("release_timestamp") or info.get("timestamp")
         if platform == "kick" and (e.get("is_live") or info.get("is_live")) and (info.get("timestamp") or 0):
             info["duration"] = int(time.time() - info["timestamp"])      # still recording: length = time since it started
         dur = info.get("duration") or 0
@@ -84,8 +94,8 @@ def recent_broadcasts(platform, user, cfg):
             "vod_title": info.get("title") or "", "duration": int(dur),
             "game": phase_label(cfg) or ((info.get("categories") or [""])[0]
                      or next((c.get("title") for c in reversed(info.get("chapters") or []) if c.get("title")), "")),
-            "channel_url": (f"https://www.twitch.tv/{user}" if platform == "twitch"
-                            else f"https://kick.com/{user}"),
+            "channel_url": CHANNEL_URL[platform].format(u=user),
+            "language_hint": "hi" if user.lower() in {x.lower() for x in cfg["streamers"].get("hindi") or []} else None,
         }
         return  # newest matching broadcast is enough
 
@@ -94,7 +104,7 @@ def recent_broadcasts(platform, user, cfg):
 
 def download_audio(vod_url, start, end, workdir, timeout=300):
     out = workdir / "window.%(ext)s"
-    run([*ytdlp_base(), "-f", "ba/worst", "--download-sections", f"*{start}-{end}",
+    run([*ytdlp_base(), "-f", "wa[acodec!=none]/ba/worst" if "youtube.com" in vod_url else "ba/worst", "--download-sections", f"*{start}-{end}",
          "-o", str(out), vod_url], timeout=timeout)
     files = [p for p in workdir.glob("window.*") if not p.name.endswith(".part")]
     if not files:
@@ -179,21 +189,21 @@ def pick_peaks(score, n, min_gap, min_score, margin_lo, margin_hi):
 
 # ── transcription ───────────────────────────────────────────────────────────
 
-_MODEL = None
+_MODELS = {}
 
 
-def transcribe(audio_path, ss, to, model_name):
+def transcribe(audio_path, ss, to, model_name, language=None):
     """Return list of [start, end, word] relative to ss."""
-    global _MODEL
     from faster_whisper import WhisperModel
-    if _MODEL is None:
-        _MODEL = WhisperModel(model_name, device="cpu", compute_type="int8")
+    if model_name not in _MODELS:
+        _MODELS[model_name] = WhisperModel(model_name, device="cpu", compute_type="int8")
+    model = _MODELS[model_name]
     import subprocess  # decode with ffmpeg ourselves; avoids faster-whisper/PyAV version clashes
     pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ss:.2f}", "-to", f"{to:.2f}", "-i", str(audio_path),
                           "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
                          capture_output=True, timeout=180).stdout
     pcm_arr = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
-    segs, info = _MODEL.transcribe(pcm_arr, word_timestamps=True, vad_filter=True, beam_size=1)
+    segs, info = model.transcribe(pcm_arr, word_timestamps=True, vad_filter=True, beam_size=1, language=language)
     words = []
     for s in segs:
         for w in s.words or []:
@@ -233,7 +243,8 @@ def process_broadcast(b, cfg, progress, workdir):
     f, c = cfg["finder"], cfg["clip"]
     key = f"{b['platform']}:{b['vod_id']}"
     end = max(0, b["duration"] - 90)   # stay clear of the live edge (ffmpeg stalls waiting for segments there)
-    start = max(progress.get(key, 0), end - f["lookback_minutes"] * 60, 0)
+    look = f.get("lookback_minutes_youtube", 240) if b["platform"] == "youtube" else f["lookback_minutes"]
+    start = max(progress.get(key, 0), end - look * 60, 0)
     if end - start < 150:
         log(f"  {b['streamer']}: only {end - start}s new since last run, skipping")
         return [], key, None
@@ -263,10 +274,13 @@ def process_broadcast(b, cfg, progress, workdir):
     cands = []
     for p in peaks:
         lo, hi = p - c["before_moment"], p + c["after_moment"]
-        words, lang, prob = transcribe(audio, max(0, lo - 5), min(secs, hi + 5), c["whisper_model"])
+        hint = b.get("language_hint")
+        words, lang, prob = transcribe(audio, max(0, lo - 5), min(secs, hi + 5),
+                                       c.get("whisper_model_hi", "large-v3-turbo") if hint == "hi" else c["whisper_model"],
+                                       language=hint)
         allowed = f.get("allowed_languages")
         if allowed and lang not in allowed and prob > 0.6:
-            log(f"    skipped a moment: speech is '{lang}', not English")
+            log(f"    skipped a moment: speech is '{lang}', not English/Hindi")
             continue
         base = max(0, lo - 5)
         rel = [[w[0] + base, w[1] + base, w[2]] for w in words]  # window-relative
@@ -315,7 +329,7 @@ def main():
     log(f"Game phase tonight: {active_phase(cfg)[1] or '?'} {active_phase(cfg)[0] or '(any game)'}")
     test = os.environ.get("TEST_STREAMERS", "").strip()
     if test:
-        cfg["streamers"] = {"twitch": [], "kick": []}
+        cfg["streamers"] = {"twitch": [], "kick": [], "youtube": [], "hindi": cfg["streamers"].get("hindi") or []}
         for item in test.split(","):
             plat, _, name = item.strip().partition(":")
             if plat in cfg["streamers"] and name:
@@ -323,7 +337,7 @@ def main():
         log(f"TEST MODE: {cfg['streamers']}")
     all_cands = []
     deadline = time.time() + cfg["finder"].get("run_budget_minutes", 32) * 60
-    for platform in ("twitch", "kick"):
+    for platform in ("twitch", "kick", "youtube"):
         for user in cfg["streamers"].get(platform) or []:
             if time.time() > deadline:
                 log(f"Time budget used up, skipping {platform}/{user} (will be first next run)")

@@ -78,7 +78,7 @@ def save_json(path, obj):
 def ytdlp_base():
     """Common yt-dlp flags. Impersonation helps with Kick's Cloudflare."""
     return [sys.executable, "-m", "yt_dlp", "--no-warnings", "--no-progress",
-            "--socket-timeout", "30", "--retries", "5"]
+            "--socket-timeout", "30", "--retries", "5", "--js-runtimes", "node"]  # node solves YouTube's JS checks
 
 
 def active_phase(cfg):
