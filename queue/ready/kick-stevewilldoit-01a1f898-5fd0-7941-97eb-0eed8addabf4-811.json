@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-811",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -199,5 +199,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795173414,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Dead air / chat talk about IRL camera"
 }

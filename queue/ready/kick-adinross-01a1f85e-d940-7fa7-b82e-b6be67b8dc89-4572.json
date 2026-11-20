@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1f85e-d940-7fa7-b82e-b6be67b8dc89-4572",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -604,5 +604,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795173347,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Racially charged banter, unsafe for publishing"
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1f85e-d940-7fa7-b82e-b6be67b8dc89-3584",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -519,5 +519,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795173358,
-  "meta": null
+  "meta": {
+    "hook": "ONE MORE AND IT'S OVER",
+    "title": "Adin Ross begs for survival in GTA 6 Day 3 😭 #gta6 #shorts",
+    "description": "Adin Ross is on the edge in GTA 6 and screams \"one more\" until it finally works 💀\n\nHave you ever escaped by a hair in GTA 6? 👇\n\n#gta6 #gtavi #adinross #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "adin ross",
+      "adin ross gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Adin Ross is begging for survival in GTA 6 and it comes down to the wire 😭 Would you have made it? 👇\n\n🎥 adinross (kick.com/adinross)\n\n#gta6 #gtavi #adinross #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
