@@ -1,0 +1,108 @@
+{
+  "id": "kick-8bitheadflicker-01a1f961-31f8-70f1-aea1-ad111fd51e7f-11842",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a1f961-31f8-70f1-aea1-ad111fd51e7f#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1f961-31f8-70f1-aea1-ad111fd51e7f",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 3 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 11807.23,
+  "end": 11855,
+  "peak": 11842,
+  "score": 1.65,
+  "language": "hi",
+  "transcript": "वहाँ लगए गाड़ी कि वैंट लगए लगए लगए लगए वहाँ वहाँ ले वेटे लगए लगए वहाँ लगए",
+  "words": [
+    [
+      0.15,
+      0.75,
+      "वहाँ"
+    ],
+    [
+      0.75,
+      1.05,
+      "लगए"
+    ],
+    [
+      1.05,
+      1.35,
+      "गाड़ी"
+    ],
+    [
+      1.35,
+      1.49,
+      "कि"
+    ],
+    [
+      1.49,
+      1.79,
+      "वैंट"
+    ],
+    [
+      1.79,
+      2.51,
+      "लगए"
+    ],
+    [
+      2.51,
+      3.15,
+      "लगए"
+    ],
+    [
+      5.33,
+      5.65,
+      "लगए"
+    ],
+    [
+      5.65,
+      5.81,
+      "लगए"
+    ],
+    [
+      5.81,
+      6.45,
+      "वहाँ"
+    ],
+    [
+      10.23,
+      11.23,
+      "वहाँ"
+    ],
+    [
+      11.23,
+      12.43,
+      "ले"
+    ],
+    [
+      12.43,
+      12.75,
+      "वेटे"
+    ],
+    [
+      12.75,
+      13.99,
+      "लगए"
+    ],
+    [
+      13.99,
+      13.99,
+      "लगए"
+    ],
+    [
+      18.98,
+      20.54,
+      "वहाँ"
+    ],
+    [
+      22.14,
+      24.0,
+      "लगए"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795198836,
+  "meta": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "twitch-kaicenat-v2934866208-17395",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-20 18:07",
+  "game": "GTA 6",
+  "start": 17362.75,
+  "end": 17408,
+  "peak": 17395,
+  "score": 2.4,
+  "language": "en",
+  "transcript": "Oh nah, he knows him. Hey, have you seen Andreas? Sorry Lights is frying",
+  "words": [
+    [
+      0.15,
+      0.77,
+      "Oh"
+    ],
+    [
+      0.77,
+      1.07,
+      "nah,"
+    ],
+    [
+      8.09,
+      8.17,
+      "he"
+    ],
+    [
+      8.17,
+      8.37,
+      "knows"
+    ],
+    [
+      8.37,
+      8.65,
+      "him."
+    ],
+    [
+      8.81,
+      9.43,
+      "Hey,"
+    ],
+    [
+      9.45,
+      9.61,
+      "have"
+    ],
+    [
+      9.61,
+      9.71,
+      "you"
+    ],
+    [
+      9.71,
+      9.91,
+      "seen"
+    ],
+    [
+      9.91,
+      10.23,
+      "Andreas?"
+    ],
+    [
+      11.15,
+      11.59,
+      "Sorry"
+    ],
+    [
+      20.38,
+      20.69,
+      "Lights"
+    ],
+    [
+      27.35,
+      27.97,
+      "is"
+    ],
+    [
+      27.97,
+      28.35,
+      "frying"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795198094,
+  "meta": null
+}
