@@ -1,0 +1,108 @@
+{
+  "id": "twitch-kaicenat-v2934866208-26770",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-20 20:07",
+  "game": "GTA 6",
+  "start": 26739.07,
+  "end": 26783,
+  "peak": 26770,
+  "score": 1.67,
+  "language": "en",
+  "transcript": "This presentability is so bad, this needs to be repaired. Where is the gas stations in Miami?",
+  "words": [
+    [
+      0.15,
+      0.27,
+      "This"
+    ],
+    [
+      0.27,
+      0.81,
+      "presentability"
+    ],
+    [
+      0.81,
+      0.99,
+      "is"
+    ],
+    [
+      0.99,
+      1.07,
+      "so"
+    ],
+    [
+      1.07,
+      1.35,
+      "bad,"
+    ],
+    [
+      1.65,
+      2.01,
+      "this"
+    ],
+    [
+      28.96,
+      29.16,
+      "needs"
+    ],
+    [
+      29.16,
+      29.32,
+      "to"
+    ],
+    [
+      29.32,
+      29.4,
+      "be"
+    ],
+    [
+      29.4,
+      30.0,
+      "repaired."
+    ],
+    [
+      30.96,
+      31.36,
+      "Where"
+    ],
+    [
+      31.36,
+      31.7,
+      "is"
+    ],
+    [
+      31.7,
+      31.82,
+      "the"
+    ],
+    [
+      31.82,
+      32.18,
+      "gas"
+    ],
+    [
+      32.18,
+      32.6,
+      "stations"
+    ],
+    [
+      32.6,
+      32.8,
+      "in"
+    ],
+    [
+      32.8,
+      33.1,
+      "Miami?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795205283,
+  "meta": null
+}
