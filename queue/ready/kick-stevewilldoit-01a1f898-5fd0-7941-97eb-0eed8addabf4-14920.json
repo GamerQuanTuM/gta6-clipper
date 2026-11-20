@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-14920",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -349,5 +349,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795187619,
-  "meta": null
+  "meta": {
+    "hook": "WE GOT AN EXPERT FOR GTA 6",
+    "title": "SteveWillDoIt brings in Eddie to help with GTA 6 #shorts",
+    "description": "SteveWillDoIt is back and calls in Eddie, the \"expert\" who knows how to play GTA 🤣\n\nCan Eddie actually carry the GTA 6 night shift? 👇\n\n#gta6 #gtavi #stevewilldoit #eddie #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "eddie",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "kick streamer",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt is back and Eddie the \"GTA expert\" takes a seat 🤣 Will he carry the night shift? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #eddie #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

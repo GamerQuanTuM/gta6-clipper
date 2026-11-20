@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a1f961-31f8-70f1-aea1-ad111fd51e7f-1111",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -239,5 +239,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795187835,
-  "meta": null
+  "meta": {
+    "hook": "BHAI NE KAR DIKHAYA",
+    "title": "8bitheadflicker ka GTA 6 me dhamakedar reaction 😭 #gta6 #shorts",
+    "description": "8bitheadflicker ka GTA 6 gameplay me full on reaction, \"OMG\" moment 😂\n\nTumhe kya lagta hai, ye moment kitna crazy tha? Comment me batao 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "8bitheadflicker",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "grand theft auto 6",
+      "streamer moments",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "8bitheadflicker ka GTA 6 me full OMG reaction 😭 Tumhara kya reaction hota? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #gaming #reels #indiangamer",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a1f961-31f8-70f1-aea1-ad111fd51e7f-191",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -299,5 +299,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795187743,
-  "meta": null
+  "meta": null,
+  "reject_reason": "garbled Hindi, streamer just chatting/asking chat to show things; no clear moment"
 }

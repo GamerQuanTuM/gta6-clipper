@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-15092",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -404,5 +404,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795187627,
-  "meta": null
+  "meta": {
+    "hook": "NOT ONE MISSION DONE ALL DAY",
+    "title": "SteveWillDoIt didn't finish one GTA 6 mission 😭 #shorts",
+    "description": "SteveWillDoIt says he didn't accomplish one mission in GTA 6 while the house was locked down 😭\n\nHow many missions would you have finished? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 missions",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "kick streamer",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt: \"I didn't accomplish one mission. Not one.\" 😭 GTA 6 had him cooked. How many missions would you finish? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
