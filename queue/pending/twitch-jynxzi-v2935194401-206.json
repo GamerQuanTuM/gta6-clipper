@@ -1,0 +1,173 @@
+{
+  "id": "twitch-jynxzi-v2935194401-206",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2935194401",
+  "vod_id": "v2935194401",
+  "vod_title": "[681/730] 🔴 KRILLION -> CHESS ROAD TO 1K ELO -> LEGENDS DIVISION TOP 1K PUSH 🔴 FANMAIL TMR 🔴 TAKIN LIL BREAK FROM GTA 6 🔴 2026-11-20 19:09",
+  "game": "GTA 6",
+  "start": 171.52,
+  "end": 218.86,
+  "peak": 206,
+  "score": 2.72,
+  "language": "en",
+  "transcript": "Oh What's y 'all's favorite one from him? Oh My god Rules in this shit when it come about enough you can't never trust a bitch that talks a month",
+  "words": [
+    [
+      0.15,
+      0.67,
+      "Oh"
+    ],
+    [
+      5.77,
+      6.29,
+      "What's"
+    ],
+    [
+      6.29,
+      6.33,
+      "y"
+    ],
+    [
+      6.33,
+      6.51,
+      "'all's"
+    ],
+    [
+      6.51,
+      6.73,
+      "favorite"
+    ],
+    [
+      6.73,
+      7.01,
+      "one"
+    ],
+    [
+      7.01,
+      7.15,
+      "from"
+    ],
+    [
+      7.15,
+      7.39,
+      "him?"
+    ],
+    [
+      9.75,
+      10.27,
+      "Oh"
+    ],
+    [
+      14.14,
+      14.66,
+      "My"
+    ],
+    [
+      14.66,
+      14.84,
+      "god"
+    ],
+    [
+      41.98,
+      42.38,
+      "Rules"
+    ],
+    [
+      42.38,
+      42.62,
+      "in"
+    ],
+    [
+      42.62,
+      42.76,
+      "this"
+    ],
+    [
+      42.76,
+      42.92,
+      "shit"
+    ],
+    [
+      42.92,
+      43.06,
+      "when"
+    ],
+    [
+      43.06,
+      43.16,
+      "it"
+    ],
+    [
+      43.16,
+      43.36,
+      "come"
+    ],
+    [
+      43.36,
+      43.62,
+      "about"
+    ],
+    [
+      43.62,
+      43.98,
+      "enough"
+    ],
+    [
+      43.98,
+      45.14,
+      "you"
+    ],
+    [
+      45.14,
+      45.42,
+      "can't"
+    ],
+    [
+      45.42,
+      45.56,
+      "never"
+    ],
+    [
+      45.56,
+      45.8,
+      "trust"
+    ],
+    [
+      45.8,
+      46.0,
+      "a"
+    ],
+    [
+      46.0,
+      46.1,
+      "bitch"
+    ],
+    [
+      46.1,
+      46.3,
+      "that"
+    ],
+    [
+      46.3,
+      46.56,
+      "talks"
+    ],
+    [
+      46.56,
+      46.76,
+      "a"
+    ],
+    [
+      46.76,
+      47.04,
+      "month"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795201761,
+  "meta": null
+}
