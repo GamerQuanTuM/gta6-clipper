@@ -1,0 +1,173 @@
+{
+  "id": "twitch-zackrawrr-v2933941381-26968",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2933941381",
+  "vod_id": "v2933941381",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247",
+  "game": "GTA 6",
+  "start": 26932.83,
+  "end": 26981.36,
+  "peak": 26968,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "Hmm get it as soon as we see the doctor okay? He's in the trunk. Let me get him out of the trunk Remove dr. Bill Wait a minute women",
+  "words": [
+    [
+      0.15,
+      0.43,
+      "Hmm"
+    ],
+    [
+      0.43,
+      0.71,
+      "get"
+    ],
+    [
+      0.71,
+      0.85,
+      "it"
+    ],
+    [
+      0.85,
+      0.97,
+      "as"
+    ],
+    [
+      0.97,
+      1.23,
+      "soon"
+    ],
+    [
+      1.23,
+      1.35,
+      "as"
+    ],
+    [
+      1.35,
+      1.49,
+      "we"
+    ],
+    [
+      1.49,
+      1.63,
+      "see"
+    ],
+    [
+      1.63,
+      1.75,
+      "the"
+    ],
+    [
+      1.75,
+      2.11,
+      "doctor"
+    ],
+    [
+      2.11,
+      3.25,
+      "okay?"
+    ],
+    [
+      8.28,
+      8.56,
+      "He's"
+    ],
+    [
+      8.56,
+      8.7,
+      "in"
+    ],
+    [
+      8.7,
+      8.84,
+      "the"
+    ],
+    [
+      8.84,
+      9.2,
+      "trunk."
+    ],
+    [
+      9.28,
+      9.5,
+      "Let"
+    ],
+    [
+      9.5,
+      9.6,
+      "me"
+    ],
+    [
+      9.6,
+      9.74,
+      "get"
+    ],
+    [
+      9.74,
+      9.84,
+      "him"
+    ],
+    [
+      9.84,
+      9.94,
+      "out"
+    ],
+    [
+      9.94,
+      10.04,
+      "of"
+    ],
+    [
+      10.04,
+      10.1,
+      "the"
+    ],
+    [
+      10.1,
+      10.32,
+      "trunk"
+    ],
+    [
+      14.24,
+      14.52,
+      "Remove"
+    ],
+    [
+      14.52,
+      14.8,
+      "dr."
+    ],
+    [
+      15.24,
+      15.24,
+      "Bill"
+    ],
+    [
+      33.84,
+      34.12,
+      "Wait"
+    ],
+    [
+      34.12,
+      34.14,
+      "a"
+    ],
+    [
+      46.53,
+      48.09,
+      "minute"
+    ],
+    [
+      48.09,
+      48.23,
+      "women"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795169054,
+  "meta": null
+}

@@ -1,0 +1,148 @@
+{
+  "id": "twitch-xqc-v2934155295-43758",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2934155295",
+  "vod_id": "v2934155295",
+  "vod_title": "🥥60 FPS GTA 6🥥LIVE🥥FINISHING PLAYTHROUGH🥥NOW🥥LONG STREAM PROBABLY🥥VERY COOL🥥LOCK IT IN🥥 2026-11-20 10:00",
+  "game": "GTA 6",
+  "start": 43727.3,
+  "end": 43771.21,
+  "peak": 43758,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "The bike throws one right to the right with cemetery I lose them in here Keep driving straight through their fence This thing is blanking",
+  "words": [
+    [
+      0.15,
+      0.47,
+      "The"
+    ],
+    [
+      0.47,
+      0.71,
+      "bike"
+    ],
+    [
+      0.71,
+      1.61,
+      "throws"
+    ],
+    [
+      5.93,
+      6.23,
+      "one"
+    ],
+    [
+      8.6,
+      9.58,
+      "right"
+    ],
+    [
+      9.58,
+      9.84,
+      "to"
+    ],
+    [
+      9.84,
+      9.98,
+      "the"
+    ],
+    [
+      9.98,
+      10.2,
+      "right"
+    ],
+    [
+      10.2,
+      10.94,
+      "with"
+    ],
+    [
+      10.94,
+      11.4,
+      "cemetery"
+    ],
+    [
+      11.4,
+      12.4,
+      "I"
+    ],
+    [
+      12.4,
+      12.7,
+      "lose"
+    ],
+    [
+      12.7,
+      12.84,
+      "them"
+    ],
+    [
+      12.84,
+      12.92,
+      "in"
+    ],
+    [
+      12.92,
+      13.14,
+      "here"
+    ],
+    [
+      16.06,
+      16.38,
+      "Keep"
+    ],
+    [
+      16.38,
+      17.02,
+      "driving"
+    ],
+    [
+      17.02,
+      17.98,
+      "straight"
+    ],
+    [
+      25.02,
+      25.18,
+      "through"
+    ],
+    [
+      25.18,
+      25.34,
+      "their"
+    ],
+    [
+      25.34,
+      25.72,
+      "fence"
+    ],
+    [
+      41.45,
+      41.77,
+      "This"
+    ],
+    [
+      41.77,
+      42.31,
+      "thing"
+    ],
+    [
+      42.31,
+      42.53,
+      "is"
+    ],
+    [
+      42.53,
+      43.61,
+      "blanking"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795168821,
+  "meta": null
+}
