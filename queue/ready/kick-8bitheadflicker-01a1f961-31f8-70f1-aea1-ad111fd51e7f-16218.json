@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a1f961-31f8-70f1-aea1-ad111fd51e7f-16218",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -154,5 +154,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795202395,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE KYA HO GAYA",
+    "title": "8bitheadflicker ka GTA 6 Day 3 gameplay 😭 #gta6 #shorts",
+    "description": "8bitheadflicker ka GTA 6 Day 3 walkthrough me ye moment aaya 💀\n\nTumhe GTA 6 me sabse zyada kya pasand aaya? Comment karo 👇\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "gta 6 hindi",
+      "gta 6 india",
+      "8bitheadflicker",
+      "8bit headflicker",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "8bitheadflicker ka GTA 6 Day 3 me ye moment 💀 Tumhara kya reaction hota? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #gta6india #8bitheadflicker #gaming #reels",
+    "source": "claude"
+  }
 }

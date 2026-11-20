@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-29002",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -649,5 +649,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795202273,
-  "meta": null
+  "meta": {
+    "hook": "HE WANTS A VIRTUAL BEER IN GTA 6",
+    "title": "SteveWillDoIt asks to drink a virtual beer in GTA 6 🍺 #shorts",
+    "description": "SteveWillDoIt is in a casino in GTA 6 and wants a virtual drink, then asks if he can rob everyone 💀\n\nWhat's the first thing YOU would do in GTA 6? 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 casino",
+      "grand theft auto 6",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt wants a virtual beer in the GTA 6 casino, then asks if he can rob everyone 💀 What would you do first? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

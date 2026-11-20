@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2935194401-206",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -169,5 +169,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795201761,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Jynxzi is on a break from GTA 6 (chess stream); transcript is rap lyrics/music, not a live reaction"
 }
