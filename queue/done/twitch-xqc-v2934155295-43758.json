@@ -1,0 +1,44 @@
+{
+  "id": "twitch-xqc-v2934155295-43758",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2934155295",
+  "vod_id": "v2934155295",
+  "vod_title": "🥥60 FPS GTA 6🥥LIVE🥥FINISHING PLAYTHROUGH🥥NOW🥥LONG STREAM PROBABLY🥥VERY COOL🥥LOCK IT IN🥥 2026-11-20 10:00",
+  "game": "GTA 6",
+  "start": 43727.3,
+  "end": 43771.21,
+  "peak": 43758,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "The bike throws one right to the right with cemetery I lose them in here Keep driving straight through their fence This thing is blanking",
+  "chat_sample": [],
+  "created_unix": 1795168821,
+  "meta": {
+    "hook": "XQC LOSES THEM ON A BIKE",
+    "title": "xQc tries to lose a chase on a bike in GTA 6 🏍️ #shorts",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc swings a bike right through a fence in GTA 6 💨\n\nCan he shake them off?\n\nWould you survive this chase? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "grand theft auto 6",
+      "gta 6 chase",
+      "gta 6 bike",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc cuts through a fence on a bike to lose the chase in GTA 6 💨 Would you make it? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 45.9,
+  "rendered_unix": 1795173297
+}
