@@ -5,8 +5,7 @@ on:
   push:
     paths: ["queue/ready/**"]
   schedule:
-    - cron: "25 20-23 * * *"
-    - cron: "25 0-1 * * *"
+    - cron: "5 * * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -50,6 +49,8 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: python clipper/render.py
       - name: Save queue
         if: always()

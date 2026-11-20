@@ -4,8 +4,7 @@ on:
   push:
     paths: ["trigger/**"]   # backup: Claude's hourly task pushes trigger/tick.txt to start a scan
   schedule:
-    - cron: "30 19-23 * * *"
-    - cron: "30 0 * * *"
+    - cron: "30 * * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -47,6 +46,7 @@ jobs:
           done
       - name: Find moments
         env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
           FORCE_RUN: ${{ inputs.force && '1' || '0' }}
           TEST_STREAMERS: ${{ inputs.test_streamers }}
           ANY_GAME: ${{ inputs.test_streamers != '' && '1' || '0' }}

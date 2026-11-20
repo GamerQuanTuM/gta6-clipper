@@ -19,6 +19,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from common import (QUEUE, ROOT, STATE, campaign_active, load_config, load_json, log,  # noqa: E402
                     night_key, run, save_json, ytdlp_base)
+import instagram_upload as insta  # noqa: E402
 
 W, H = 1080, 1920
 FACE_H = 640   # facecam panel height
@@ -445,25 +446,80 @@ def publish_clip(night, n, c, mp4, txt):
     v, t = folder / f"{name}.mp4", folder / f"{name}-post.txt"
     shutil.copy(mp4, v)
     shutil.copy(txt, t)
+    plats = platforms_of(m)
+    dest = " + ".join({"youtube": "YouTube", "instagram": "Instagram"}[p] for p in plats)
+    how = []
+    if "youtube" in plats:
+        how.append("**YouTube (post it yourself):** download the MP4 below, then in the YouTube app tap "
+                   "**Create → Short → upload**. Long-press a block to copy it.")
+    if "instagram" in plats:
+        how.append("**Instagram:** posted automatically (the link appears here once it's live)."
+                   if insta.enabled() else "**Instagram:** not connected yet. Post it yourself from the Instagram app.")
     notes = "\n".join([
+        f"**Goes to:** {dest}  ",
         f"**Hook:** {m['hook']}  ",
         f"**From:** [{c['streamer_name']}]({c['channel_url']}) · {c.get('duration_s', '?')}s · 1080x1920 60fps",
         "",
-        "Download the MP4 below, then post it from the YouTube app (**Create → Short → upload**). "
-        "Long-press a block to copy it.",
+        *how,
         "",
         "**Title**\n```\n" + m["title"] + "\n```",
         "**Description**\n```\n" + m["description"] + "\n```",
         "**Tags**\n```\n" + ", ".join(m["tags"]) + "\n```",
+        "**Instagram caption**\n```\n" + insta.caption_for(m) + "\n```",
         "",
         f"[All clips from {day}](https://github.com/{repo}/releases?q={night}&expanded=true)",
     ])
     nf = folder / "notes.md"
     nf.write_text(notes, encoding="utf-8")
-    title = f"{day} · #{n:02d} · {c['streamer_name']}: {m['title']}"[:120]
+    short = "+".join({"youtube": "YT", "instagram": "IG"}[p] for p in plats)
+    title = f"{day} · #{n:02d} · {short} · {c['streamer_name']}: {m['title']}"[:120]
     gh("release", "create", tag, str(v), str(t), "--title", title, "--notes-file", str(nf))
     shutil.rmtree(folder, ignore_errors=True)
     return tag
+
+
+def platforms_of(meta):
+    p = [x for x in (meta.get("platforms") or ["youtube", "instagram"]) if x in ("youtube", "instagram")]
+    return p or ["youtube"]
+
+
+def post_instagram(cfg):
+    """Post today's Instagram-bound clips a few at a time, oldest first."""
+    if not insta.enabled() or not cfg["publish"].get("instagram", True):
+        return
+    night = night_key()
+    night_file = STATE / "nights" / f"{night}.json"
+    items = load_json(night_file, [])
+    pending = [x for x in items if "instagram" in platforms_of(x.get("meta") or {})
+               and not x.get("ig_link") and x.get("release") and x.get("ig_attempts", 0) < 3]
+    done_today = sum(1 for x in items if x.get("ig_link"))
+    budget = min(cfg["publish"].get("instagram_per_run", 4),
+                 cfg["publish"].get("instagram_per_day", 25) - done_today)
+    left = insta.posts_left_today()
+    if left is not None:
+        budget = min(budget, left - 1)
+    if not pending or budget <= 0:
+        return
+    repo = os.environ.get("GITHUB_REPOSITORY", "GamerQuanTuM/gta6-clipper")
+    for x in pending[:budget]:
+        d = Path(tempfile.mkdtemp(prefix="ig_"))
+        try:
+            gh("release", "download", x["release"], "-p", "*.mp4", "-D", str(d))
+            mp4 = next(d.glob("*.mp4"))
+            url = f"https://github.com/{repo}/releases/download/{x['release']}/{mp4.name}"
+            media_id, link = insta.post_reel(mp4, insta.caption_for(x["meta"]), public_url=url)
+            x["ig_link"] = link or f"instagram media {media_id}"
+            log(f"  Instagram: posted {x['release']} -> {x['ig_link']}")
+            rel = json.loads(gh("api", f"repos/{repo}/releases/tags/{x['release']}"))
+            gh("api", "-X", "PATCH", f"repos/{repo}/releases/{rel['id']}",
+               "-f", f"name={rel['name'].replace('IG ·', 'IG ✓ ·').replace('+IG', '+IG ✓')}",
+               "-f", f"body=**Instagram:** posted ✓ {x['ig_link']}\n\n{rel['body']}")
+        except Exception as ex:
+            x["ig_attempts"] = x.get("ig_attempts", 0) + 1
+            log(f"  Instagram post failed for {x['release']}: {str(ex)[-400:]}")
+        finally:
+            shutil.rmtree(d, ignore_errors=True)
+            save_json(night_file, items)
 
 
 def silent_spots(mp4, seconds=8, db=-55):
@@ -510,6 +566,7 @@ def main():
     items = due_items(cfg)
     if not items:
         log("Nothing to render.")
+        post_instagram(cfg)
         return
     night = night_key()
     night_file = STATE / "nights" / f"{night}.json"
@@ -598,7 +655,8 @@ def main():
         finally:
             shutil.rmtree(workdir, ignore_errors=True)
     save_json(night_file, night_items)
-    log(f"Published {published} clips tonight's total: {len(night_items)}")
+    log(f"Published {published} clips; today's total: {len(night_items)}")
+    post_instagram(cfg)
 
 
 if __name__ == "__main__":

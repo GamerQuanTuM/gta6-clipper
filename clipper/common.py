@@ -4,6 +4,7 @@ import json
 import os
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 import yaml
@@ -76,9 +77,18 @@ def save_json(path, obj):
 
 
 def ytdlp_base():
-    """Common yt-dlp flags. Impersonation helps with Kick's Cloudflare."""
+    """Common yt-dlp flags. Impersonation helps with Kick's Cloudflare.
+    YouTube refuses cloud servers unless signed in: put a spare account's cookies.txt
+    in the YT_COOKIES secret."""
+    extra = []
+    ck = os.environ.get("YT_COOKIES", "").strip()
+    if ck:
+        path = Path(tempfile.gettempdir()) / "yt_cookies.txt"
+        if not path.exists():
+            path.write_text(ck if ck.startswith("# ") else "# Netscape HTTP Cookie File\n" + ck, encoding="utf-8")
+        extra = ["--cookies", str(path)]
     return [sys.executable, "-m", "yt_dlp", "--no-warnings", "--no-progress",
-            "--socket-timeout", "30", "--retries", "5", "--js-runtimes", "node"]  # node solves YouTube's JS checks
+            "--socket-timeout", "30", "--retries", "5", "--js-runtimes", "node", *extra]
 
 
 def active_phase(cfg):

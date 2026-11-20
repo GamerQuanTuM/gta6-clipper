@@ -40,7 +40,7 @@ finder:
   lookback_minutes_youtube: 240  # YouTube streams are scanned in one go after they end
   clips_per_streamer: 3       # per run
   clips_per_run: 9            # total per hourly run (Claude rejects ~40%, so ~5 publish per hour)
-  max_clips_per_night: 25     # stop finding once this many are published tonight
+  max_clips_per_night: 40     # per IST day: stop finding once this many are published today
   min_words: 8                # skip moments where the streamer barely speaks (game audio / cutscenes)
   min_score: 2.2              # higher = only bigger reactions
   min_gap_seconds: 120        # keep picked moments this far apart
@@ -74,3 +74,6 @@ publish:
   youtube_privacy: public
   max_youtube_uploads_per_night: 6
   fallback_after_minutes: 150 # only if Claude missed 2 hourly reviews: render with template text
+  instagram: true             # post clips Claude assigns to Instagram (needs the IG_ACCESS_TOKEN secret)
+  instagram_per_run: 4        # spread posts out: at most this many per hourly run
+  instagram_per_day: 25       # and at most this many per day
