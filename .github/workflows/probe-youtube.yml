@@ -1,0 +1,27 @@
+name: 9-probe-youtube
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: "YouTube video id"
+        required: true
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    services:
+      pot:
+        image: brainicism/bgutil-ytdlp-pot-provider
+        ports: ["4416:4416"]
+    steps:
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q "yt-dlp[default,curl-cffi]" bgutil-ytdlp-pot-provider
+      - name: Try player clients
+        run: |
+          V="https://www.youtube.com/watch?v=${{ inputs.video }}"
+          for c in default tv_simply tv mweb web_safari android_vr web_embedded ios; do
+            out=$(timeout 90 yt-dlp --js-runtimes node --skip-download --print "%(title).40s | %(duration)s | formats=%(formats.:.format_id)s" \
+                  --extractor-args "youtube:player_client=$c" "$V" 2>&1 | tail -1 | cut -c1-200)
+            echo "$c => $out"
+          done

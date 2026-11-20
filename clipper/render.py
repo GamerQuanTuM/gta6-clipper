@@ -84,7 +84,7 @@ def esc(text):
     return text.replace("\\", "").replace("{", "(").replace("}", ")").replace("\n", " ")
 
 
-def build_ass(words, hook, credit, teaser, total, cap_margin, hook_mv=190, top_mv=210):
+def build_ass(words, hook, credit, teaser, total, cap_margin, hook_mv=190, top_mv=210, font="Anton"):
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -94,9 +94,9 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Hook,Anton,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,7,3,8,70,70,{hook_mv},1
-Style: Top,Anton,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,5,2,8,80,80,{top_mv},1
-Style: Cap,Anton,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,6,2,2,70,70,{cap_margin},1
+Style: Hook,{font},104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,7,3,8,70,70,{hook_mv},1
+Style: Top,{font},64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,5,2,8,80,80,{top_mv},1
+Style: Cap,{font},88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,6,2,2,70,70,{cap_margin},1
 Style: Credit,Anton,40,&H00E6E6E6,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,1,0,1,3,1,2,40,40,95,1
 
 [Events]
@@ -367,7 +367,8 @@ def render(c, meta, cfg, src, src_offset, out_path, workdir):
             log(f"  AI facecam failed, using normal upscale: {str(ex)[-200:]}")
     credit = c["channel_url"].replace("https://", "").replace("www.", "")
     ass = workdir / "subs.ass"
-    ass.write_text(build_ass(c["words"], meta["hook"], credit, teaser, total, cap_margin, hook_mv, top_mv),
+    ass.write_text(build_ass(c["words"], meta["hook"], credit, teaser, total, cap_margin, hook_mv, top_mv,
+                              font="Mukta ExtraBold" if c.get("language") == "hi" else "Anton"),
                    encoding="utf-8")
 
     fonts = ROOT / "fonts"
