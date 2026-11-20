@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-23622",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -169,5 +169,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795198581,
-  "meta": null
+  "meta": {
+    "hook": "GET OUT OF THE CAR GET OUT",
+    "title": "SteveWillDoIt panics 'get out of the car' in GTA 6 😭 #shorts",
+    "description": "SteveWillDoIt's GTA 6 session turns into pure panic 💀\n\nWho would you panic with in GTA 6? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts",
+      "stevewilldoit gta 6"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt's GTA 6 session turns into pure panic 💀 Who are you wrecking cars with? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

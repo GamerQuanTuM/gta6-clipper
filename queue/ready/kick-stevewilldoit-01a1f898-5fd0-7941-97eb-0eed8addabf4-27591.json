@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-27591",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -739,5 +739,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795201192,
-  "meta": null
+  "meta": {
+    "hook": "I LOST ALL THE MONEY",
+    "title": "SteveWillDoIt loses all the money in GTA 6 😭 #shorts",
+    "description": "One mistake and SteveWillDoIt has to redo the whole GTA 6 mission 😭\n\nHave you ever lost everything in a game? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts",
+      "stevewilldoit gta 6",
+      "gta 6 mission"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "One mistake and SteveWillDoIt has to redo the whole GTA 6 mission 😭 Worst game loss ever? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

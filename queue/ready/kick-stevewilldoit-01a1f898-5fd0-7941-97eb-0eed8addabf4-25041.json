@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-25041",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -214,5 +214,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795198575,
-  "meta": null
+  "meta": {
+    "hook": "WHY ARE YOU SLOWING DOWN FOR ME",
+    "title": "SteveWillDoIt lands some wild shots in GTA 6 🎯 #shorts",
+    "description": "SteveWillDoIt can't believe the shots he's hitting in GTA 6 🎯\n\nWas that skill or luck? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts",
+      "stevewilldoit gta 6",
+      "gta 6 shooting"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt can't believe the shots he's hitting in GTA 6 🎯 Skill or luck? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

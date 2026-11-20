@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-28772",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -719,5 +719,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795201183,
-  "meta": null
+  "meta": {
+    "hook": "WHO DO I NEED TO KILL FOR MONEY",
+    "title": "SteveWillDoIt can't withdraw cash in GTA 6 💀 #shorts",
+    "description": "A gas tank explosion, no ATM money, and a very confused SteveWillDoIt in GTA 6 💀\n\nHow would you get the cash? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "stevewilldoit",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts",
+      "stevewilldoit gta 6",
+      "gta 6 atm"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "A gas tank explosion, no ATM money, and a very confused SteveWillDoIt in GTA 6 💀 How would you get the cash? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
