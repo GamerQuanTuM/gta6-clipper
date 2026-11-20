@@ -1,6 +1,6 @@
 {
   "id": "twitch-ishowspeed-v2934870795-3271",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ishowspeed",
   "streamer_name": "IShowSpeed",
@@ -309,5 +309,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795191363,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game Italian cutscene dialogue; reaction is a single line"
 }

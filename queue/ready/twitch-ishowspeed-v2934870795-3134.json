@@ -1,6 +1,6 @@
 {
   "id": "twitch-ishowspeed-v2934870795-3134",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ishowspeed",
   "streamer_name": "IShowSpeed",
@@ -539,5 +539,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795191375,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game cutscene dialogue (Matia / chapter one), not a live reaction"
 }

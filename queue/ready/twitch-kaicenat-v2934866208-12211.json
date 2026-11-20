@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2934866208-12211",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -249,5 +249,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795190982,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Mic/audio testing chatter, not about the game"
 }

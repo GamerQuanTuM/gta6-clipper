@@ -1,6 +1,6 @@
 {
   "id": "twitch-ishowspeed-v2934870795-6218",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ishowspeed",
   "streamer_name": "IShowSpeed",
@@ -354,5 +354,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795191368,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Mostly scripted in-game dialogue; no clear streamer reaction"
 }
