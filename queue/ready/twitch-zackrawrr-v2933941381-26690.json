@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2933941381-26690",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -339,5 +339,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795169060,
-  "meta": null
+  "meta": {
+    "hook": "CHAT TOLD HIM THE DOG IS DEAD",
+    "title": "zackrawrr finds out the dog is dead in GTA 6 💀 #shorts",
+    "description": "zackrawrr panics, runs away and then chat breaks the news in GTA 6 💀\n\nThe dog is dead already...\n\nWhat's the wildest thing that's happened to you in GTA 6? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawr",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr runs from a gun fight and chat tells him the dog is already dead 💀 What would you do? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1f78e-3ee8-705c-887a-ce30d4fbf617-8937",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -359,5 +359,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795169329,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Stream title says NO GTA6 HERE; actual game unidentifiable, so game label is wrong"
 }
