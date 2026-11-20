@@ -338,6 +338,9 @@ def main():
     all_cands = []
     deadline = time.time() + cfg["finder"].get("run_budget_minutes", 32) * 60
     for platform in ("twitch", "kick", "youtube"):
+        if platform == "youtube" and cfg["streamers"].get("youtube") and not os.environ.get("YT_COOKIES"):
+            log("Skipping YouTube creators: YouTube blocks cloud servers unless the YT_COOKIES secret is set")
+            continue
         for user in cfg["streamers"].get(platform) or []:
             if time.time() > deadline:
                 log(f"Time budget used up, skipping {platform}/{user} (will be first next run)")
