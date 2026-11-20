@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-81313",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -494,5 +494,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795205301,
-  "meta": null
+  "meta": {
+    "hook": "HE SPENT EVERYTHING ON 1/8 OF A COUNTY",
+    "title": "Ludwig realizes how HUGE the GTA 6 map really is 🤯 #gta6 #shorts",
+    "description": "Ludwig just found out he's only explored a tiny slice of the GTA 6 map 😳\n\nHow much of the GTA 6 map have you explored so far? 👇\n\n#gta6 #gtavi #ludwig #gta6map #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "gta 6 map",
+      "gta 6 map size",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig just realized he's explored like 1/8 of ONE county in the GTA 6 map 😭 How much have you explored? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gta6map #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

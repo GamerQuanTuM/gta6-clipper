@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-1893",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -654,5 +654,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795205537,
-  "meta": null
+  "meta": {
+    "hook": "YOU HAVE TO BE A SIMP IN GTA 6",
+    "title": "zackrawrr: GTA 6 forces you to be a simp 😭 #gta6 #shorts",
+    "description": "Mayhem all day, but the girlfriend quests in GTA 6 are not optional 💀\n\nWould you get her flowers or keep causing chaos? 👇\n\n#gta6 #gtavi #zackrawrr #gta6girlfriend #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 girlfriend",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "He caused total mayhem instead of prepping for his girlfriend in GTA 6 and chat is losing it 😭 Flowers or chaos? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gta6girlfriend #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

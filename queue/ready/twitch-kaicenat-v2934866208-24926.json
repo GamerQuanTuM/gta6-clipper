@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2934866208-24926",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -444,5 +444,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795205264,
-  "meta": null
+  "meta": null,
+  "reject_reason": "mostly scripted mission/radio dialogue, no clear live reaction"
 }
