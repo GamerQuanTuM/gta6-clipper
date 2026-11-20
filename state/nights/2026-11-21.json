@@ -316,5 +316,69 @@
     },
     "duration_s": 48.5,
     "release": "2026-11-21-10-ludwig"
+  },
+  {
+    "id": "twitch-zackrawrr-v2935185818-9804",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "THE GAME HAS A SONG ABOUT HIM",
+      "title": "zackrawrr hears a song about him in GTA 6 release stream 😭 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr can't believe what just happened on his GTA 6 release stream 💀\n\nWould you freak out if a song was about you? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "zackrawrr",
+        "zack",
+        "gta 6 release",
+        "gta 6 funny moments",
+        "gta 6 radio",
+        "streamer moments",
+        "twitch streamer",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr hears a song \"about him\" on his GTA 6 release stream 😭 Would you freak out? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels #twitch",
+      "source": "claude"
+    },
+    "duration_s": 44.3,
+    "release": "2026-11-21-11-zackrawrr"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-37403",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "HE JUST LOST FOUR HUNDRED BUCKS",
+      "title": "SteveWillDoIt loses $400 and scrambles to sell cars in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt loses $400 in GTA 6 and goes straight to selling cars to make it back 💀\n\nHave you lost cash in GTA 6 yet? Tell us below 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "stevewilldoit",
+        "steve will do it",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 money",
+        "kick streamer",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "SteveWillDoIt loses $400 in GTA 6 and tries to sell cars to make it back 💀 Have you lost cash yet? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels #funnymoments",
+      "source": "claude"
+    },
+    "duration_s": 47.9,
+    "release": "2026-11-21-12-stevewilldoit"
   }
 ]
