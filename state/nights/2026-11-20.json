@@ -379,5 +379,61 @@
     },
     "duration_s": 50.0,
     "release": "2026-11-20-14-stevewilldoit"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-14483",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "CPR GONE WRONG IN GTA 6",
+      "title": "SteveWillDoIt tries CPR in GTA 6 and kicks a dead body 💀 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt thought he was saving her life in GTA 6... then it all went sideways 😭\n\nHave you ever misread a GTA 6 prompt like this? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "steve will do it",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 reaction",
+        "streamer moments",
+        "kick streamer",
+        "shorts"
+      ],
+      "priority": 3,
+      "source": "claude"
+    },
+    "duration_s": 47.9,
+    "release": "2026-11-20-15-stevewilldoit-14483"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f554-21b0-75dd-8de0-eeac80000ceb-15041",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "ROAD RAGE MID-STORY IN GTA 6",
+      "title": "SteveWillDoIt loses it on a GTA 6 driver mid-story 😭 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt was calmly telling a story until someone cut him off in GTA 6 💀\n\nWho gets the most road rage in GTA 6? 👇\n\n#gta6 #gtavi #stevewilldoit #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "steve will do it",
+        "gta 6 road rage",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "kick streamer",
+        "shorts"
+      ],
+      "priority": 1,
+      "source": "claude"
+    },
+    "duration_s": 49.1,
+    "release": "2026-11-20-16-stevewilldoit-15041"
   }
 ]
