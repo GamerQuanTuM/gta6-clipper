@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1f85e-d940-7fa7-b82e-b6be67b8dc89-7931",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -254,5 +254,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795176838,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads like scripted in-game dialogue/cutscene, not a live reaction."
 }

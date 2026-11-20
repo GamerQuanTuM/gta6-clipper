@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-52073",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -514,5 +514,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795176728,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not about the game (survey game show), sexual content in transcript."
 }

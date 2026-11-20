@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-4269",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -204,5 +204,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795176960,
-  "meta": null
+  "meta": {
+    "hook": "HE CLEARED THE WHOLE YARD AND STILL DIED",
+    "title": "SteveWillDoIt loses it at Lori after clearing the yard in GTA 6 #shorts",
+    "description": "Seven headshots, a cleared yard, and then Lori ruins everything in GTA 6 😭\n\nWho's your most annoying GTA 6 sidekick? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 lori",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt clears the whole yard in GTA 6 and Lori still wrecks it 😭 Who's your worst GTA 6 teammate? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #kick #streamer #gaming #reels",
+    "source": "claude"
+  }
 }

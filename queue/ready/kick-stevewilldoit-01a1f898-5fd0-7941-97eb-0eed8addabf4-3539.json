@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-3539",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -359,5 +359,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795176968,
-  "meta": null
+  "meta": {
+    "hook": "SO CLOSE TO DYING IN GTA 6",
+    "title": "SteveWillDoIt barely survives a GTA 6 firefight and punches a guy out #shorts",
+    "description": "SteveWillDoIt is swarmed from everywhere in GTA 6 and somehow comes out alive 😮‍💨\n\nCould you have survived that? 👇\n\n#gta6 #gtavi #stevewilldoit #kick #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 night shift",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt is surrounded in GTA 6 and survives by a hair, then punches a guy out 😮‍💨 Could you survive that? 👇\n\n🎥 stevewilldoit (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #kick #streamer #gaming #reels",
+    "source": "claude"
+  }
 }
