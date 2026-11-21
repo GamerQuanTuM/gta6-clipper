@@ -1,0 +1,93 @@
+{
+  "id": "twitch-kaicenat-v2934866208-42239",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-21 00:55",
+  "game": "GTA 6",
+  "start": 42207,
+  "end": 42252,
+  "peak": 42239,
+  "score": 2.02,
+  "language": "en",
+  "transcript": "I'm a Shit a real club Let's go be mama be mama be mama",
+  "words": [
+    [
+      16.18,
+      17.58,
+      "I'm"
+    ],
+    [
+      17.58,
+      17.58,
+      "a"
+    ],
+    [
+      17.58,
+      17.58,
+      "Shit"
+    ],
+    [
+      17.58,
+      18.86,
+      "a"
+    ],
+    [
+      18.86,
+      19.14,
+      "real"
+    ],
+    [
+      19.14,
+      19.58,
+      "club"
+    ],
+    [
+      25.14,
+      26.54,
+      "Let's"
+    ],
+    [
+      28.75,
+      28.99,
+      "go"
+    ],
+    [
+      28.99,
+      30.55,
+      "be"
+    ],
+    [
+      30.55,
+      31.11,
+      "mama"
+    ],
+    [
+      31.11,
+      32.01,
+      "be"
+    ],
+    [
+      32.01,
+      32.59,
+      "mama"
+    ],
+    [
+      32.59,
+      33.49,
+      "be"
+    ],
+    [
+      33.49,
+      34.09,
+      "mama"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795222543,
+  "meta": null
+}
