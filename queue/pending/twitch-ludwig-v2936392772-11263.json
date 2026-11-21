@@ -1,0 +1,63 @@
+{
+  "id": "twitch-ludwig-v2936392772-11263",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-21 22:07",
+  "game": "GTA 6",
+  "start": 11231,
+  "end": 11276,
+  "peak": 11263,
+  "score": 1.88,
+  "language": "en",
+  "transcript": "This time, why are there cops this time?",
+  "words": [
+    [
+      23.84,
+      24.44,
+      "This"
+    ],
+    [
+      31.42,
+      31.72,
+      "time,"
+    ],
+    [
+      32.72,
+      33.0,
+      "why"
+    ],
+    [
+      33.0,
+      33.12,
+      "are"
+    ],
+    [
+      33.12,
+      33.2,
+      "there"
+    ],
+    [
+      33.2,
+      33.54,
+      "cops"
+    ],
+    [
+      33.54,
+      33.84,
+      "this"
+    ],
+    [
+      33.84,
+      34.14,
+      "time?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795298867,
+  "meta": null
+}
