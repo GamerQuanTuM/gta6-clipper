@@ -1,0 +1,158 @@
+{
+  "id": "twitch-lacy-v2935634460-2494",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2935634460",
+  "vod_id": "v2935634460",
+  "vod_title": "Highlight: 🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ IN MIAMI 🌴️ CHAPTER 3 🍹️IN VICE CITY 🌴️  LIVE 24/7 🦩️ !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 2462,
+  "end": 2509.55,
+  "peak": 2494,
+  "score": 3.05,
+  "language": "en",
+  "transcript": "be honest I feel like Oh It's gonna my bet so I know what every single move or the more they even know what they're gonna do",
+  "words": [
+    [
+      3.15,
+      10.83,
+      "be"
+    ],
+    [
+      10.83,
+      11.07,
+      "honest"
+    ],
+    [
+      13.91,
+      15.31,
+      "I"
+    ],
+    [
+      15.31,
+      16.47,
+      "feel"
+    ],
+    [
+      16.47,
+      21.25,
+      "like"
+    ],
+    [
+      32.49,
+      32.83,
+      "Oh"
+    ],
+    [
+      43.41,
+      43.75,
+      "It's"
+    ],
+    [
+      43.75,
+      43.85,
+      "gonna"
+    ],
+    [
+      43.85,
+      44.03,
+      "my"
+    ],
+    [
+      44.03,
+      44.27,
+      "bet"
+    ],
+    [
+      44.27,
+      44.91,
+      "so"
+    ],
+    [
+      44.91,
+      44.97,
+      "I"
+    ],
+    [
+      44.97,
+      45.09,
+      "know"
+    ],
+    [
+      45.09,
+      45.21,
+      "what"
+    ],
+    [
+      45.21,
+      45.35,
+      "every"
+    ],
+    [
+      45.35,
+      45.53,
+      "single"
+    ],
+    [
+      45.53,
+      45.77,
+      "move"
+    ],
+    [
+      45.77,
+      45.93,
+      "or"
+    ],
+    [
+      45.93,
+      46.03,
+      "the"
+    ],
+    [
+      46.03,
+      46.21,
+      "more"
+    ],
+    [
+      46.21,
+      46.43,
+      "they"
+    ],
+    [
+      46.43,
+      46.61,
+      "even"
+    ],
+    [
+      46.61,
+      46.75,
+      "know"
+    ],
+    [
+      46.75,
+      46.87,
+      "what"
+    ],
+    [
+      46.87,
+      46.95,
+      "they're"
+    ],
+    [
+      46.95,
+      47.07,
+      "gonna"
+    ],
+    [
+      47.07,
+      47.25,
+      "do"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795248590,
+  "meta": null
+}

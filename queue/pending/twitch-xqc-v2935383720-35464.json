@@ -1,0 +1,113 @@
+{
+  "id": "twitch-xqc-v2935383720-35464",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 08:07",
+  "game": "GTA 6",
+  "start": 35432,
+  "end": 35477,
+  "peak": 35464,
+  "score": 1.93,
+  "language": "en",
+  "transcript": "This thing is so heavy to drive it. Oh my god, holy shit This thing is so heavy",
+  "words": [
+    [
+      28.89,
+      29.25,
+      "This"
+    ],
+    [
+      29.25,
+      29.61,
+      "thing"
+    ],
+    [
+      29.61,
+      29.75,
+      "is"
+    ],
+    [
+      29.75,
+      30.09,
+      "so"
+    ],
+    [
+      30.09,
+      30.27,
+      "heavy"
+    ],
+    [
+      30.27,
+      30.39,
+      "to"
+    ],
+    [
+      30.39,
+      30.61,
+      "drive"
+    ],
+    [
+      30.61,
+      30.79,
+      "it."
+    ],
+    [
+      31.79,
+      32.15,
+      "Oh"
+    ],
+    [
+      32.15,
+      32.49,
+      "my"
+    ],
+    [
+      32.49,
+      32.81,
+      "god,"
+    ],
+    [
+      32.87,
+      33.77,
+      "holy"
+    ],
+    [
+      33.77,
+      34.15,
+      "shit"
+    ],
+    [
+      38.95,
+      39.31,
+      "This"
+    ],
+    [
+      39.31,
+      39.49,
+      "thing"
+    ],
+    [
+      39.49,
+      39.67,
+      "is"
+    ],
+    [
+      39.67,
+      40.11,
+      "so"
+    ],
+    [
+      40.11,
+      40.43,
+      "heavy"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795248491,
+  "meta": null
+}

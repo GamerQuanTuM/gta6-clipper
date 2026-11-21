@@ -1,0 +1,113 @@
+{
+  "id": "twitch-xqc-v2935383720-37532",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 08:07",
+  "game": "GTA 6",
+  "start": 37497.79,
+  "end": 37545,
+  "peak": 37532,
+  "score": 2.17,
+  "language": "en",
+  "transcript": "I'm much more than one and then see the price for it That really be with this car",
+  "words": [
+    [
+      0.15,
+      0.45,
+      "I'm"
+    ],
+    [
+      0.45,
+      0.57,
+      "much"
+    ],
+    [
+      0.57,
+      0.69,
+      "more"
+    ],
+    [
+      0.69,
+      0.83,
+      "than"
+    ],
+    [
+      0.83,
+      0.95,
+      "one"
+    ],
+    [
+      0.95,
+      1.23,
+      "and"
+    ],
+    [
+      1.23,
+      1.35,
+      "then"
+    ],
+    [
+      1.35,
+      1.49,
+      "see"
+    ],
+    [
+      1.49,
+      1.85,
+      "the"
+    ],
+    [
+      1.85,
+      2.05,
+      "price"
+    ],
+    [
+      2.05,
+      2.21,
+      "for"
+    ],
+    [
+      2.21,
+      2.36,
+      "it"
+    ],
+    [
+      34.33,
+      34.79,
+      "That"
+    ],
+    [
+      34.79,
+      35.39,
+      "really"
+    ],
+    [
+      35.39,
+      35.59,
+      "be"
+    ],
+    [
+      35.59,
+      36.49,
+      "with"
+    ],
+    [
+      36.49,
+      36.63,
+      "this"
+    ],
+    [
+      36.63,
+      36.85,
+      "car"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795248487,
+  "meta": null
+}

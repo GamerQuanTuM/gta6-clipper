@@ -1,0 +1,133 @@
+{
+  "id": "twitch-lacy-v2935634460-2359",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2935634460",
+  "vod_id": "v2935634460",
+  "vod_title": "Highlight: 🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ IN MIAMI 🌴️ CHAPTER 3 🍹️IN VICE CITY 🌴️  LIVE 24/7 🦩️ !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 2325.51,
+  "end": 2374.7,
+  "peak": 2359,
+  "score": 2.84,
+  "language": "en",
+  "transcript": "Oh, yeah Wait, so you play better we hide Oh Wait clicks how do you do? That's fucking crazy I genuinely like",
+  "words": [
+    [
+      0.15,
+      0.27,
+      "Oh,"
+    ],
+    [
+      0.27,
+      0.93,
+      "yeah"
+    ],
+    [
+      0.93,
+      1.71,
+      "Wait,"
+    ],
+    [
+      2.15,
+      3.39,
+      "so"
+    ],
+    [
+      3.39,
+      3.59,
+      "you"
+    ],
+    [
+      3.59,
+      3.73,
+      "play"
+    ],
+    [
+      3.73,
+      3.91,
+      "better"
+    ],
+    [
+      3.91,
+      4.07,
+      "we"
+    ],
+    [
+      4.07,
+      4.33,
+      "hide"
+    ],
+    [
+      27.01,
+      28.41,
+      "Oh"
+    ],
+    [
+      34.89,
+      36.29,
+      "Wait"
+    ],
+    [
+      36.29,
+      36.29,
+      "clicks"
+    ],
+    [
+      36.29,
+      36.29,
+      "how"
+    ],
+    [
+      36.29,
+      36.29,
+      "do"
+    ],
+    [
+      36.29,
+      36.29,
+      "you"
+    ],
+    [
+      36.29,
+      36.29,
+      "do?"
+    ],
+    [
+      46.49,
+      47.85,
+      "That's"
+    ],
+    [
+      47.85,
+      47.85,
+      "fucking"
+    ],
+    [
+      47.85,
+      47.85,
+      "crazy"
+    ],
+    [
+      47.85,
+      47.85,
+      "I"
+    ],
+    [
+      47.85,
+      48.53,
+      "genuinely"
+    ],
+    [
+      48.53,
+      48.89,
+      "like"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795248600,
+  "meta": null
+}
