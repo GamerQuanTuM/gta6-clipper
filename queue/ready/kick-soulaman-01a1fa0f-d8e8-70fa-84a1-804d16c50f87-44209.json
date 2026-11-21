@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-44209",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -509,5 +509,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795241976,
-  "meta": null
+  "meta": {
+    "hook": "GOLDEN LAMBO CHURANE KA PLAN",
+    "title": "Soulaman ka GTA 6 marathon, ab golden Lambo ki baari 🔥 #gta6 #shorts",
+    "description": "Soulaman ka GTA 6 marathon stream chal raha hai, next plan golden Lambo churana 🔥\n\nKaunsi car sabse pehle chahiye GTA 6 me? 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 marathon",
+      "gta 6 golden lambo",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 marathon aur ab plan hai golden Lambo churane ka 🔥 Aap kaunsi car pehle lete? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }

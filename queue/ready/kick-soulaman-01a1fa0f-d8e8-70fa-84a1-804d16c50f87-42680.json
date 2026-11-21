@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-42680",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -419,5 +419,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795241919,
-  "meta": null
+  "meta": {
+    "hook": "POLICE PHIR SE AA GAYI",
+    "title": "Soulaman ka GTA 6 me super car chase, police phir aa gayi 😭 #gta6 #shorts",
+    "description": "Soulaman GTA 6 me super car ke saath police se bachne ki koshish karte hue 💀\n\nAapko GTA 6 ki braking kaisi lagi? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 super car",
+      "gta 6 police chase",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 super car chase, aur police phir se aa gayi 😭 Braking kaisi lagi aapko? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }
