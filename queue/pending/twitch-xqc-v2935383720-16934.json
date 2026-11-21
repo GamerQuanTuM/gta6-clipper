@@ -1,0 +1,148 @@
+{
+  "id": "twitch-xqc-v2935383720-16934",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 03:09",
+  "game": "GTA 6",
+  "start": 16901.51,
+  "end": 16949.38,
+  "peak": 16934,
+  "score": 2.11,
+  "language": "en",
+  "transcript": "Huh, no, I want to do something anyway. Wait, what is this? My game's dropped so I had to Oh my god, it's so wobbly",
+  "words": [
+    [
+      0.15,
+      0.77,
+      "Huh,"
+    ],
+    [
+      8.32,
+      8.72,
+      "no,"
+    ],
+    [
+      12.23,
+      12.95,
+      "I"
+    ],
+    [
+      12.95,
+      13.11,
+      "want"
+    ],
+    [
+      13.11,
+      13.19,
+      "to"
+    ],
+    [
+      13.19,
+      13.27,
+      "do"
+    ],
+    [
+      13.27,
+      13.39,
+      "something"
+    ],
+    [
+      13.39,
+      13.81,
+      "anyway."
+    ],
+    [
+      17.64,
+      18.04,
+      "Wait,"
+    ],
+    [
+      18.12,
+      18.28,
+      "what"
+    ],
+    [
+      18.28,
+      18.38,
+      "is"
+    ],
+    [
+      18.38,
+      18.58,
+      "this?"
+    ],
+    [
+      30.83,
+      31.23,
+      "My"
+    ],
+    [
+      31.23,
+      31.53,
+      "game's"
+    ],
+    [
+      31.53,
+      31.71,
+      "dropped"
+    ],
+    [
+      31.71,
+      31.97,
+      "so"
+    ],
+    [
+      31.97,
+      32.11,
+      "I"
+    ],
+    [
+      32.11,
+      32.31,
+      "had"
+    ],
+    [
+      32.31,
+      32.43,
+      "to"
+    ],
+    [
+      45.91,
+      46.31,
+      "Oh"
+    ],
+    [
+      46.31,
+      46.71,
+      "my"
+    ],
+    [
+      46.71,
+      46.81,
+      "god,"
+    ],
+    [
+      46.85,
+      47.03,
+      "it's"
+    ],
+    [
+      47.03,
+      47.07,
+      "so"
+    ],
+    [
+      47.07,
+      47.57,
+      "wobbly"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795230599,
+  "meta": null
+}

@@ -1,0 +1,168 @@
+{
+  "id": "twitch-zackrawrr-v2935185818-28275",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2935185818",
+  "vod_id": "v2935185818",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247",
+  "game": "GTA 6",
+  "start": 28243,
+  "end": 28288.28,
+  "peak": 28275,
+  "score": 2.38,
+  "language": "en",
+  "transcript": "Damn it bro, I can't hit him. Got him. Come on. Come on. Come on. Come on. Do it bitch. There you go. Yo! Yo, it's a Lambo. Okay,",
+  "words": [
+    [
+      22.22,
+      22.46,
+      "Damn"
+    ],
+    [
+      22.46,
+      22.58,
+      "it"
+    ],
+    [
+      22.58,
+      22.74,
+      "bro,"
+    ],
+    [
+      22.82,
+      22.86,
+      "I"
+    ],
+    [
+      22.86,
+      23.06,
+      "can't"
+    ],
+    [
+      23.06,
+      23.18,
+      "hit"
+    ],
+    [
+      23.18,
+      23.42,
+      "him."
+    ],
+    [
+      24.58,
+      24.9,
+      "Got"
+    ],
+    [
+      24.9,
+      25.08,
+      "him."
+    ],
+    [
+      28.08,
+      28.4,
+      "Come"
+    ],
+    [
+      28.4,
+      28.56,
+      "on."
+    ],
+    [
+      29.38,
+      29.6,
+      "Come"
+    ],
+    [
+      29.6,
+      29.8,
+      "on."
+    ],
+    [
+      30.08,
+      30.08,
+      "Come"
+    ],
+    [
+      30.08,
+      30.24,
+      "on."
+    ],
+    [
+      30.4,
+      30.4,
+      "Come"
+    ],
+    [
+      30.4,
+      30.8,
+      "on."
+    ],
+    [
+      30.96,
+      31.1,
+      "Do"
+    ],
+    [
+      31.1,
+      31.22,
+      "it"
+    ],
+    [
+      31.22,
+      31.4,
+      "bitch."
+    ],
+    [
+      32.04,
+      32.12,
+      "There"
+    ],
+    [
+      32.12,
+      32.22,
+      "you"
+    ],
+    [
+      32.22,
+      32.38,
+      "go."
+    ],
+    [
+      34.14,
+      34.46,
+      "Yo!"
+    ],
+    [
+      39.12,
+      39.44,
+      "Yo,"
+    ],
+    [
+      39.52,
+      39.66,
+      "it's"
+    ],
+    [
+      39.66,
+      39.76,
+      "a"
+    ],
+    [
+      39.76,
+      40.3,
+      "Lambo."
+    ],
+    [
+      44.66,
+      44.98,
+      "Okay,"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795230828,
+  "meta": null
+}

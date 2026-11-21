@@ -1,0 +1,128 @@
+{
+  "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-33010",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "soulaman",
+  "streamer_name": "soulaman",
+  "channel_url": "https://kick.com/soulaman",
+  "vod_url": "https://kick.com/soulaman/videos/01a1fa0f-d8e8-70fa-84a1-804d16c50f87#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1fa0f-d8e8-70fa-84a1-804d16c50f87",
+  "vod_title": "Live November 10",
+  "game": "GTA 6",
+  "start": 32978,
+  "end": 33023,
+  "peak": 33010,
+  "score": 9.67,
+  "language": "hi",
+  "transcript": "hmm आखो में नशे दिखरे है I'll go get ready and they'll come back we'll play a morning let's fucking go",
+  "words": [
+    [
+      11.85,
+      12.43,
+      "hmm"
+    ],
+    [
+      29.54,
+      30.18,
+      "आखो"
+    ],
+    [
+      30.18,
+      30.42,
+      "में"
+    ],
+    [
+      30.42,
+      30.74,
+      "नशे"
+    ],
+    [
+      30.74,
+      31.24,
+      "दिखरे"
+    ],
+    [
+      31.24,
+      31.4,
+      "है"
+    ],
+    [
+      31.4,
+      31.8,
+      "I'll"
+    ],
+    [
+      31.8,
+      32.1,
+      "go"
+    ],
+    [
+      32.1,
+      32.42,
+      "get"
+    ],
+    [
+      32.42,
+      32.78,
+      "ready"
+    ],
+    [
+      32.78,
+      33.02,
+      "and"
+    ],
+    [
+      33.02,
+      33.22,
+      "they'll"
+    ],
+    [
+      33.22,
+      33.4,
+      "come"
+    ],
+    [
+      33.4,
+      33.7,
+      "back"
+    ],
+    [
+      33.7,
+      33.98,
+      "we'll"
+    ],
+    [
+      33.98,
+      34.26,
+      "play"
+    ],
+    [
+      34.26,
+      34.5,
+      "a"
+    ],
+    [
+      34.5,
+      34.98,
+      "morning"
+    ],
+    [
+      34.98,
+      35.46,
+      "let's"
+    ],
+    [
+      35.46,
+      35.82,
+      "fucking"
+    ],
+    [
+      35.82,
+      36.28,
+      "go"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795231007,
+  "meta": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "twitch-xqc-v2935383720-16783",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 03:09",
+  "game": "GTA 6",
+  "start": 16753.61,
+  "end": 16796,
+  "peak": 16783,
+  "score": 2.04,
+  "language": "en",
+  "transcript": "Now for the blocker. This is every second. A banana!",
+  "words": [
+    [
+      0.15,
+      0.65,
+      "Now"
+    ],
+    [
+      0.65,
+      0.83,
+      "for"
+    ],
+    [
+      0.83,
+      0.91,
+      "the"
+    ],
+    [
+      0.91,
+      1.45,
+      "blocker."
+    ],
+    [
+      12.99,
+      13.51,
+      "This"
+    ],
+    [
+      13.51,
+      13.59,
+      "is"
+    ],
+    [
+      13.59,
+      13.71,
+      "every"
+    ],
+    [
+      13.71,
+      13.97,
+      "second."
+    ],
+    [
+      35.43,
+      35.83,
+      "A"
+    ],
+    [
+      38.16,
+      38.3,
+      "banana!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795230604,
+  "meta": null
+}
