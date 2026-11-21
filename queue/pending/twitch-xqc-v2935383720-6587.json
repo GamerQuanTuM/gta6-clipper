@@ -1,0 +1,188 @@
+{
+  "id": "twitch-xqc-v2935383720-6587",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 00:11",
+  "game": "GTA 6",
+  "start": 6552.23,
+  "end": 6599.48,
+  "peak": 6587,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "Um That's not fair I'm an unknown swimmer. Hey stop that dude. That's terrible RP man But I'm no hell anymore. So these matter are we serious? Would they lose a bag? No",
+  "words": [
+    [
+      0.15,
+      1.05,
+      "Um"
+    ],
+    [
+      2.41,
+      2.97,
+      "That's"
+    ],
+    [
+      2.97,
+      3.05,
+      "not"
+    ],
+    [
+      3.05,
+      3.33,
+      "fair"
+    ],
+    [
+      3.33,
+      4.37,
+      "I'm"
+    ],
+    [
+      6.49,
+      6.57,
+      "an"
+    ],
+    [
+      6.57,
+      6.93,
+      "unknown"
+    ],
+    [
+      6.93,
+      7.75,
+      "swimmer."
+    ],
+    [
+      10.07,
+      10.63,
+      "Hey"
+    ],
+    [
+      10.63,
+      10.83,
+      "stop"
+    ],
+    [
+      10.83,
+      11.17,
+      "that"
+    ],
+    [
+      14.85,
+      16.05,
+      "dude."
+    ],
+    [
+      16.05,
+      16.45,
+      "That's"
+    ],
+    [
+      16.45,
+      16.75,
+      "terrible"
+    ],
+    [
+      16.75,
+      17.11,
+      "RP"
+    ],
+    [
+      17.11,
+      17.39,
+      "man"
+    ],
+    [
+      22.77,
+      23.33,
+      "But"
+    ],
+    [
+      23.33,
+      23.49,
+      "I'm"
+    ],
+    [
+      23.49,
+      23.55,
+      "no"
+    ],
+    [
+      23.55,
+      23.65,
+      "hell"
+    ],
+    [
+      23.65,
+      23.87,
+      "anymore."
+    ],
+    [
+      23.99,
+      24.03,
+      "So"
+    ],
+    [
+      24.03,
+      24.15,
+      "these"
+    ],
+    [
+      24.15,
+      24.31,
+      "matter"
+    ],
+    [
+      24.31,
+      25.15,
+      "are"
+    ],
+    [
+      36.06,
+      36.28,
+      "we"
+    ],
+    [
+      36.28,
+      37.02,
+      "serious?"
+    ],
+    [
+      42.91,
+      43.47,
+      "Would"
+    ],
+    [
+      43.47,
+      43.57,
+      "they"
+    ],
+    [
+      43.57,
+      43.75,
+      "lose"
+    ],
+    [
+      43.75,
+      43.83,
+      "a"
+    ],
+    [
+      43.83,
+      44.03,
+      "bag?"
+    ],
+    [
+      46.39,
+      46.95,
+      "No"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795219884,
+  "meta": null
+}

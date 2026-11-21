@@ -1,0 +1,233 @@
+{
+  "id": "twitch-lirik-v2935090050-20517",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lirik",
+  "streamer_name": "LIRIK",
+  "channel_url": "https://www.twitch.tv/lirik",
+  "vod_url": "https://www.twitch.tv/videos/2935090050",
+  "vod_id": "v2935090050",
+  "vod_title": "60 + fps GTAing Pt. 3 of ?",
+  "game": "GTA 6",
+  "start": 20482.33,
+  "end": 20532.65,
+  "peak": 20517,
+  "score": 1.76,
+  "language": "en",
+  "transcript": "Oh my fucking god, dude everything's on ice This thing is a piece of shit on ice Are you serious? Is this whole fucking place a shit hole? Are you fucking kidding? Are you fucking kidding right now? Oh my god, bro",
+  "words": [
+    [
+      0.15,
+      0.83,
+      "Oh"
+    ],
+    [
+      0.83,
+      1.09,
+      "my"
+    ],
+    [
+      1.09,
+      1.53,
+      "fucking"
+    ],
+    [
+      1.53,
+      1.95,
+      "god,"
+    ],
+    [
+      2.03,
+      2.23,
+      "dude"
+    ],
+    [
+      2.23,
+      2.87,
+      "everything's"
+    ],
+    [
+      2.87,
+      3.01,
+      "on"
+    ],
+    [
+      3.01,
+      3.47,
+      "ice"
+    ],
+    [
+      6.33,
+      7.01,
+      "This"
+    ],
+    [
+      7.01,
+      7.27,
+      "thing"
+    ],
+    [
+      7.27,
+      7.43,
+      "is"
+    ],
+    [
+      7.43,
+      7.55,
+      "a"
+    ],
+    [
+      7.55,
+      7.83,
+      "piece"
+    ],
+    [
+      7.83,
+      8.05,
+      "of"
+    ],
+    [
+      8.05,
+      8.29,
+      "shit"
+    ],
+    [
+      8.29,
+      8.51,
+      "on"
+    ],
+    [
+      8.51,
+      8.99,
+      "ice"
+    ],
+    [
+      23.57,
+      24.25,
+      "Are"
+    ],
+    [
+      28.89,
+      29.01,
+      "you"
+    ],
+    [
+      29.01,
+      29.53,
+      "serious?"
+    ],
+    [
+      32.37,
+      32.61,
+      "Is"
+    ],
+    [
+      32.61,
+      32.85,
+      "this"
+    ],
+    [
+      32.85,
+      33.09,
+      "whole"
+    ],
+    [
+      33.09,
+      33.45,
+      "fucking"
+    ],
+    [
+      33.45,
+      33.87,
+      "place"
+    ],
+    [
+      33.87,
+      34.13,
+      "a"
+    ],
+    [
+      34.13,
+      34.47,
+      "shit"
+    ],
+    [
+      34.47,
+      34.79,
+      "hole?"
+    ],
+    [
+      35.87,
+      36.21,
+      "Are"
+    ],
+    [
+      36.21,
+      36.37,
+      "you"
+    ],
+    [
+      36.37,
+      36.71,
+      "fucking"
+    ],
+    [
+      36.71,
+      37.11,
+      "kidding?"
+    ],
+    [
+      39.48,
+      39.92,
+      "Are"
+    ],
+    [
+      39.92,
+      40.1,
+      "you"
+    ],
+    [
+      40.1,
+      40.46,
+      "fucking"
+    ],
+    [
+      40.46,
+      40.86,
+      "kidding"
+    ],
+    [
+      40.86,
+      41.16,
+      "right"
+    ],
+    [
+      41.16,
+      41.44,
+      "now?"
+    ],
+    [
+      47.58,
+      48.0,
+      "Oh"
+    ],
+    [
+      48.0,
+      48.4,
+      "my"
+    ],
+    [
+      48.4,
+      49.24,
+      "god,"
+    ],
+    [
+      49.24,
+      50.02,
+      "bro"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795220000,
+  "meta": null
+}

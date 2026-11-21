@@ -1,0 +1,138 @@
+{
+  "id": "twitch-xqc-v2935383720-8568",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 00:11",
+  "game": "GTA 6",
+  "start": 8536.18,
+  "end": 8580.45,
+  "peak": 8568,
+  "score": 1.89,
+  "language": "en",
+  "transcript": "Wait, how do I actually be getting that right? But there's the horse there! You gotta help him with that boy! Hey man!",
+  "words": [
+    [
+      0.15,
+      0.59,
+      "Wait,"
+    ],
+    [
+      6.51,
+      6.83,
+      "how"
+    ],
+    [
+      6.83,
+      6.91,
+      "do"
+    ],
+    [
+      6.91,
+      6.93,
+      "I"
+    ],
+    [
+      6.93,
+      7.07,
+      "actually"
+    ],
+    [
+      7.07,
+      7.21,
+      "be"
+    ],
+    [
+      7.21,
+      7.37,
+      "getting"
+    ],
+    [
+      7.37,
+      7.57,
+      "that"
+    ],
+    [
+      7.57,
+      7.77,
+      "right?"
+    ],
+    [
+      17.32,
+      17.56,
+      "But"
+    ],
+    [
+      17.56,
+      17.86,
+      "there's"
+    ],
+    [
+      17.86,
+      18.08,
+      "the"
+    ],
+    [
+      18.08,
+      18.36,
+      "horse"
+    ],
+    [
+      18.36,
+      18.64,
+      "there!"
+    ],
+    [
+      25.87,
+      26.13,
+      "You"
+    ],
+    [
+      26.13,
+      26.31,
+      "gotta"
+    ],
+    [
+      26.31,
+      26.47,
+      "help"
+    ],
+    [
+      26.47,
+      26.57,
+      "him"
+    ],
+    [
+      26.57,
+      26.65,
+      "with"
+    ],
+    [
+      26.65,
+      26.75,
+      "that"
+    ],
+    [
+      26.75,
+      26.97,
+      "boy!"
+    ],
+    [
+      43.51,
+      43.79,
+      "Hey"
+    ],
+    [
+      43.79,
+      43.97,
+      "man!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795219889,
+  "meta": null
+}
