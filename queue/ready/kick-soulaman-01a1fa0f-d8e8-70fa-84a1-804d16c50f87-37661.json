@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-37661",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -329,5 +329,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795234679,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE KYA HO GAYA",
+    "title": "Soulaman ka GTA 6 me reaction dekho 😭 #gta6 #shorts",
+    "description": "Soulaman GTA 6 me kuch aisa dekh leta hai ki bolti band ho jaati hai 😭\n\nAapko kya lagta hai, aage kya hua hoga? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 reaction",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 me ye reaction dekh ke maza aa gaya 😭 Aap hote toh kya karte? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gta6india #gaming #reels",
+    "source": "claude"
+  }
 }
