@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-40172",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -514,5 +514,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795238317,
-  "meta": null
+  "meta": {
+    "hook": "CRIME KARO AUR FOOTAGE DELETE KARO",
+    "title": "Soulaman ka GTA 6 crime logic: footage delete, shakal nahi dikhegi 😂 #shorts",
+    "description": "Soulaman ka GTA 6 me crime ke baad footage delete karne wala funny logic 😂\n\nAapko kya lagta hai, sahi ya galat? Comment me batao 👇\n\n#gta6 #gtavi #soulaman #gta6india #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "soulaman gta 6",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 funny",
+      "gta 6 crime",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 me crime ke baad footage delete karne wala logic 😂 Sahi ya galat? Comment me batao 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-40701",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -309,5 +309,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795238425,
-  "meta": null
+  "meta": {
+    "hook": "GAADI CHURANE SE PEHLE RESEARCH ZARURI",
+    "title": "Soulaman ka GTA 6 car-theft plan: pehle location, phir gaadi bechna #shorts",
+    "description": "Soulaman chat ko GTA 6 me gaadi churane aur bechne ka plan samjhate hue 😂\n\nAap GTA 6 me pehle kaunsa crime karoge? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6india #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "soulaman gta 6",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 car theft",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 me gaadi churane aur bechne ka plan 😂 Aap pehle kya karoge? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }

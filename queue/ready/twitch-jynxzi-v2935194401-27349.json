@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2935194401-27349",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -139,5 +139,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795237866,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not GTA 6: vod title says break from GTA 6, transcript is Rainbow Six-style tactical callouts; no clear moment"
 }

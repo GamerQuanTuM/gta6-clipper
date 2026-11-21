@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2935194401-27787",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -419,5 +419,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795237871,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Tactical team callouts only, not GTA 6, no reaction moment"
 }

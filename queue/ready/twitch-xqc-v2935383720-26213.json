@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2935383720-26213",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -244,5 +244,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795237893,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Language is Turkish, not allowed"
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-37811",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -514,5 +514,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795238374,
-  "meta": null
+  "meta": {
+    "hook": "ROBBERY SUCCESS PAR GAADI PAGAL THI",
+    "title": "Soulaman ki GTA 6 robbery successful, par Lambo ne dil jeeta 🔥 #shorts",
+    "description": "Soulaman ki GTA 6 robbery poori tarah successful rahi, aur Lambo ne sabka dhyan kheencha 🔥\n\nAapko is GTA 6 robbery ka kaunsa moment sabse zyada pasand aaya? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6india #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "soulaman gta 6",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 robbery",
+      "gta 6 funny moments",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ki GTA 6 robbery successful rahi, par us Lambo ne sab ka dil jeet liya 🔥 Aapko kaisi lagi? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }
