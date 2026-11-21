@@ -1,0 +1,44 @@
+{
+  "id": "twitch-lirik-v2935090050-20517",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "lirik",
+  "streamer_name": "LIRIK",
+  "channel_url": "https://www.twitch.tv/lirik",
+  "vod_url": "https://www.twitch.tv/videos/2935090050",
+  "vod_id": "v2935090050",
+  "vod_title": "60 + fps GTAing Pt. 3 of ?",
+  "game": "GTA 6",
+  "start": 20482.33,
+  "end": 20532.65,
+  "peak": 20517,
+  "score": 1.76,
+  "language": "en",
+  "transcript": "Oh my fucking god, dude everything's on ice This thing is a piece of shit on ice Are you serious? Is this whole fucking place a shit hole? Are you fucking kidding? Are you fucking kidding right now? Oh my god, bro",
+  "chat_sample": [],
+  "created_unix": 1795220000,
+  "meta": {
+    "hook": "EVERYTHING IS ON ICE",
+    "title": "LIRIK loses it on the ice in GTA 6 🥶 #gta6 #shorts",
+    "description": "🎥 Clip from LIRIK's live stream: https://www.twitch.tv/lirik\n\nLIRIK can't believe how slippery GTA 6 gets 💀\n\nHave you slid out like this in GTA 6? Tell us below 👇\n\n#gta6 #gtavi #lirik #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lirik",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 rage",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "LIRIK vs the ice in GTA 6 and the ice is winning 💀 Has GTA 6 made you rage yet? 👇\n\n🎥 LIRIK (twitch.tv/lirik)\n\n#gta6 #gtavi #lirik #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 52.3,
+  "rendered_unix": 1795223746
+}
