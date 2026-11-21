@@ -1,0 +1,113 @@
+{
+  "id": "twitch-xqc-v2935383720-32859",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 07:09",
+  "game": "GTA 6",
+  "start": 32822.95,
+  "end": 32872,
+  "peak": 32859,
+  "score": 1.64,
+  "language": "en",
+  "transcript": "Down left here. Oh this car is on is that a backup? Then he wants that shit there",
+  "words": [
+    [
+      0.15,
+      0.85,
+      "Down"
+    ],
+    [
+      0.85,
+      1.49,
+      "left"
+    ],
+    [
+      1.49,
+      2.75,
+      "here."
+    ],
+    [
+      16.06,
+      16.44,
+      "Oh"
+    ],
+    [
+      16.44,
+      16.58,
+      "this"
+    ],
+    [
+      16.58,
+      16.82,
+      "car"
+    ],
+    [
+      16.82,
+      16.92,
+      "is"
+    ],
+    [
+      16.92,
+      17.02,
+      "on"
+    ],
+    [
+      17.02,
+      17.2,
+      "is"
+    ],
+    [
+      17.2,
+      17.28,
+      "that"
+    ],
+    [
+      17.28,
+      17.34,
+      "a"
+    ],
+    [
+      17.34,
+      17.52,
+      "backup?"
+    ],
+    [
+      33.95,
+      34.29,
+      "Then"
+    ],
+    [
+      34.29,
+      34.43,
+      "he"
+    ],
+    [
+      34.43,
+      34.61,
+      "wants"
+    ],
+    [
+      34.61,
+      34.83,
+      "that"
+    ],
+    [
+      34.83,
+      34.97,
+      "shit"
+    ],
+    [
+      34.97,
+      35.17,
+      "there"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795245010,
+  "meta": null
+}
