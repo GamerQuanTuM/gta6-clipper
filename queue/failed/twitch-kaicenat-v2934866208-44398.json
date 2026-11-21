@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2934866208-44398",
+  "status": "rejected",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2934866208",
+  "vod_id": "v2934866208",
+  "vod_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 2026-11-21 01:08",
+  "game": "GTA 6",
+  "start": 44368.75,
+  "end": 44411.28,
+  "peak": 44398,
+  "score": 3.13,
+  "language": "en",
+  "transcript": "holding this now come on oh my gosh 48 oh my gosh the 40 a death quick these meatheads really thought they were gonna get away with it here oh my gosh the 48 got it no miss steps no problems we keep this up we'll be out of here no time JJ boy with the pocket thank you so much a boy call your fucking god oh my oh my do hear me where yet we're doing you that's all I like to hear stop the thing",
+  "chat_sample": [],
+  "created_unix": 1795223319,
+  "meta": {
+    "hook": "NO MISSTEPS, NO PROBLEMS",
+    "title": "Kai Cenat is fully locked in on a GTA 6 mission 🔥 #gta6 #shorts",
+    "description": "Kai Cenat sounds unstoppable as he rips through a GTA 6 mission with chat hyped 🔥\n\nCould you pull this off without a single misstep? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat",
+      "gta 6 first time",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat on a GTA 6 mission: \"no missteps, no problems\" 🔥 Could you stay this calm? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "reject_reason": "audio muted in the source stream"
+}

@@ -722,5 +722,35 @@
     },
     "duration_s": 48.6,
     "release": "2026-11-21-23-zackrawrr"
+  },
+  {
+    "id": "twitch-hasanabi-v2935213810-22225",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "EVERYONE TURNED THEIR BACKS ON HIM",
+      "title": "HasanAbi gets ghosted by everyone in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi suddenly has everyone turning their backs on him in GTA 6 and has no idea why 💀\n\nHave you ever been ghosted mid-game? 👇\n\n#gta6 #gtavi #hasanabi #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi: \"What did I do?\" 😭 Everyone just turned their backs on him in GTA 6. Who's your most dramatic friend? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 52.1,
+    "release": "2026-11-21-24-hasanabi"
   }
 ]
