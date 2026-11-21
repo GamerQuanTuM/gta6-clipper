@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-92227",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -324,5 +324,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795216098,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST MISCLICKED HIS WAY INTO TROUBLE",
+    "title": "Ludwig misclicks in GTA 6 and it all goes wrong 😭 #shorts",
+    "description": "Ludwig tried to drop the cigarette in GTA 6... and hit the wrong button 💀\n\nHave you misclicked in GTA 6 yet? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "ludwig",
+      "shorts",
+      "ludwig gta 6",
+      "gta 6 misclick",
+      "gta 6 controls"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig tried to drop the cigarette in GTA 6 and hit the wrong button 💀 Have you misclicked yet? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-14812",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -399,5 +399,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795216359,
-  "meta": null
+  "meta": {
+    "hook": "I CAN'T STOP THIS PLEASE MOVE ON",
+    "title": "zackrawrr gets stuck dancing in GTA 6 and can't escape 😭 #shorts",
+    "description": "zackrawrr jumps into the crowd in GTA 6 and can't get out of the dance 💀\n\nWho else would've bailed? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "zackrawrr",
+      "shorts",
+      "zack gta 6",
+      "gta 6 dance",
+      "gta 6 funny"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr is stuck in a GTA 6 dance and begging it to end 💀 Would you have bailed? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

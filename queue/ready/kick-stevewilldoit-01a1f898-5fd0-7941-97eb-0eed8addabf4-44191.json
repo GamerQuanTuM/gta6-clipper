@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-44191",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -569,5 +569,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795216615,
-  "meta": null
+  "meta": null,
+  "reject_reason": "scripted in-game dialogue/song (Lola and Lana jingle), not a live reaction"
 }

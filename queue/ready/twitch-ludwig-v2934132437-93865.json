@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2934132437-93865",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -544,5 +544,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795216087,
-  "meta": null
+  "meta": {
+    "hook": "WHY SHOULD WE BE EMBARRASSED",
+    "title": "Ludwig defends his reliable Swedish car in GTA 6 😭 #shorts",
+    "description": "Ludwig ends up with a very modest ride in GTA 6 and refuses to be embarrassed 🚗\n\nWhat's the first car you'd buy? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "ludwig",
+      "shorts",
+      "ludwig gta 6",
+      "gta 6 cars",
+      "gta 6 car shopping"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig is NOT embarrassed about his reliable Swedish car in GTA 6 🚗😭 What would you buy first? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
