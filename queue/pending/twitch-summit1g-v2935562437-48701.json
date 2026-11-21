@@ -1,0 +1,148 @@
+{
+  "id": "twitch-summit1g-v2935562437-48701",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "summit1g",
+  "streamer_name": "summit1g",
+  "channel_url": "https://www.twitch.tv/summit1g",
+  "vod_url": "https://www.twitch.tv/videos/2935562437",
+  "vod_id": "v2935562437",
+  "vod_title": "chillin - !journey for %10 off - !starforge @StarforgeSystems",
+  "game": "GTA 6",
+  "start": 48668.67,
+  "end": 48714.78,
+  "peak": 48701,
+  "score": 2.01,
+  "language": "en",
+  "transcript": "Oh Man still just dead dude. He's just still just fucking dead there Oh the homies have shown themselves That was me leveling up there",
+  "words": [
+    [
+      0.15,
+      0.73,
+      "Oh"
+    ],
+    [
+      1.57,
+      2.15,
+      "Man"
+    ],
+    [
+      2.15,
+      2.53,
+      "still"
+    ],
+    [
+      2.53,
+      2.77,
+      "just"
+    ],
+    [
+      2.77,
+      3.09,
+      "dead"
+    ],
+    [
+      3.09,
+      3.35,
+      "dude."
+    ],
+    [
+      3.43,
+      3.59,
+      "He's"
+    ],
+    [
+      3.59,
+      3.67,
+      "just"
+    ],
+    [
+      3.67,
+      3.87,
+      "still"
+    ],
+    [
+      3.87,
+      3.99,
+      "just"
+    ],
+    [
+      3.99,
+      4.23,
+      "fucking"
+    ],
+    [
+      4.23,
+      4.49,
+      "dead"
+    ],
+    [
+      4.49,
+      4.77,
+      "there"
+    ],
+    [
+      30.42,
+      31.0,
+      "Oh"
+    ],
+    [
+      31.0,
+      31.58,
+      "the"
+    ],
+    [
+      31.58,
+      32.04,
+      "homies"
+    ],
+    [
+      32.04,
+      32.24,
+      "have"
+    ],
+    [
+      32.24,
+      32.52,
+      "shown"
+    ],
+    [
+      32.52,
+      33.0,
+      "themselves"
+    ],
+    [
+      43.57,
+      44.15,
+      "That"
+    ],
+    [
+      44.15,
+      44.73,
+      "was"
+    ],
+    [
+      44.73,
+      45.13,
+      "me"
+    ],
+    [
+      45.13,
+      45.43,
+      "leveling"
+    ],
+    [
+      45.43,
+      45.67,
+      "up"
+    ],
+    [
+      45.67,
+      45.81,
+      "there"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795288257,
+  "meta": null
+}
