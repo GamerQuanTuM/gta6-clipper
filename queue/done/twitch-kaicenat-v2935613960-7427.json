@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2935613960-7427",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2935613960",
+  "vod_id": "v2935613960",
+  "vod_title": "BEATING GTA 6 RIGHT NOW *FINALE* 2026-11-21 04:07",
+  "game": "GTA 6",
+  "start": 7396.23,
+  "end": 7440,
+  "peak": 7427,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "confused Like what like like like hold on bro. I got these the bathroom. I need the bathroom. I need the bathroom Oh my god. Oh my god. I need to be back. I need to back from so bad. Oh my god check",
+  "chat_sample": [],
+  "created_unix": 1795234048,
+  "meta": {
+    "hook": "KAI NEEDS THE BATHROOM SO BAD",
+    "title": "Kai Cenat needs the bathroom mid GTA 6 finale 😭 #gta6 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat is begging for a bathroom break while beating the GTA 6 finale 😭\n\nWould you pause the finale for this? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat",
+      "gta 6 finale",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat is begging for a bathroom break during the GTA 6 finale 😭 Would you pause it? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 45.8,
+  "rendered_unix": 1795237705
+}

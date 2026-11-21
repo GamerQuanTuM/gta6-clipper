@@ -906,5 +906,68 @@
     },
     "duration_s": 47.3,
     "release": "2026-11-21-29-zackrawrr"
+  },
+  {
+    "id": "twitch-kaicenat-v2935613960-7427",
+    "streamer": "kaicenat",
+    "streamer_name": "KaiCenat",
+    "channel_url": "https://www.twitch.tv/kaicenat",
+    "meta": {
+      "hook": "KAI NEEDS THE BATHROOM SO BAD",
+      "title": "Kai Cenat needs the bathroom mid GTA 6 finale 😭 #gta6 #shorts",
+      "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat is begging for a bathroom break while beating the GTA 6 finale 😭\n\nWould you pause the finale for this? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "kai cenat",
+        "kaicenat",
+        "gta 6 finale",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Kai Cenat is begging for a bathroom break during the GTA 6 finale 😭 Would you pause it? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.8,
+    "release": "2026-11-21-30-kaicenat"
+  },
+  {
+    "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-37661",
+    "streamer": "soulaman",
+    "streamer_name": "soulaman",
+    "channel_url": "https://kick.com/soulaman",
+    "meta": {
+      "hook": "BHAI YE KYA HO GAYA",
+      "title": "Soulaman ka GTA 6 me reaction dekho 😭 #gta6 #shorts",
+      "description": "🎥 Clip from soulaman's live stream: https://kick.com/soulaman\n\nSoulaman GTA 6 me kuch aisa dekh leta hai ki bolti band ho jaati hai 😭\n\nAapko kya lagta hai, aage kya hua hoga? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "soulaman",
+        "gta 6 india",
+        "gta 6 hindi",
+        "gta 6 reaction",
+        "gta 6 funny moments",
+        "grand theft auto 6",
+        "hindi gaming",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Soulaman ka GTA 6 me ye reaction dekh ke maza aa gaya 😭 Aap hote toh kya karte? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gta6india #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 48.0,
+    "release": "2026-11-21-31-soulaman"
   }
 ]
