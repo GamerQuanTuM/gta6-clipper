@@ -844,5 +844,67 @@
     },
     "duration_s": 46.3,
     "release": "2026-11-21-27-xqc"
+  },
+  {
+    "id": "twitch-zackrawrr-v2935185818-28450",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "THE COPS ARE DRIVING INTO HIM",
+      "title": "zackrawrr: \"They're driving into me\" in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nA routine traffic stop in GTA 6 turns into chaos for zackrawrr 💀\n\nHas this ever happened to you in a game? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "gta 6 cops",
+        "gta 6 police",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Traffic stop in GTA 6 goes sideways for zackrawrr 😭 \"They're driving into me!\" Who gets the blame? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #funnymoments #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.5,
+    "release": "2026-11-21-28-zackrawrr"
+  },
+  {
+    "id": "twitch-zackrawrr-v2935185818-28275",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "HE FINALLY LANDED THE SHOT",
+      "title": "zackrawrr gets a Lambo after a wild GTA 6 chase 😳 #gta6 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr struggles to land a hit in GTA 6, then boom, a Lambo drops 🔥\n\nWould you have kept chasing him? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "gta 6 lambo",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr finally lands the hit in GTA 6 and out comes a Lambo 🔥 Would you have taken it? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #lambo #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.3,
+    "release": "2026-11-21-29-zackrawrr"
   }
 ]
