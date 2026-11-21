@@ -216,5 +216,99 @@
     },
     "duration_s": 46.5,
     "release": "2026-11-22-07-ludwig"
+  },
+  {
+    "id": "twitch-zackrawrr-v2936386266-11754",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "INTERESTING WORLD BORING STORY",
+      "title": "zackrawrr's honest GTA 6 verdict: great world, boring story #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr gives his take on GTA 6 after playing: interesting world, boring story 👀\n\nDo you agree with him? 👇\n\n#gta6 #gtavi #zackrawrr #gta6review #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack gta 6",
+        "gta 6 review",
+        "gta 6 opinion",
+        "grand theft auto 6",
+        "gta 6 story",
+        "streamer reaction",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr's GTA 6 verdict: interesting world, boring story 👀 Agree or nah? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gta6review #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-22-08-zackrawrr"
+  },
+  {
+    "id": "twitch-lacy-v2936518555-3700",
+    "streamer": "lacy",
+    "streamer_name": "Lacy",
+    "channel_url": "https://www.twitch.tv/lacy",
+    "meta": {
+      "hook": "WE WAITED 15 HOURS FOR THIS",
+      "title": "Lacy finally gets into GTA 6 after a 15 hour wait 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy waited 15 real-life hours to get her hands on GTA 6 and the reaction says it all 💀\n\nHow long did you wait for GTA 6? 👇\n\n#gta6 #gtavi #lacy #vicecity #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "lacy",
+        "lacy gta 6",
+        "grand theft auto 6",
+        "gta 6 vice city",
+        "gta 6 reaction",
+        "gta 6 gameplay",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Lacy waited 15 real-life hours for GTA 6 and it finally hit 😭 How long did YOU wait? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #vicecity #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.1,
+    "release": "2026-11-22-09-lacy"
+  },
+  {
+    "id": "twitch-ludwig-v2936392772-10401",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "NON-LETHAL RUN HITS A WALL",
+      "title": "Ludwig's non-lethal GTA 6 run runs out of cars 🚔 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nDay 3 of Ludwig's non-lethal GTA 6 run and the getaway car is gone 🚔\n\nCould you finish GTA 6 without killing anyone? 👇\n\n#gta6 #gtavi #ludwig #nonlethal #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "ludwig gta 6",
+        "non lethal gta 6",
+        "grand theft auto 6",
+        "gta 6 challenge",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Day 3 of Ludwig's non-lethal GTA 6 run and the car is gone 🚔 Could you do it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #nonlethal #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.9,
+    "release": "2026-11-22-10-ludwig"
   }
 ]
