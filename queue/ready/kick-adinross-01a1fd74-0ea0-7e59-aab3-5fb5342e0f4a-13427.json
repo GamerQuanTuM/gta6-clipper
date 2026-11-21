@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1fd74-0ea0-7e59-aab3-5fb5342e0f4a-13427",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -244,5 +244,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795288974,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript is offensive/sexual; not safe for hook or title"
 }

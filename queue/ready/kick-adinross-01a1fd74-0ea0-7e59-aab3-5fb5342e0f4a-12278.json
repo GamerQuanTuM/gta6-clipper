@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a1fd74-0ea0-7e59-aab3-5fb5342e0f4a-12278",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -259,5 +259,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795288987,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST JUMPED INTO A JET",
+    "title": "Adin Ross wakes up and jumps in a jet in GTA 6 💀 #gta6 #shorts",
+    "description": "Adin Ross barely survives, then hops into a jet in GTA 6 💀\n\nWhat's the first thing you'd fly in GTA 6? 👇\n\n#gta6 #gtavi #adinross #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "adin ross",
+      "adin ross gta 6",
+      "gta 6 jet",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Adin Ross: \"I'm alive\" then straight into a jet in GTA 6 💀 What would you fly first? 👇\n\n🎥 adinross (kick.com/adinross)\n\n#gta6 #gtavi #adinross #gaming #streamer #reels #kick",
+    "source": "claude"
+  }
 }
