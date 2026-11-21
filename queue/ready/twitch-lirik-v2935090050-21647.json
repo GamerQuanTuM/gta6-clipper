@@ -1,6 +1,6 @@
 {
   "id": "twitch-lirik-v2935090050-21647",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lirik",
   "streamer_name": "LIRIK",
@@ -199,5 +199,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795219997,
-  "meta": null
+  "meta": {
+    "hook": "HOW IS HE STILL ALIVE",
+    "title": "LIRIK somehow survives this in GTA 6 😳 #gta6 #shorts",
+    "description": "LIRIK gets hit in GTA 6 and can't believe he's still standing 💀\n\nWhat's the luckiest escape you've had in GTA 6? 👇\n\n#gta6 #gtavi #lirik #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lirik",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "LIRIK gets hit in GTA 6 and somehow lives to tell the tale 😳 What's your luckiest escape? 👇\n\n🎥 LIRIK (twitch.tv/lirik)\n\n#gta6 #gtavi #lirik #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-20107",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -394,5 +394,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795222887,
-  "meta": null
+  "meta": null,
+  "reject_reason": "scripted in-game dialogue/cutscene with slurs"
 }

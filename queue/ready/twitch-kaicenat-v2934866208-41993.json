@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2934866208-41993",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -204,5 +204,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795222540,
-  "meta": null
+  "meta": null,
+  "reject_reason": "scripted NPC dialogue, no clear reaction"
 }
