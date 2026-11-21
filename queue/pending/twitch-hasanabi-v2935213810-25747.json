@@ -1,0 +1,198 @@
+{
+  "id": "twitch-hasanabi-v2935213810-25747",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2935213810",
+  "vod_id": "v2935213810",
+  "vod_title": "VANITY FAIR🚉THEYRE COMING FOR CULTURISTAS🚉ZOHRAN DOWN!!!🚉TRUMPxXIxPUTIN SUMMIT🗽DROPS ON!🗽GTAVI🗽FUNDRAISER FOR GTA🚉🗽 !donate 2026-11-21 02:16",
+  "game": "GTA 6",
+  "start": 25715,
+  "end": 25763.5,
+  "peak": 25747,
+  "score": 1.88,
+  "language": "en",
+  "transcript": "These fucking cars I can't bump them off the road Let's go What's up motherfucker? Yeah, you thought I was just a fine piece of ass didn't you that's what you get for being misogynistic",
+  "words": [
+    [
+      4.46,
+      4.98,
+      "These"
+    ],
+    [
+      4.98,
+      5.36,
+      "fucking"
+    ],
+    [
+      5.36,
+      5.74,
+      "cars"
+    ],
+    [
+      5.74,
+      5.94,
+      "I"
+    ],
+    [
+      5.94,
+      6.24,
+      "can't"
+    ],
+    [
+      6.24,
+      6.52,
+      "bump"
+    ],
+    [
+      6.52,
+      6.66,
+      "them"
+    ],
+    [
+      6.66,
+      6.86,
+      "off"
+    ],
+    [
+      6.86,
+      7.02,
+      "the"
+    ],
+    [
+      7.02,
+      7.36,
+      "road"
+    ],
+    [
+      14.39,
+      14.87,
+      "Let's"
+    ],
+    [
+      14.87,
+      15.17,
+      "go"
+    ],
+    [
+      40.92,
+      41.4,
+      "What's"
+    ],
+    [
+      41.4,
+      41.56,
+      "up"
+    ],
+    [
+      41.56,
+      41.88,
+      "motherfucker?"
+    ],
+    [
+      42.72,
+      43.2,
+      "Yeah,"
+    ],
+    [
+      43.22,
+      43.48,
+      "you"
+    ],
+    [
+      43.48,
+      43.72,
+      "thought"
+    ],
+    [
+      43.72,
+      43.9,
+      "I"
+    ],
+    [
+      43.9,
+      44.04,
+      "was"
+    ],
+    [
+      44.04,
+      44.16,
+      "just"
+    ],
+    [
+      44.16,
+      44.3,
+      "a"
+    ],
+    [
+      44.3,
+      44.72,
+      "fine"
+    ],
+    [
+      44.72,
+      45.02,
+      "piece"
+    ],
+    [
+      45.02,
+      45.26,
+      "of"
+    ],
+    [
+      45.26,
+      45.5,
+      "ass"
+    ],
+    [
+      45.5,
+      45.86,
+      "didn't"
+    ],
+    [
+      45.86,
+      46.1,
+      "you"
+    ],
+    [
+      46.1,
+      46.58,
+      "that's"
+    ],
+    [
+      46.58,
+      46.64,
+      "what"
+    ],
+    [
+      46.64,
+      46.8,
+      "you"
+    ],
+    [
+      46.8,
+      47.0,
+      "get"
+    ],
+    [
+      47.0,
+      47.18,
+      "for"
+    ],
+    [
+      47.18,
+      47.36,
+      "being"
+    ],
+    [
+      47.36,
+      48.2,
+      "misogynistic"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795227419,
+  "meta": null
+}
