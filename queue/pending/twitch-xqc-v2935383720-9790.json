@@ -1,0 +1,133 @@
+{
+  "id": "twitch-xqc-v2935383720-9790",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 01:08",
+  "game": "GTA 6",
+  "start": 9755.99,
+  "end": 9803,
+  "peak": 9790,
+  "score": 1.78,
+  "language": "en",
+  "transcript": "Ass up Any of these niggas can get fucked up just like this keep trying it Don't piss me the fuck off",
+  "words": [
+    [
+      0.15,
+      0.71,
+      "Ass"
+    ],
+    [
+      0.71,
+      1.27,
+      "up"
+    ],
+    [
+      4.93,
+      5.49,
+      "Any"
+    ],
+    [
+      5.49,
+      6.05,
+      "of"
+    ],
+    [
+      6.05,
+      6.21,
+      "these"
+    ],
+    [
+      6.21,
+      6.49,
+      "niggas"
+    ],
+    [
+      6.49,
+      6.61,
+      "can"
+    ],
+    [
+      6.61,
+      6.75,
+      "get"
+    ],
+    [
+      6.75,
+      7.03,
+      "fucked"
+    ],
+    [
+      7.03,
+      7.21,
+      "up"
+    ],
+    [
+      7.21,
+      7.45,
+      "just"
+    ],
+    [
+      7.45,
+      7.73,
+      "like"
+    ],
+    [
+      7.73,
+      8.01,
+      "this"
+    ],
+    [
+      8.01,
+      8.31,
+      "keep"
+    ],
+    [
+      8.31,
+      8.63,
+      "trying"
+    ],
+    [
+      8.63,
+      8.85,
+      "it"
+    ],
+    [
+      10.97,
+      11.53,
+      "Don't"
+    ],
+    [
+      11.53,
+      11.67,
+      "piss"
+    ],
+    [
+      11.67,
+      11.87,
+      "me"
+    ],
+    [
+      11.87,
+      11.99,
+      "the"
+    ],
+    [
+      11.99,
+      12.15,
+      "fuck"
+    ],
+    [
+      12.15,
+      12.41,
+      "off"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795223347,
+  "meta": null
+}
