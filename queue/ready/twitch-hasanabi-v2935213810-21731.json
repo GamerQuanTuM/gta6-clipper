@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2935213810-21731",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -599,5 +599,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795223552,
-  "meta": null
+  "meta": null,
+  "reject_reason": "In-game promo voiceover plus off-topic talk"
 }
