@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fdd9-d550-76f8-b59c-fb0968a7a9fe-30778",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -15,94 +15,12 @@
   "score": 2.27,
   "language": "hi",
   "transcript": "में अर्वन दबाया जिससे कवर लेता है भाई वहीं बेड़ गया वो चूमू आपको यहींचे चलो",
-  "words": [
-    [
-      26.91,
-      27.45,
-      "में"
-    ],
-    [
-      27.45,
-      27.99,
-      "अर्वन"
-    ],
-    [
-      27.99,
-      28.17,
-      "दबाया"
-    ],
-    [
-      28.17,
-      39.19,
-      "जिससे"
-    ],
-    [
-      39.19,
-      39.45,
-      "कवर"
-    ],
-    [
-      39.45,
-      39.73,
-      "लेता"
-    ],
-    [
-      39.73,
-      39.79,
-      "है"
-    ],
-    [
-      39.79,
-      40.03,
-      "भाई"
-    ],
-    [
-      40.03,
-      40.79,
-      "वहीं"
-    ],
-    [
-      40.79,
-      41.15,
-      "बेड़"
-    ],
-    [
-      41.15,
-      41.31,
-      "गया"
-    ],
-    [
-      41.31,
-      41.51,
-      "वो"
-    ],
-    [
-      41.51,
-      42.07,
-      "चूमू"
-    ],
-    [
-      42.07,
-      43.67,
-      "आपको"
-    ],
-    [
-      43.67,
-      43.93,
-      "यहींचे"
-    ],
-    [
-      43.93,
-      44.27,
-      "चलो"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795292691,
   "meta": {
     "hook": "BHAI YE KYA HO GAYA",
     "title": "Soulaman ka GTA 6 me cover wala scene 😭 #gta6 #shorts",
-    "description": "Soulaman GTA 6 me cover leke aisa kuch karta hai ki bas dekhte reh jaoge 😅\n\nAapko GTA 6 ka sabse funny moment kaunsa laga? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts #gaming",
+    "description": "🎥 Clip from soulaman's live stream: https://kick.com/soulaman\n\nSoulaman GTA 6 me cover leke aisa kuch karta hai ki bas dekhte reh jaoge 😅\n\nAapko GTA 6 ka sabse funny moment kaunsa laga? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -122,5 +40,7 @@
     ],
     "ig_caption": "Soulaman ka GTA 6 me cover wala moment 😭 Aapka favourite GTA 6 moment kaunsa hai? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #gaming #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795295457
 }
