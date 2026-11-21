@@ -1,0 +1,47 @@
+{
+  "id": "twitch-kaicenat-v2935613960-14943",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2935613960",
+  "vod_id": "v2935613960",
+  "vod_title": "BEATING GTA 6 RIGHT NOW *FINALE* 2026-11-21 06:07",
+  "game": "GTA 6",
+  "start": 14909.95,
+  "end": 14957.19,
+  "peak": 14943,
+  "score": 1.88,
+  "language": "en",
+  "transcript": "Find it, product. We'll be like finding the needle in the... Haystack? Great. I will think of something. Just be ready. Go, go, go! That's my music, that's my... That was me, that was me, that was me! That was my music, that was me! AHHHH! That was me, that was me! Yo, that shit has so much orange hat!",
+  "chat_sample": [],
+  "created_unix": 1795241269,
+  "meta": {
+    "hook": "THAT WAS MY MUSIC",
+    "title": "Kai Cenat loses it in the GTA 6 finale 😭 #gta6 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat goes wild in the GTA 6 finale: \"That was me, that was me!\" 💀\n\nWhat's the funniest Kai moment in GTA 6 so far? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "beating gta 6",
+      "gta 6 finale",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat loses it in the GTA 6 finale 😭 \"That was my music!\" What's your favorite Kai moment? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.2,
+  "rendered_unix": 1795244885
+}

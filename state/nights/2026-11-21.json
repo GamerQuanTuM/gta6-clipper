@@ -1064,5 +1064,102 @@
     },
     "duration_s": 50.9,
     "release": "2026-11-21-34-soulaman"
+  },
+  {
+    "id": "twitch-kaicenat-v2935613960-14943",
+    "streamer": "kaicenat",
+    "streamer_name": "KaiCenat",
+    "channel_url": "https://www.twitch.tv/kaicenat",
+    "meta": {
+      "hook": "THAT WAS MY MUSIC",
+      "title": "Kai Cenat loses it in the GTA 6 finale 😭 #gta6 #shorts",
+      "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat goes wild in the GTA 6 finale: \"That was me, that was me!\" 💀\n\nWhat's the funniest Kai moment in GTA 6 so far? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "kai cenat",
+        "kaicenat",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "beating gta 6",
+        "gta 6 finale",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 3,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Kai Cenat loses it in the GTA 6 finale 😭 \"That was my music!\" What's your favorite Kai moment? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.2,
+    "release": "2026-11-21-35-kaicenat"
+  },
+  {
+    "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-42680",
+    "streamer": "soulaman",
+    "streamer_name": "soulaman",
+    "channel_url": "https://kick.com/soulaman",
+    "meta": {
+      "hook": "POLICE PHIR SE AA GAYI",
+      "title": "Soulaman ka GTA 6 me super car chase, police phir aa gayi 😭 #gta6 #shorts",
+      "description": "🎥 Clip from soulaman's live stream: https://kick.com/soulaman\n\nSoulaman GTA 6 me super car ke saath police se bachne ki koshish karte hue 💀\n\nAapko GTA 6 ki braking kaisi lagi? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "soulaman",
+        "gta 6 hindi",
+        "gta 6 india",
+        "gta 6 super car",
+        "gta 6 police chase",
+        "gta 6 funny moments",
+        "grand theft auto 6",
+        "hindi gaming",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Soulaman ka GTA 6 super car chase, aur police phir se aa gayi 😭 Braking kaisi lagi aapko? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 50.7,
+    "release": "2026-11-21-36-soulaman"
+  },
+  {
+    "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-44209",
+    "streamer": "soulaman",
+    "streamer_name": "soulaman",
+    "channel_url": "https://kick.com/soulaman",
+    "meta": {
+      "hook": "GOLDEN LAMBO CHURANE KA PLAN",
+      "title": "Soulaman ka GTA 6 marathon, ab golden Lambo ki baari 🔥 #gta6 #shorts",
+      "description": "🎥 Clip from soulaman's live stream: https://kick.com/soulaman\n\nSoulaman ka GTA 6 marathon stream chal raha hai, next plan golden Lambo churana 🔥\n\nKaunsi car sabse pehle chahiye GTA 6 me? 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "soulaman",
+        "gta 6 hindi",
+        "gta 6 india",
+        "gta 6 marathon",
+        "gta 6 golden lambo",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "hindi gaming",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Soulaman ka GTA 6 marathon aur ab plan hai golden Lambo churane ka 🔥 Aap kaunsi car pehle lete? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6india #gta6hindi #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.0,
+    "release": "2026-11-21-37-soulaman"
   }
 ]
