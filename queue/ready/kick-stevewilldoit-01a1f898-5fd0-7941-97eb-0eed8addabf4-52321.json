@@ -1,6 +1,6 @@
 {
   "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-52321",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "stevewilldoit",
   "streamer_name": "stevewilldoit",
@@ -429,5 +429,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795227549,
-  "meta": null
+  "meta": {
+    "hook": "WAIT WHAT IS THAT",
+    "title": "SteveWillDoIt's GTA 6 backstage mission goes weird 😭 #shorts",
+    "description": "SteveWillDoIt expects a dance in GTA 6 and gets a total shock instead 💀\n\nWhat would you do in this mission? 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "stevewilldoit",
+      "steve will do it",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 missions",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "SteveWillDoIt expected a dance in GTA 6 and got a total shock instead 💀 What would you do? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

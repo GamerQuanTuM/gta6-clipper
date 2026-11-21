@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2935185818-24164",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -549,5 +549,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795227349,
-  "meta": null
+  "meta": {
+    "hook": "GIVE ME THAT CAR REAL QUICK",
+    "title": "zackrawrr spots a clean car in GTA 6 and wants it NOW 😭 #shorts",
+    "description": "zackrawrr sees a really nice car in GTA 6 and doesn't hold back 🚗\n\nWhat's the first car you'd grab in GTA 6? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 funny moments",
+      "gta 6 cars",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr sees a really nice car in GTA 6 and goes straight for it 🚗 What's the first car you'd grab? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
