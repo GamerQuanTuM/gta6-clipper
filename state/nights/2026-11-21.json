@@ -752,5 +752,97 @@
     },
     "duration_s": 52.1,
     "release": "2026-11-21-24-hasanabi"
+  },
+  {
+    "id": "kick-stevewilldoit-01a1f898-5fd0-7941-97eb-0eed8addabf4-52321",
+    "streamer": "stevewilldoit",
+    "streamer_name": "stevewilldoit",
+    "channel_url": "https://kick.com/stevewilldoit",
+    "meta": {
+      "hook": "WAIT WHAT IS THAT",
+      "title": "SteveWillDoIt's GTA 6 backstage mission goes weird 😭 #shorts",
+      "description": "🎥 Clip from stevewilldoit's live stream: https://kick.com/stevewilldoit\n\nSteveWillDoIt expects a dance in GTA 6 and gets a total shock instead 💀\n\nWhat would you do in this mission? 👇\n\n#gta6 #gtavi #stevewilldoit #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "stevewilldoit",
+        "steve will do it",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 missions",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "SteveWillDoIt expected a dance in GTA 6 and got a total shock instead 💀 What would you do? 👇\n\n🎥 SteveWillDoIt (kick.com/stevewilldoit)\n\n#gta6 #gtavi #stevewilldoit #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.1,
+    "release": "2026-11-21-25-stevewilldoit"
+  },
+  {
+    "id": "twitch-zackrawrr-v2935185818-24164",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "GIVE ME THAT CAR REAL QUICK",
+      "title": "zackrawrr spots a clean car in GTA 6 and wants it NOW 😭 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr sees a really nice car in GTA 6 and doesn't hold back 🚗\n\nWhat's the first car you'd grab in GTA 6? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack",
+        "gta 6 funny moments",
+        "gta 6 cars",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr sees a really nice car in GTA 6 and goes straight for it 🚗 What's the first car you'd grab? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 44.9,
+    "release": "2026-11-21-26-zackrawrr"
+  },
+  {
+    "id": "twitch-xqc-v2935383720-13569",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "WHAT IS IN THE BUSHES",
+      "title": "xQc spots something shady in the bushes in GTA 6 👀 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc is cruising in GTA 6 when a roadblock jumps out at him 😭\n\nWould you have seen it coming? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 roadblock",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc spots something in the bushes in GTA 6 and it's a roadblock 😭 Would you have seen it coming? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.3,
+    "release": "2026-11-21-27-xqc"
   }
 ]

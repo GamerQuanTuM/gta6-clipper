@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2935383720-13569",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -15,124 +15,12 @@
   "score": 1.62,
   "language": "en",
   "transcript": "The truck? Yeah, I can slimy -gimmie it. Oh man. Wait, what the hell is in the bushes? It was blockade, man.",
-  "words": [
-    [
-      0.15,
-      0.83,
-      "The"
-    ],
-    [
-      0.83,
-      1.51,
-      "truck?"
-    ],
-    [
-      6.36,
-      6.76,
-      "Yeah,"
-    ],
-    [
-      6.96,
-      7.0,
-      "I"
-    ],
-    [
-      7.0,
-      7.12,
-      "can"
-    ],
-    [
-      7.12,
-      7.46,
-      "slimy"
-    ],
-    [
-      7.46,
-      7.82,
-      "-gimmie"
-    ],
-    [
-      7.82,
-      7.98,
-      "it."
-    ],
-    [
-      18.75,
-      18.91,
-      "Oh"
-    ],
-    [
-      18.91,
-      19.05,
-      "man."
-    ],
-    [
-      19.89,
-      20.57,
-      "Wait,"
-    ],
-    [
-      21.37,
-      21.51,
-      "what"
-    ],
-    [
-      21.51,
-      21.55,
-      "the"
-    ],
-    [
-      21.55,
-      21.73,
-      "hell"
-    ],
-    [
-      21.73,
-      21.73,
-      "is"
-    ],
-    [
-      21.73,
-      21.77,
-      "in"
-    ],
-    [
-      21.77,
-      21.83,
-      "the"
-    ],
-    [
-      21.83,
-      22.01,
-      "bushes?"
-    ],
-    [
-      34.21,
-      34.21,
-      "It"
-    ],
-    [
-      34.21,
-      34.77,
-      "was"
-    ],
-    [
-      43.12,
-      43.74,
-      "blockade,"
-    ],
-    [
-      43.84,
-      43.98,
-      "man."
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795227160,
   "meta": {
     "hook": "WHAT IS IN THE BUSHES",
     "title": "xQc spots something shady in the bushes in GTA 6 👀 #shorts",
-    "description": "xQc is cruising in GTA 6 when a roadblock jumps out at him 😭\n\nWould you have seen it coming? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc is cruising in GTA 6 when a roadblock jumps out at him 😭\n\nWould you have seen it coming? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -150,5 +38,7 @@
     ],
     "ig_caption": "xQc spots something in the bushes in GTA 6 and it's a roadblock 😭 Would you have seen it coming? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 46.3,
+  "rendered_unix": 1795230677
 }
