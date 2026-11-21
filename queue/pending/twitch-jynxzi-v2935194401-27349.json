@@ -1,0 +1,143 @@
+{
+  "id": "twitch-jynxzi-v2935194401-27349",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2935194401",
+  "vod_id": "v2935194401",
+  "vod_title": "[681/730] 🔴 KRILLION -> CHESS ROAD TO 1K ELO -> LEGENDS DIVISION TOP 1K PUSH 🔴 FANMAIL TMR 🔴 TAKIN LIL BREAK FROM GTA 6 🔴",
+  "game": "GTA 6",
+  "start": 27319.67,
+  "end": 27362,
+  "peak": 27349,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "Nice, okay, that's really good. Yeah, nobody's trunk Nobody is We have two minutes slow the fuck down I Know three seconds three seconds",
+  "words": [
+    [
+      0.15,
+      0.59,
+      "Nice,"
+    ],
+    [
+      0.59,
+      1.03,
+      "okay,"
+    ],
+    [
+      1.03,
+      1.21,
+      "that's"
+    ],
+    [
+      1.21,
+      1.37,
+      "really"
+    ],
+    [
+      1.37,
+      1.65,
+      "good."
+    ],
+    [
+      2.71,
+      3.15,
+      "Yeah,"
+    ],
+    [
+      3.19,
+      3.77,
+      "nobody's"
+    ],
+    [
+      3.77,
+      4.07,
+      "trunk"
+    ],
+    [
+      5.95,
+      6.39,
+      "Nobody"
+    ],
+    [
+      6.39,
+      6.83,
+      "is"
+    ],
+    [
+      12.04,
+      12.48,
+      "We"
+    ],
+    [
+      12.48,
+      12.56,
+      "have"
+    ],
+    [
+      12.56,
+      13.2,
+      "two"
+    ],
+    [
+      13.2,
+      13.4,
+      "minutes"
+    ],
+    [
+      13.4,
+      13.84,
+      "slow"
+    ],
+    [
+      13.84,
+      14.0,
+      "the"
+    ],
+    [
+      14.0,
+      14.08,
+      "fuck"
+    ],
+    [
+      14.08,
+      14.38,
+      "down"
+    ],
+    [
+      27.04,
+      27.48,
+      "I"
+    ],
+    [
+      27.48,
+      27.48,
+      "Know"
+    ],
+    [
+      27.48,
+      27.7,
+      "three"
+    ],
+    [
+      27.7,
+      28.0,
+      "seconds"
+    ],
+    [
+      28.0,
+      28.18,
+      "three"
+    ],
+    [
+      28.18,
+      28.44,
+      "seconds"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795237866,
+  "meta": null
+}

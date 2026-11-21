@@ -1,0 +1,68 @@
+{
+  "id": "twitch-xqc-v2935383720-26842",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2935383720",
+  "vod_id": "v2935383720",
+  "vod_title": "🥊60 FPS🥊GTA 6 PLAYTHROUGH🥊LIVE🥊FINISHING THE GAME PERHAPS🥊LOCK IT IN🥊BEST GTA 6 AIMER🥊BEST GTA 6 DRIVER🥊BEST GTA 6 PLAYER🥊 2026-11-21 05:11",
+  "game": "GTA 6",
+  "start": 26806.47,
+  "end": 26855,
+  "peak": 26842,
+  "score": 2.14,
+  "language": "en",
+  "transcript": "Some bitch That's the wrong guy No, thank you",
+  "words": [
+    [
+      0.15,
+      0.67,
+      "Some"
+    ],
+    [
+      0.67,
+      1.03,
+      "bitch"
+    ],
+    [
+      10.89,
+      11.77,
+      "That's"
+    ],
+    [
+      11.77,
+      11.81,
+      "the"
+    ],
+    [
+      11.81,
+      11.95,
+      "wrong"
+    ],
+    [
+      11.95,
+      12.21,
+      "guy"
+    ],
+    [
+      34.22,
+      35.1,
+      "No,"
+    ],
+    [
+      37.21,
+      38.09,
+      "thank"
+    ],
+    [
+      38.09,
+      38.27,
+      "you"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795237898,
+  "meta": null
+}
