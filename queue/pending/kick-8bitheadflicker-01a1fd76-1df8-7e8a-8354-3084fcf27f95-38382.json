@@ -1,0 +1,103 @@
+{
+  "id": "kick-8bitheadflicker-01a1fd76-1df8-7e8a-8354-3084fcf27f95-38382",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a1fd76-1df8-7e8a-8354-3084fcf27f95#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1fd76-1df8-7e8a-8354-3084fcf27f95",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 4 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 38350,
+  "end": 38395,
+  "peak": 38382,
+  "score": 2.62,
+  "language": "hi",
+  "transcript": "वो तर्णू यहाही क्रेजी शॉट्स आ रहे है आजा तुभी आजा तुभी आजा लाला तुभी आजा",
+  "words": [
+    [
+      26.95,
+      27.13,
+      "वो"
+    ],
+    [
+      27.13,
+      27.63,
+      "तर्णू"
+    ],
+    [
+      28.87,
+      29.39,
+      "यहाही"
+    ],
+    [
+      29.39,
+      29.91,
+      "क्रेजी"
+    ],
+    [
+      29.91,
+      30.47,
+      "शॉट्स"
+    ],
+    [
+      30.47,
+      30.59,
+      "आ"
+    ],
+    [
+      30.59,
+      30.71,
+      "रहे"
+    ],
+    [
+      30.71,
+      31.25,
+      "है"
+    ],
+    [
+      32.29,
+      32.81,
+      "आजा"
+    ],
+    [
+      32.81,
+      33.05,
+      "तुभी"
+    ],
+    [
+      33.05,
+      33.25,
+      "आजा"
+    ],
+    [
+      33.25,
+      33.47,
+      "तुभी"
+    ],
+    [
+      33.47,
+      34.11,
+      "आजा"
+    ],
+    [
+      34.11,
+      34.39,
+      "लाला"
+    ],
+    [
+      34.39,
+      34.61,
+      "तुभी"
+    ],
+    [
+      34.61,
+      34.85,
+      "आजा"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795295726,
+  "meta": null
+}

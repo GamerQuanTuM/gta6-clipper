@@ -1,0 +1,93 @@
+{
+  "id": "kick-8bitheadflicker-01a1fd76-1df8-7e8a-8354-3084fcf27f95-39508",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a1fd76-1df8-7e8a-8354-3084fcf27f95#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1fd76-1df8-7e8a-8354-3084fcf27f95",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 4 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 39473.97,
+  "end": 39521,
+  "peak": 39508,
+  "score": 2.17,
+  "language": "hi",
+  "transcript": "लिलिलिलिलिलि शीकन अदूरी इने सेर्ण अँन अजया अजया अजया अजया इस अजया चाची ता",
+  "words": [
+    [
+      0.15,
+      1.53,
+      "लिलिलिलिलिलि"
+    ],
+    [
+      10.28,
+      10.93,
+      "शीकन"
+    ],
+    [
+      10.93,
+      11.35,
+      "अदूरी"
+    ],
+    [
+      12.36,
+      13.01,
+      "इने"
+    ],
+    [
+      13.01,
+      13.63,
+      "सेर्ण"
+    ],
+    [
+      13.63,
+      14.31,
+      "अँन"
+    ],
+    [
+      14.31,
+      15.01,
+      "अजया"
+    ],
+    [
+      15.01,
+      15.29,
+      "अजया"
+    ],
+    [
+      15.29,
+      16.21,
+      "अजया"
+    ],
+    [
+      16.21,
+      16.45,
+      "अजया"
+    ],
+    [
+      16.45,
+      16.53,
+      "इस"
+    ],
+    [
+      16.53,
+      17.11,
+      "अजया"
+    ],
+    [
+      41.53,
+      42.37,
+      "चाची"
+    ],
+    [
+      42.37,
+      42.61,
+      "ता"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795295737,
+  "meta": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "kick-8bitheadflicker-01a1fd76-1df8-7e8a-8354-3084fcf27f95-41649",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a1fd76-1df8-7e8a-8354-3084fcf27f95#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a1fd76-1df8-7e8a-8354-3084fcf27f95",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 4 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 41617,
+  "end": 41662,
+  "peak": 41649,
+  "score": 2.0,
+  "language": "hi",
+  "transcript": "गड़ाई ए यहालत आए किया। कर ले जो आए निड़ाई! बाद चर्च प्रमावाई",
+  "words": [
+    [
+      22.56,
+      23.16,
+      "गड़ाई"
+    ],
+    [
+      23.16,
+      23.36,
+      "ए"
+    ],
+    [
+      23.36,
+      24.2,
+      "यहालत"
+    ],
+    [
+      24.2,
+      24.5,
+      "आए"
+    ],
+    [
+      24.5,
+      24.58,
+      "किया।"
+    ],
+    [
+      29.66,
+      30.26,
+      "कर"
+    ],
+    [
+      30.26,
+      30.44,
+      "ले"
+    ],
+    [
+      30.44,
+      30.68,
+      "जो"
+    ],
+    [
+      30.68,
+      30.82,
+      "आए"
+    ],
+    [
+      30.82,
+      31.36,
+      "निड़ाई!"
+    ],
+    [
+      31.72,
+      32.32,
+      "बाद"
+    ],
+    [
+      32.32,
+      33.98,
+      "चर्च"
+    ],
+    [
+      33.98,
+      34.16,
+      "प्रमावाई"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795295772,
+  "meta": null
+}
