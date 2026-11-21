@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2936182420-11125",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -474,5 +474,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795292055,
-  "meta": null
+  "meta": null,
+  "reject_reason": "talking about save files, not a moment"
 }

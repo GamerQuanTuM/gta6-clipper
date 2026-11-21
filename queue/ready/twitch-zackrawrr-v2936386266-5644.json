@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-5644",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -424,5 +424,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795291930,
-  "meta": null
+  "meta": {
+    "hook": "I HAVE TO TURN THIS OFF",
+    "title": "zackrawrr cant watch anymore during GTA 6 release stream 💀 #shorts",
+    "description": "zackrawrr hits the breaking point and has to shut it off on his GTA 6 release stream 💀\n\nWhat's the dumbest thing you've watched this week? 👇\n\n#gta6 #gtavi #zackrawrr #streamermoments #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 release stream",
+      "gta 6 reaction",
+      "grand theft auto 6",
+      "streamer moments",
+      "funny moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr has had ENOUGH on his GTA 6 release stream 💀 What would you turn off first? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #streamer #funny #gaming #reels",
+    "source": "claude"
+  }
 }

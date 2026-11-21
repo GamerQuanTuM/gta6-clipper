@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-6042",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -744,5 +744,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795291923,
-  "meta": null
+  "meta": null,
+  "reject_reason": "relationship/IKEA story, not about the game"
 }

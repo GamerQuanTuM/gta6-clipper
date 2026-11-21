@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2936182420-10309",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -189,5 +189,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795292048,
-  "meta": null
+  "meta": null,
+  "reject_reason": "not GTA 6 (colorblind/deforestation chatter), nothing happening"
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2936182420-9599",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -154,5 +154,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795292058,
-  "meta": null
+  "meta": null,
+  "reject_reason": "car-damage chat, unclear game, no real moment"
 }
