@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-3700",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -274,5 +274,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795299148,
-  "meta": null
+  "meta": {
+    "hook": "WE WAITED 15 HOURS FOR THIS",
+    "title": "Lacy finally gets into GTA 6 after a 15 hour wait 😭 #gta6 #shorts",
+    "description": "Lacy waited 15 real-life hours to get her hands on GTA 6 and the reaction says it all 💀\n\nHow long did you wait for GTA 6? 👇\n\n#gta6 #gtavi #lacy #vicecity #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "grand theft auto 6",
+      "gta 6 vice city",
+      "gta 6 reaction",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy waited 15 real-life hours for GTA 6 and it finally hit 😭 How long did YOU wait? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

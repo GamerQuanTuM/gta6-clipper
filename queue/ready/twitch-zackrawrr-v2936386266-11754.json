@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-11754",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -249,5 +249,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795299057,
-  "meta": null
+  "meta": {
+    "hook": "INTERESTING WORLD BORING STORY",
+    "title": "zackrawrr's honest GTA 6 verdict: great world, boring story #shorts",
+    "description": "zackrawrr gives his take on GTA 6 after playing: interesting world, boring story 👀\n\nDo you agree with him? 👇\n\n#gta6 #gtavi #zackrawrr #gta6review #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack gta 6",
+      "gta 6 review",
+      "gta 6 opinion",
+      "grand theft auto 6",
+      "gta 6 story",
+      "streamer reaction",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr's GTA 6 verdict: interesting world, boring story 👀 Agree or nah? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gta6review #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
