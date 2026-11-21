@@ -1,0 +1,158 @@
+{
+  "id": "twitch-esfandtv-v2936182420-9599",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "esfandtv",
+  "streamer_name": "EsfandTV",
+  "channel_url": "https://www.twitch.tv/esfandtv",
+  "vod_url": "https://www.twitch.tv/videos/2936182420",
+  "vod_id": "v2936182420",
+  "vod_title": "🎙️Chatting 🎮 Gaming 📹 IRL in Miami | !elgato !restedxp !schedule",
+  "game": "GTA 6",
+  "start": 9567,
+  "end": 9613.52,
+  "peak": 9599,
+  "score": 1.85,
+  "language": "en",
+  "transcript": "Pit approved. Dude the axle, the axle damage is really annoying. One of you, one of you crash your car. That's an insane statement to make normally.",
+  "words": [
+    [
+      10.6,
+      11.14,
+      "Pit"
+    ],
+    [
+      11.14,
+      11.9,
+      "approved."
+    ],
+    [
+      29.6,
+      30.0,
+      "Dude"
+    ],
+    [
+      30.0,
+      30.2,
+      "the"
+    ],
+    [
+      30.2,
+      30.58,
+      "axle,"
+    ],
+    [
+      30.74,
+      30.9,
+      "the"
+    ],
+    [
+      30.9,
+      31.28,
+      "axle"
+    ],
+    [
+      31.28,
+      31.7,
+      "damage"
+    ],
+    [
+      31.7,
+      31.94,
+      "is"
+    ],
+    [
+      31.94,
+      32.28,
+      "really"
+    ],
+    [
+      32.28,
+      32.6,
+      "annoying."
+    ],
+    [
+      32.84,
+      32.9,
+      "One"
+    ],
+    [
+      32.9,
+      32.96,
+      "of"
+    ],
+    [
+      32.96,
+      33.14,
+      "you,"
+    ],
+    [
+      33.24,
+      33.44,
+      "one"
+    ],
+    [
+      33.44,
+      33.5,
+      "of"
+    ],
+    [
+      33.5,
+      33.62,
+      "you"
+    ],
+    [
+      33.62,
+      34.04,
+      "crash"
+    ],
+    [
+      34.04,
+      34.26,
+      "your"
+    ],
+    [
+      34.26,
+      34.46,
+      "car."
+    ],
+    [
+      44.2,
+      44.68,
+      "That's"
+    ],
+    [
+      44.68,
+      44.76,
+      "an"
+    ],
+    [
+      44.76,
+      45.16,
+      "insane"
+    ],
+    [
+      45.16,
+      45.6,
+      "statement"
+    ],
+    [
+      45.6,
+      45.8,
+      "to"
+    ],
+    [
+      45.8,
+      45.94,
+      "make"
+    ],
+    [
+      45.94,
+      46.22,
+      "normally."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795292058,
+  "meta": null
+}

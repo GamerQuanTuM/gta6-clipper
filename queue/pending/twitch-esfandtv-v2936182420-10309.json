@@ -1,0 +1,193 @@
+{
+  "id": "twitch-esfandtv-v2936182420-10309",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "esfandtv",
+  "streamer_name": "EsfandTV",
+  "channel_url": "https://www.twitch.tv/esfandtv",
+  "vod_url": "https://www.twitch.tv/videos/2936182420",
+  "vod_id": "v2936182420",
+  "vod_title": "🎙️Chatting 🎮 Gaming 📹 IRL in Miami | !elgato !restedxp !schedule",
+  "game": "GTA 6",
+  "start": 10277,
+  "end": 10324.13,
+  "peak": 10309,
+  "score": 1.93,
+  "language": "en",
+  "transcript": "It's ready for a little deforestation. You guys can see it? I can't see it. Keep in mind, I'm colorblind. So like, this is a nightmare for me right now. Hey, doing good? Good.",
+  "words": [
+    [
+      7.43,
+      7.83,
+      "It's"
+    ],
+    [
+      7.83,
+      7.97,
+      "ready"
+    ],
+    [
+      7.97,
+      8.19,
+      "for"
+    ],
+    [
+      8.19,
+      8.31,
+      "a"
+    ],
+    [
+      8.31,
+      8.51,
+      "little"
+    ],
+    [
+      13.15,
+      15.59,
+      "deforestation."
+    ],
+    [
+      29.51,
+      29.91,
+      "You"
+    ],
+    [
+      29.91,
+      30.05,
+      "guys"
+    ],
+    [
+      30.05,
+      30.23,
+      "can"
+    ],
+    [
+      30.23,
+      30.57,
+      "see"
+    ],
+    [
+      30.57,
+      30.75,
+      "it?"
+    ],
+    [
+      30.83,
+      30.93,
+      "I"
+    ],
+    [
+      30.93,
+      31.29,
+      "can't"
+    ],
+    [
+      31.29,
+      31.51,
+      "see"
+    ],
+    [
+      31.51,
+      31.71,
+      "it."
+    ],
+    [
+      32.27,
+      32.67,
+      "Keep"
+    ],
+    [
+      32.67,
+      32.79,
+      "in"
+    ],
+    [
+      32.79,
+      32.95,
+      "mind,"
+    ],
+    [
+      33.09,
+      33.15,
+      "I'm"
+    ],
+    [
+      33.15,
+      33.69,
+      "colorblind."
+    ],
+    [
+      34.47,
+      34.71,
+      "So"
+    ],
+    [
+      34.71,
+      34.89,
+      "like,"
+    ],
+    [
+      35.09,
+      35.09,
+      "this"
+    ],
+    [
+      35.09,
+      35.51,
+      "is"
+    ],
+    [
+      35.51,
+      35.57,
+      "a"
+    ],
+    [
+      35.57,
+      35.81,
+      "nightmare"
+    ],
+    [
+      35.81,
+      36.09,
+      "for"
+    ],
+    [
+      36.09,
+      36.23,
+      "me"
+    ],
+    [
+      36.23,
+      36.35,
+      "right"
+    ],
+    [
+      36.35,
+      36.59,
+      "now."
+    ],
+    [
+      46.09,
+      46.21,
+      "Hey,"
+    ],
+    [
+      46.25,
+      46.33,
+      "doing"
+    ],
+    [
+      46.33,
+      46.49,
+      "good?"
+    ],
+    [
+      46.49,
+      46.83,
+      "Good."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795292048,
+  "meta": null
+}
