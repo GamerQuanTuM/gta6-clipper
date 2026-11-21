@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-49936",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -169,5 +169,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795248793,
-  "meta": null
+  "meta": {
+    "hook": "ITNA BADHIYA CHALAYA PHIR YE HUA",
+    "title": "Soulaman ka GTA 6 me last me sab bigad gaya 😭 #gta6 #shorts",
+    "description": "Soulaman ne poori race badhiya chalayi, phir last me kaand ho gaya 😭\n\nGolden Lambo wala moment kaisa laga? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6india #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "hindi gaming",
+      "golden lambo",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ne itni badhiya chalayi, phir last me kaand ho gaya 😭 Golden Lambo chat me trend kar raha hai! Tum kya karte? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gta6india #hindigaming #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1fc67-f5d0-7aee-9650-4354358a2ea8-10192",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -389,5 +389,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795248707,
-  "meta": null
+  "meta": {
+    "hook": "SHE FOUND A HOLE TO ESCAPE",
+    "title": "Amouranth breaks them out of jail with a hole in the wall #shorts",
+    "description": "Amouranth is busting out of the jail and finds a hole to squeeze through 😭\n\nWould you have made it out? 👇\n\n#amouranth #jailbreak #streamermoments #shorts #gaming",
+    "tags": [
+      "amouranth",
+      "amouranth jailbreak",
+      "amouranth escape game",
+      "jailbreak game",
+      "prison escape game",
+      "streamer moments",
+      "kick streamer",
+      "funny streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Amouranth is breaking them out and finds a hole to squeeze through 😭 Would you make it out? 👇\n\n🎥 amouranth (kick.com/amouranth)\n\n#amouranth #jailbreak #streamermoments #gaming #kick #reels",
+    "source": "claude"
+  }
 }

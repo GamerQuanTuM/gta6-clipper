@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1fc67-f5d0-7aee-9650-4354358a2ea8-10425",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -339,5 +339,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795248689,
-  "meta": null
+  "meta": {
+    "hook": "HOW DID HE REACH INTO THAT HOLE",
+    "title": "Amouranth can't believe how he reached into that hole 😳 #shorts",
+    "description": "Amouranth hides in the vault and something reaches in after her 😳\n\nWhat would you do here? 👇\n\n#amouranth #streamermoments #horrorgame #shorts #gaming",
+    "tags": [
+      "amouranth",
+      "amouranth reaction",
+      "amouranth jailbreak",
+      "escape game",
+      "scary game moments",
+      "streamer moments",
+      "kick streamer",
+      "funny streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Amouranth hides away and he still manages to reach into the hole 😳 How?! Would you survive this? 👇\n\n🎥 amouranth (kick.com/amouranth)\n\n#amouranth #streamermoments #scarygame #gaming #kick #reels",
+    "source": "claude"
+  }
 }

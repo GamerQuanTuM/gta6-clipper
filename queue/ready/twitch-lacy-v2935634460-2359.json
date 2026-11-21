@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2935634460-2359",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -129,5 +129,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795248600,
-  "meta": null
+  "meta": {
+    "hook": "THIS IS ACTUALLY CRAZY",
+    "title": "Lacy can't believe what just happened in GTA 6 😭 #gta6 #shorts",
+    "description": "Lacy's GTA 6 marathon in Vice City delivers another wild moment 😭\n\nWhat's your funniest GTA 6 moment so far? 👇\n\n#gta6 #gtavi #lacy #vicecity #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 vice city",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy's GTA 6 marathon in Vice City just delivered another wild moment 😭 What's yours so far? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
