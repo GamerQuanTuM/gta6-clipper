@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2934132437-92790",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2934132437",
+  "vod_id": "v2934132437",
+  "vod_title": "🚘 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-20 23:07",
+  "game": "GTA 6",
+  "start": 92758,
+  "end": 92804.96,
+  "peak": 92790,
+  "score": 2.3,
+  "language": "en",
+  "transcript": "Take it to Mw there it is. Oh real quick though. We should we should get a haircut. No I'm glad we worked out because the criminal life is not for you Wouldn't it be better than if I was a criminal because then you know, I wouldn't be able to do it for long That cop killed someone not me that cop killed someone not me",
+  "chat_sample": [],
+  "created_unix": 1795216093,
+  "meta": {
+    "hook": "THAT COP KILLED SOMEONE NOT ME",
+    "title": "Ludwig blames the cop in his GTA 6 chaos 😂 #gta6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's criminal career in GTA 6 gets an unexpected alibi 💀\n\nWould you take the blame or pin it on the cop? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "ludwig",
+      "shorts",
+      "ludwig gta 6",
+      "gta 6 cops",
+      "gta 6 police chase"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's GTA 6 life of crime: 'that cop killed someone, not me' 😂 Would you pin it on the cop too? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.0,
+  "rendered_unix": 1795219760
+}

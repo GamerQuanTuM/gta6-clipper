@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2934132437-92227",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2934132437",
+  "vod_id": "v2934132437",
+  "vod_title": "🚘 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-20 23:07",
+  "game": "GTA 6",
+  "start": 92194.25,
+  "end": 92242.41,
+  "peak": 92227,
+  "score": 2.21,
+  "language": "en",
+  "transcript": "Oh I was trying to drop the cigarette. Oh, so I dropped the cigarette. I miss clicked. Oh It's genuinely trying to drop the cigarette non -lethal by the way I Literally the button to drop cigarette was square and I clicked it and she walks up a bunch of this play through so frustrating Okay, I'll lock in for you.",
+  "chat_sample": [],
+  "created_unix": 1795216098,
+  "meta": {
+    "hook": "HE JUST MISCLICKED HIS WAY INTO TROUBLE",
+    "title": "Ludwig misclicks in GTA 6 and it all goes wrong 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig tried to drop the cigarette in GTA 6... and hit the wrong button 💀\n\nHave you misclicked in GTA 6 yet? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "ludwig",
+      "shorts",
+      "ludwig gta 6",
+      "gta 6 misclick",
+      "gta 6 controls"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig tried to drop the cigarette in GTA 6 and hit the wrong button 💀 Have you misclicked yet? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.2,
+  "rendered_unix": 1795219895
+}

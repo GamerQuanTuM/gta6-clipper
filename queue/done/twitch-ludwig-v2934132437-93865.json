@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2934132437-93865",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2934132437",
+  "vod_id": "v2934132437",
+  "vod_title": "🚘 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-20 23:07",
+  "game": "GTA 6",
+  "start": 93829.53,
+  "end": 93878,
+  "peak": 93865,
+  "score": 2.53,
+  "language": "en",
+  "transcript": "How about this one? Let's do it. All right. You all set. That one's free. The next one you pay for. I sent you the Scootabros app too. Now you got your ride at the press of a button. Cool. Thanks. It's a really reliable Swedish car. I knew what I was reading. I just thought it would let me back out. I thought I could be like never mind Moses. It's a modest car. You don't have a fucking Audi? You don't have a Mercedes? Like no dude I have a very reliable vehicle. Why should we be embarrassed about having a reliable vehicle?",
+  "chat_sample": [],
+  "created_unix": 1795216087,
+  "meta": {
+    "hook": "WHY SHOULD WE BE EMBARRASSED",
+    "title": "Ludwig defends his reliable Swedish car in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig ends up with a very modest ride in GTA 6 and refuses to be embarrassed 🚗\n\nWhat's the first car you'd buy? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "ludwig",
+      "shorts",
+      "ludwig gta 6",
+      "gta 6 cars",
+      "gta 6 car shopping"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig is NOT embarrassed about his reliable Swedish car in GTA 6 🚗😭 What would you buy first? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.5,
+  "rendered_unix": 1795219825
+}
