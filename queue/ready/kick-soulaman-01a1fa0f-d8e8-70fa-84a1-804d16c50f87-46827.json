@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-46827",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -464,5 +464,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795245478,
-  "meta": null
+  "meta": {
+    "hook": "PAUL WALKER KI GAADI UDD GAYI",
+    "title": "Soulaman ki Paul Walker wali gaadi GTA 6 me udd gayi 😭 #shorts",
+    "description": "Soulaman GTA 6 me Paul Walker ki gaadi chala raha tha aur gaadi seedhi hone ka naam hi nahi le rahi 💀\n\nAapke saath bhi aisa hua kya? Comment me batao 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "paul walker car",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ki Paul Walker wali gaadi GTA 6 me udd gayi 😭 Aapko kaisa laga ye moment? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }

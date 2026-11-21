@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-45502",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -364,5 +364,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795245536,
-  "meta": null
+  "meta": {
+    "hook": "CHAT, EK AUR LAMBO CHAHIYE",
+    "title": "Soulaman ka GTA 6 me golden Lamborghini plan 🤑 #shorts",
+    "description": "Soulaman GTA 6 me car bech ke golden Lamborghini aur Urus khareedne ka plan bana raha hai 🔥\n\nAap pehle kaunsi car loge? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 lamborghini",
+      "gta 6 cars",
+      "grand theft auto 6",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 me golden Lamborghini aur Urus ka plan 🤑 Aap pehle kaunsi car loge? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }

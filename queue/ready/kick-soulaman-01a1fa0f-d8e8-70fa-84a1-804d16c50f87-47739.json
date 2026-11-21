@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fa0f-d8e8-70fa-84a1-804d16c50f87-47739",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -469,5 +469,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795245591,
-  "meta": null
+  "meta": null,
+  "reject_reason": "mission planning talk, no real moment"
 }

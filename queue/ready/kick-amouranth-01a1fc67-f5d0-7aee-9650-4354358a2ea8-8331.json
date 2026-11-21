@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1fc67-f5d0-7aee-9650-4354358a2ea8-8331",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -349,5 +349,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795245349,
-  "meta": null
+  "meta": null,
+  "reject_reason": "VOD title says NO GTA6 HERE; transcript is a different game/non-GTA chatter"
 }
