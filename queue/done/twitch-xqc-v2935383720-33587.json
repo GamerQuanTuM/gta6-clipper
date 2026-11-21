@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2935383720-33587",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -15,104 +15,12 @@
   "score": 1.77,
   "language": "en",
   "transcript": "In other games then, like these games are driving just a little bit wonky, but it doesn't mean",
-  "words": [
-    [
-      0.15,
-      0.49,
-      "In"
-    ],
-    [
-      32.65,
-      32.89,
-      "other"
-    ],
-    [
-      32.89,
-      33.13,
-      "games"
-    ],
-    [
-      33.13,
-      33.37,
-      "then,"
-    ],
-    [
-      33.53,
-      33.79,
-      "like"
-    ],
-    [
-      33.79,
-      34.49,
-      "these"
-    ],
-    [
-      34.49,
-      34.69,
-      "games"
-    ],
-    [
-      34.69,
-      34.85,
-      "are"
-    ],
-    [
-      34.85,
-      35.07,
-      "driving"
-    ],
-    [
-      35.07,
-      35.33,
-      "just"
-    ],
-    [
-      35.33,
-      35.59,
-      "a"
-    ],
-    [
-      35.59,
-      35.69,
-      "little"
-    ],
-    [
-      35.69,
-      35.81,
-      "bit"
-    ],
-    [
-      35.81,
-      36.17,
-      "wonky,"
-    ],
-    [
-      36.29,
-      36.47,
-      "but"
-    ],
-    [
-      36.47,
-      36.59,
-      "it"
-    ],
-    [
-      36.59,
-      36.81,
-      "doesn't"
-    ],
-    [
-      36.81,
-      36.93,
-      "mean"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795245008,
   "meta": {
     "hook": "IS GTA 6 DRIVING WONKY",
     "title": "xQc on how GTA 6 driving feels compared to other games #shorts",
-    "description": "xQc shares his take on how driving feels in GTA 6 versus other games 🚗\n\nIs GTA 6 driving good or wonky? Tell us 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc shares his take on how driving feels in GTA 6 versus other games 🚗\n\nIs GTA 6 driving good or wonky? Tell us 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -130,5 +38,7 @@
     ],
     "ig_caption": "xQc on how driving feels in GTA 6 🚗 Good or wonky? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 48.5,
+  "rendered_unix": 1795248725
 }
