@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-8470",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -564,5 +564,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795295276,
-  "meta": null
+  "meta": {
+    "hook": "WHY ARE WE EVEN CHASING HER",
+    "title": "Ludwig can't believe GTA 6 makes him chase her down 😭 #gta6 #shorts",
+    "description": "Ludwig sides with the GTA 6 character everyone's chasing down 💀\n\nIs she right to quit? Tell us below 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 story",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig is 100% on her side in GTA 6 and doesn't get why we're dragging her back 💀 Is she right? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

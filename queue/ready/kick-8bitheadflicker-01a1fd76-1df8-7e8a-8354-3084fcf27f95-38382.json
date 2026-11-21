@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a1fd76-1df8-7e8a-8354-3084fcf27f95-38382",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -99,5 +99,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795295726,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE CRAZY SHOTS AA RAHE HAIN",
+    "title": "8bitheadflicker ke GTA 6 me crazy shots 🔥 #gta6 #shorts",
+    "description": "8bitheadflicker ke GTA 6 gameplay me chal rahe hain crazy shots 🔥\n\nTumhe sabse zyada kaunsa GTA 6 moment pasand aaya? 👇\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "8bitheadflicker",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "gta 6 shooting",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "8bitheadflicker ke GTA 6 me crazy shots aa rahe hain 🔥 Tumhara favourite GTA 6 moment kaunsa hai? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #gta6india #8bitheadflicker #gaming #reels",
+    "source": "claude"
+  }
 }

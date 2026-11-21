@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-6734",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -544,5 +544,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795295533,
-  "meta": null
+  "meta": {
+    "hook": "ONE TRICK WIPES OUT THE POLICE?",
+    "title": "zackrawrr asks if the old GTA cop trick still works in GTA 6 #shorts",
+    "description": "zackrawrr reacts to a classic GTA cop trick and wonders if it still works in GTA 6 👀\n\nHave you tried it yet? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "gta 6 cops",
+      "gta 6 police",
+      "gta 6 tricks",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr sees the old GTA cop trick and asks if it still works in GTA 6 👀 Has anyone tried it? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
