@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2935634460-2359",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -151,5 +151,6 @@
     ],
     "ig_caption": "Lacy's GTA 6 marathon in Vice City just delivered another wild moment 😭 What's yours so far? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #vicecity #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1fc67-f5d0-7aee-9650-4354358a2ea8-10192",
-  "status": "ready",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -410,5 +410,6 @@
     ],
     "ig_caption": "Amouranth is breaking them out and finds a hole to squeeze through 😭 Would you make it out? 👇\n\n🎥 amouranth (kick.com/amouranth)\n\n#amouranth #jailbreak #streamermoments #gaming #kick #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2935383720-35464",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -132,5 +132,6 @@
     ],
     "ig_caption": "xQc finds out how heavy this thing is to drive in GTA 6 💀 Would you drive it? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

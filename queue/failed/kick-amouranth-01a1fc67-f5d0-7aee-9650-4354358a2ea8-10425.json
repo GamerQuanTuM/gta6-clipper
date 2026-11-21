@@ -1,6 +1,6 @@
 {
   "id": "kick-amouranth-01a1fc67-f5d0-7aee-9650-4354358a2ea8-10425",
-  "status": "ready",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "amouranth",
   "streamer_name": "amouranth",
@@ -360,5 +360,6 @@
     ],
     "ig_caption": "Amouranth hides away and he still manages to reach into the hole 😳 How?! Would you survive this? 👇\n\n🎥 amouranth (kick.com/amouranth)\n\n#amouranth #streamermoments #scarygame #gaming #kick #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }
