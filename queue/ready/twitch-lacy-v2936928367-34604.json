@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936928367-34604",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -704,5 +704,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795320928,
-  "meta": null
+  "meta": {
+    "hook": "WHAT IS THIS MISSION",
+    "title": "Lacy's GTA 6 drink delivery mission goes off the rails 😂 #shorts",
+    "description": "Lacy ends up delivering drinks to a party in GTA 6 and can't believe the mission 😂\n\nWhat's the weirdest GTA 6 mission so far? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 funny moments",
+      "gta 6 mission",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy just wanted to party, now she's delivering drinks in GTA 6 😂 Weirdest mission so far? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

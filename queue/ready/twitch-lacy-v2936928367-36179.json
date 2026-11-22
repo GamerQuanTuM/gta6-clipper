@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936928367-36179",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -249,5 +249,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795320908,
-  "meta": null
+  "meta": {
+    "hook": "SHE'S FLYING A CHOPPER NOW",
+    "title": "Lacy ends up flying a helicopter in GTA 6 😂 #shorts",
+    "description": "Lacy's GTA 6 squad chaos reaches the sky and she has to seat her passenger 😂\n\nWould you trust her at the controls? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 helicopter",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Lacy is flying a helicopter in GTA 6 and the chaos is real 😂 Would you trust her? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
