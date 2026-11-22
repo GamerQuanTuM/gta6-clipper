@@ -58,5 +58,68 @@
     },
     "duration_s": 46.7,
     "release": "2026-11-23-02-summit1g"
+  },
+  {
+    "id": "kick-8bitheadflicker-01a202b0-9280-7e4c-8400-c5fc00aa6185-34349",
+    "streamer": "8bitheadflicker",
+    "streamer_name": "8bitheadflicker",
+    "channel_url": "https://kick.com/8bitheadflicker",
+    "meta": {
+      "hook": "BHAI YE KYA KAAND HO GAYA",
+      "title": "8bitheadflicker ka GTA 6 me gaadi loot kaand 😭 #gta6 #shorts",
+      "description": "🎥 Clip from 8bitheadflicker's live stream: https://kick.com/8bitheadflicker\n\n8bitheadflicker ne GTA 6 me gaadi loot li aur phir police station ka scene ho gaya 💀\n\nTumhara sabse bada GTA 6 kaand kya tha? Comment me batao 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "gta 6 hindi",
+        "gta 6 india",
+        "8bitheadflicker",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 police",
+        "hindi gaming",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Gaadi loot ke baad police station ka kaand 😭 Tumne GTA 6 me kya kiya? Comment karo 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #gaming #indiangamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.8,
+    "release": "2026-11-23-03-8bitheadflicker"
+  },
+  {
+    "id": "twitch-zackrawrr-v2937570825-3349",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "THE MOST WHOLESOME GTA 6 PLAYER",
+      "title": "Zack reacts to a super family-friendly GTA 6 streamer 😭 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nZack reacts to a wholesome streamer who wants GTA 6 with gore, violence and swearing switched off 💀\n\nWould you play GTA 6 family-friendly? Tell us below 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack",
+        "gta 6 funny moments",
+        "gta 6 reaction",
+        "grand theft auto 6",
+        "gta 6 family friendly",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Family-friendly GTA 6?! Zack can't believe this wholesome streamer 💀 Would you play it like that? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #funny #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.6,
+    "release": "2026-11-23-04-zackrawrr"
   }
 ]
