@@ -1,0 +1,138 @@
+{
+  "id": "twitch-lacy-v2936518555-22501",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM 2026-11-22 02:38",
+  "game": "GTA 6",
+  "start": 22469,
+  "end": 22514.57,
+  "peak": 22501,
+  "score": 3.47,
+  "language": "en",
+  "transcript": "Yeah Look you gotta add this in my collection now hold on Me me my booty whole Get it sexy get it sexy",
+  "words": [
+    [
+      8.81,
+      9.25,
+      "Yeah"
+    ],
+    [
+      9.25,
+      9.29,
+      "Look"
+    ],
+    [
+      9.29,
+      9.41,
+      "you"
+    ],
+    [
+      9.41,
+      9.53,
+      "gotta"
+    ],
+    [
+      9.53,
+      9.71,
+      "add"
+    ],
+    [
+      9.71,
+      9.83,
+      "this"
+    ],
+    [
+      9.83,
+      9.91,
+      "in"
+    ],
+    [
+      9.91,
+      9.99,
+      "my"
+    ],
+    [
+      9.99,
+      10.39,
+      "collection"
+    ],
+    [
+      10.39,
+      10.61,
+      "now"
+    ],
+    [
+      10.61,
+      10.73,
+      "hold"
+    ],
+    [
+      10.73,
+      10.97,
+      "on"
+    ],
+    [
+      27.6,
+      28.04,
+      "Me"
+    ],
+    [
+      28.04,
+      28.48,
+      "me"
+    ],
+    [
+      28.48,
+      30.34,
+      "my"
+    ],
+    [
+      30.34,
+      30.6,
+      "booty"
+    ],
+    [
+      30.6,
+      30.94,
+      "whole"
+    ],
+    [
+      42.67,
+      43.43,
+      "Get"
+    ],
+    [
+      43.43,
+      43.59,
+      "it"
+    ],
+    [
+      43.59,
+      43.97,
+      "sexy"
+    ],
+    [
+      43.97,
+      44.73,
+      "get"
+    ],
+    [
+      44.73,
+      44.89,
+      "it"
+    ],
+    [
+      44.89,
+      45.27,
+      "sexy"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795315139,
+  "meta": null
+}
