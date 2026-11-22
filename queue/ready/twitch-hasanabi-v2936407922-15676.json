@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2936407922-15676",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -294,5 +294,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795306524,
-  "meta": null
+  "meta": {
+    "hook": "HE DOESN'T NEED A CAR IN GTA 6",
+    "title": "HasanAbi discovers public transit in GTA 6 😂 #gta6 #shorts",
+    "description": "HasanAbi figures out the bus system in GTA 6 and instantly gets hooked 🚌\n\nWould you ever ride the bus in GTA 6 instead of stealing a car? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan",
+      "gta 6 funny moments",
+      "gta 6 public transit",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi finds public transit in GTA 6 and refuses to touch a car again 🚌😂 Bus or stolen car, what's your pick? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

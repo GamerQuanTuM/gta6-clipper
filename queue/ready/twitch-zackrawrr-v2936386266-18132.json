@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-18132",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -249,5 +249,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795306472,
-  "meta": null
+  "meta": {
+    "hook": "HE THOUGHT IT WAS A NORMAL DOG",
+    "title": "zackrawrr gets wrecked by a pitbull in GTA 6 😭 #gta6 #shorts",
+    "description": "zackrawrr had no idea that dog in GTA 6 was a pitbull until it was too late 🐕💀\n\nHave you been jumped by a GTA 6 dog yet? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 pitbull",
+      "gta 6 dog",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "\"I thought it was just a normal dog\" 😭 zackrawrr vs a GTA 6 pitbull. Who else got jumped? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

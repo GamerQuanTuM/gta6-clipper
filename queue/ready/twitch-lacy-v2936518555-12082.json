@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-12082",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -229,5 +229,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795306598,
-  "meta": null
+  "meta": null,
+  "reject_reason": "scripted in-game mission dialogue, not the streamer reacting"
 }
