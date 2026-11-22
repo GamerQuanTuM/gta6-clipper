@@ -1058,5 +1058,66 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-22-34-ludwig"
+  },
+  {
+    "id": "twitch-ludwig-v2936392772-38069",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "DAY 3 OF NON-LETHAL GTA 6",
+      "title": "Ludwig's non-lethal GTA 6 run is testing him 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nEveryone else is going on a rampage in GTA 6, Ludwig is trying to do it without killing anyone 💀\n\nCould you finish GTA 6 without killing anybody? 👇\n\n#gta6 #gtavi #ludwig #nonlethal #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "ludwig",
+        "ludwig gta 6",
+        "non lethal run",
+        "gta 6 challenge",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Day 3 of Ludwig's non-lethal GTA 6 run and the chaos is real 💀 Could you do it without killing anyone? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #nonlethal #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-22-35-ludwig"
+  },
+  {
+    "id": "twitch-xqc-v2936814907-16797",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "XQC LOSES IT ON GTA 6 TRAFFIC",
+      "title": "xQc cannot stand GTA 6 traffic 😭 #gta6 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc spots something strange on the road in GTA 6 and then the traffic pushes him over the edge 💀\n\nWho gets the most road rage in GTA 6? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "xqc",
+        "xqc gta 6",
+        "gta 6 funny moments",
+        "gta 6 traffic",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc vs GTA 6 traffic is never going to end well 💀 Who gets the most road rage in GTA 6? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 51.1,
+    "release": "2026-11-22-36-xqc"
   }
 ]
