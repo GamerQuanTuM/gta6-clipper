@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937465519-17057",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -79,5 +79,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795385788,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game dialogue from the finale cutscene"
 }

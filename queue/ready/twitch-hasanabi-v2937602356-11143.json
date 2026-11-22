@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-11143",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -174,5 +174,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795385737,
-  "meta": null
+  "meta": {
+    "hook": "IT'LL BUFF OUT, HE SAYS",
+    "title": "HasanAbi shrugs off car damage in GTA 6 😂 #gta6 #shorts",
+    "description": "HasanAbi's wrecked ride in GTA 6 and his \"it'll buff out\" attitude 🚗\n\nHow do you handle crashing your car in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 vice city",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi: \"It'll buff out\" 😂 GTA 6 car damage hits different. Do you care about your ride? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #vicecity #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-8992",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -79,5 +79,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795386018,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Mostly scripted police-radio lines; duplicate of the Twitch simulcast moment"
 }

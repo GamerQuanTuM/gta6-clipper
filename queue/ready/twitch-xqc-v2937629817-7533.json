@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-7533",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -204,5 +204,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795385470,
-  "meta": null
+  "meta": {
+    "hook": "WATER LANDING ACTUALLY WORKS",
+    "title": "xQc pulls off a crazy water landing in GTA 6 😭 #gta6 #shorts",
+    "description": "xQc scrambles out of trouble and somehow a water landing works in GTA 6 💀\n\nWhat's the wildest escape you've pulled off in GTA 6? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 water landing",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc's GTA 6 water landing actually works 💀 What's your craziest escape so far? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #funnymoments #reels",
+    "source": "claude"
+  }
 }
