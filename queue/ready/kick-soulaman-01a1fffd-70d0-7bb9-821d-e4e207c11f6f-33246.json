@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-33246",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -369,5 +369,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795331846,
-  "meta": null
+  "meta": {
+    "hook": "GAADI SAHI SALAMAT PAHUNCHEGI?",
+    "title": "Soulaman ka GTA 6 me risky delivery mission 😅 #gta6 #shorts",
+    "description": "Soulaman GTA 6 me kaam mangne nikle hain, ab sawal ye hai ki gaadi sahi salamat pahunchegi ya nahi 😅\n\nAapko kya lagta hai, pahunchegi? 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 mission",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "hindi gaming",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "GTA 6 me gaadi sahi salamat pahunchegi ya nahi? 😅 Comment me batao 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #gaming #reels",
+    "source": "claude"
+  }
 }

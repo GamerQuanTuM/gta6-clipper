@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-25263",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -114,5 +114,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795332009,
-  "meta": null
+  "meta": {
+    "hook": "HERE IT IS BOYS",
+    "title": "TheBurntPeanut's GTA 6 Day 4 moment 😂 #gta6 #shorts",
+    "description": "TheBurntPeanut on Day 4 of GTA 6: \"Here it is boys!\" and then a very quick pit stop 😂\n\nWhat's your weirdest GTA 6 moment so far? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 day 4",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "\"Here it is boys!\" GTA 6 Day 4 with TheBurntPeanut 😂 What's your funniest GTA 6 moment? 👇\n\n🎥 TheBurntPeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
