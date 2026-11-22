@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-22004",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -514,5 +514,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795315148,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Game cutscene dialogue"
 }

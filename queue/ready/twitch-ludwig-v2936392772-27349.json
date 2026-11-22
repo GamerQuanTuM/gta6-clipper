@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-27349",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -114,5 +114,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795314813,
-  "meta": null
+  "meta": {
+    "hook": "WHY DO I HAVE A STAR BRO",
+    "title": "Ludwig gets a wanted star on his non-lethal GTA 6 run #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run gets a wanted star and he swears he's the victim 😂\n\nWould you survive a non-lethal run? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal run",
+      "gta 6 wanted level",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig gets a wanted star in GTA 6 and insists he's the victim 😂 Would you survive a non-lethal run? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

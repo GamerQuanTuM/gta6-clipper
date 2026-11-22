@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2936814907-1460",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -269,5 +269,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795314860,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Mumbled talk, nothing happening (duplicate of Kick moment)"
 }

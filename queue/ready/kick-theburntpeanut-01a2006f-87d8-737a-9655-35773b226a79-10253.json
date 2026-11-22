@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-10253",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -234,5 +234,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795314176,
-  "meta": null
+  "meta": {
+    "hook": "HE CAN'T CONTROL IT",
+    "title": "theburntpeanut loses control in GTA 6 😭 #shorts",
+    "description": "theburntpeanut panics mid-mission in GTA 6 and just can't get it under control 💀\n\nHave you ever lost it like this in a game? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "theburntpeanut",
+      "the burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut totally loses it mid-mission in GTA 6 😭 Who panics like this? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a200d7-e698-7c70-b0da-44f46b0c8fec-4216",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -724,5 +724,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795315371,
-  "meta": null
+  "meta": {
+    "hook": "GTA 6 MISSIONS CAN'T BE FAILED",
+    "title": "xQc's honest take on GTA 6 missions 👀 #gta6 #shorts",
+    "description": "xQc says GTA 6 missions have no real fail state and no checkpoint resets 🤔\n\nDo you want harder missions or is this fine? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "xqc",
+      "xqc gta 6",
+      "gta 6 missions",
+      "gta 6 review",
+      "gta 6 opinion",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc says GTA 6 missions can't really be failed and there are no checkpoint resets 🤔 Too easy or just right? 👇\n\n🎥 xQc (kick.com/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

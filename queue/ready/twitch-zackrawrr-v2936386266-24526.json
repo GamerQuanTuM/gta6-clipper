@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-24526",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -509,5 +509,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795313664,
-  "meta": null
+  "meta": {
+    "hook": "WHERE IS RANDY",
+    "title": "zackrawrr's chaotic GTA 6 getaway 😭 #gta6 #shorts",
+    "description": "zackrawrr scrambles for another car in GTA 6 and loses Randy in the chaos 💀\n\nWho do you ride with in GTA 6? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "zack rawr",
+      "gta 6 funny moments",
+      "gta 6 chaos",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr scrambles for another car in GTA 6 and loses Randy 😭 Who's your ride or die? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
