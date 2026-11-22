@@ -1,0 +1,113 @@
+{
+  "id": "twitch-lacy-v2937823418-2821",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2937823418",
+  "vod_id": "v2937823418",
+  "vod_title": "Highlight: 🌴️ GTA 6 MARATHON 🍹 THE FINALE 🦩️ BEATING IT RIGHT NOW 🍹️ GIVEAWAYS 🌴️  !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 2787.35,
+  "end": 2836.22,
+  "peak": 2821,
+  "score": 2.03,
+  "language": "en",
+  "transcript": "Fuck RPG See ya I just shot Lucia No one's gonna save us. We gotta do it ourselves.",
+  "words": [
+    [
+      0.15,
+      0.69,
+      "Fuck"
+    ],
+    [
+      2.91,
+      3.61,
+      "RPG"
+    ],
+    [
+      24.43,
+      25.83,
+      "See"
+    ],
+    [
+      29.28,
+      30.66,
+      "ya"
+    ],
+    [
+      32.34,
+      33.74,
+      "I"
+    ],
+    [
+      33.74,
+      35.14,
+      "just"
+    ],
+    [
+      35.14,
+      35.42,
+      "shot"
+    ],
+    [
+      35.42,
+      36.04,
+      "Lucia"
+    ],
+    [
+      46.95,
+      47.07,
+      "No"
+    ],
+    [
+      47.07,
+      47.21,
+      "one's"
+    ],
+    [
+      47.21,
+      47.31,
+      "gonna"
+    ],
+    [
+      47.31,
+      47.63,
+      "save"
+    ],
+    [
+      47.63,
+      47.79,
+      "us."
+    ],
+    [
+      47.89,
+      47.89,
+      "We"
+    ],
+    [
+      47.89,
+      48.01,
+      "gotta"
+    ],
+    [
+      48.01,
+      48.17,
+      "do"
+    ],
+    [
+      48.17,
+      48.23,
+      "it"
+    ],
+    [
+      48.23,
+      48.57,
+      "ourselves."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795389279,
+  "meta": null
+}

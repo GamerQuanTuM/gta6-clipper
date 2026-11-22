@@ -1,0 +1,143 @@
+{
+  "id": "twitch-xqc-v2937629817-11661",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-22 23:07",
+  "game": "GTA 6",
+  "start": 11627.16,
+  "end": 11674,
+  "peak": 11661,
+  "score": 2.01,
+  "language": "en",
+  "transcript": "Dude this thing this magic isn't as crazy over in the heart What I'm not to go but is it okay like the technique",
+  "words": [
+    [
+      0.15,
+      0.69,
+      "Dude"
+    ],
+    [
+      0.69,
+      0.95,
+      "this"
+    ],
+    [
+      0.95,
+      1.13,
+      "thing"
+    ],
+    [
+      1.13,
+      1.57,
+      "this"
+    ],
+    [
+      1.57,
+      1.97,
+      "magic"
+    ],
+    [
+      1.97,
+      2.27,
+      "isn't"
+    ],
+    [
+      2.27,
+      2.33,
+      "as"
+    ],
+    [
+      2.33,
+      2.61,
+      "crazy"
+    ],
+    [
+      2.61,
+      3.73,
+      "over"
+    ],
+    [
+      5.65,
+      5.77,
+      "in"
+    ],
+    [
+      5.77,
+      5.85,
+      "the"
+    ],
+    [
+      5.85,
+      6.03,
+      "heart"
+    ],
+    [
+      20.21,
+      20.67,
+      "What"
+    ],
+    [
+      20.67,
+      21.13,
+      "I'm"
+    ],
+    [
+      21.13,
+      22.19,
+      "not"
+    ],
+    [
+      22.19,
+      22.31,
+      "to"
+    ],
+    [
+      22.31,
+      22.41,
+      "go"
+    ],
+    [
+      22.41,
+      22.55,
+      "but"
+    ],
+    [
+      22.55,
+      22.79,
+      "is"
+    ],
+    [
+      22.79,
+      22.87,
+      "it"
+    ],
+    [
+      22.87,
+      23.09,
+      "okay"
+    ],
+    [
+      23.09,
+      24.29,
+      "like"
+    ],
+    [
+      36.48,
+      36.66,
+      "the"
+    ],
+    [
+      36.66,
+      36.86,
+      "technique"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795388879,
+  "meta": null
+}
