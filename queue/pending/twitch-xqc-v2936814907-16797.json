@@ -1,0 +1,223 @@
+{
+  "id": "twitch-xqc-v2936814907-16797",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2936814907",
+  "vod_id": "v2936814907",
+  "vod_title": "🫂DROPS🫂60 FPS🫂GTA 6🫂FINISHING GAME IN ONE GO🫂LOCK IT IN🫂YAY🫂THE BEST PLAYER🫂OF ALL TIME🫂IS HERE🫂 2026-11-22 06:09",
+  "game": "GTA 6",
+  "start": 16760.92,
+  "end": 16810,
+  "peak": 16797,
+  "score": 2.08,
+  "language": "en",
+  "transcript": "What is that? That's a sling chug, what is this shit? Who sings this? This is mafia. Did you get a good payout, though? Get another pack though. Get the fuck off the road, you moron! Slow ass bitch ass.",
+  "words": [
+    [
+      0.15,
+      0.59,
+      "What"
+    ],
+    [
+      0.59,
+      0.73,
+      "is"
+    ],
+    [
+      0.73,
+      0.91,
+      "that?"
+    ],
+    [
+      5.41,
+      5.81,
+      "That's"
+    ],
+    [
+      5.81,
+      5.89,
+      "a"
+    ],
+    [
+      5.89,
+      6.03,
+      "sling"
+    ],
+    [
+      6.03,
+      6.27,
+      "chug,"
+    ],
+    [
+      6.33,
+      6.43,
+      "what"
+    ],
+    [
+      6.43,
+      6.53,
+      "is"
+    ],
+    [
+      6.53,
+      6.67,
+      "this"
+    ],
+    [
+      6.67,
+      6.87,
+      "shit?"
+    ],
+    [
+      7.25,
+      7.35,
+      "Who"
+    ],
+    [
+      7.35,
+      7.51,
+      "sings"
+    ],
+    [
+      7.51,
+      7.79,
+      "this?"
+    ],
+    [
+      9.35,
+      9.57,
+      "This"
+    ],
+    [
+      18.63,
+      18.77,
+      "is"
+    ],
+    [
+      18.77,
+      19.11,
+      "mafia."
+    ],
+    [
+      24.74,
+      24.88,
+      "Did"
+    ],
+    [
+      24.88,
+      24.96,
+      "you"
+    ],
+    [
+      24.96,
+      25.06,
+      "get"
+    ],
+    [
+      25.06,
+      25.16,
+      "a"
+    ],
+    [
+      25.16,
+      25.22,
+      "good"
+    ],
+    [
+      25.22,
+      25.48,
+      "payout,"
+    ],
+    [
+      25.56,
+      25.62,
+      "though?"
+    ],
+    [
+      29.18,
+      29.4,
+      "Get"
+    ],
+    [
+      29.4,
+      29.58,
+      "another"
+    ],
+    [
+      29.58,
+      29.84,
+      "pack"
+    ],
+    [
+      29.84,
+      30.04,
+      "though."
+    ],
+    [
+      33.84,
+      34.08,
+      "Get"
+    ],
+    [
+      34.08,
+      34.22,
+      "the"
+    ],
+    [
+      34.22,
+      34.46,
+      "fuck"
+    ],
+    [
+      34.46,
+      34.68,
+      "off"
+    ],
+    [
+      34.68,
+      34.82,
+      "the"
+    ],
+    [
+      34.82,
+      35.04,
+      "road,"
+    ],
+    [
+      35.16,
+      35.24,
+      "you"
+    ],
+    [
+      35.24,
+      35.62,
+      "moron!"
+    ],
+    [
+      37.77,
+      38.17,
+      "Slow"
+    ],
+    [
+      38.17,
+      38.39,
+      "ass"
+    ],
+    [
+      38.39,
+      38.63,
+      "bitch"
+    ],
+    [
+      38.63,
+      39.01,
+      "ass."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795327793,
+  "meta": null
+}

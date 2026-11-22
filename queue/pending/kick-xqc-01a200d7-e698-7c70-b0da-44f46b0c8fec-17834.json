@@ -1,0 +1,118 @@
+{
+  "id": "kick-xqc-01a200d7-e698-7c70-b0da-44f46b0c8fec-17834",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a200d7-e698-7c70-b0da-44f46b0c8fec#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a200d7-e698-7c70-b0da-44f46b0c8fec",
+  "vod_title": "🫂 DROPS 🫂 60 FPS 🫂 GTA 6 🫂 FINISHING GAME IN ONE GO 🫂 LOCK IT IN 🫂 YAY 🫂 THE BEST PLAYER 🫂 OF ALL TIME 🫂 IS HERE 🫂",
+  "game": "GTA 6",
+  "start": 17802,
+  "end": 17847,
+  "peak": 17834,
+  "score": 2.18,
+  "language": "en",
+  "transcript": "That was a lot. So good, so good! The flying turns better with less one -one on the wheel.",
+  "words": [
+    [
+      4.01,
+      4.13,
+      "That"
+    ],
+    [
+      4.13,
+      4.25,
+      "was"
+    ],
+    [
+      4.25,
+      4.37,
+      "a"
+    ],
+    [
+      4.37,
+      4.53,
+      "lot."
+    ],
+    [
+      7.98,
+      8.28,
+      "So"
+    ],
+    [
+      8.28,
+      8.5,
+      "good,"
+    ],
+    [
+      8.62,
+      8.76,
+      "so"
+    ],
+    [
+      8.76,
+      8.94,
+      "good!"
+    ],
+    [
+      9.58,
+      9.84,
+      "The"
+    ],
+    [
+      31.44,
+      31.56,
+      "flying"
+    ],
+    [
+      31.56,
+      31.82,
+      "turns"
+    ],
+    [
+      31.82,
+      32.22,
+      "better"
+    ],
+    [
+      32.22,
+      32.64,
+      "with"
+    ],
+    [
+      32.64,
+      32.8,
+      "less"
+    ],
+    [
+      32.8,
+      33.02,
+      "one"
+    ],
+    [
+      33.02,
+      33.2,
+      "-one"
+    ],
+    [
+      33.2,
+      33.36,
+      "on"
+    ],
+    [
+      33.36,
+      33.44,
+      "the"
+    ],
+    [
+      33.44,
+      33.52,
+      "wheel."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795328566,
+  "meta": null
+}
