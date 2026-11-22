@@ -1,0 +1,198 @@
+{
+  "id": "twitch-lacy-v2936518555-73791",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 73759,
+  "end": 73804,
+  "peak": 73791,
+  "score": 2.7,
+  "language": "en",
+  "transcript": "This is not normal. Linda walk in here. Come here. Well walk in his room and feel the difference. Brother it's like an actual sauna in here. Dude is this not worth it? I know.",
+  "words": [
+    [
+      19.98,
+      20.24,
+      "This"
+    ],
+    [
+      20.24,
+      20.38,
+      "is"
+    ],
+    [
+      20.38,
+      20.58,
+      "not"
+    ],
+    [
+      20.58,
+      21.16,
+      "normal."
+    ],
+    [
+      21.34,
+      21.52,
+      "Linda"
+    ],
+    [
+      21.52,
+      21.82,
+      "walk"
+    ],
+    [
+      21.82,
+      22.06,
+      "in"
+    ],
+    [
+      22.06,
+      22.28,
+      "here."
+    ],
+    [
+      24.8,
+      25.12,
+      "Come"
+    ],
+    [
+      25.12,
+      25.34,
+      "here."
+    ],
+    [
+      30.6,
+      30.88,
+      "Well"
+    ],
+    [
+      30.88,
+      31.24,
+      "walk"
+    ],
+    [
+      31.24,
+      31.42,
+      "in"
+    ],
+    [
+      31.42,
+      31.54,
+      "his"
+    ],
+    [
+      31.54,
+      31.68,
+      "room"
+    ],
+    [
+      31.68,
+      31.76,
+      "and"
+    ],
+    [
+      31.76,
+      31.92,
+      "feel"
+    ],
+    [
+      31.92,
+      32.04,
+      "the"
+    ],
+    [
+      32.04,
+      32.28,
+      "difference."
+    ],
+    [
+      32.96,
+      33.44,
+      "Brother"
+    ],
+    [
+      33.44,
+      33.78,
+      "it's"
+    ],
+    [
+      33.78,
+      33.92,
+      "like"
+    ],
+    [
+      33.92,
+      34.04,
+      "an"
+    ],
+    [
+      34.04,
+      34.44,
+      "actual"
+    ],
+    [
+      34.44,
+      34.98,
+      "sauna"
+    ],
+    [
+      34.98,
+      35.16,
+      "in"
+    ],
+    [
+      35.16,
+      35.38,
+      "here."
+    ],
+    [
+      39.12,
+      39.36,
+      "Dude"
+    ],
+    [
+      39.36,
+      39.56,
+      "is"
+    ],
+    [
+      39.56,
+      39.68,
+      "this"
+    ],
+    [
+      39.68,
+      40.14,
+      "not"
+    ],
+    [
+      40.14,
+      40.42,
+      "worth"
+    ],
+    [
+      40.42,
+      40.54,
+      "it?"
+    ],
+    [
+      40.74,
+      40.74,
+      "I"
+    ],
+    [
+      40.74,
+      41.06,
+      "know."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795375083,
+  "meta": null
+}

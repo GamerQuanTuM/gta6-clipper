@@ -1,0 +1,188 @@
+{
+  "id": "twitch-summit1g-v2936704351-53713",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "summit1g",
+  "streamer_name": "summit1g",
+  "channel_url": "https://www.twitch.tv/summit1g",
+  "vod_url": "https://www.twitch.tv/videos/2936704351",
+  "vod_id": "v2936704351",
+  "vod_title": "GTA6 SMOOTH PLAYTHROUGH GOOD FPS - !journey for %10 off - !starforge @StarforgeSystems",
+  "game": "GTA 6",
+  "start": 53682.04,
+  "end": 53730.16,
+  "peak": 53713,
+  "score": 2.3,
+  "language": "en",
+  "transcript": "We're dead. We're dead. We're fucking dead dude. We're not fucking dead dude. We're alive somehow. Holy shit balls. We live. Maybe. Boat scraper drops! Yes! Fucking yes! Let's go dudes. Let's go.",
+  "words": [
+    [
+      0.15,
+      1.09,
+      "We're"
+    ],
+    [
+      1.09,
+      1.25,
+      "dead."
+    ],
+    [
+      1.77,
+      2.53,
+      "We're"
+    ],
+    [
+      2.53,
+      2.73,
+      "dead."
+    ],
+    [
+      4.07,
+      4.83,
+      "We're"
+    ],
+    [
+      4.83,
+      4.99,
+      "fucking"
+    ],
+    [
+      4.99,
+      5.25,
+      "dead"
+    ],
+    [
+      5.25,
+      5.41,
+      "dude."
+    ],
+    [
+      11.99,
+      12.29,
+      "We're"
+    ],
+    [
+      12.29,
+      12.39,
+      "not"
+    ],
+    [
+      12.39,
+      12.57,
+      "fucking"
+    ],
+    [
+      12.57,
+      12.79,
+      "dead"
+    ],
+    [
+      12.79,
+      12.93,
+      "dude."
+    ],
+    [
+      13.05,
+      13.13,
+      "We're"
+    ],
+    [
+      13.13,
+      13.43,
+      "alive"
+    ],
+    [
+      13.43,
+      14.65,
+      "somehow."
+    ],
+    [
+      24.35,
+      25.11,
+      "Holy"
+    ],
+    [
+      25.11,
+      25.49,
+      "shit"
+    ],
+    [
+      25.49,
+      25.89,
+      "balls."
+    ],
+    [
+      26.45,
+      26.65,
+      "We"
+    ],
+    [
+      26.65,
+      26.95,
+      "live."
+    ],
+    [
+      27.63,
+      28.01,
+      "Maybe."
+    ],
+    [
+      28.95,
+      29.71,
+      "Boat"
+    ],
+    [
+      29.71,
+      30.03,
+      "scraper"
+    ],
+    [
+      30.03,
+      30.35,
+      "drops!"
+    ],
+    [
+      30.77,
+      31.15,
+      "Yes!"
+    ],
+    [
+      32.19,
+      32.63,
+      "Fucking"
+    ],
+    [
+      32.63,
+      33.03,
+      "yes!"
+    ],
+    [
+      45.94,
+      46.4,
+      "Let's"
+    ],
+    [
+      46.4,
+      46.68,
+      "go"
+    ],
+    [
+      46.68,
+      47.06,
+      "dudes."
+    ],
+    [
+      47.36,
+      47.6,
+      "Let's"
+    ],
+    [
+      47.6,
+      47.82,
+      "go."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795374551,
+  "meta": null
+}

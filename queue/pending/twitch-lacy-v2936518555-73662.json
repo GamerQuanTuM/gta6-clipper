@@ -1,0 +1,158 @@
+{
+  "id": "twitch-lacy-v2936518555-73662",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 73625.95,
+  "end": 73675,
+  "peak": 73662,
+  "score": 1.88,
+  "language": "en",
+  "transcript": "So fucking hot in this room Son yeah, son you buy the son me Nice JGP on bro. It's like unbearably hot in there. Oh my god",
+  "words": [
+    [
+      0.15,
+      0.61,
+      "So"
+    ],
+    [
+      0.61,
+      1.09,
+      "fucking"
+    ],
+    [
+      1.09,
+      1.37,
+      "hot"
+    ],
+    [
+      1.37,
+      1.51,
+      "in"
+    ],
+    [
+      1.51,
+      1.63,
+      "this"
+    ],
+    [
+      1.63,
+      1.97,
+      "room"
+    ],
+    [
+      20.14,
+      20.68,
+      "Son"
+    ],
+    [
+      20.68,
+      20.9,
+      "yeah,"
+    ],
+    [
+      20.96,
+      21.28,
+      "son"
+    ],
+    [
+      21.28,
+      21.42,
+      "you"
+    ],
+    [
+      21.42,
+      21.62,
+      "buy"
+    ],
+    [
+      21.62,
+      21.72,
+      "the"
+    ],
+    [
+      21.72,
+      22.24,
+      "son"
+    ],
+    [
+      22.24,
+      23.08,
+      "me"
+    ],
+    [
+      24.68,
+      25.22,
+      "Nice"
+    ],
+    [
+      35.79,
+      36.33,
+      "JGP"
+    ],
+    [
+      36.33,
+      36.59,
+      "on"
+    ],
+    [
+      36.59,
+      37.27,
+      "bro."
+    ],
+    [
+      37.33,
+      37.55,
+      "It's"
+    ],
+    [
+      37.55,
+      37.73,
+      "like"
+    ],
+    [
+      37.73,
+      38.83,
+      "unbearably"
+    ],
+    [
+      38.83,
+      39.07,
+      "hot"
+    ],
+    [
+      39.07,
+      39.19,
+      "in"
+    ],
+    [
+      39.19,
+      39.33,
+      "there."
+    ],
+    [
+      39.39,
+      39.71,
+      "Oh"
+    ],
+    [
+      39.71,
+      39.99,
+      "my"
+    ],
+    [
+      39.99,
+      40.33,
+      "god"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795375088,
+  "meta": null
+}
