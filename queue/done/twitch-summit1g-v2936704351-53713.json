@@ -1,0 +1,44 @@
+{
+  "id": "twitch-summit1g-v2936704351-53713",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "summit1g",
+  "streamer_name": "summit1g",
+  "channel_url": "https://www.twitch.tv/summit1g",
+  "vod_url": "https://www.twitch.tv/videos/2936704351",
+  "vod_id": "v2936704351",
+  "vod_title": "GTA6 SMOOTH PLAYTHROUGH GOOD FPS - !journey for %10 off - !starforge @StarforgeSystems",
+  "game": "GTA 6",
+  "start": 53682.04,
+  "end": 53730.16,
+  "peak": 53713,
+  "score": 2.3,
+  "language": "en",
+  "transcript": "We're dead. We're dead. We're fucking dead dude. We're not fucking dead dude. We're alive somehow. Holy shit balls. We live. Maybe. Boat scraper drops! Yes! Fucking yes! Let's go dudes. Let's go.",
+  "chat_sample": [],
+  "created_unix": 1795374551,
+  "meta": {
+    "hook": "WE'RE DEAD... WE'RE ALIVE SOMEHOW",
+    "title": "summit1g survives GTA 6 by a miracle 😭 #gta6 #shorts",
+    "description": "🎥 Clip from summit1g's live stream: https://www.twitch.tv/summit1g\n\nsummit1g thinks it's over in GTA 6, then somehow lives and celebrates 💀\n\nHave you ever escaped something this close? 👇\n\n#gta6 #gtavi #summit1g #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "summit1g",
+      "summit1g gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "summit1g thinks he's dead in GTA 6... then lives 😭 Ever had an escape this close? 👇\n\n🎥 summit1g (twitch.tv/summit1g)\n\n#gta6 #gtavi #summit1g #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.1,
+  "rendered_unix": 1795378212
+}
