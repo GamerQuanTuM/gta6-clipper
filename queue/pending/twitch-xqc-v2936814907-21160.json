@@ -1,0 +1,153 @@
+{
+  "id": "twitch-xqc-v2936814907-21160",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2936814907",
+  "vod_id": "v2936814907",
+  "vod_title": "🫂DROPS🫂60 FPS🫂GTA 6🫂FINISHING GAME IN ONE GO🫂LOCK IT IN🫂YAY🫂THE BEST PLAYER🫂OF ALL TIME🫂IS HERE🫂 2026-11-22 08:07",
+  "game": "GTA 6",
+  "start": 21128.02,
+  "end": 21170.7,
+  "peak": 21160,
+  "score": 2.23,
+  "language": "en",
+  "transcript": "Okay, so under catch me in this fucking pussy the wheels both is a fuck I can't drive anymore I'll leave it by it's all good",
+  "words": [
+    [
+      0.15,
+      0.75,
+      "Okay,"
+    ],
+    [
+      0.79,
+      0.91,
+      "so"
+    ],
+    [
+      0.91,
+      1.09,
+      "under"
+    ],
+    [
+      1.09,
+      2.11,
+      "catch"
+    ],
+    [
+      4.83,
+      4.97,
+      "me"
+    ],
+    [
+      4.97,
+      5.05,
+      "in"
+    ],
+    [
+      5.05,
+      5.17,
+      "this"
+    ],
+    [
+      5.17,
+      5.37,
+      "fucking"
+    ],
+    [
+      5.37,
+      5.59,
+      "pussy"
+    ],
+    [
+      5.59,
+      6.35,
+      "the"
+    ],
+    [
+      38.06,
+      38.3,
+      "wheels"
+    ],
+    [
+      38.3,
+      38.94,
+      "both"
+    ],
+    [
+      38.94,
+      39.14,
+      "is"
+    ],
+    [
+      39.14,
+      39.26,
+      "a"
+    ],
+    [
+      39.26,
+      39.46,
+      "fuck"
+    ],
+    [
+      39.46,
+      39.62,
+      "I"
+    ],
+    [
+      39.62,
+      39.92,
+      "can't"
+    ],
+    [
+      39.92,
+      40.0,
+      "drive"
+    ],
+    [
+      40.0,
+      40.22,
+      "anymore"
+    ],
+    [
+      41.36,
+      41.72,
+      "I'll"
+    ],
+    [
+      41.72,
+      41.82,
+      "leave"
+    ],
+    [
+      41.82,
+      41.88,
+      "it"
+    ],
+    [
+      41.88,
+      42.02,
+      "by"
+    ],
+    [
+      42.02,
+      42.2,
+      "it's"
+    ],
+    [
+      42.2,
+      42.26,
+      "all"
+    ],
+    [
+      42.26,
+      42.38,
+      "good"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795334895,
+  "meta": null
+}
