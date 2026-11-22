@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-28898",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -244,5 +244,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795316840,
-  "meta": null
+  "meta": {
+    "hook": "I'M THE WORST PLAYER TO EVER TOUCH THIS GAME",
+    "title": "Ludwig can't believe what he just did in GTA 6 😭 #gta6 #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run on day 3 takes a painful turn 💀\n\nHave you ever messed up this badly in a game? 👇\n\n#gta6 #gtavi #ludwig #nonlethalrun #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "non lethal run",
+      "gta 6 funny moments",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig melts down mid non-lethal GTA 6 run: \"There's no way I just did that\" 😭 Ever done something this painful in a game? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #funny",
+    "source": "claude"
+  }
 }

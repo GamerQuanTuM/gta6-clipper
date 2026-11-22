@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-23683",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -534,5 +534,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795317116,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Club music lyrics, not a live reaction."
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-30246",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -629,5 +629,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795316855,
-  "meta": null
+  "meta": {
+    "hook": "ROCKSTAR MADE HER CARRY HIM",
+    "title": "Ludwig roasts Rockstar's rescue mission in GTA 6 😂 #gta6 #shorts",
+    "description": "Ludwig reacts to a GTA 6 rescue mission where the woman has to pick up the man 😂\n\nIs chivalry really dead in Vice City? 👇\n\n#gta6 #gtavi #ludwig #rockstar #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 mission",
+      "rockstar games",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig on GTA 6's rescue mission: \"Congratulations Rockstar, the woman has to pick up the man\" 😂 Is chivalry dead? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #rockstar #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

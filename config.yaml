@@ -30,11 +30,11 @@ streamers:
   kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth,
          8bitheadflicker, rakazone, soulaman, anshyt, binks69, xqc, theburntpeanut]
   youtube: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
-            SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093, MythPat]
+            SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093, MythPat, SHARKSHE]
   # Hindi-speaking Indian creators (any platform above)
   hindi: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
           SnaxGaming, DynamoGaming, JokerKiHaveli, TotalGaming093, MythPat,
-          8bitheadflicker, rakazone, soulaman, anshyt, binks69]
+          8bitheadflicker, rakazone, soulaman, anshyt, binks69, SHARKSHE]
 
 finder:
   lookback_minutes: 70        # how much of each stream to scan per run
