@@ -1,0 +1,45 @@
+{
+  "id": "twitch-ludwig-v2936392772-35834",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 05:08",
+  "game": "GTA 6",
+  "start": 35802.18,
+  "end": 35847.17,
+  "peak": 35834,
+  "score": 1.97,
+  "language": "en",
+  "transcript": "Thank you Yeah, not too much You really that bitch We're having a Jason by the way Wait, I said I got the bat in my inventory, but I don't see it Just heard you had to dump the ride all good. Haha. I don't know who's more out of control dear Baylux True. I was gonna damn bed, dude. Where's my damn bed?",
+  "chat_sample": [],
+  "created_unix": 1795324164,
+  "meta": {
+    "hook": "WHERE IS MY DAMN BED",
+    "title": "Ludwig can't find his bat or his bed in GTA 6 😂 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig loses his bat from his inventory and then his bed in GTA 6 😂\n\nWhat's the dumbest thing you've lost in a game? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "ludwig",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 roleplay",
+      "streamer moments",
+      "shorts",
+      "gta 6 inventory"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig can't find his bat OR his bed in GTA 6 😂 What's the dumbest thing you've lost in a game? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795327879
+}

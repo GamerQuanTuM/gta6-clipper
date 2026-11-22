@@ -1,0 +1,45 @@
+{
+  "id": "twitch-ludwig-v2936392772-35222",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 05:08",
+  "game": "GTA 6",
+  "start": 35187.47,
+  "end": 35237.17,
+  "peak": 35222,
+  "score": 2.01,
+  "language": "en",
+  "transcript": "That fucking cult pro. Okay, I'll make a movie. Let's make a movie. Oh my gosh, you got a new fit. Wait, I know that car. Oh, they're shooting a music video with his car. That's kind of tough. Genuinely, that's kind of tough. Because you know the moment they post the video, everyone's gonna be like, wait, ain't that? Yup, it is.",
+  "chat_sample": [],
+  "created_unix": 1795324155,
+  "meta": {
+    "hook": "THEY'RE FILMING A MUSIC VIDEO WITH HIS CAR",
+    "title": "Ludwig spots a music video shoot using a familiar car in GTA 6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig runs into a music video shoot in GTA 6 and recognises the car 👀\n\nWould you post that video knowing everyone will notice? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "ludwig",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 roleplay",
+      "streamer moments",
+      "shorts",
+      "ludwig gta 6 non lethal"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig spots a GTA 6 music video shoot using a very familiar car 👀 Would you post it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 51.7,
+  "rendered_unix": 1795327809
+}
