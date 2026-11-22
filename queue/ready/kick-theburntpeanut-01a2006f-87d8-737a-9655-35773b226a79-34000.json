@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-34000",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -299,5 +299,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795339184,
-  "meta": null
+  "meta": null,
+  "reject_reason": "reads like scripted in-game dialogue, unclear moment"
 }

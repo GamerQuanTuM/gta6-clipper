@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-41236",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -199,5 +199,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795339091,
-  "meta": null
+  "meta": {
+    "hook": "BHAI KI GAADI PE DIL TOOT GAYA",
+    "title": "Soulaman ka GTA 6 me gaadiyon ke peeche pagalpan 😂 #gta6 #shorts",
+    "description": "Soulaman ko GTA 6 me ek chamakti green gaadi dikhi aur dil toot gaya 💀\n\nTumhari favourite GTA 6 gaadi kaunsi hai? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 cars",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ko GTA 6 me chamakti green gaadi dikhi aur dil toot gaya 😂 Aapki favourite gaadi kaunsi? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }

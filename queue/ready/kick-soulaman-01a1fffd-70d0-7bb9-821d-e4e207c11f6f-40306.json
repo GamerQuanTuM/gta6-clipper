@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-40306",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -259,5 +259,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795339115,
-  "meta": null
+  "meta": {
+    "hook": "BHAI MERI GAADI KHO GAYI",
+    "title": "Soulaman ki GTA 6 me gaadi hi gayab ho gayi 😭 #gta6 #shorts",
+    "description": "Soulaman ko GTA 6 me apni gaadi ke liye wapas bhaagna pada, aur upar se wanted level 💀\n\nTumhare saath GTA 6 me aisa kab hua? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ki GTA 6 me gaadi respawn ho gayi aur ab wapas jaana padega 😭 Tumhare saath aisa hua? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }
