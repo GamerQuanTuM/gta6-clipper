@@ -1,0 +1,233 @@
+{
+  "id": "twitch-lacy-v2936518555-12082",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM 2026-11-22 00:16",
+  "game": "GTA 6",
+  "start": 12050.23,
+  "end": 12095,
+  "peak": 12082,
+  "score": 2.75,
+  "language": "en",
+  "transcript": "who you would Nate you fucking whore how much What I got a little time actually Just so single -handedly Infiltrated a cartel military base killed 50 people Kidnapped and rescued a little kid your son and you give me 30 Grand",
+  "words": [
+    [
+      0.15,
+      1.07,
+      "who"
+    ],
+    [
+      1.07,
+      1.27,
+      "you"
+    ],
+    [
+      1.27,
+      1.39,
+      "would"
+    ],
+    [
+      1.39,
+      1.65,
+      "Nate"
+    ],
+    [
+      1.65,
+      1.87,
+      "you"
+    ],
+    [
+      1.87,
+      2.07,
+      "fucking"
+    ],
+    [
+      2.07,
+      2.47,
+      "whore"
+    ],
+    [
+      2.47,
+      3.45,
+      "how"
+    ],
+    [
+      6.43,
+      6.79,
+      "much"
+    ],
+    [
+      14.14,
+      14.86,
+      "What"
+    ],
+    [
+      16.32,
+      17.04,
+      "I"
+    ],
+    [
+      17.04,
+      17.76,
+      "got"
+    ],
+    [
+      17.76,
+      17.88,
+      "a"
+    ],
+    [
+      17.88,
+      18.02,
+      "little"
+    ],
+    [
+      18.02,
+      18.34,
+      "time"
+    ],
+    [
+      18.34,
+      18.86,
+      "actually"
+    ],
+    [
+      20.04,
+      20.76,
+      "Just"
+    ],
+    [
+      20.76,
+      21.48,
+      "so"
+    ],
+    [
+      21.48,
+      22.02,
+      "single"
+    ],
+    [
+      22.02,
+      22.6,
+      "-handedly"
+    ],
+    [
+      23.4,
+      23.86,
+      "Infiltrated"
+    ],
+    [
+      23.86,
+      24.06,
+      "a"
+    ],
+    [
+      24.06,
+      24.86,
+      "cartel"
+    ],
+    [
+      24.86,
+      25.4,
+      "military"
+    ],
+    [
+      25.4,
+      26.08,
+      "base"
+    ],
+    [
+      26.64,
+      27.18,
+      "killed"
+    ],
+    [
+      27.18,
+      27.88,
+      "50"
+    ],
+    [
+      27.88,
+      28.58,
+      "people"
+    ],
+    [
+      29.52,
+      30.24,
+      "Kidnapped"
+    ],
+    [
+      30.24,
+      30.4,
+      "and"
+    ],
+    [
+      30.4,
+      30.7,
+      "rescued"
+    ],
+    [
+      30.7,
+      30.96,
+      "a"
+    ],
+    [
+      30.96,
+      31.18,
+      "little"
+    ],
+    [
+      31.18,
+      31.68,
+      "kid"
+    ],
+    [
+      31.68,
+      32.4,
+      "your"
+    ],
+    [
+      32.4,
+      33.02,
+      "son"
+    ],
+    [
+      33.02,
+      34.06,
+      "and"
+    ],
+    [
+      34.06,
+      34.2,
+      "you"
+    ],
+    [
+      34.2,
+      34.34,
+      "give"
+    ],
+    [
+      34.34,
+      34.5,
+      "me"
+    ],
+    [
+      34.5,
+      35.02,
+      "30"
+    ],
+    [
+      35.2,
+      35.68,
+      "Grand"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795306598,
+  "meta": null
+}
