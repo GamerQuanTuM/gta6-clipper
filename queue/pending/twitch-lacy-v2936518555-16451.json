@@ -1,0 +1,63 @@
+{
+  "id": "twitch-lacy-v2936518555-16451",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM 2026-11-22 01:13",
+  "game": "GTA 6",
+  "start": 16421.65,
+  "end": 16464,
+  "peak": 16451,
+  "score": 2.74,
+  "language": "en",
+  "transcript": "Oh, it's not. Wait, it might be this.",
+  "words": [
+    [
+      0.15,
+      0.39,
+      "Oh,"
+    ],
+    [
+      0.45,
+      0.63,
+      "it's"
+    ],
+    [
+      0.63,
+      1.09,
+      "not."
+    ],
+    [
+      2.83,
+      3.51,
+      "Wait,"
+    ],
+    [
+      3.59,
+      3.63,
+      "it"
+    ],
+    [
+      3.63,
+      3.69,
+      "might"
+    ],
+    [
+      3.69,
+      3.83,
+      "be"
+    ],
+    [
+      3.83,
+      4.15,
+      "this."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795310011,
+  "meta": null
+}

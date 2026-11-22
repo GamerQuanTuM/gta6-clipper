@@ -1,0 +1,118 @@
+{
+  "id": "twitch-zackrawrr-v2936386266-22980",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2936386266",
+  "vod_id": "v2936386266",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247 2026-11-22 01:11",
+  "game": "GTA 6",
+  "start": 22948,
+  "end": 22991.98,
+  "peak": 22980,
+  "score": 2.17,
+  "language": "en",
+  "transcript": "I got him I got him. I'm shooting everybody. I'm shooting everybody woman driver no survivors There you go",
+  "words": [
+    [
+      21.54,
+      22.18,
+      "I"
+    ],
+    [
+      22.18,
+      22.82,
+      "got"
+    ],
+    [
+      28.58,
+      29.92,
+      "him"
+    ],
+    [
+      29.92,
+      30.06,
+      "I"
+    ],
+    [
+      30.06,
+      30.18,
+      "got"
+    ],
+    [
+      30.18,
+      30.34,
+      "him."
+    ],
+    [
+      30.34,
+      30.48,
+      "I'm"
+    ],
+    [
+      30.48,
+      30.94,
+      "shooting"
+    ],
+    [
+      30.94,
+      31.26,
+      "everybody."
+    ],
+    [
+      31.36,
+      31.46,
+      "I'm"
+    ],
+    [
+      31.46,
+      31.62,
+      "shooting"
+    ],
+    [
+      31.62,
+      31.86,
+      "everybody"
+    ],
+    [
+      31.86,
+      33.3,
+      "woman"
+    ],
+    [
+      33.3,
+      33.78,
+      "driver"
+    ],
+    [
+      33.78,
+      34.1,
+      "no"
+    ],
+    [
+      34.1,
+      34.74,
+      "survivors"
+    ],
+    [
+      41.18,
+      42.58,
+      "There"
+    ],
+    [
+      42.58,
+      42.72,
+      "you"
+    ],
+    [
+      42.72,
+      43.68,
+      "go"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795309937,
+  "meta": null
+}
