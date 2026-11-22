@@ -1,0 +1,178 @@
+{
+  "id": "twitch-hasanabi-v2937602356-11143",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2937602356",
+  "vod_id": "v2937602356",
+  "vod_title": "🚉CH3 GTA6 VICE CITY🚉SUNDAY FUNDAY!🚉NEW CHARITY LVLS🗽MANDY ACTRESS IN THE BUILDING AT 180K!🗽DROPS ON!🗽 2026-11-22 22:15",
+  "game": "GTA 6",
+  "start": 11111,
+  "end": 11156,
+  "peak": 11143,
+  "score": 1.83,
+  "language": "en",
+  "transcript": "Sorry damage my ass. Yeah, I mean it's a little damage. It'll buff out. It'll buff out Loophie the pain slap a sticker on it you already know how it is",
+  "words": [
+    [
+      6.08,
+      6.52,
+      "Sorry"
+    ],
+    [
+      23.29,
+      23.73,
+      "damage"
+    ],
+    [
+      23.73,
+      24.01,
+      "my"
+    ],
+    [
+      24.01,
+      24.45,
+      "ass."
+    ],
+    [
+      24.55,
+      24.87,
+      "Yeah,"
+    ],
+    [
+      24.91,
+      25.29,
+      "I"
+    ],
+    [
+      25.29,
+      25.43,
+      "mean"
+    ],
+    [
+      25.43,
+      25.67,
+      "it's"
+    ],
+    [
+      25.67,
+      25.75,
+      "a"
+    ],
+    [
+      25.75,
+      25.87,
+      "little"
+    ],
+    [
+      25.87,
+      26.15,
+      "damage."
+    ],
+    [
+      26.33,
+      26.41,
+      "It'll"
+    ],
+    [
+      26.41,
+      26.61,
+      "buff"
+    ],
+    [
+      26.61,
+      26.91,
+      "out."
+    ],
+    [
+      26.97,
+      27.15,
+      "It'll"
+    ],
+    [
+      27.15,
+      27.31,
+      "buff"
+    ],
+    [
+      27.31,
+      27.67,
+      "out"
+    ],
+    [
+      28.17,
+      28.61,
+      "Loophie"
+    ],
+    [
+      28.61,
+      28.67,
+      "the"
+    ],
+    [
+      28.67,
+      28.95,
+      "pain"
+    ],
+    [
+      28.95,
+      31.53,
+      "slap"
+    ],
+    [
+      31.53,
+      31.75,
+      "a"
+    ],
+    [
+      31.75,
+      32.05,
+      "sticker"
+    ],
+    [
+      32.05,
+      32.47,
+      "on"
+    ],
+    [
+      32.47,
+      32.63,
+      "it"
+    ],
+    [
+      32.63,
+      32.87,
+      "you"
+    ],
+    [
+      32.87,
+      33.21,
+      "already"
+    ],
+    [
+      33.21,
+      33.45,
+      "know"
+    ],
+    [
+      33.45,
+      33.65,
+      "how"
+    ],
+    [
+      33.65,
+      33.83,
+      "it"
+    ],
+    [
+      33.83,
+      34.21,
+      "is"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795385737,
+  "meta": null
+}

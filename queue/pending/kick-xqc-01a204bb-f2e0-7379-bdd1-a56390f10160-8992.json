@@ -1,0 +1,83 @@
+{
+  "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-8992",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a204bb-f2e0-7379-bdd1-a56390f10160#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a204bb-f2e0-7379-bdd1-a56390f10160",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛",
+  "game": "GTA 6",
+  "start": 8960,
+  "end": 9005,
+  "peak": 8992,
+  "score": 1.8,
+  "language": "en",
+  "transcript": "That was really close. Stop! They're headed to all units. Stop them!",
+  "words": [
+    [
+      4.26,
+      4.58,
+      "That"
+    ],
+    [
+      4.58,
+      4.76,
+      "was"
+    ],
+    [
+      4.76,
+      5.16,
+      "really"
+    ],
+    [
+      5.16,
+      5.68,
+      "close."
+    ],
+    [
+      6.6,
+      6.84,
+      "Stop!"
+    ],
+    [
+      7.1,
+      7.64,
+      "They're"
+    ],
+    [
+      7.64,
+      7.8,
+      "headed"
+    ],
+    [
+      7.8,
+      7.98,
+      "to"
+    ],
+    [
+      10.45,
+      10.73,
+      "all"
+    ],
+    [
+      10.73,
+      10.99,
+      "units."
+    ],
+    [
+      11.39,
+      11.49,
+      "Stop"
+    ],
+    [
+      21.98,
+      22.26,
+      "them!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795386018,
+  "meta": null
+}

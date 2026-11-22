@@ -1,0 +1,83 @@
+{
+  "id": "twitch-lacy-v2937465519-17057",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2937465519",
+  "vod_id": "v2937465519",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 THE FINALE 🦩️ BEATING IT RIGHT NOW 🍹️ GIVEAWAYS 🌴️  !CLIPPING !COM 2026-11-22 22:16",
+  "game": "GTA 6",
+  "start": 17025,
+  "end": 17072.23,
+  "peak": 17057,
+  "score": 2.42,
+  "language": "en",
+  "transcript": "Fuck See No one's gonna save us. We gotta do it ourselves.",
+  "words": [
+    [
+      12.62,
+      14.02,
+      "Fuck"
+    ],
+    [
+      20.24,
+      21.64,
+      "See"
+    ],
+    [
+      45.21,
+      45.43,
+      "No"
+    ],
+    [
+      45.43,
+      45.57,
+      "one's"
+    ],
+    [
+      45.57,
+      45.67,
+      "gonna"
+    ],
+    [
+      45.67,
+      45.99,
+      "save"
+    ],
+    [
+      45.99,
+      46.15,
+      "us."
+    ],
+    [
+      46.25,
+      46.25,
+      "We"
+    ],
+    [
+      46.25,
+      46.37,
+      "gotta"
+    ],
+    [
+      46.37,
+      46.53,
+      "do"
+    ],
+    [
+      46.53,
+      46.61,
+      "it"
+    ],
+    [
+      46.61,
+      46.93,
+      "ourselves."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795385788,
+  "meta": null
+}

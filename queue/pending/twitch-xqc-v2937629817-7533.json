@@ -1,0 +1,208 @@
+{
+  "id": "twitch-xqc-v2937629817-7533",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-22 22:10",
+  "game": "GTA 6",
+  "start": 7501.72,
+  "end": 7546,
+  "peak": 7533,
+  "score": 1.7,
+  "language": "en",
+  "transcript": "Um... Um... The fucking building! Okay, I got it! Hey, let me in, dude! Pull it out! I'm pulling it! Alright! I'm pulling it! I'm pulling it! Ooh, okay! Water landing works! Must have been some day!",
+  "words": [
+    [
+      0.15,
+      0.63,
+      "Um..."
+    ],
+    [
+      0.63,
+      1.15,
+      "Um..."
+    ],
+    [
+      1.15,
+      1.25,
+      "The"
+    ],
+    [
+      1.25,
+      2.19,
+      "fucking"
+    ],
+    [
+      2.19,
+      2.55,
+      "building!"
+    ],
+    [
+      2.79,
+      3.01,
+      "Okay,"
+    ],
+    [
+      3.25,
+      3.35,
+      "I"
+    ],
+    [
+      3.35,
+      3.49,
+      "got"
+    ],
+    [
+      3.49,
+      3.51,
+      "it!"
+    ],
+    [
+      3.57,
+      4.05,
+      "Hey,"
+    ],
+    [
+      4.11,
+      4.29,
+      "let"
+    ],
+    [
+      4.29,
+      4.47,
+      "me"
+    ],
+    [
+      4.47,
+      4.63,
+      "in,"
+    ],
+    [
+      4.73,
+      4.87,
+      "dude!"
+    ],
+    [
+      7.45,
+      7.69,
+      "Pull"
+    ],
+    [
+      7.69,
+      7.81,
+      "it"
+    ],
+    [
+      7.81,
+      8.09,
+      "out!"
+    ],
+    [
+      8.15,
+      8.47,
+      "I'm"
+    ],
+    [
+      8.47,
+      8.69,
+      "pulling"
+    ],
+    [
+      8.69,
+      8.97,
+      "it!"
+    ],
+    [
+      10.69,
+      11.17,
+      "Alright!"
+    ],
+    [
+      11.75,
+      11.99,
+      "I'm"
+    ],
+    [
+      15.61,
+      15.73,
+      "pulling"
+    ],
+    [
+      15.73,
+      16.37,
+      "it!"
+    ],
+    [
+      24.92,
+      25.1,
+      "I'm"
+    ],
+    [
+      25.1,
+      25.32,
+      "pulling"
+    ],
+    [
+      25.32,
+      25.58,
+      "it!"
+    ],
+    [
+      32.72,
+      32.94,
+      "Ooh,"
+    ],
+    [
+      33.04,
+      33.28,
+      "okay!"
+    ],
+    [
+      38.55,
+      39.03,
+      "Water"
+    ],
+    [
+      39.03,
+      39.29,
+      "landing"
+    ],
+    [
+      39.29,
+      39.51,
+      "works!"
+    ],
+    [
+      39.51,
+      39.75,
+      "Must"
+    ],
+    [
+      39.75,
+      39.83,
+      "have"
+    ],
+    [
+      39.83,
+      40.01,
+      "been"
+    ],
+    [
+      40.01,
+      40.23,
+      "some"
+    ],
+    [
+      40.23,
+      40.53,
+      "day!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795385470,
+  "meta": null
+}
