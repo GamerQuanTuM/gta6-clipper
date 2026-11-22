@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a202b0-9280-7e4c-8400-c5fc00aa6185-34349",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -374,5 +374,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795377972,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE KYA KAAND HO GAYA",
+    "title": "8bitheadflicker ka GTA 6 me gaadi loot kaand 😭 #gta6 #shorts",
+    "description": "8bitheadflicker ne GTA 6 me gaadi loot li aur phir police station ka scene ho gaya 💀\n\nTumhara sabse bada GTA 6 kaand kya tha? Comment me batao 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "gta 6 hindi",
+      "gta 6 india",
+      "8bitheadflicker",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 police",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Gaadi loot ke baad police station ka kaand 😭 Tumne GTA 6 me kya kiya? Comment karo 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #gaming #indiangamer #reels",
+    "source": "claude"
+  }
 }

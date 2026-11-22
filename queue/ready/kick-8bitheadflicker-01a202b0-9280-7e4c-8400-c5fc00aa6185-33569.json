@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a202b0-9280-7e4c-8400-c5fc00aa6185-33569",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -559,5 +559,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795378051,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled transcript; reads like scripted in-game dialogue"
 }
