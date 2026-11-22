@@ -1,0 +1,223 @@
+{
+  "id": "twitch-ludwig-v2936392772-26565",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 02:07",
+  "game": "GTA 6",
+  "start": 26533,
+  "end": 26576.03,
+  "peak": 26565,
+  "score": 2.36,
+  "language": "en",
+  "transcript": "Let's get out of here. I missed. Halifax, come on. All right Halifax, I'm on my way. Is it a walk or a drive? What's the vibe? It is a drive. We are out of vehicles. That is a problem.",
+  "words": [
+    [
+      27.18,
+      27.62,
+      "Let's"
+    ],
+    [
+      27.62,
+      27.62,
+      "get"
+    ],
+    [
+      27.62,
+      27.62,
+      "out"
+    ],
+    [
+      27.62,
+      27.62,
+      "of"
+    ],
+    [
+      27.62,
+      27.62,
+      "here."
+    ],
+    [
+      27.62,
+      27.62,
+      "I"
+    ],
+    [
+      27.62,
+      27.84,
+      "missed."
+    ],
+    [
+      27.84,
+      28.4,
+      "Halifax,"
+    ],
+    [
+      28.5,
+      28.64,
+      "come"
+    ],
+    [
+      28.64,
+      28.84,
+      "on."
+    ],
+    [
+      29.9,
+      30.42,
+      "All"
+    ],
+    [
+      30.42,
+      30.66,
+      "right"
+    ],
+    [
+      30.66,
+      31.32,
+      "Halifax,"
+    ],
+    [
+      31.44,
+      31.58,
+      "I'm"
+    ],
+    [
+      31.58,
+      31.68,
+      "on"
+    ],
+    [
+      31.68,
+      31.82,
+      "my"
+    ],
+    [
+      31.82,
+      32.16,
+      "way."
+    ],
+    [
+      32.44,
+      32.54,
+      "Is"
+    ],
+    [
+      32.54,
+      32.62,
+      "it"
+    ],
+    [
+      32.62,
+      32.7,
+      "a"
+    ],
+    [
+      32.7,
+      32.96,
+      "walk"
+    ],
+    [
+      32.96,
+      33.26,
+      "or"
+    ],
+    [
+      33.26,
+      33.58,
+      "a"
+    ],
+    [
+      33.58,
+      34.12,
+      "drive?"
+    ],
+    [
+      34.38,
+      34.46,
+      "What's"
+    ],
+    [
+      34.46,
+      34.54,
+      "the"
+    ],
+    [
+      34.54,
+      34.78,
+      "vibe?"
+    ],
+    [
+      37.11,
+      37.43,
+      "It"
+    ],
+    [
+      37.43,
+      37.95,
+      "is"
+    ],
+    [
+      37.95,
+      38.53,
+      "a"
+    ],
+    [
+      38.53,
+      39.17,
+      "drive."
+    ],
+    [
+      39.77,
+      40.01,
+      "We"
+    ],
+    [
+      40.01,
+      40.15,
+      "are"
+    ],
+    [
+      40.15,
+      40.37,
+      "out"
+    ],
+    [
+      40.37,
+      40.49,
+      "of"
+    ],
+    [
+      40.49,
+      40.95,
+      "vehicles."
+    ],
+    [
+      41.63,
+      41.93,
+      "That"
+    ],
+    [
+      41.93,
+      42.11,
+      "is"
+    ],
+    [
+      42.11,
+      42.23,
+      "a"
+    ],
+    [
+      42.23,
+      42.73,
+      "problem."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795313263,
+  "meta": null
+}

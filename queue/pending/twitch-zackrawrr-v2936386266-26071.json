@@ -1,0 +1,153 @@
+{
+  "id": "twitch-zackrawrr-v2936386266-26071",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2936386266",
+  "vod_id": "v2936386266",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW  BIG DAY HUGE DRAMA NEW GAMES BIG NEWS  REACTS !restedXP #WWMPartner | @asmongold247",
+  "game": "GTA 6",
+  "start": 26036.58,
+  "end": 26082.99,
+  "peak": 26071,
+  "score": 1.81,
+  "language": "en",
+  "transcript": "Oh somebody's off the edge That's right, that's right, that's right, that's right, that's right, that's right. What's wrong? What's wrong Mohawk? Oh, oh, oh Oh",
+  "words": [
+    [
+      0.15,
+      0.55,
+      "Oh"
+    ],
+    [
+      0.55,
+      0.95,
+      "somebody's"
+    ],
+    [
+      0.95,
+      1.05,
+      "off"
+    ],
+    [
+      1.05,
+      1.17,
+      "the"
+    ],
+    [
+      1.17,
+      1.37,
+      "edge"
+    ],
+    [
+      32.33,
+      32.85,
+      "That's"
+    ],
+    [
+      32.85,
+      33.03,
+      "right,"
+    ],
+    [
+      33.11,
+      33.39,
+      "that's"
+    ],
+    [
+      33.39,
+      33.63,
+      "right,"
+    ],
+    [
+      33.69,
+      33.99,
+      "that's"
+    ],
+    [
+      33.99,
+      34.23,
+      "right,"
+    ],
+    [
+      34.23,
+      34.57,
+      "that's"
+    ],
+    [
+      34.57,
+      34.79,
+      "right,"
+    ],
+    [
+      34.79,
+      35.89,
+      "that's"
+    ],
+    [
+      35.89,
+      35.89,
+      "right,"
+    ],
+    [
+      35.99,
+      36.47,
+      "that's"
+    ],
+    [
+      36.47,
+      36.65,
+      "right."
+    ],
+    [
+      36.81,
+      36.85,
+      "What's"
+    ],
+    [
+      36.85,
+      37.07,
+      "wrong?"
+    ],
+    [
+      37.65,
+      38.05,
+      "What's"
+    ],
+    [
+      38.05,
+      38.19,
+      "wrong"
+    ],
+    [
+      38.19,
+      38.75,
+      "Mohawk?"
+    ],
+    [
+      41.29,
+      41.81,
+      "Oh,"
+    ],
+    [
+      42.01,
+      42.49,
+      "oh,"
+    ],
+    [
+      44.75,
+      45.97,
+      "oh"
+    ],
+    [
+      45.97,
+      46.11,
+      "Oh"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795313669,
+  "meta": null
+}

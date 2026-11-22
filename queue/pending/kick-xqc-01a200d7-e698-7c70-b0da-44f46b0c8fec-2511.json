@@ -1,0 +1,108 @@
+{
+  "id": "kick-xqc-01a200d7-e698-7c70-b0da-44f46b0c8fec-2511",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a200d7-e698-7c70-b0da-44f46b0c8fec#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a200d7-e698-7c70-b0da-44f46b0c8fec",
+  "vod_title": "🫂 DROPS 🫂 60 FPS 🫂 GTA 6 🫂 FINISHING GAME IN ONE GO 🫂 LOCK IT IN 🫂 YAY 🫂 THE BEST PLAYER 🫂 OF ALL TIME 🫂 IS HERE 🫂",
+  "game": "GTA 6",
+  "start": 2479,
+  "end": 2526.09,
+  "peak": 2511,
+  "score": 1.67,
+  "language": "en",
+  "transcript": "Get in, mate! What is this spinning machine? Yeah, this is a race kid introduction. So, Luke?",
+  "words": [
+    [
+      30.04,
+      30.48,
+      "Get"
+    ],
+    [
+      30.48,
+      30.86,
+      "in,"
+    ],
+    [
+      30.94,
+      31.14,
+      "mate!"
+    ],
+    [
+      31.48,
+      31.86,
+      "What"
+    ],
+    [
+      31.86,
+      32.46,
+      "is"
+    ],
+    [
+      32.46,
+      32.62,
+      "this"
+    ],
+    [
+      32.62,
+      33.0,
+      "spinning"
+    ],
+    [
+      33.0,
+      33.54,
+      "machine?"
+    ],
+    [
+      35.34,
+      35.54,
+      "Yeah,"
+    ],
+    [
+      35.56,
+      35.62,
+      "this"
+    ],
+    [
+      35.62,
+      35.76,
+      "is"
+    ],
+    [
+      35.76,
+      36.0,
+      "a"
+    ],
+    [
+      36.0,
+      36.52,
+      "race"
+    ],
+    [
+      36.52,
+      36.7,
+      "kid"
+    ],
+    [
+      36.7,
+      36.88,
+      "introduction."
+    ],
+    [
+      46.47,
+      46.65,
+      "So,"
+    ],
+    [
+      46.67,
+      46.79,
+      "Luke?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795314139,
+  "meta": null
+}
