@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-14115",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -209,5 +209,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795310006,
-  "meta": null
+  "meta": {
+    "hook": "CHAT SENT A SWAT TEAM",
+    "title": "Lacy gets swatted in GTA 6 and can't believe it 😭 #shorts",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy spots a swat team jumping her in GTA 6 and loses it 💀\n\nWho would you send after a streamer? 👇\n\n#gta6 #gtavi #lacy #streamermoments #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 marathon",
+      "gta 6 vice city",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy gets jumped by a swat team in GTA 6 😭 Who's your pick for chaos? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #streamer #gaming #reels",
+    "source": "claude"
+  }
 }

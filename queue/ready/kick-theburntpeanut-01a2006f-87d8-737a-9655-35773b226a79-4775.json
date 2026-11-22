@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-4775",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -159,5 +159,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795310403,
-  "meta": null
+  "meta": {
+    "hook": "WAIT WHAT IS THIS BAD BOY",
+    "title": "theburntpeanut finds a collector's card in GTA 6 #gta6 #shorts",
+    "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\ntheburntpeanut stumbles on a collector's card on Day 4 of his GTA 6 run 👀\n\nWhat's the best thing you've found in GTA 6 so far? 👇\n\n#gta6 #gtavi #theburntpeanut #streamermoments #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "burntpeanut",
+      "gta 6 collectibles",
+      "gta 6 gameplay",
+      "gta 6 day 4",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut finds a collector's card in GTA 6 👀 What's the best thing you've found? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #streamer #gaming #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2936386266-22980",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -114,5 +114,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795309937,
-  "meta": null
+  "meta": {
+    "hook": "NO SURVIVORS IN GTA 6",
+    "title": "zackrawrr goes on a GTA 6 rampage 💀 #shorts",
+    "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr announces he's taking everybody out in GTA 6 💀\n\nWould you go full chaos on day one? 👇\n\n#gta6 #gtavi #zackrawrr #streamermoments #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack",
+      "gta 6 chaos",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr is going full chaos in GTA 6 💀 Would you? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #streamer #gaming #reels",
+    "source": "claude"
+  }
 }
