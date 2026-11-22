@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-41236",
-  "status": "ready",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -221,5 +221,6 @@
     ],
     "ig_caption": "Soulaman ko GTA 6 me chamakti green gaadi dikhi aur dil toot gaya 😂 Aapki favourite gaadi kaunsi? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #reels #gaming",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

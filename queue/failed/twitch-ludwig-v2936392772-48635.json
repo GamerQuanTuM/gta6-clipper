@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-48635",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -246,5 +246,6 @@
     ],
     "ig_caption": "Ludwig just needs a ride in GTA 6: Vespa, motorcycle, even a bicycle 😭 Worst getaway vehicle you'd take? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

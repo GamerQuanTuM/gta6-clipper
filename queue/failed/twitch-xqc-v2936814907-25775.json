@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2936814907-25775",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -181,5 +181,6 @@
     ],
     "ig_caption": "xQc's car in GTA 6 is so broken he can't drive it anymore 💀 Hit this bug yet? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gta6bug #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }

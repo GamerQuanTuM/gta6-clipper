@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-51917",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -171,5 +171,6 @@
     ],
     "ig_caption": "Ludwig can't stop shouting 'a million' in his GTA 6 run 😳 What did he just see? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "night cap reached"
 }
