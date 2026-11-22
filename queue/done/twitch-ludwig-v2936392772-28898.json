@@ -1,0 +1,45 @@
+{
+  "id": "twitch-ludwig-v2936392772-28898",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 03:07",
+  "game": "GTA 6",
+  "start": 28866,
+  "end": 28911.5,
+  "peak": 28898,
+  "score": 2.53,
+  "language": "en",
+  "transcript": "I'm a joke. I wanna fucking cry. There's no way I just did that. There's no fucking way. It's insane, man. It's insane. I'm the worst fucking player to ever touch the game. It genuinely sucks to find out in real time on the world.",
+  "chat_sample": [],
+  "created_unix": 1795316840,
+  "meta": {
+    "hook": "I'M THE WORST PLAYER TO EVER TOUCH THIS GAME",
+    "title": "Ludwig can't believe what he just did in GTA 6 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run on day 3 takes a painful turn 💀\n\nHave you ever messed up this badly in a game? 👇\n\n#gta6 #gtavi #ludwig #nonlethalrun #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "non lethal run",
+      "gta 6 funny moments",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig melts down mid non-lethal GTA 6 run: \"There's no way I just did that\" 😭 Ever done something this painful in a game? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #funny",
+    "source": "claude"
+  },
+  "duration_s": 47.5,
+  "rendered_unix": 1795320507
+}
