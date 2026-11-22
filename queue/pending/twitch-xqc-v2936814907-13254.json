@@ -1,0 +1,133 @@
+{
+  "id": "twitch-xqc-v2936814907-13254",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2936814907",
+  "vod_id": "v2936814907",
+  "vod_title": "🫂DROPS🫂60 FPS🫂GTA 6🫂FINISHING GAME IN ONE GO🫂LOCK IT IN🫂YAY🫂THE BEST PLAYER🫂OF ALL TIME🫂IS HERE🫂 2026-11-22 05:10",
+  "game": "GTA 6",
+  "start": 13222.24,
+  "end": 13267,
+  "peak": 13254,
+  "score": 1.79,
+  "language": "en",
+  "transcript": "I'm watching it. DpG's. Oh my god, it is so quick. I mean, show yourself. Wait, is that the group secret course?",
+  "words": [
+    [
+      0.15,
+      0.49,
+      "I'm"
+    ],
+    [
+      0.49,
+      0.75,
+      "watching"
+    ],
+    [
+      0.75,
+      1.43,
+      "it."
+    ],
+    [
+      8.45,
+      8.97,
+      "DpG's."
+    ],
+    [
+      9.95,
+      10.47,
+      "Oh"
+    ],
+    [
+      10.47,
+      10.69,
+      "my"
+    ],
+    [
+      10.69,
+      10.87,
+      "god,"
+    ],
+    [
+      11.01,
+      11.19,
+      "it"
+    ],
+    [
+      11.19,
+      11.55,
+      "is"
+    ],
+    [
+      11.55,
+      11.97,
+      "so"
+    ],
+    [
+      11.97,
+      12.29,
+      "quick."
+    ],
+    [
+      12.71,
+      13.15,
+      "I"
+    ],
+    [
+      30.85,
+      31.01,
+      "mean,"
+    ],
+    [
+      31.17,
+      31.27,
+      "show"
+    ],
+    [
+      31.27,
+      31.53,
+      "yourself."
+    ],
+    [
+      33.23,
+      33.57,
+      "Wait,"
+    ],
+    [
+      33.67,
+      33.69,
+      "is"
+    ],
+    [
+      33.69,
+      33.81,
+      "that"
+    ],
+    [
+      33.81,
+      33.91,
+      "the"
+    ],
+    [
+      33.91,
+      34.15,
+      "group"
+    ],
+    [
+      34.15,
+      34.37,
+      "secret"
+    ],
+    [
+      34.37,
+      34.69,
+      "course?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795324226,
+  "meta": null
+}
