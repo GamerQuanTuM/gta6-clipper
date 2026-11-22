@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a202b0-9280-7e4c-8400-c5fc00aa6185-36400",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -15,84 +15,12 @@
   "score": 2.34,
   "language": "hi",
   "transcript": "जल्दी लुटोब तो अब बहुत थे तो औरे कितने है कितने है बैंक अंदर",
-  "words": [
-    [
-      16.89,
-      17.51,
-      "जल्दी"
-    ],
-    [
-      17.51,
-      17.85,
-      "लुटोब"
-    ],
-    [
-      17.85,
-      18.27,
-      "तो"
-    ],
-    [
-      30.37,
-      31.07,
-      "अब"
-    ],
-    [
-      31.07,
-      31.39,
-      "बहुत"
-    ],
-    [
-      31.39,
-      31.55,
-      "थे"
-    ],
-    [
-      31.55,
-      31.87,
-      "तो"
-    ],
-    [
-      31.87,
-      32.99,
-      "औरे"
-    ],
-    [
-      32.99,
-      33.29,
-      "कितने"
-    ],
-    [
-      33.29,
-      33.35,
-      "है"
-    ],
-    [
-      33.35,
-      33.63,
-      "कितने"
-    ],
-    [
-      33.63,
-      33.65,
-      "है"
-    ],
-    [
-      33.65,
-      33.93,
-      "बैंक"
-    ],
-    [
-      33.93,
-      34.21,
-      "अंदर"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795382093,
   "meta": {
     "hook": "JALDI LOOTO BANK ANDAR KITNE HAIN",
     "title": "8bitheadflicker ka GTA 6 bank loot, aur kitne hain andar? 😭 #shorts",
-    "description": "8bitheadflicker ka GTA 6 me bank loot ka tension full on 🔥\n\nAapko kya lagta hai, GTA 6 ka sabse best heist kaunsa hai? Comment karo 👇\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #shorts #gaming",
+    "description": "🎥 Clip from 8bitheadflicker's live stream: https://kick.com/8bitheadflicker\n\n8bitheadflicker ka GTA 6 me bank loot ka tension full on 🔥\n\nAapko kya lagta hai, GTA 6 ka sabse best heist kaunsa hai? Comment karo 👇\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -112,5 +40,7 @@
     ],
     "ig_caption": "Bank loot ke beech tension high 😭 GTA 6 me 8bitheadflicker ka heist moment! Aapka favourite heist kaunsa? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #gta6india #8bitheadflicker #hindigaming #reels #gaming",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795385540
 }

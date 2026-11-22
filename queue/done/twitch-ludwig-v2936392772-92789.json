@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2936392772-92789",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 21:07",
+  "game": "GTA 6",
+  "start": 92757,
+  "end": 92801.44,
+  "peak": 92789,
+  "score": 2.11,
+  "language": "en",
+  "transcript": "Lula don't throw it over the balcony You didn't look where it fell could you imagine could you imagine you're in a fucking skyscraper hotel? You chuck off a filled duffel bag off the side. You don't even look where it lands. You don't give a fuck You don't give a fuck forget the literary is that could just Dome somebody don't give a fuck. I'm not even gonna look",
+  "chat_sample": [],
+  "created_unix": 1795381783,
+  "meta": {
+    "hook": "DON'T EVEN LOOK WHERE IT LANDS",
+    "title": "Ludwig on tossing a bag off a skyscraper in GTA 6 💀 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run has him questioning everyone's life choices 💀\n\nWould you look where it lands? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Chucking a duffel bag off a skyscraper without even looking 💀 Ludwig's GTA 6 rant. Would you check where it lands? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #funnymoments #reels",
+    "source": "claude"
+  },
+  "duration_s": 46.4,
+  "rendered_unix": 1795385342
+}
