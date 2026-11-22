@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2936392772-24623",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 02:07",
+  "game": "GTA 6",
+  "start": 24591,
+  "end": 24636,
+  "peak": 24623,
+  "score": 2.37,
+  "language": "en",
+  "transcript": "Get me off the fucking car. I'm done being your senpai. I don't want to drive anymore I'm taking public transport. Oh my god. I'm done. I'm done, bro I'm done with this fucking mission. I'm not drunk, bro. I'm just bad I'm just bad man. I wish I were drunk. I wish I were high. I wish I were fucked up in some kind of ways That couldn't be measured by man. I'm a sober dog shit driver. That's it That's the tough pill to fucking swallow, man",
+  "chat_sample": [],
+  "created_unix": 1795313258,
+  "meta": {
+    "hook": "LUDWIG JUST QUIT DRIVING",
+    "title": "Ludwig rage-quits driving in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run hits a wall: he's done driving and wants public transport 💀\n\nWho's the worst driver in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal run",
+      "gta 6 funny moments",
+      "gta 6 driving",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig is DONE driving in GTA 6 and wants to take public transport 😭 Are you a bad driver too? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795316891
+}
