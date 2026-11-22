@@ -1,0 +1,113 @@
+{
+  "id": "twitch-lacy-v2937465519-13678",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2937465519",
+  "vod_id": "v2937465519",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 THE FINALE 🦩️ BEATING IT RIGHT NOW 🍹️ GIVEAWAYS 🌴️  !CLIPPING !COM 2026-11-22 21:12",
+  "game": "GTA 6",
+  "start": 13643.78,
+  "end": 13691,
+  "peak": 13678,
+  "score": 3.06,
+  "language": "en",
+  "transcript": "I put it all in the wrong gun. What a freak out. I didn't mean to do that!",
+  "words": [
+    [
+      0.15,
+      0.69,
+      "I"
+    ],
+    [
+      0.69,
+      1.27,
+      "put"
+    ],
+    [
+      13.56,
+      13.66,
+      "it"
+    ],
+    [
+      13.66,
+      13.94,
+      "all"
+    ],
+    [
+      13.94,
+      14.04,
+      "in"
+    ],
+    [
+      14.04,
+      14.14,
+      "the"
+    ],
+    [
+      14.14,
+      14.32,
+      "wrong"
+    ],
+    [
+      14.32,
+      14.62,
+      "gun."
+    ],
+    [
+      26.68,
+      26.8,
+      "What"
+    ],
+    [
+      26.8,
+      26.92,
+      "a"
+    ],
+    [
+      26.92,
+      27.18,
+      "freak"
+    ],
+    [
+      27.18,
+      27.54,
+      "out."
+    ],
+    [
+      28.02,
+      28.18,
+      "I"
+    ],
+    [
+      34.58,
+      34.74,
+      "didn't"
+    ],
+    [
+      34.74,
+      34.84,
+      "mean"
+    ],
+    [
+      34.84,
+      35.02,
+      "to"
+    ],
+    [
+      35.02,
+      35.34,
+      "do"
+    ],
+    [
+      35.34,
+      35.54,
+      "that!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795381998,
+  "meta": null
+}
