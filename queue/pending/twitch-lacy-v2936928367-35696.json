@@ -1,0 +1,118 @@
+{
+  "id": "twitch-lacy-v2936928367-35696",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936928367",
+  "vod_id": "v2936928367",
+  "vod_title": "gta 6 pt 6",
+  "game": "GTA 6",
+  "start": 35664,
+  "end": 35710.76,
+  "peak": 35696,
+  "score": 2.89,
+  "language": "en",
+  "transcript": "where did he go like what is he doing bro his fucking retort I have to pick him up",
+  "words": [
+    [
+      9.86,
+      10.58,
+      "where"
+    ],
+    [
+      26.51,
+      27.23,
+      "did"
+    ],
+    [
+      27.23,
+      27.37,
+      "he"
+    ],
+    [
+      27.37,
+      27.73,
+      "go"
+    ],
+    [
+      27.73,
+      28.29,
+      "like"
+    ],
+    [
+      30.4,
+      31.0,
+      "what"
+    ],
+    [
+      31.0,
+      31.18,
+      "is"
+    ],
+    [
+      31.18,
+      31.34,
+      "he"
+    ],
+    [
+      31.34,
+      31.76,
+      "doing"
+    ],
+    [
+      31.76,
+      32.22,
+      "bro"
+    ],
+    [
+      32.22,
+      33.36,
+      "his"
+    ],
+    [
+      33.36,
+      33.8,
+      "fucking"
+    ],
+    [
+      33.8,
+      34.62,
+      "retort"
+    ],
+    [
+      34.62,
+      35.56,
+      "I"
+    ],
+    [
+      45.32,
+      45.46,
+      "have"
+    ],
+    [
+      45.46,
+      45.54,
+      "to"
+    ],
+    [
+      45.54,
+      45.9,
+      "pick"
+    ],
+    [
+      45.9,
+      46.1,
+      "him"
+    ],
+    [
+      46.1,
+      46.46,
+      "up"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795320911,
+  "meta": null
+}

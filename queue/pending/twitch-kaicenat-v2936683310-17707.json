@@ -1,0 +1,73 @@
+{
+  "id": "twitch-kaicenat-v2936683310-17707",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2936683310",
+  "vod_id": "v2936683310",
+  "vod_title": "🗺️EXPLORING GTA 6🗺️ 2026-11-22 04:07",
+  "game": "GTA 6",
+  "start": 17675,
+  "end": 17720,
+  "peak": 17707,
+  "score": 2.14,
+  "language": "en",
+  "transcript": "Come on But you driving so slow bro, come on",
+  "words": [
+    [
+      30.11,
+      30.83,
+      "Come"
+    ],
+    [
+      30.83,
+      30.83,
+      "on"
+    ],
+    [
+      30.83,
+      30.83,
+      "But"
+    ],
+    [
+      30.83,
+      30.83,
+      "you"
+    ],
+    [
+      30.83,
+      31.19,
+      "driving"
+    ],
+    [
+      31.19,
+      31.55,
+      "so"
+    ],
+    [
+      31.55,
+      31.93,
+      "slow"
+    ],
+    [
+      31.93,
+      32.33,
+      "bro,"
+    ],
+    [
+      32.33,
+      32.61,
+      "come"
+    ],
+    [
+      32.61,
+      32.93,
+      "on"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795320483,
+  "meta": null
+}
