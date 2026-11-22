@@ -1,0 +1,44 @@
+{
+  "id": "twitch-lacy-v2936518555-10095",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM 2026-11-21 23:14",
+  "game": "GTA 6",
+  "start": 10063,
+  "end": 10110.86,
+  "peak": 10095,
+  "score": 2.63,
+  "language": "en",
+  "transcript": "Apple cider, Apple cider. I'm deadass should have got like a million dollars, no? Or like 600k. I got fucking scammed. Child's play.",
+  "chat_sample": [],
+  "created_unix": 1795302882,
+  "meta": {
+    "hook": "SHE THINKS GTA 6 SCAMMED HER",
+    "title": "Lacy says GTA 6 scammed her out of a fortune 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy is NOT happy with her payout in GTA 6 💀\n\nHave you ever been scammed in a game? Tell us 👇\n\n#gta6 #gtavi #lacy #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 funny moments",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy says she got scammed out of a million in GTA 6 💀 Ever been robbed by a game? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.9,
+  "rendered_unix": 1795306220
+}

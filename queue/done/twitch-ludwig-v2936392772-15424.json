@@ -1,0 +1,45 @@
+{
+  "id": "twitch-ludwig-v2936392772-15424",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-21 23:10",
+  "game": "GTA 6",
+  "start": 15390.79,
+  "end": 15436.29,
+  "peak": 15424,
+  "score": 2.13,
+  "language": "en",
+  "transcript": "Oh Okay, so all you have to do is pay the $5 ,000 initiation fee and you're all set What? Girl, that's pretty steep. You can't put a price on potential silly. Oh Well mama state girl, so just send me the money and we'll get you locked in okay, okay I see you soon Bro five thousand for a bro, what is that break check? Fucking asshole five thousand for an initiation fee.",
+  "chat_sample": [],
+  "created_unix": 1795302634,
+  "meta": {
+    "hook": "5,000 JUST TO JOIN?!",
+    "title": "Ludwig is shocked by the $5,000 initiation fee in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run hits a very expensive door 💀\n\nWould you pay $5,000 to get in? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal run",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig can't believe the $5,000 initiation fee in GTA 6 😭 Would you pay it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.5,
+  "rendered_unix": 1795306154
+}

@@ -310,5 +310,66 @@
     },
     "duration_s": 45.9,
     "release": "2026-11-22-10-ludwig"
+  },
+  {
+    "id": "twitch-ludwig-v2936392772-15424",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "5,000 JUST TO JOIN?!",
+      "title": "Ludwig is shocked by the $5,000 initiation fee in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run hits a very expensive door 💀\n\nWould you pay $5,000 to get in? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "ludwig",
+        "ludwig gta 6",
+        "gta 6 non lethal run",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Ludwig can't believe the $5,000 initiation fee in GTA 6 😭 Would you pay it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.5,
+    "release": "2026-11-22-11-ludwig-15424"
+  },
+  {
+    "id": "twitch-lacy-v2936518555-10095",
+    "streamer": "lacy",
+    "streamer_name": "Lacy",
+    "channel_url": "https://www.twitch.tv/lacy",
+    "meta": {
+      "hook": "SHE THINKS GTA 6 SCAMMED HER",
+      "title": "Lacy says GTA 6 scammed her out of a fortune 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy is NOT happy with her payout in GTA 6 💀\n\nHave you ever been scammed in a game? Tell us 👇\n\n#gta6 #gtavi #lacy #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "lacy",
+        "lacy gta 6",
+        "gta 6 funny moments",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Lacy says she got scammed out of a million in GTA 6 💀 Ever been robbed by a game? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.9,
+    "release": "2026-11-22-12-lacy"
   }
 ]
