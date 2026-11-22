@@ -1214,5 +1214,36 @@
     },
     "duration_s": 46.0,
     "release": "2026-11-22-39-soulaman"
+  },
+  {
+    "id": "twitch-xqc-v2936814907-21160",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "HIS CAR JUST GAVE UP ON HIM",
+      "title": "xQc loses both wheels and ditches the car in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc's getaway car falls apart in GTA 6, wheels gone, he just leaves it 💀\n\nWhat's the worst car moment you've had in GTA 6? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "xqc",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 car",
+        "gta 6 fail",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc's car loses both wheels in GTA 6 and he just walks away 💀 Worst car moment you've had? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 44.7,
+    "release": "2026-11-22-40-xqc"
   }
 ]
