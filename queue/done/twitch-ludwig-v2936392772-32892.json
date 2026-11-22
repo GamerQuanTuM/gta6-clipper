@@ -1,0 +1,45 @@
+{
+  "id": "twitch-ludwig-v2936392772-32892",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 04:08",
+  "game": "GTA 6",
+  "start": 32859.2,
+  "end": 32905,
+  "peak": 32892,
+  "score": 2.21,
+  "language": "en",
+  "transcript": "Nice. Dude, I -I -I got no fucking heels. I gotta get out of here. Bro, why? Out of curiosity, are you shooting literally anyone? Or are you walking around? Because there's a guy you just walked by. Are you shooting a single fucking soul?",
+  "chat_sample": [],
+  "created_unix": 1795320582,
+  "meta": {
+    "hook": "IS HE SHOOTING A SINGLE SOUL",
+    "title": "Ludwig's non-lethal GTA 6 run gets called out 😂 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nDay 3 of Ludwig's non-lethal GTA 6 run and someone asks if he's even shooting anyone 😂\n\nCould you finish GTA 6 without killing? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's non-lethal GTA 6 run is being questioned 😂 Could you do it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.8,
+  "rendered_unix": 1795324503
+}

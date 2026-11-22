@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2936683310-16689",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2936683310",
+  "vod_id": "v2936683310",
+  "vod_title": "🗺️EXPLORING GTA 6🗺️ 2026-11-22 04:07",
+  "game": "GTA 6",
+  "start": 16655.67,
+  "end": 16701.16,
+  "peak": 16689,
+  "score": 1.98,
+  "language": "en",
+  "transcript": "Don't know what he got me doing, but we're gonna do it though. I Don't know what they got me doing Are we gonna do it though? I'm scared, bro. I'm not from Miami, bro. I don't know what's out here Yo production, let's put on the arm make sure that we're on POV already Make sure we should be on POV will all overlays on we should be on POV will all overlays on bro. Oh shit",
+  "chat_sample": [],
+  "created_unix": 1795320487,
+  "meta": {
+    "hook": "KAI IS SCARED IN MIAMI",
+    "title": "Kai Cenat is scared exploring Miami in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat drops into GTA 6's Miami and admits he's scared of what's out there 😭\n\nWould you survive these streets? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat",
+      "gta 6 miami",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat is NOT ready for Miami in GTA 6 😭 Would you survive? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.5,
+  "rendered_unix": 1795324572
+}

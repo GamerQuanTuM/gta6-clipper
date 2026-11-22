@@ -1,0 +1,46 @@
+{
+  "id": "twitch-lacy-v2936928367-36179",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936928367",
+  "vod_id": "v2936928367",
+  "vod_title": "gta 6 pt 6",
+  "game": "GTA 6",
+  "start": 36144.3,
+  "end": 36192,
+  "peak": 36179,
+  "score": 3.45,
+  "language": "en",
+  "transcript": "We're almost out of this sandwich, bro Shit man chopper I'm driving a chop the helicopter Oh Audrey I gotta put you in the seat. I gotta put you in your own seat. You're a grown -ass fucking it I gotta put you in the seat",
+  "chat_sample": [],
+  "created_unix": 1795320908,
+  "meta": {
+    "hook": "SHE'S FLYING A CHOPPER NOW",
+    "title": "Lacy ends up flying a helicopter in GTA 6 😂 #shorts",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy's GTA 6 squad chaos reaches the sky and she has to seat her passenger 😂\n\nWould you trust her at the controls? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 helicopter",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Lacy is flying a helicopter in GTA 6 and the chaos is real 😂 Would you trust her? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.7,
+  "rendered_unix": 1795324198
+}
