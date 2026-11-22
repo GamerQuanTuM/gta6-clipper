@@ -1,0 +1,45 @@
+{
+  "id": "twitch-lacy-v2936518555-14115",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2936518555",
+  "vod_id": "v2936518555",
+  "vod_title": "🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM 2026-11-22 01:13",
+  "game": "GTA 6",
+  "start": 14080.47,
+  "end": 14128,
+  "peak": 14115,
+  "score": 2.89,
+  "language": "en",
+  "transcript": "Boso hold Cisco, I'm an easy to block the same Yo, payday get with it. What's wrong with you? I'm telling you none of these ain't shit Oh, no, oh, no, they're jumping a swat team in chat",
+  "chat_sample": [],
+  "created_unix": 1795310006,
+  "meta": {
+    "hook": "CHAT SENT A SWAT TEAM",
+    "title": "Lacy gets swatted in GTA 6 and can't believe it 😭 #shorts",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy spots a swat team jumping her in GTA 6 and loses it 💀\n\nWho would you send after a streamer? 👇\n\n#gta6 #gtavi #lacy #streamermoments #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 marathon",
+      "gta 6 vice city",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy gets jumped by a swat team in GTA 6 😭 Who's your pick for chaos? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #streamer #gaming #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.5,
+  "rendered_unix": 1795313464
+}
