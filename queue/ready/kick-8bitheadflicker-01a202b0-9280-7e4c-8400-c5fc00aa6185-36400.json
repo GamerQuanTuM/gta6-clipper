@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a202b0-9280-7e4c-8400-c5fc00aa6185-36400",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -89,5 +89,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795382093,
-  "meta": null
+  "meta": {
+    "hook": "JALDI LOOTO BANK ANDAR KITNE HAIN",
+    "title": "8bitheadflicker ka GTA 6 bank loot, aur kitne hain andar? 😭 #shorts",
+    "description": "8bitheadflicker ka GTA 6 me bank loot ka tension full on 🔥\n\nAapko kya lagta hai, GTA 6 ka sabse best heist kaunsa hai? Comment karo 👇\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "8bitheadflicker",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 bank heist",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "hindi gaming",
+      "gta 6 funny moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Bank loot ke beech tension high 😭 GTA 6 me 8bitheadflicker ka heist moment! Aapka favourite heist kaunsa? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #gta6india #8bitheadflicker #hindigaming #reels #gaming",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-94046",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -389,5 +389,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795381775,
-  "meta": null
+  "meta": {
+    "hook": "BOUGHT A GUN LEGALLY. STILL A CRIME?",
+    "title": "Ludwig can't figure out GTA 6's gun laws on a non-lethal run #shorts",
+    "description": "Ludwig buys a gun legally in GTA 6 and somehow still ends up in trouble 😭\n\nCan anyone explain how this works? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal",
+      "gta 6 guns",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Bought a gun legally and it's STILL a crime?? 😭 Ludwig vs GTA 6's rules. Anyone get this? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #funnymoments #reels",
+    "source": "claude"
+  }
 }

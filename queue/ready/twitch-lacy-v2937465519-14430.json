@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937465519-14430",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -274,5 +274,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795381994,
-  "meta": null
+  "meta": null,
+  "reject_reason": "not clearly GTA 6, sounds like a real football game/bet"
 }

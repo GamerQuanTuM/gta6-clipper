@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937465519-13678",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -109,5 +109,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795381998,
-  "meta": null
+  "meta": {
+    "hook": "SHE PUT IT ALL IN THE WRONG GUN",
+    "title": "Lacy puts everything in the WRONG gun in GTA 6 😭 #shorts",
+    "description": "Lacy's GTA 6 marathon finale just got messy 💀\n\nHave you ever wasted everything on the wrong thing? Tell us below 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "lacy gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 finale",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "\"I put it all in the wrong gun. What a freak out.\" 😭 Lacy's GTA 6 finale moment. Ever done this? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #funnymoments #reels",
+    "source": "claude"
+  }
 }
