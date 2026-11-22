@@ -249,5 +249,96 @@
     },
     "duration_s": 47.4,
     "release": "2026-11-23-08-ludwig"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-7533",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "WATER LANDING ACTUALLY WORKS",
+      "title": "xQc pulls off a crazy water landing in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc scrambles out of trouble and somehow a water landing works in GTA 6 💀\n\nWhat's the wildest escape you've pulled off in GTA 6? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 water landing",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc's GTA 6 water landing actually works 💀 What's your craziest escape so far? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #funnymoments #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.3,
+    "release": "2026-11-23-09-xqc"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-8993",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "THAT WAS WAY TOO CLOSE",
+      "title": "xQc barely escapes the cops in GTA 6 😬 #gta6 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc's police chase in GTA 6 gets way too close for comfort 🚔\n\nDid you ever outrun the cops in GTA 6? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 police chase",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc's GTA 6 police chase gets WAY too close 🚔 Could you outrun them? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #policechase #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-23-10-xqc"
+  },
+  {
+    "id": "twitch-hasanabi-v2937602356-11143",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "IT'LL BUFF OUT, HE SAYS",
+      "title": "HasanAbi shrugs off car damage in GTA 6 😂 #gta6 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi's wrecked ride in GTA 6 and his \"it'll buff out\" attitude 🚗\n\nHow do you handle crashing your car in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 vice city",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi: \"It'll buff out\" 😂 GTA 6 car damage hits different. Do you care about your ride? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #vicecity #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-23-11-hasanabi"
   }
 ]
