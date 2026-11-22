@@ -1,0 +1,153 @@
+{
+  "id": "twitch-ludwig-v2936392772-51917",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 09:07",
+  "game": "GTA 6",
+  "start": 51885,
+  "end": 51930,
+  "peak": 51917,
+  "score": 1.96,
+  "language": "en",
+  "transcript": "Oh my gosh. That was fast. That was fast. A million! A million! A million! A million! Oh my god. Oh my god. Oh my god.",
+  "words": [
+    [
+      15.05,
+      15.23,
+      "Oh"
+    ],
+    [
+      15.23,
+      15.43,
+      "my"
+    ],
+    [
+      15.43,
+      15.77,
+      "gosh."
+    ],
+    [
+      25.26,
+      25.42,
+      "That"
+    ],
+    [
+      25.42,
+      25.62,
+      "was"
+    ],
+    [
+      25.62,
+      26.62,
+      "fast."
+    ],
+    [
+      27.06,
+      27.06,
+      "That"
+    ],
+    [
+      27.06,
+      27.22,
+      "was"
+    ],
+    [
+      27.22,
+      27.56,
+      "fast."
+    ],
+    [
+      30.14,
+      30.48,
+      "A"
+    ],
+    [
+      30.48,
+      30.96,
+      "million!"
+    ],
+    [
+      31.48,
+      31.56,
+      "A"
+    ],
+    [
+      31.56,
+      31.9,
+      "million!"
+    ],
+    [
+      32.5,
+      32.68,
+      "A"
+    ],
+    [
+      32.68,
+      32.9,
+      "million!"
+    ],
+    [
+      33.4,
+      33.44,
+      "A"
+    ],
+    [
+      33.44,
+      33.66,
+      "million!"
+    ],
+    [
+      34.24,
+      34.24,
+      "Oh"
+    ],
+    [
+      34.24,
+      35.48,
+      "my"
+    ],
+    [
+      35.48,
+      35.76,
+      "god."
+    ],
+    [
+      37.18,
+      37.28,
+      "Oh"
+    ],
+    [
+      37.28,
+      37.58,
+      "my"
+    ],
+    [
+      37.58,
+      37.84,
+      "god."
+    ],
+    [
+      38.22,
+      38.34,
+      "Oh"
+    ],
+    [
+      38.34,
+      40.08,
+      "my"
+    ],
+    [
+      40.08,
+      40.34,
+      "god."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795338474,
+  "meta": null
+}

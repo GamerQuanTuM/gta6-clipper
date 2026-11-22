@@ -1,0 +1,228 @@
+{
+  "id": "twitch-ludwig-v2936392772-48635",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2936392772",
+  "vod_id": "v2936392772",
+  "vod_title": "🚘DAY 3 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-22 09:07",
+  "game": "GTA 6",
+  "start": 48601.71,
+  "end": 48648,
+  "peak": 48635,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "What's the matter? Surely. You ain't got time. I don't. I don't. I don't. We keep running. We keep running. Just need like a Vespa, maybe a motorcycle, even a bicycle, if it's tandem, that's got to go this way now.",
+  "words": [
+    [
+      0.15,
+      0.63,
+      "What's"
+    ],
+    [
+      0.63,
+      0.71,
+      "the"
+    ],
+    [
+      0.71,
+      0.95,
+      "matter?"
+    ],
+    [
+      10.59,
+      10.89,
+      "Surely."
+    ],
+    [
+      19.1,
+      19.34,
+      "You"
+    ],
+    [
+      19.34,
+      19.42,
+      "ain't"
+    ],
+    [
+      19.42,
+      19.54,
+      "got"
+    ],
+    [
+      19.54,
+      19.8,
+      "time."
+    ],
+    [
+      20.58,
+      21.04,
+      "I"
+    ],
+    [
+      21.04,
+      21.24,
+      "don't."
+    ],
+    [
+      21.4,
+      21.4,
+      "I"
+    ],
+    [
+      21.4,
+      21.48,
+      "don't."
+    ],
+    [
+      21.62,
+      21.74,
+      "I"
+    ],
+    [
+      21.74,
+      21.96,
+      "don't."
+    ],
+    [
+      22.04,
+      22.04,
+      "We"
+    ],
+    [
+      22.04,
+      22.18,
+      "keep"
+    ],
+    [
+      22.18,
+      22.36,
+      "running."
+    ],
+    [
+      22.74,
+      22.8,
+      "We"
+    ],
+    [
+      22.8,
+      22.9,
+      "keep"
+    ],
+    [
+      22.9,
+      23.1,
+      "running."
+    ],
+    [
+      23.58,
+      23.98,
+      "Just"
+    ],
+    [
+      31.66,
+      31.82,
+      "need"
+    ],
+    [
+      31.82,
+      31.94,
+      "like"
+    ],
+    [
+      31.94,
+      32.04,
+      "a"
+    ],
+    [
+      32.04,
+      32.74,
+      "Vespa,"
+    ],
+    [
+      32.88,
+      33.0,
+      "maybe"
+    ],
+    [
+      33.0,
+      33.14,
+      "a"
+    ],
+    [
+      33.14,
+      33.92,
+      "motorcycle,"
+    ],
+    [
+      34.74,
+      34.88,
+      "even"
+    ],
+    [
+      34.88,
+      35.02,
+      "a"
+    ],
+    [
+      35.02,
+      35.78,
+      "bicycle,"
+    ],
+    [
+      36.3,
+      36.34,
+      "if"
+    ],
+    [
+      36.34,
+      36.58,
+      "it's"
+    ],
+    [
+      36.58,
+      36.94,
+      "tandem,"
+    ],
+    [
+      37.2,
+      37.4,
+      "that's"
+    ],
+    [
+      37.4,
+      37.82,
+      "got"
+    ],
+    [
+      37.82,
+      38.22,
+      "to"
+    ],
+    [
+      38.22,
+      38.6,
+      "go"
+    ],
+    [
+      38.6,
+      38.82,
+      "this"
+    ],
+    [
+      38.82,
+      39.12,
+      "way"
+    ],
+    [
+      39.12,
+      39.42,
+      "now."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795338469,
+  "meta": null
+}

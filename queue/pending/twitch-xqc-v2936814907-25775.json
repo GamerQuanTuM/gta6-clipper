@@ -1,0 +1,163 @@
+{
+  "id": "twitch-xqc-v2936814907-25775",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2936814907",
+  "vod_id": "v2936814907",
+  "vod_title": "🫂DROPS🫂60 FPS🫂GTA 6🫂FINISHING GAME IN ONE GO🫂LOCK IT IN🫂YAY🫂THE BEST PLAYER🫂OF ALL TIME🫂IS HERE🫂 2026-11-22 09:08",
+  "game": "GTA 6",
+  "start": 25743,
+  "end": 25785.36,
+  "peak": 25775,
+  "score": 2.11,
+  "language": "en",
+  "transcript": "Can't drive it anymore, it's just like, it's probably like, damaging itself because it's just like, like, broken on the, the wheels, c - What's up, baby? Moves!",
+  "words": [
+    [
+      11.95,
+      12.39,
+      "Can't"
+    ],
+    [
+      12.39,
+      12.49,
+      "drive"
+    ],
+    [
+      12.49,
+      12.63,
+      "it"
+    ],
+    [
+      12.63,
+      12.81,
+      "anymore,"
+    ],
+    [
+      12.95,
+      13.17,
+      "it's"
+    ],
+    [
+      13.17,
+      13.27,
+      "just"
+    ],
+    [
+      13.27,
+      13.55,
+      "like,"
+    ],
+    [
+      13.73,
+      14.27,
+      "it's"
+    ],
+    [
+      31.8,
+      31.88,
+      "probably"
+    ],
+    [
+      31.88,
+      32.06,
+      "like,"
+    ],
+    [
+      32.08,
+      32.3,
+      "damaging"
+    ],
+    [
+      32.3,
+      32.6,
+      "itself"
+    ],
+    [
+      32.6,
+      32.76,
+      "because"
+    ],
+    [
+      32.76,
+      33.14,
+      "it's"
+    ],
+    [
+      33.14,
+      33.14,
+      "just"
+    ],
+    [
+      33.14,
+      33.14,
+      "like,"
+    ],
+    [
+      33.14,
+      33.72,
+      "like,"
+    ],
+    [
+      33.92,
+      34.28,
+      "broken"
+    ],
+    [
+      34.28,
+      34.52,
+      "on"
+    ],
+    [
+      34.52,
+      34.66,
+      "the,"
+    ],
+    [
+      37.63,
+      38.01,
+      "the"
+    ],
+    [
+      38.01,
+      38.21,
+      "wheels,"
+    ],
+    [
+      38.41,
+      38.51,
+      "c"
+    ],
+    [
+      38.51,
+      38.51,
+      "-"
+    ],
+    [
+      38.51,
+      39.39,
+      "What's"
+    ],
+    [
+      40.76,
+      40.86,
+      "up,"
+    ],
+    [
+      40.96,
+      41.16,
+      "baby?"
+    ],
+    [
+      41.62,
+      42.06,
+      "Moves!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795338518,
+  "meta": null
+}

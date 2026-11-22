@@ -1,0 +1,178 @@
+{
+  "id": "kick-xqc-01a200d7-e698-7c70-b0da-44f46b0c8fec-25770",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a200d7-e698-7c70-b0da-44f46b0c8fec#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a200d7-e698-7c70-b0da-44f46b0c8fec",
+  "vod_title": "🫂 DROPS 🫂 60 FPS 🫂 GTA 6 🫂 FINISHING GAME IN ONE GO 🫂 LOCK IT IN 🫂 YAY 🫂 THE BEST PLAYER 🫂 OF ALL TIME 🫂 IS HERE 🫂",
+  "game": "GTA 6",
+  "start": 25736.19,
+  "end": 25781.12,
+  "peak": 25770,
+  "score": 2.05,
+  "language": "en",
+  "transcript": "I can't drive it anymore, it's just a bug that... It's probably like demanding itself because it's a bug that's broken on the... The wheels cooked! What's up, baby? Moves! Bro,",
+  "words": [
+    [
+      0.15,
+      0.59,
+      "I"
+    ],
+    [
+      13.91,
+      13.97,
+      "can't"
+    ],
+    [
+      13.97,
+      14.05,
+      "drive"
+    ],
+    [
+      14.05,
+      14.17,
+      "it"
+    ],
+    [
+      14.17,
+      14.37,
+      "anymore,"
+    ],
+    [
+      14.49,
+      14.73,
+      "it's"
+    ],
+    [
+      14.73,
+      14.83,
+      "just"
+    ],
+    [
+      14.83,
+      15.01,
+      "a"
+    ],
+    [
+      15.01,
+      15.11,
+      "bug"
+    ],
+    [
+      15.11,
+      15.53,
+      "that..."
+    ],
+    [
+      15.53,
+      15.95,
+      "It's"
+    ],
+    [
+      33.35,
+      33.45,
+      "probably"
+    ],
+    [
+      33.45,
+      33.61,
+      "like"
+    ],
+    [
+      33.61,
+      33.87,
+      "demanding"
+    ],
+    [
+      33.87,
+      34.15,
+      "itself"
+    ],
+    [
+      34.15,
+      34.31,
+      "because"
+    ],
+    [
+      34.31,
+      34.47,
+      "it's"
+    ],
+    [
+      34.47,
+      34.53,
+      "a"
+    ],
+    [
+      34.53,
+      35.01,
+      "bug"
+    ],
+    [
+      35.01,
+      35.41,
+      "that's"
+    ],
+    [
+      35.41,
+      35.83,
+      "broken"
+    ],
+    [
+      35.83,
+      36.07,
+      "on"
+    ],
+    [
+      36.07,
+      36.29,
+      "the..."
+    ],
+    [
+      39.34,
+      39.58,
+      "The"
+    ],
+    [
+      39.58,
+      39.76,
+      "wheels"
+    ],
+    [
+      39.76,
+      40.08,
+      "cooked!"
+    ],
+    [
+      41.97,
+      42.31,
+      "What's"
+    ],
+    [
+      42.31,
+      42.43,
+      "up,"
+    ],
+    [
+      42.51,
+      42.71,
+      "baby?"
+    ],
+    [
+      43.17,
+      43.61,
+      "Moves!"
+    ],
+    [
+      44.19,
+      44.63,
+      "Bro,"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795339140,
+  "meta": null
+}
