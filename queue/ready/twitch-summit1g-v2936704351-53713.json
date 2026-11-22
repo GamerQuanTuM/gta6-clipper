@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2936704351-53713",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -184,5 +184,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795374551,
-  "meta": null
+  "meta": {
+    "hook": "WE'RE DEAD... WE'RE ALIVE SOMEHOW",
+    "title": "summit1g survives GTA 6 by a miracle 😭 #gta6 #shorts",
+    "description": "summit1g thinks it's over in GTA 6, then somehow lives and celebrates 💀\n\nHave you ever escaped something this close? 👇\n\n#gta6 #gtavi #summit1g #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "summit1g",
+      "summit1g gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "summit1g thinks he's dead in GTA 6... then lives 😭 Ever had an escape this close? 👇\n\n🎥 summit1g (twitch.tv/summit1g)\n\n#gta6 #gtavi #summit1g #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

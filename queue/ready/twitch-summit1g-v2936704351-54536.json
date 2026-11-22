@@ -1,6 +1,6 @@
 {
   "id": "twitch-summit1g-v2936704351-54536",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "summit1g",
   "streamer_name": "summit1g",
@@ -314,5 +314,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795374560,
-  "meta": null
+  "meta": {
+    "hook": "WHAT IS GOING ON IN HERE",
+    "title": "summit1g can't believe what he sees in GTA 6 🤯 #gta6 #shorts",
+    "description": "summit1g completely loses it over this scene in GTA 6 🤯\n\nWhat would you do if you saw this? 👇\n\n#gta6 #gtavi #summit1g #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "summit1g",
+      "summit1g gta 6",
+      "gta 6 reaction",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "summit1g can't believe what he's seeing in GTA 6 🤯 What would you do? 👇\n\n🎥 summit1g (twitch.tv/summit1g)\n\n#gta6 #gtavi #summit1g #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

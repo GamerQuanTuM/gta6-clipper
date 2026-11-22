@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2936518555-73791",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -194,5 +194,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795375083,
-  "meta": null
+  "meta": null,
+  "reject_reason": "talking about a hot room, not about the game"
 }
