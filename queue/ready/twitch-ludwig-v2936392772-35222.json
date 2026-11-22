@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-35222",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -334,5 +334,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795324155,
-  "meta": null
+  "meta": {
+    "hook": "THEY'RE FILMING A MUSIC VIDEO WITH HIS CAR",
+    "title": "Ludwig spots a music video shoot using a familiar car in GTA 6 #shorts",
+    "description": "Ludwig runs into a music video shoot in GTA 6 and recognises the car 👀\n\nWould you post that video knowing everyone will notice? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "ludwig",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 roleplay",
+      "streamer moments",
+      "shorts",
+      "ludwig gta 6 non lethal"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig spots a GTA 6 music video shoot using a very familiar car 👀 Would you post it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

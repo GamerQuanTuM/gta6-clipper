@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2936814907-13254",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -129,5 +129,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795324226,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Unclear, fragmentary transcript; no identifiable moment."
 }

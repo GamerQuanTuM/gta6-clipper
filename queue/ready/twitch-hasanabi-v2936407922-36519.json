@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2936407922-36519",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -614,5 +614,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795324470,
-  "meta": null
+  "meta": null,
+  "reject_reason": "In-game music/lyrics and a donation-goal read; no real moment."
 }

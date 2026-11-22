@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2936407922-35675",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -484,5 +484,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795324455,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game NPC dialogue (not a live reaction), plus explicit lines."
 }
