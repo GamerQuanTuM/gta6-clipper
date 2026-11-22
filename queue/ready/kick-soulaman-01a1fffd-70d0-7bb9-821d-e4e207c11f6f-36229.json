@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-36229",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -454,5 +454,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795335574,
-  "meta": null
+  "meta": null,
+  "reject_reason": "garbled/unintelligible audio, nothing clear happening"
 }
