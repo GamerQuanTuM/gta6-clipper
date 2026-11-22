@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2936392772-15424",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -389,5 +389,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795302634,
-  "meta": null
+  "meta": {
+    "hook": "$5,000 JUST TO JOIN?!",
+    "title": "Ludwig is shocked by the $5,000 initiation fee in GTA 6 😭 #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run hits a very expensive door 💀\n\nWould you pay $5,000 to get in? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 non lethal run",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig can't believe the $5,000 initiation fee in GTA 6 😭 Would you pay it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
