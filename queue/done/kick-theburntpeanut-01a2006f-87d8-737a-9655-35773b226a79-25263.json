@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-25263",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -15,109 +15,12 @@
   "score": 1.94,
   "language": "en",
   "transcript": "Here it is! Here it is boys! Now let's head on over! But before that, let's take a pee!",
-  "words": [
-    [
-      0.15,
-      0.91,
-      "Here"
-    ],
-    [
-      0.91,
-      1.19,
-      "it"
-    ],
-    [
-      1.19,
-      1.79,
-      "is!"
-    ],
-    [
-      3.51,
-      4.23,
-      "Here"
-    ],
-    [
-      4.23,
-      4.69,
-      "it"
-    ],
-    [
-      4.69,
-      5.03,
-      "is"
-    ],
-    [
-      5.03,
-      5.49,
-      "boys!"
-    ],
-    [
-      9.93,
-      10.23,
-      "Now"
-    ],
-    [
-      10.23,
-      10.45,
-      "let's"
-    ],
-    [
-      10.45,
-      10.55,
-      "head"
-    ],
-    [
-      10.55,
-      10.69,
-      "on"
-    ],
-    [
-      10.69,
-      11.05,
-      "over!"
-    ],
-    [
-      13.13,
-      13.31,
-      "But"
-    ],
-    [
-      13.31,
-      13.67,
-      "before"
-    ],
-    [
-      13.67,
-      14.03,
-      "that,"
-    ],
-    [
-      14.59,
-      15.03,
-      "let's"
-    ],
-    [
-      15.03,
-      15.25,
-      "take"
-    ],
-    [
-      15.25,
-      15.45,
-      "a"
-    ],
-    [
-      15.45,
-      15.79,
-      "pee!"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795332009,
   "meta": {
     "hook": "HERE IT IS BOYS",
     "title": "TheBurntPeanut's GTA 6 Day 4 moment 😂 #gta6 #shorts",
-    "description": "TheBurntPeanut on Day 4 of GTA 6: \"Here it is boys!\" and then a very quick pit stop 😂\n\nWhat's your weirdest GTA 6 moment so far? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\nTheBurntPeanut on Day 4 of GTA 6: \"Here it is boys!\" and then a very quick pit stop 😂\n\nWhat's your weirdest GTA 6 moment so far? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -136,5 +39,7 @@
     ],
     "ig_caption": "\"Here it is boys!\" GTA 6 Day 4 with TheBurntPeanut 😂 What's your funniest GTA 6 moment? 👇\n\n🎥 TheBurntPeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 49.6,
+  "rendered_unix": 1795334961
 }
