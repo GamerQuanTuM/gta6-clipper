@@ -1,0 +1,118 @@
+{
+  "id": "kick-theburntpeanut-01a2006f-87d8-737a-9655-35773b226a79-25263",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "theburntpeanut",
+  "streamer_name": "theburntpeanut",
+  "channel_url": "https://kick.com/theburntpeanut",
+  "vod_url": "https://kick.com/theburntpeanut/videos/01a2006f-87d8-737a-9655-35773b226a79#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a2006f-87d8-737a-9655-35773b226a79",
+  "vod_title": "GTA 6 | DAY 4 | BIGFOOT, ALIENS & BUGATTIS | WE RIDE FOR RANDY | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 25228.43,
+  "end": 25276,
+  "peak": 25263,
+  "score": 1.94,
+  "language": "en",
+  "transcript": "Here it is! Here it is boys! Now let's head on over! But before that, let's take a pee!",
+  "words": [
+    [
+      0.15,
+      0.91,
+      "Here"
+    ],
+    [
+      0.91,
+      1.19,
+      "it"
+    ],
+    [
+      1.19,
+      1.79,
+      "is!"
+    ],
+    [
+      3.51,
+      4.23,
+      "Here"
+    ],
+    [
+      4.23,
+      4.69,
+      "it"
+    ],
+    [
+      4.69,
+      5.03,
+      "is"
+    ],
+    [
+      5.03,
+      5.49,
+      "boys!"
+    ],
+    [
+      9.93,
+      10.23,
+      "Now"
+    ],
+    [
+      10.23,
+      10.45,
+      "let's"
+    ],
+    [
+      10.45,
+      10.55,
+      "head"
+    ],
+    [
+      10.55,
+      10.69,
+      "on"
+    ],
+    [
+      10.69,
+      11.05,
+      "over!"
+    ],
+    [
+      13.13,
+      13.31,
+      "But"
+    ],
+    [
+      13.31,
+      13.67,
+      "before"
+    ],
+    [
+      13.67,
+      14.03,
+      "that,"
+    ],
+    [
+      14.59,
+      15.03,
+      "let's"
+    ],
+    [
+      15.03,
+      15.25,
+      "take"
+    ],
+    [
+      15.25,
+      15.45,
+      "a"
+    ],
+    [
+      15.45,
+      15.79,
+      "pee!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795332009,
+  "meta": null
+}
