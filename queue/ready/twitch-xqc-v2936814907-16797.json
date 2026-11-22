@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2936814907-16797",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -219,5 +219,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795327793,
-  "meta": null
+  "meta": {
+    "hook": "XQC LOSES IT ON GTA 6 TRAFFIC",
+    "title": "xQc cannot stand GTA 6 traffic 😭 #gta6 #shorts",
+    "description": "xQc spots something strange on the road in GTA 6 and then the traffic pushes him over the edge 💀\n\nWho gets the most road rage in GTA 6? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "xqc",
+      "xqc gta 6",
+      "gta 6 funny moments",
+      "gta 6 traffic",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc vs GTA 6 traffic is never going to end well 💀 Who gets the most road rage in GTA 6? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

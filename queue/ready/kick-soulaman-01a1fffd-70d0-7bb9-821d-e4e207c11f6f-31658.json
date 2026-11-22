@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a1fffd-70d0-7bb9-821d-e4e207c11f6f-31658",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -354,5 +354,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795328358,
-  "meta": null
+  "meta": null,
+  "reject_reason": "stream intro/plan talk, no reaction"
 }

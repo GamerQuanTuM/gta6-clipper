@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a200d7-e698-7c70-b0da-44f46b0c8fec-16436",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -339,5 +339,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795328571,
-  "meta": null
+  "meta": null,
+  "reject_reason": "rambling about car shopping, no clear moment"
 }
