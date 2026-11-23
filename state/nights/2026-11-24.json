@@ -61,5 +61,126 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-24-02-8bitheadflicker"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-8927",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "CAN YOU TAKE OUR PICTURE",
+      "title": "Ludwig can't believe what just happened in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run takes a chaotic turn 💀\n\nWould you have done the same? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "gta 6 funny moments",
+        "gta 6 non lethal",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Ludwig's non-lethal GTA 6 run gets chaotic 💀 Would you have done it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.2,
+    "release": "2026-11-24-03-ludwig"
+  },
+  {
+    "id": "twitch-jynxzi-v2938716221-426",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "NOT A SINGLE CUTSCENE CLIP ONLINE",
+      "title": "Jynxzi on why every viral GTA 6 clip is gameplay, not cutscenes #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi breaks down the wildest GTA 6 clips taking over Twitter and TikTok 🔥\n\nWhat's the craziest GTA 6 clip you've seen? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "gta 6 viral clips",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Jynxzi says every viral GTA 6 clip is pure gameplay, not a single cutscene 🔥 Which clip is the worst one? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.7,
+    "release": "2026-11-24-04-jynxzi"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-9113",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "HE PICKS KG OVER RAUL IN GTA 6",
+      "title": "Ludwig explains why he'd side with KG over Raul in GTA 6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig is convinced Raul will turn on him one day in GTA 6 🧠\n\nKG or Raul, who do you trust? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "gta 6 kg",
+        "gta 6 raul",
+        "gta 6 story",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Ludwig is sure Raul will turn on him in GTA 6 and he'd rather ride with KG 🧠 Who do you trust? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.9,
+    "release": "2026-11-24-05-ludwig"
+  },
+  {
+    "id": "twitch-jynxzi-v2938716221-194",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "HE JUST WANTED TO PET THE DOG",
+      "title": "Jynxzi tries to pet a dog in GTA 6 and ends up ranting 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi tries to pet a dog in GTA 6, then goes off on how real the game feels 🐕\n\nWould you pet the dog or kick it? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "gta 6 funny moments",
+        "gta 6 dog",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Jynxzi just wants to pet the dog in GTA 6 and it spirals 😭 Do you pet the dogs too? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.4,
+    "release": "2026-11-24-06-jynxzi"
   }
 ]

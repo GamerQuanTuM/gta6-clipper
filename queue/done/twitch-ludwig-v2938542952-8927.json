@@ -1,0 +1,44 @@
+{
+  "id": "twitch-ludwig-v2938542952-8927",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-23 21:08",
+  "game": "GTA 6",
+  "start": 8895.82,
+  "end": 8940,
+  "peak": 8927,
+  "score": 1.85,
+  "language": "en",
+  "transcript": "Hey, hey juice just give me a second. Let me Okay, let's go that was bees by the way. That was a aura excuse me. Can you take our picture? What is wrong with him that was crazy I'm gonna do that next man that comes up for a picture I would do that next man that comes over picture to GT6 reference",
+  "chat_sample": [],
+  "created_unix": 1795468184,
+  "meta": {
+    "hook": "CAN YOU TAKE OUR PICTURE",
+    "title": "Ludwig can't believe what just happened in GTA 6 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run takes a chaotic turn 💀\n\nWould you have done the same? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 non lethal",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's non-lethal GTA 6 run gets chaotic 💀 Would you have done it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 46.2,
+  "rendered_unix": 1795471926
+}

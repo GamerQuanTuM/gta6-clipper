@@ -1,0 +1,44 @@
+{
+  "id": "twitch-jynxzi-v2938716221-426",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2938716221",
+  "vod_id": "v2938716221",
+  "vod_title": "Highlight: [684/730] ♟️ JYNXZI vs GOTHAMCHESS @ 4:30 ET ♟️ GTA 6 DAY 4 ♟️",
+  "game": "GTA 6",
+  "start": 391.31,
+  "end": 439,
+  "peak": 426,
+  "score": 1.87,
+  "language": "en",
+  "transcript": "And like, I think the best part about all this is that there's literally not a single clip from a cut scene. Like if you scroll Twitter or tech talk within five swipes, you're going to see a Nick a 30 clip and not a single one is of a single cut scene. It's literally just this. No, actually, you know what? It's not. Yeah, I saw I saw one. My god, Joe's in here. Like running the motorcycle back wheel over a girl's head. But it started with that's the worst clip. No, there's that one in one other one. And I'm not going to say it because I think the video is going to get to it. But it has to do with dog Island. If you know, you know, bro, that clips the worst one.",
+  "chat_sample": [],
+  "created_unix": 1795468223,
+  "meta": {
+    "hook": "NOT A SINGLE CUTSCENE CLIP ONLINE",
+    "title": "Jynxzi on why every viral GTA 6 clip is gameplay, not cutscenes #shorts",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi breaks down the wildest GTA 6 clips taking over Twitter and TikTok 🔥\n\nWhat's the craziest GTA 6 clip you've seen? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 viral clips",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi says every viral GTA 6 clip is pure gameplay, not a single cutscene 🔥 Which clip is the worst one? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.7,
+  "rendered_unix": 1795472019
+}
