@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-30379",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -334,5 +334,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795407090,
-  "meta": null
+  "meta": {
+    "hook": "IS THE GTA 6 GPS LYING TO YOU",
+    "title": "HasanAbi on why the GTA 6 GPS picks the legal route #shorts",
+    "description": "HasanAbi debates the GTA 6 GPS: it shows the legal route, not the fastest one 🗺️\n\nDo you follow the GPS or ignore it? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "hasanabi",
+      "hasan gta 6",
+      "gta 6 gps",
+      "gta 6 vice city",
+      "gta 6 tips",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi says the GTA 6 GPS shows the legal route, not the fastest one 🗺️ Do you trust it? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

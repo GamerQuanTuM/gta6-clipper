@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-30114",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -104,5 +104,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795407084,
-  "meta": null
+  "meta": {
+    "hook": "HASAN IS STUCK IN GTA 6",
+    "title": "HasanAbi gets stuck in GTA 6 Vice City and snaps 😭 #shorts",
+    "description": "HasanAbi can't figure out what's holding him up in GTA 6 💀\n\nHas GTA 6 ever trapped you like this? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "hasanabi",
+      "hasan gta 6",
+      "gta 6 vice city",
+      "gta 6 funny moments",
+      "gta 6 stuck",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi gets stuck in GTA 6 Vice City and loses it 💀 Has this happened to you? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

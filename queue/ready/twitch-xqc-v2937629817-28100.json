@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-28100",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -174,5 +174,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795407001,
-  "meta": null
+  "meta": {
+    "hook": "WHAT WAS THAT CAR BEHIND THERE",
+    "title": "xQc loses it on his team mid-chase in GTA 6 😭 #shorts",
+    "description": "xQc is not happy with how this GTA 6 run is going 💀\n\nWho would you NOT want in your GTA 6 crew? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "xqc",
+      "xqc gta 6",
+      "gta 6 funny moments",
+      "gta 6 streamer reactions",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc is NOT happy with how this GTA 6 run is going 💀 Who's the worst teammate? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
