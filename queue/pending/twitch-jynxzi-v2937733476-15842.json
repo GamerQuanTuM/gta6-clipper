@@ -1,0 +1,213 @@
+{
+  "id": "twitch-jynxzi-v2937733476-15842",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2937733476",
+  "vod_id": "v2937733476",
+  "vod_title": "[683/730] 🔴 KRILLION -> CHESS -> WHEEL OF SIEGE -> GTA 6 LATER 🔴",
+  "game": "GTA 6",
+  "start": 15808.15,
+  "end": 15857.71,
+  "peak": 15842,
+  "score": 1.65,
+  "language": "en",
+  "transcript": "Oh my god, he's like a brand new rapper. Two weeks ago, Peeley. Yeah, that's the worst song I've think I've heard this year to be on. That's the worst song. Maybe I've ever heard in my life.",
+  "words": [
+    [
+      0.15,
+      0.55,
+      "Oh"
+    ],
+    [
+      0.55,
+      0.65,
+      "my"
+    ],
+    [
+      0.65,
+      0.79,
+      "god,"
+    ],
+    [
+      0.81,
+      0.91,
+      "he's"
+    ],
+    [
+      0.91,
+      0.99,
+      "like"
+    ],
+    [
+      0.99,
+      1.09,
+      "a"
+    ],
+    [
+      1.09,
+      1.37,
+      "brand"
+    ],
+    [
+      1.37,
+      1.57,
+      "new"
+    ],
+    [
+      1.57,
+      1.85,
+      "rapper."
+    ],
+    [
+      2.61,
+      3.09,
+      "Two"
+    ],
+    [
+      3.09,
+      3.37,
+      "weeks"
+    ],
+    [
+      3.37,
+      3.69,
+      "ago,"
+    ],
+    [
+      3.87,
+      4.31,
+      "Peeley."
+    ],
+    [
+      43.52,
+      43.88,
+      "Yeah,"
+    ],
+    [
+      43.92,
+      44.16,
+      "that's"
+    ],
+    [
+      44.16,
+      44.26,
+      "the"
+    ],
+    [
+      44.26,
+      44.54,
+      "worst"
+    ],
+    [
+      44.54,
+      45.34,
+      "song"
+    ],
+    [
+      45.34,
+      45.72,
+      "I've"
+    ],
+    [
+      45.72,
+      46.16,
+      "think"
+    ],
+    [
+      46.16,
+      46.38,
+      "I've"
+    ],
+    [
+      46.38,
+      46.52,
+      "heard"
+    ],
+    [
+      46.52,
+      46.74,
+      "this"
+    ],
+    [
+      46.74,
+      46.94,
+      "year"
+    ],
+    [
+      46.94,
+      47.12,
+      "to"
+    ],
+    [
+      47.12,
+      47.28,
+      "be"
+    ],
+    [
+      47.28,
+      47.42,
+      "on."
+    ],
+    [
+      47.44,
+      47.66,
+      "That's"
+    ],
+    [
+      47.66,
+      47.74,
+      "the"
+    ],
+    [
+      47.74,
+      47.88,
+      "worst"
+    ],
+    [
+      47.88,
+      48.12,
+      "song."
+    ],
+    [
+      48.16,
+      48.36,
+      "Maybe"
+    ],
+    [
+      48.36,
+      48.54,
+      "I've"
+    ],
+    [
+      48.54,
+      48.68,
+      "ever"
+    ],
+    [
+      48.68,
+      48.84,
+      "heard"
+    ],
+    [
+      48.84,
+      48.9,
+      "in"
+    ],
+    [
+      48.9,
+      49.0,
+      "my"
+    ],
+    [
+      49.0,
+      49.26,
+      "life."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795421536,
+  "meta": null
+}
