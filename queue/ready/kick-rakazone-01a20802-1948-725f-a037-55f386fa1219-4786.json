@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-4786",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -159,5 +159,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795436309,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE KYA THA, ARM DEKHO",
+    "title": "Rakazone ka GTA 6 me weird moment, ye kya tha 😳 #shorts",
+    "description": "Rakazone ko GTA 6 gameplay me kuch bahut weird dikh gaya 👀\n\nAapko kya lagta hai, glitch tha ya feature? Comment me batao 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "rakazone",
+      "raka zone",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "gta 6 glitch",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Rakazone ne GTA 6 me kuch weird dekha aur reaction dekhne layak hai 😳 Glitch tha ya feature? Comment karo 👇\n\n🎥 Rakazone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #gta6india #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
