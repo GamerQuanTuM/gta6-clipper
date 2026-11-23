@@ -1,0 +1,44 @@
+{
+  "id": "twitch-zackrawrr-v2937570825-25211",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2937570825",
+  "vod_id": "v2937570825",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW STREAM W/KAISE LATER BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247",
+  "game": "GTA 6",
+  "start": 25177.1,
+  "end": 25223.85,
+  "peak": 25211,
+  "score": 1.89,
+  "language": "en",
+  "transcript": "Little more heads up maybe? Flying about a seat above beds, girl! You got a turn like that? Yeah! Damn! Hold them off! Damn! Buries him destroyed! I just, dude, I can just hold it down! Yeah, I can just hold it down! Damn! Where they at?",
+  "chat_sample": [],
+  "created_unix": 1795399865,
+  "meta": {
+    "hook": "HOLD THEM OFF AT ALL COSTS",
+    "title": "zackrawrr holds the line in a wild GTA 6 firefight 🔥 #shorts",
+    "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr is flying through a GTA 6 shootout and refusing to back down 💥\n\nCould you hold this position? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "gta 6 shootout",
+      "gta 6 action",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr holds the line in a chaotic GTA 6 firefight 🔥 Could you hold it down? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 48.8,
+  "rendered_unix": 1795403394
+}

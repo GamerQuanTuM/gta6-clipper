@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937946695-42323",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -15,64 +15,12 @@
   "score": 2.92,
   "language": "en",
   "transcript": "I might take these two out Yeah, holy stealth mission",
-  "words": [
-    [
-      0.15,
-      0.61,
-      "I"
-    ],
-    [
-      0.61,
-      0.71,
-      "might"
-    ],
-    [
-      0.71,
-      0.97,
-      "take"
-    ],
-    [
-      0.97,
-      1.17,
-      "these"
-    ],
-    [
-      1.17,
-      1.41,
-      "two"
-    ],
-    [
-      1.41,
-      1.73,
-      "out"
-    ],
-    [
-      31.09,
-      31.73,
-      "Yeah,"
-    ],
-    [
-      34.9,
-      35.54,
-      "holy"
-    ],
-    [
-      35.54,
-      36.06,
-      "stealth"
-    ],
-    [
-      36.06,
-      36.66,
-      "mission"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795399957,
   "meta": {
     "hook": "HOLY STEALTH MISSION",
     "title": "Lacy goes full stealth in a GTA 6 mission 🤫 #shorts",
-    "description": "Lacy picks off guards in a tense GTA 6 stealth mission 👀\n\nStealth or guns blazing in GTA 6? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy picks off guards in a tense GTA 6 stealth mission 👀\n\nStealth or guns blazing in GTA 6? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -90,5 +38,7 @@
     ],
     "ig_caption": "Lacy tries a quiet takedown in a GTA 6 stealth mission 🤫 Stealth or guns blazing? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 48.2,
+  "rendered_unix": 1795403525
 }
