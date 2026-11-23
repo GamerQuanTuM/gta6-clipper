@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2937570825-17537",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -294,5 +294,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795392846,
-  "meta": null
+  "meta": {
+    "hook": "ZACK IS LOCKED IN NOW",
+    "title": "zackrawrr gets locked in on a tense GTA 6 run 😅 #shorts",
+    "description": "zackrawrr tries to play it smart in GTA 6 and it gets tense fast 😅\n\nHave you ever panicked this hard in a game? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 reaction",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr gets locked in on a tense GTA 6 moment 😅 Ever panicked this hard in a game? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

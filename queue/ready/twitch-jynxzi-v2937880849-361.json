@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2937880849-361",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -569,5 +569,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795392653,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Chess talk and reacting to a chess video, not GTA 6 gameplay"
 }
