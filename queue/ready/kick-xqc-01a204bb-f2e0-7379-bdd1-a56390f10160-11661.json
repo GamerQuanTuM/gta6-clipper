@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-11661",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -259,5 +259,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795389393,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads like scripted in-game dialogue (cutscene), not a live reaction; also duplicate of the Twitch xQc moment at the same timestamp"
 }

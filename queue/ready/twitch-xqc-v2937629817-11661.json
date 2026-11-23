@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-11661",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -139,5 +139,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795388879,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads like scripted in-game dialogue (cutscene), garbled transcript, no clear reaction; duplicate of the Kick moment"
 }

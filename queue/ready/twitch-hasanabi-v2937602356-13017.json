@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-13017",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -574,5 +574,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795389197,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Charity-stream milestone/skit chatter, not about game action"
 }

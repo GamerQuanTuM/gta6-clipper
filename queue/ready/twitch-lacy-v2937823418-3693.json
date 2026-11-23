@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937823418-3693",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -509,5 +509,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795389288,
-  "meta": null
+  "meta": {
+    "hook": "TOOK THE DEAL, HE STILL SHOT HIM",
+    "title": "Lacy takes the deal in GTA 6 and it still goes wrong 😭 #shorts",
+    "description": "Lacy hits the deal button in GTA 6 and can't believe what happens next 💀\n\nWould you have taken the deal or shot him? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "gta 6 reaction",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 ending",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy took the deal in GTA 6 and he STILL got shot 💀 Would you have taken it? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels #gta6reaction",
+    "source": "claude"
+  }
 }

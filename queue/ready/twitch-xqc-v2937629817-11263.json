@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-11263",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -74,5 +74,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795388884,
-  "meta": null
+  "meta": {
+    "hook": "WHAT A HEIST, WHAT AN EXPLOSION",
+    "title": "xQc reacts to a huge heist explosion in GTA 6 💥 #shorts",
+    "description": "xQc watches a GTA 6 heist go out with a bang 💥\n\nBest GTA 6 heist so far? Tell us 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "gta 6 heist",
+      "gta 6 explosion",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc's GTA 6 heist ends with a massive explosion 💥 Best heist so far? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
