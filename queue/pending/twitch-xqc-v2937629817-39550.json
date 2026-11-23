@@ -1,0 +1,83 @@
+{
+  "id": "twitch-xqc-v2937629817-39550",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛",
+  "game": "GTA 6",
+  "start": 39518,
+  "end": 39563.06,
+  "peak": 39550,
+  "score": 2.0,
+  "language": "en",
+  "transcript": "So where's my jumper? There it is. I'm like mega speed it.",
+  "words": [
+    [
+      8.21,
+      8.69,
+      "So"
+    ],
+    [
+      8.69,
+      8.93,
+      "where's"
+    ],
+    [
+      8.93,
+      9.05,
+      "my"
+    ],
+    [
+      9.05,
+      9.41,
+      "jumper?"
+    ],
+    [
+      16.53,
+      16.69,
+      "There"
+    ],
+    [
+      16.69,
+      16.79,
+      "it"
+    ],
+    [
+      16.79,
+      17.07,
+      "is."
+    ],
+    [
+      43.12,
+      43.6,
+      "I'm"
+    ],
+    [
+      43.6,
+      43.66,
+      "like"
+    ],
+    [
+      43.66,
+      44.16,
+      "mega"
+    ],
+    [
+      44.16,
+      44.52,
+      "speed"
+    ],
+    [
+      44.52,
+      44.76,
+      "it."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795417911,
+  "meta": null
+}

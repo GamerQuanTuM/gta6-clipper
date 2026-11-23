@@ -1,0 +1,98 @@
+{
+  "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-39550",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a204bb-f2e0-7379-bdd1-a56390f10160#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a204bb-f2e0-7379-bdd1-a56390f10160",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛",
+  "game": "GTA 6",
+  "start": 39518,
+  "end": 39563.24,
+  "peak": 39550,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "Where's my jumper? There it is. I want to get to like mega speed it.",
+  "words": [
+    [
+      8.64,
+      9.0,
+      "Where's"
+    ],
+    [
+      9.0,
+      9.1,
+      "my"
+    ],
+    [
+      9.1,
+      9.46,
+      "jumper?"
+    ],
+    [
+      16.56,
+      16.74,
+      "There"
+    ],
+    [
+      16.74,
+      16.84,
+      "it"
+    ],
+    [
+      16.84,
+      17.4,
+      "is."
+    ],
+    [
+      42.82,
+      42.96,
+      "I"
+    ],
+    [
+      42.96,
+      43.08,
+      "want"
+    ],
+    [
+      43.08,
+      43.24,
+      "to"
+    ],
+    [
+      43.24,
+      43.34,
+      "get"
+    ],
+    [
+      43.34,
+      43.46,
+      "to"
+    ],
+    [
+      43.46,
+      43.64,
+      "like"
+    ],
+    [
+      43.64,
+      44.18,
+      "mega"
+    ],
+    [
+      44.18,
+      44.56,
+      "speed"
+    ],
+    [
+      44.56,
+      44.94,
+      "it."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795418156,
+  "meta": null
+}
