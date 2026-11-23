@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a2085c-9170-7348-bbf2-9c8b839dbdc6-25380",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -114,5 +114,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795465023,
-  "meta": null
+  "meta": {
+    "hook": "YE KYA DEKH RAHE HAIN HUM",
+    "title": "8bitheadflicker ka GTA 6 Day 6 walkthrough moment #gta6 #shorts",
+    "description": "8bitheadflicker ke GTA 6 walkthrough ka ye pal dekho 👀\n\nAapko is scene pe kya laga? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "8bitheadflicker",
+      "8bit headflicker",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 walkthrough",
+      "grand theft auto 6",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "8bitheadflicker ka GTA 6 walkthrough me ye pal 👀 Aapko kya laga? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #gta6india #gaming #reels",
+    "source": "claude"
+  }
 }

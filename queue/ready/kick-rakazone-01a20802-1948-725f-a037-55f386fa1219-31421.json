@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-31421",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -314,5 +314,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795465232,
-  "meta": null
+  "meta": null,
+  "reject_reason": "incoherent transcript, no clear moment"
 }

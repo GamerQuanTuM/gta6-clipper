@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-31621",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -149,5 +149,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795465166,
-  "meta": null
+  "meta": {
+    "hook": "70 PERCENT GAME HO GAYA BHAI",
+    "title": "RakaZone ka GTA 6 70% complete reaction 😭 #gta6 #shorts",
+    "description": "RakaZone ko GTA 6 ka 70% complete dekh ke jhatka lag gaya 😭\n\nAapko GTA 6 kitne percent complete hua? Comment karo 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "rakazone",
+      "raka zone",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 walkthrough",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "RakaZone ko pata chala GTA 6 70% complete ho gaya aur reaction dekho 😭 Aapka kitna percent hua? 👇\n\n🎥 RakaZone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #gta6india #gaming #reels",
+    "source": "claude"
+  }
 }
