@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-23817",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -69,5 +69,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795457529,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled/near-empty Hindi transcript (10 words), no clear live reaction; likely game audio or watchparty noise."
 }
