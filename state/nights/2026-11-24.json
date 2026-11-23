@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-31621",
+    "streamer": "rakazone",
+    "streamer_name": "rakazone",
+    "channel_url": "https://kick.com/rakazone",
+    "meta": {
+      "hook": "70 PERCENT GAME HO GAYA BHAI",
+      "title": "RakaZone ka GTA 6 70% complete reaction 😭 #gta6 #shorts",
+      "description": "🎥 Clip from rakazone's live stream: https://kick.com/rakazone\n\nRakaZone ko GTA 6 ka 70% complete dekh ke jhatka lag gaya 😭\n\nAapko GTA 6 kitne percent complete hua? Comment karo 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "rakazone",
+        "raka zone",
+        "gta 6 hindi",
+        "gta 6 india",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 walkthrough",
+        "indian streamer",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "RakaZone ko pata chala GTA 6 70% complete ho gaya aur reaction dekho 😭 Aapka kitna percent hua? 👇\n\n🎥 RakaZone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #gta6india #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 48.0,
+    "release": "2026-11-24-01-rakazone"
+  },
+  {
+    "id": "kick-8bitheadflicker-01a2085c-9170-7348-bbf2-9c8b839dbdc6-25380",
+    "streamer": "8bitheadflicker",
+    "streamer_name": "8bitheadflicker",
+    "channel_url": "https://kick.com/8bitheadflicker",
+    "meta": {
+      "hook": "YE KYA DEKH RAHE HAIN HUM",
+      "title": "8bitheadflicker ka GTA 6 Day 6 walkthrough moment #gta6 #shorts",
+      "description": "🎥 Clip from 8bitheadflicker's live stream: https://kick.com/8bitheadflicker\n\n8bitheadflicker ke GTA 6 walkthrough ka ye pal dekho 👀\n\nAapko is scene pe kya laga? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "8bitheadflicker",
+        "8bit headflicker",
+        "gta 6 hindi",
+        "gta 6 india",
+        "gta 6 walkthrough",
+        "grand theft auto 6",
+        "indian streamer",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "8bitheadflicker ka GTA 6 walkthrough me ye pal 👀 Aapko kya laga? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #gta6india #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-24-02-8bitheadflicker"
+  }
+]

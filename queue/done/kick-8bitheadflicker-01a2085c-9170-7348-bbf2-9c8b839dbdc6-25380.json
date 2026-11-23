@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a2085c-9170-7348-bbf2-9c8b839dbdc6-25380",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -15,109 +15,12 @@
   "score": 3.02,
   "language": "hi",
   "transcript": "एज बचई है बस लाश्त के वोलें जी शेमें इसे में फैने है डिनननननननन। यह क्या देख रहते हैं..",
-  "words": [
-    [
-      26.09,
-      26.09,
-      "एज"
-    ],
-    [
-      26.09,
-      26.57,
-      "बचई"
-    ],
-    [
-      26.57,
-      26.69,
-      "है"
-    ],
-    [
-      26.69,
-      26.93,
-      "बस"
-    ],
-    [
-      28.07,
-      28.55,
-      "लाश्त"
-    ],
-    [
-      28.55,
-      28.63,
-      "के"
-    ],
-    [
-      28.63,
-      29.01,
-      "वोलें"
-    ],
-    [
-      29.01,
-      29.17,
-      "जी"
-    ],
-    [
-      29.17,
-      29.55,
-      "शेमें"
-    ],
-    [
-      29.55,
-      29.61,
-      "इसे"
-    ],
-    [
-      29.61,
-      29.61,
-      "में"
-    ],
-    [
-      29.61,
-      29.83,
-      "फैने"
-    ],
-    [
-      29.83,
-      29.99,
-      "है"
-    ],
-    [
-      29.99,
-      30.99,
-      "डिनननननननन।"
-    ],
-    [
-      33.39,
-      33.87,
-      "यह"
-    ],
-    [
-      39.56,
-      40.04,
-      "क्या"
-    ],
-    [
-      40.04,
-      40.24,
-      "देख"
-    ],
-    [
-      40.24,
-      40.42,
-      "रहते"
-    ],
-    [
-      40.42,
-      40.84,
-      "हैं.."
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795465023,
   "meta": {
     "hook": "YE KYA DEKH RAHE HAIN HUM",
     "title": "8bitheadflicker ka GTA 6 Day 6 walkthrough moment #gta6 #shorts",
-    "description": "8bitheadflicker ke GTA 6 walkthrough ka ye pal dekho 👀\n\nAapko is scene pe kya laga? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts",
+    "description": "🎥 Clip from 8bitheadflicker's live stream: https://kick.com/8bitheadflicker\n\n8bitheadflicker ke GTA 6 walkthrough ka ye pal dekho 👀\n\nAapko is scene pe kya laga? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -136,5 +39,7 @@
     ],
     "ig_caption": "8bitheadflicker ka GTA 6 walkthrough me ye pal 👀 Aapko kya laga? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #gta6india #gaming #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795469657
 }
