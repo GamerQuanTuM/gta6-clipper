@@ -1,0 +1,63 @@
+{
+  "id": "twitch-xqc-v2937629817-17900",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-23 01:07",
+  "game": "GTA 6",
+  "start": 17866.55,
+  "end": 17913,
+  "peak": 17900,
+  "score": 1.65,
+  "language": "en",
+  "transcript": "Shot the nuke The guys are so annoying",
+  "words": [
+    [
+      0.15,
+      0.71,
+      "Shot"
+    ],
+    [
+      0.71,
+      0.87,
+      "the"
+    ],
+    [
+      0.87,
+      1.43,
+      "nuke"
+    ],
+    [
+      14.58,
+      15.68,
+      "The"
+    ],
+    [
+      15.68,
+      20.86,
+      "guys"
+    ],
+    [
+      35.45,
+      35.69,
+      "are"
+    ],
+    [
+      35.69,
+      36.07,
+      "so"
+    ],
+    [
+      36.07,
+      36.43,
+      "annoying"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795396064,
+  "meta": null
+}

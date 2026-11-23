@@ -1,0 +1,68 @@
+{
+  "id": "twitch-zackrawrr-v2937570825-22000",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2937570825",
+  "vod_id": "v2937570825",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW STREAM W/KAISE LATER BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247 2026-11-23 01:08",
+  "game": "GTA 6",
+  "start": 21968,
+  "end": 22012.5,
+  "peak": 22000,
+  "score": 2.73,
+  "language": "en",
+  "transcript": "How'd I let that happen? Put this right now.",
+  "words": [
+    [
+      33.48,
+      33.68,
+      "How'd"
+    ],
+    [
+      33.68,
+      33.74,
+      "I"
+    ],
+    [
+      33.74,
+      33.9,
+      "let"
+    ],
+    [
+      33.9,
+      34.04,
+      "that"
+    ],
+    [
+      34.04,
+      34.38,
+      "happen?"
+    ],
+    [
+      34.82,
+      35.02,
+      "Put"
+    ],
+    [
+      43.76,
+      43.9,
+      "this"
+    ],
+    [
+      43.9,
+      44.04,
+      "right"
+    ],
+    [
+      44.04,
+      44.2,
+      "now."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795396158,
+  "meta": null
+}

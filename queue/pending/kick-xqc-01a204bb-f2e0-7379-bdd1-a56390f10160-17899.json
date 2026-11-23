@@ -1,0 +1,63 @@
+{
+  "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-17899",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "xqc",
+  "streamer_name": "xqc",
+  "channel_url": "https://kick.com/xqc",
+  "vod_url": "https://kick.com/xqc/videos/01a204bb-f2e0-7379-bdd1-a56390f10160#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a204bb-f2e0-7379-bdd1-a56390f10160",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛",
+  "game": "GTA 6",
+  "start": 17864.99,
+  "end": 17912,
+  "peak": 17899,
+  "score": 1.67,
+  "language": "en",
+  "transcript": "shot the nuke. This guy is so annoying.",
+  "words": [
+    [
+      0.15,
+      0.55,
+      "shot"
+    ],
+    [
+      0.55,
+      0.71,
+      "the"
+    ],
+    [
+      0.71,
+      1.21,
+      "nuke."
+    ],
+    [
+      18.89,
+      19.79,
+      "This"
+    ],
+    [
+      34.38,
+      35.28,
+      "guy"
+    ],
+    [
+      35.28,
+      35.42,
+      "is"
+    ],
+    [
+      35.42,
+      35.92,
+      "so"
+    ],
+    [
+      35.92,
+      36.22,
+      "annoying."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795396439,
+  "meta": null
+}
