@@ -1,0 +1,45 @@
+{
+  "id": "twitch-lacy-v2937823418-3693",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2937823418",
+  "vod_id": "v2937823418",
+  "vod_title": "Highlight: 🌴️ GTA 6 MARATHON 🍹 THE FINALE 🦩️ BEATING IT RIGHT NOW 🍹️ GIVEAWAYS 🌴️  !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 3661.5,
+  "end": 3705.68,
+  "peak": 3693,
+  "score": 1.81,
+  "language": "en",
+  "transcript": "Bro, like, I feel like if we shoot him we have no way out. Like, we literally just have no way out. We're just gonna be running the rest of our lives, at least in this way we have a chance if I take the deal. A deal where I'm protected by the police, get our son back. You hearing this? Yup. Oh. I took it! I took it! You need anything to save himself. I took it! Oh, God, I pressed take! What? I took it! I took it! I took it and he still shot him!",
+  "chat_sample": [],
+  "created_unix": 1795389288,
+  "meta": {
+    "hook": "TOOK THE DEAL, HE STILL SHOT HIM",
+    "title": "Lacy takes the deal in GTA 6 and it still goes wrong 😭 #shorts",
+    "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy hits the deal button in GTA 6 and can't believe what happens next 💀\n\nWould you have taken the deal or shot him? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "gta 6 reaction",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 ending",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy took the deal in GTA 6 and he STILL got shot 💀 Would you have taken it? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels #gta6reaction",
+    "source": "claude"
+  },
+  "duration_s": 46.2,
+  "rendered_unix": 1795392554
+}

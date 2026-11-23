@@ -340,5 +340,67 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-23-11-hasanabi"
+  },
+  {
+    "id": "twitch-lacy-v2937823418-3693",
+    "streamer": "lacy",
+    "streamer_name": "Lacy",
+    "channel_url": "https://www.twitch.tv/lacy",
+    "meta": {
+      "hook": "TOOK THE DEAL, HE STILL SHOT HIM",
+      "title": "Lacy takes the deal in GTA 6 and it still goes wrong 😭 #shorts",
+      "description": "🎥 Clip from Lacy's live stream: https://www.twitch.tv/lacy\n\nLacy hits the deal button in GTA 6 and can't believe what happens next 💀\n\nWould you have taken the deal or shot him? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "lacy",
+        "gta 6 reaction",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "gta 6 ending",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Lacy took the deal in GTA 6 and he STILL got shot 💀 Would you have taken it? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels #gta6reaction",
+      "source": "claude"
+    },
+    "duration_s": 46.2,
+    "release": "2026-11-23-12-lacy"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-11263",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "WHAT A HEIST, WHAT AN EXPLOSION",
+      "title": "xQc reacts to a huge heist explosion in GTA 6 💥 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc watches a GTA 6 heist go out with a bang 💥\n\nBest GTA 6 heist so far? Tell us 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 heist",
+        "gta 6 explosion",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc's GTA 6 heist ends with a massive explosion 💥 Best heist so far? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.1,
+    "release": "2026-11-23-13-xqc"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-11263",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -15,69 +15,12 @@
   "score": 1.62,
   "language": "en",
   "transcript": "Oh, what a heist. What an explosion. Son of a bitch.",
-  "words": [
-    [
-      0.15,
-      0.79,
-      "Oh,"
-    ],
-    [
-      18.2,
-      18.48,
-      "what"
-    ],
-    [
-      18.48,
-      18.56,
-      "a"
-    ],
-    [
-      18.56,
-      18.88,
-      "heist."
-    ],
-    [
-      19.24,
-      19.56,
-      "What"
-    ],
-    [
-      36.01,
-      36.51,
-      "an"
-    ],
-    [
-      36.51,
-      36.51,
-      "explosion."
-    ],
-    [
-      42.25,
-      42.45,
-      "Son"
-    ],
-    [
-      42.45,
-      42.57,
-      "of"
-    ],
-    [
-      42.57,
-      42.57,
-      "a"
-    ],
-    [
-      42.57,
-      42.83,
-      "bitch."
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795388884,
   "meta": {
     "hook": "WHAT A HEIST, WHAT AN EXPLOSION",
     "title": "xQc reacts to a huge heist explosion in GTA 6 💥 #shorts",
-    "description": "xQc watches a GTA 6 heist go out with a bang 💥\n\nBest GTA 6 heist so far? Tell us 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc watches a GTA 6 heist go out with a bang 💥\n\nBest GTA 6 heist so far? Tell us 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -96,5 +39,7 @@
     ],
     "ig_caption": "xQc's GTA 6 heist ends with a massive explosion 💥 Best heist so far? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 45.1,
+  "rendered_unix": 1795392613
 }
