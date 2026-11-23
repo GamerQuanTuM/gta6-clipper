@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-30114",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -15,99 +15,12 @@
   "score": 2.1,
   "language": "en",
   "transcript": "As far as fucking Oh my god, god damn. Why am I stuck on this fucking thing?",
-  "words": [
-    [
-      0.15,
-      0.15,
-      "As"
-    ],
-    [
-      0.15,
-      0.65,
-      "far"
-    ],
-    [
-      0.65,
-      0.81,
-      "as"
-    ],
-    [
-      0.81,
-      1.17,
-      "fucking"
-    ],
-    [
-      28.51,
-      29.23,
-      "Oh"
-    ],
-    [
-      29.23,
-      29.95,
-      "my"
-    ],
-    [
-      29.95,
-      30.37,
-      "god,"
-    ],
-    [
-      33.91,
-      34.93,
-      "god"
-    ],
-    [
-      34.93,
-      35.55,
-      "damn."
-    ],
-    [
-      36.05,
-      36.77,
-      "Why"
-    ],
-    [
-      36.77,
-      36.91,
-      "am"
-    ],
-    [
-      36.91,
-      37.05,
-      "I"
-    ],
-    [
-      37.05,
-      37.33,
-      "stuck"
-    ],
-    [
-      37.33,
-      37.57,
-      "on"
-    ],
-    [
-      37.57,
-      37.75,
-      "this"
-    ],
-    [
-      37.75,
-      38.01,
-      "fucking"
-    ],
-    [
-      38.01,
-      38.35,
-      "thing?"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795407084,
   "meta": {
     "hook": "HASAN IS STUCK IN GTA 6",
     "title": "HasanAbi gets stuck in GTA 6 Vice City and snaps 😭 #shorts",
-    "description": "HasanAbi can't figure out what's holding him up in GTA 6 💀\n\nHas GTA 6 ever trapped you like this? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+    "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi can't figure out what's holding him up in GTA 6 💀\n\nHas GTA 6 ever trapped you like this? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -126,5 +39,7 @@
     ],
     "ig_caption": "HasanAbi gets stuck in GTA 6 Vice City and loses it 💀 Has this happened to you? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 50.9,
+  "rendered_unix": 1795410660
 }

@@ -1,0 +1,45 @@
+{
+  "id": "twitch-hasanabi-v2937602356-30379",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2937602356",
+  "vod_id": "v2937602356",
+  "vod_title": "🚉CH3 GTA6 VICE CITY🚉SUNDAY FUNDAY!🚉NEW CHARITY LVLS🗽MANDY ACTRESS IN THE BUILDING AT 180K!🗽DROPS ON!🗽 2026-11-23 04:10",
+  "game": "GTA 6",
+  "start": 30345.07,
+  "end": 30390.86,
+  "peak": 30379,
+  "score": 1.91,
+  "language": "en",
+  "transcript": "Like I think the GPS shows the legal route I guess it's because most of the time you're asked misses the turns Bro, why is it that I mean? It's funny and all but no I'm right Yes, I do miss turns all the time as well, but most of the time the GPS is not showing you the fastest route at all",
+  "chat_sample": [],
+  "created_unix": 1795407090,
+  "meta": {
+    "hook": "IS THE GTA 6 GPS LYING TO YOU",
+    "title": "HasanAbi on why the GTA 6 GPS picks the legal route #shorts",
+    "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi debates the GTA 6 GPS: it shows the legal route, not the fastest one 🗺️\n\nDo you follow the GPS or ignore it? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "hasanabi",
+      "hasan gta 6",
+      "gta 6 gps",
+      "gta 6 vice city",
+      "gta 6 tips",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi says the GTA 6 GPS shows the legal route, not the fastest one 🗺️ Do you trust it? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.8,
+  "rendered_unix": 1795410849
+}

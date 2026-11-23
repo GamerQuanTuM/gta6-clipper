@@ -716,5 +716,97 @@
     },
     "duration_s": 52.8,
     "release": "2026-11-23-23-hasanabi"
+  },
+  {
+    "id": "twitch-hasanabi-v2937602356-30114",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "HASAN IS STUCK IN GTA 6",
+      "title": "HasanAbi gets stuck in GTA 6 Vice City and snaps 😭 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi can't figure out what's holding him up in GTA 6 💀\n\nHas GTA 6 ever trapped you like this? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "hasanabi",
+        "hasan gta 6",
+        "gta 6 vice city",
+        "gta 6 funny moments",
+        "gta 6 stuck",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi gets stuck in GTA 6 Vice City and loses it 💀 Has this happened to you? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 50.9,
+    "release": "2026-11-23-24-hasanabi"
+  },
+  {
+    "id": "twitch-hasanabi-v2937602356-30379",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "IS THE GTA 6 GPS LYING TO YOU",
+      "title": "HasanAbi on why the GTA 6 GPS picks the legal route #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi debates the GTA 6 GPS: it shows the legal route, not the fastest one 🗺️\n\nDo you follow the GPS or ignore it? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "hasanabi",
+        "hasan gta 6",
+        "gta 6 gps",
+        "gta 6 vice city",
+        "gta 6 tips",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi says the GTA 6 GPS shows the legal route, not the fastest one 🗺️ Do you trust it? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.8,
+    "release": "2026-11-23-25-hasanabi"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-28100",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "WHAT WAS THAT CAR BEHIND THERE",
+      "title": "xQc loses it on his team mid-chase in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc is not happy with how this GTA 6 run is going 💀\n\nWho would you NOT want in your GTA 6 crew? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "xqc",
+        "xqc gta 6",
+        "gta 6 funny moments",
+        "gta 6 streamer reactions",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc is NOT happy with how this GTA 6 run is going 💀 Who's the worst teammate? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.3,
+    "release": "2026-11-23-26-xqc"
   }
 ]
