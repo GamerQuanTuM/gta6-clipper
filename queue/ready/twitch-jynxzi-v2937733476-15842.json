@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2937733476-15842",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -209,5 +209,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795421536,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Off-topic talk about a rapper/song; not gameplay. VOD title shows GTA 6 comes later in the stream, so no game action."
 }

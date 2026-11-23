@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2937733476-17185",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -629,5 +629,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795421531,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Off-topic banter about a collab and a third party's personal drama; no game action (VOD title: GTA 6 comes later), unsafe to caption."
 }
