@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-9927",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -339,5 +339,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795468192,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Dull talk about repair and sell prices, no clear moment"
 }

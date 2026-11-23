@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2938716221-426",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -709,5 +709,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795468223,
-  "meta": null
+  "meta": {
+    "hook": "NOT A SINGLE CUTSCENE CLIP ONLINE",
+    "title": "Jynxzi on why every viral GTA 6 clip is gameplay, not cutscenes #shorts",
+    "description": "Jynxzi breaks down the wildest GTA 6 clips taking over Twitter and TikTok 🔥\n\nWhat's the craziest GTA 6 clip you've seen? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 viral clips",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi says every viral GTA 6 clip is pure gameplay, not a single cutscene 🔥 Which clip is the worst one? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

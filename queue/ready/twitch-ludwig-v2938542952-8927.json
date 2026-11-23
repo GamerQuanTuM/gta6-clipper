@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-8927",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -334,5 +334,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795468184,
-  "meta": null
+  "meta": {
+    "hook": "CAN YOU TAKE OUR PICTURE",
+    "title": "Ludwig can't believe what just happened in GTA 6 😭 #gta6 #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run takes a chaotic turn 💀\n\nWould you have done the same? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 non lethal",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's non-lethal GTA 6 run gets chaotic 💀 Would you have done it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

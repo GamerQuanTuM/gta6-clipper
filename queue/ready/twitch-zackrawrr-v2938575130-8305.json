@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-8305",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -764,5 +764,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795468496,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Streamer drama talk, not about the game"
 }

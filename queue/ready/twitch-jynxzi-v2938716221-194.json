@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2938716221-194",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -644,5 +644,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795468228,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST WANTED TO PET THE DOG",
+    "title": "Jynxzi tries to pet a dog in GTA 6 and ends up ranting 😭 #gta6 #shorts",
+    "description": "Jynxzi tries to pet a dog in GTA 6, then goes off on how real the game feels 🐕\n\nWould you pet the dog or kick it? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 dog",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi just wants to pet the dog in GTA 6 and it spirals 😭 Do you pet the dogs too? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
