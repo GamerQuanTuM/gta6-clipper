@@ -1,0 +1,183 @@
+{
+  "id": "twitch-xqc-v2937629817-16466",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-23 00:10",
+  "game": "GTA 6",
+  "start": 16430.85,
+  "end": 16479,
+  "peak": 16466,
+  "score": 1.63,
+  "language": "en",
+  "transcript": "Hello? There's a snack over there! Oh, there's five stars there! That's a real destruction harborside avenue. Uh -oh. I'm gonna have to do anything here! What? Shooting tires! Oh, block blue.",
+  "words": [
+    [
+      0.15,
+      0.49,
+      "Hello?"
+    ],
+    [
+      0.83,
+      0.83,
+      "There's"
+    ],
+    [
+      0.83,
+      0.83,
+      "a"
+    ],
+    [
+      0.83,
+      0.95,
+      "snack"
+    ],
+    [
+      0.95,
+      1.29,
+      "over"
+    ],
+    [
+      1.29,
+      1.61,
+      "there!"
+    ],
+    [
+      4.99,
+      5.17,
+      "Oh,"
+    ],
+    [
+      5.23,
+      5.37,
+      "there's"
+    ],
+    [
+      5.37,
+      5.49,
+      "five"
+    ],
+    [
+      5.49,
+      5.77,
+      "stars"
+    ],
+    [
+      5.77,
+      6.07,
+      "there!"
+    ],
+    [
+      6.27,
+      6.55,
+      "That's"
+    ],
+    [
+      6.55,
+      6.61,
+      "a"
+    ],
+    [
+      10.41,
+      11.03,
+      "real"
+    ],
+    [
+      11.03,
+      11.57,
+      "destruction"
+    ],
+    [
+      11.57,
+      12.19,
+      "harborside"
+    ],
+    [
+      12.19,
+      12.49,
+      "avenue."
+    ],
+    [
+      13.53,
+      13.79,
+      "Uh"
+    ],
+    [
+      13.79,
+      14.01,
+      "-oh."
+    ],
+    [
+      37.34,
+      37.48,
+      "I'm"
+    ],
+    [
+      37.48,
+      37.54,
+      "gonna"
+    ],
+    [
+      37.54,
+      37.74,
+      "have"
+    ],
+    [
+      37.74,
+      37.82,
+      "to"
+    ],
+    [
+      37.82,
+      37.9,
+      "do"
+    ],
+    [
+      37.9,
+      38.06,
+      "anything"
+    ],
+    [
+      38.06,
+      38.34,
+      "here!"
+    ],
+    [
+      39.12,
+      39.4,
+      "What?"
+    ],
+    [
+      39.84,
+      40.34,
+      "Shooting"
+    ],
+    [
+      40.34,
+      40.76,
+      "tires!"
+    ],
+    [
+      42.2,
+      42.66,
+      "Oh,"
+    ],
+    [
+      42.72,
+      42.94,
+      "block"
+    ],
+    [
+      42.94,
+      43.14,
+      "blue."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795392669,
+  "meta": null
+}
