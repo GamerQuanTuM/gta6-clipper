@@ -1,0 +1,46 @@
+{
+  "id": "twitch-xqc-v2937629817-16466",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-23 00:10",
+  "game": "GTA 6",
+  "start": 16430.85,
+  "end": 16479,
+  "peak": 16466,
+  "score": 1.63,
+  "language": "en",
+  "transcript": "Hello? There's a snack over there! Oh, there's five stars there! That's a real destruction harborside avenue. Uh -oh. I'm gonna have to do anything here! What? Shooting tires! Oh, block blue.",
+  "chat_sample": [],
+  "created_unix": 1795392669,
+  "meta": {
+    "hook": "FIVE STARS AND HE'S PANICKING",
+    "title": "xQc hits five stars in GTA 6 and starts shooting tires 😭 #shorts",
+    "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc gets chased at five stars in GTA 6 and the cop chase gets chaotic fast 🚨\n\nWould you survive five stars on Harborside Avenue? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "xqc gta 6",
+      "gta 6 five stars",
+      "gta 6 cop chase",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc at five stars in GTA 6 is pure chaos 🚨 Would you survive this chase? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.2,
+  "rendered_unix": 1795396128
+}

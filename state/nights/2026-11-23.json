@@ -402,5 +402,68 @@
     },
     "duration_s": 45.1,
     "release": "2026-11-23-13-xqc"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-16466",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "FIVE STARS AND HE'S PANICKING",
+      "title": "xQc hits five stars in GTA 6 and starts shooting tires 😭 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc gets chased at five stars in GTA 6 and the cop chase gets chaotic fast 🚨\n\nWould you survive five stars on Harborside Avenue? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "xqc gta 6",
+        "gta 6 five stars",
+        "gta 6 cop chase",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc at five stars in GTA 6 is pure chaos 🚨 Would you survive this chase? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 50.2,
+    "release": "2026-11-23-14-xqc"
+  },
+  {
+    "id": "twitch-zackrawrr-v2937570825-17537",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "ZACK IS LOCKED IN NOW",
+      "title": "zackrawrr gets locked in on a tense GTA 6 run 😅 #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr tries to play it smart in GTA 6 and it gets tense fast 😅\n\nHave you ever panicked this hard in a game? 👇\n\n#gta6 #gtavi #zackrawrr #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "zack rawrr gta 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "gta 6 reaction",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr gets locked in on a tense GTA 6 moment 😅 Ever panicked this hard in a game? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 48.9,
+    "release": "2026-11-23-15-zackrawrr"
   }
 ]
