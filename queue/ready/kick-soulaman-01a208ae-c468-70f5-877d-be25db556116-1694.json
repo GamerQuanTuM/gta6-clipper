@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-1694",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -144,5 +144,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795447103,
-  "meta": null
+  "meta": {
+    "hook": "DIL JUD GAYA BHAI",
+    "title": "Soulaman ka GTA 6 stream pe full josh 😂 #gta6 #shorts",
+    "description": "Soulaman ka GTA 6 stream pe full josh me reaction 🔥\n\nAisa moment tumhare saath kab hua? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 stream pe full josh 😂 Tumhara sabse funny gaming moment konsa tha? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #reels",
+    "source": "claude"
+  }
 }

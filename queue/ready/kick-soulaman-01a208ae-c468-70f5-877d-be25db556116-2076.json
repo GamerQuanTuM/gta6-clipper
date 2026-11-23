@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-2076",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -309,5 +309,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795447072,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Streamer talking about stream quality/FPS, not a game moment"
 }

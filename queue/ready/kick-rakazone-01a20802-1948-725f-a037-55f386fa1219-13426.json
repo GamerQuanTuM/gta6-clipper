@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-13426",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -239,5 +239,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795446905,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game dialogue (Spider-Man/X-Men lines), not the streamer reacting"
 }
