@@ -1,0 +1,73 @@
+{
+  "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-23817",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "rakazone",
+  "streamer_name": "rakazone",
+  "channel_url": "https://kick.com/rakazone",
+  "vod_url": "https://kick.com/rakazone/videos/01a20802-1948-725f-a037-55f386fa1219#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a20802-1948-725f-a037-55f386fa1219",
+  "vod_title": "4K 60 FPS GTA 6 Gameplay Walkthrough Part 6 (69% Completed) | BIG BOSS WATCHPARTY Done",
+  "game": "GTA 6",
+  "start": 23780.99,
+  "end": 23830,
+  "peak": 23817,
+  "score": 1.96,
+  "language": "hi",
+  "transcript": "वेड़े क्वेरी के रादिगी एक पर लिए पर लिएादी जादीर",
+  "words": [
+    [
+      0.15,
+      1.09,
+      "वेड़े"
+    ],
+    [
+      1.09,
+      1.93,
+      "क्वेरी"
+    ],
+    [
+      1.93,
+      2.01,
+      "के"
+    ],
+    [
+      2.01,
+      2.89,
+      "रादिगी"
+    ],
+    [
+      4.2,
+      4.84,
+      "एक"
+    ],
+    [
+      4.84,
+      5.08,
+      "पर"
+    ],
+    [
+      5.08,
+      5.28,
+      "लिए"
+    ],
+    [
+      5.28,
+      5.46,
+      "पर"
+    ],
+    [
+      5.46,
+      5.66,
+      "लिएादी"
+    ],
+    [
+      5.66,
+      6.84,
+      "जादीर"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795457529,
+  "meta": null
+}
