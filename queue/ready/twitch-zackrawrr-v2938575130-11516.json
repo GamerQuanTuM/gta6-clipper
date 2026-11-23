@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-11516",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -639,5 +639,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795471909,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Political commentary/reaction video, not about the game"
 }
