@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-39976",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -189,5 +189,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795418165,
-  "meta": null
+  "meta": {
+    "hook": "HE DROVE IN THE WRONG LANE",
+    "title": "xQc finds out the wrong lane is a bad idea in GTA 6 #shorts",
+    "description": "xQc talks himself through the traffic rules in GTA 6 and realises he picked the wrong lane 😭\n\nHave you broken the traffic rules in GTA 6 yet? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 driving",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc picks the wrong lane in GTA 6 and gets a quick lesson 😭 Have you broken traffic rules yet? 👇\n\n🎥 xQc (kick.com/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

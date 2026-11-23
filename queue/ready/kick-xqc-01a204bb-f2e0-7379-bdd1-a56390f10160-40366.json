@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-40366",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -284,5 +284,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795418161,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Rambling talk (pet store, bomb), no clear game moment; duplicate of twitch copy"
 }

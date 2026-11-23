@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-40366",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -289,5 +289,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795417917,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Rambling talk (pet store), no clear game moment"
 }
