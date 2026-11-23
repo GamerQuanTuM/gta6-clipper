@@ -1,0 +1,108 @@
+{
+  "id": "twitch-hasanabi-v2937602356-30114",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2937602356",
+  "vod_id": "v2937602356",
+  "vod_title": "🚉CH3 GTA6 VICE CITY🚉SUNDAY FUNDAY!🚉NEW CHARITY LVLS🗽MANDY ACTRESS IN THE BUILDING AT 180K!🗽DROPS ON!🗽 2026-11-23 04:10",
+  "game": "GTA 6",
+  "start": 30078.08,
+  "end": 30127,
+  "peak": 30114,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "As far as fucking Oh my god, god damn. Why am I stuck on this fucking thing?",
+  "words": [
+    [
+      0.15,
+      0.15,
+      "As"
+    ],
+    [
+      0.15,
+      0.65,
+      "far"
+    ],
+    [
+      0.65,
+      0.81,
+      "as"
+    ],
+    [
+      0.81,
+      1.17,
+      "fucking"
+    ],
+    [
+      28.51,
+      29.23,
+      "Oh"
+    ],
+    [
+      29.23,
+      29.95,
+      "my"
+    ],
+    [
+      29.95,
+      30.37,
+      "god,"
+    ],
+    [
+      33.91,
+      34.93,
+      "god"
+    ],
+    [
+      34.93,
+      35.55,
+      "damn."
+    ],
+    [
+      36.05,
+      36.77,
+      "Why"
+    ],
+    [
+      36.77,
+      36.91,
+      "am"
+    ],
+    [
+      36.91,
+      37.05,
+      "I"
+    ],
+    [
+      37.05,
+      37.33,
+      "stuck"
+    ],
+    [
+      37.33,
+      37.57,
+      "on"
+    ],
+    [
+      37.57,
+      37.75,
+      "this"
+    ],
+    [
+      37.75,
+      38.01,
+      "fucking"
+    ],
+    [
+      38.01,
+      38.35,
+      "thing?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795407084,
+  "meta": null
+}

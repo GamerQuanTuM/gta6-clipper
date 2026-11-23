@@ -1,0 +1,178 @@
+{
+  "id": "twitch-xqc-v2937629817-28100",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-23 04:09",
+  "game": "GTA 6",
+  "start": 28068,
+  "end": 28111.31,
+  "peak": 28100,
+  "score": 1.7,
+  "language": "en",
+  "transcript": "No they're not in, they're not in They took off first before they even started You're just dumb You don't even know what we're doing What was that car behind there?",
+  "words": [
+    [
+      15.54,
+      15.98,
+      "No"
+    ],
+    [
+      15.98,
+      16.18,
+      "they're"
+    ],
+    [
+      16.18,
+      16.26,
+      "not"
+    ],
+    [
+      16.26,
+      16.52,
+      "in,"
+    ],
+    [
+      16.58,
+      16.86,
+      "they're"
+    ],
+    [
+      16.86,
+      17.0,
+      "not"
+    ],
+    [
+      17.0,
+      17.6,
+      "in"
+    ],
+    [
+      19.36,
+      19.86,
+      "They"
+    ],
+    [
+      19.86,
+      20.82,
+      "took"
+    ],
+    [
+      20.82,
+      20.96,
+      "off"
+    ],
+    [
+      20.96,
+      21.24,
+      "first"
+    ],
+    [
+      21.24,
+      21.56,
+      "before"
+    ],
+    [
+      21.56,
+      21.78,
+      "they"
+    ],
+    [
+      21.78,
+      21.94,
+      "even"
+    ],
+    [
+      21.94,
+      22.18,
+      "started"
+    ],
+    [
+      24.78,
+      25.22,
+      "You're"
+    ],
+    [
+      30.46,
+      30.66,
+      "just"
+    ],
+    [
+      30.66,
+      30.92,
+      "dumb"
+    ],
+    [
+      30.92,
+      31.52,
+      "You"
+    ],
+    [
+      32.9,
+      34.44,
+      "don't"
+    ],
+    [
+      34.44,
+      34.56,
+      "even"
+    ],
+    [
+      34.56,
+      34.7,
+      "know"
+    ],
+    [
+      34.7,
+      34.84,
+      "what"
+    ],
+    [
+      34.84,
+      34.92,
+      "we're"
+    ],
+    [
+      34.92,
+      35.12,
+      "doing"
+    ],
+    [
+      37.46,
+      37.9,
+      "What"
+    ],
+    [
+      42.03,
+      42.47,
+      "was"
+    ],
+    [
+      42.47,
+      42.55,
+      "that"
+    ],
+    [
+      42.55,
+      42.65,
+      "car"
+    ],
+    [
+      42.65,
+      42.85,
+      "behind"
+    ],
+    [
+      42.85,
+      43.01,
+      "there?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795407001,
+  "meta": null
+}
