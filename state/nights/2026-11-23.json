@@ -901,5 +901,67 @@
     },
     "duration_s": 47.3,
     "release": "2026-11-23-29-rakazone"
+  },
+  {
+    "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-1694",
+    "streamer": "soulaman",
+    "streamer_name": "soulaman",
+    "channel_url": "https://kick.com/soulaman",
+    "meta": {
+      "hook": "DIL JUD GAYA BHAI",
+      "title": "Soulaman ka GTA 6 stream pe full josh 😂 #gta6 #shorts",
+      "description": "🎥 Clip from soulaman's live stream: https://kick.com/soulaman\n\nSoulaman ka GTA 6 stream pe full josh me reaction 🔥\n\nAisa moment tumhare saath kab hua? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "soulaman",
+        "gta 6 india",
+        "gta 6 hindi",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "hindi gaming",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Soulaman ka GTA 6 stream pe full josh 😂 Tumhara sabse funny gaming moment konsa tha? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #hindigaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.8,
+    "release": "2026-11-23-30-soulaman"
+  },
+  {
+    "id": "kick-rakazone-01a20802-1948-725f-a037-55f386fa1219-15789",
+    "streamer": "rakazone",
+    "streamer_name": "rakazone",
+    "channel_url": "https://kick.com/rakazone",
+    "meta": {
+      "hook": "BHAI YE MISSION KYA HAI",
+      "title": "RakaZone ka GTA 6 mission me live reaction 😂 #gta6 #shorts",
+      "description": "🎥 Clip from rakazone's live stream: https://kick.com/rakazone\n\nRakaZone GTA 6 ke mission me full on mood me 🔥\n\nTumhe GTA 6 ka sabse mast mission kaunsa laga? Comment karo 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "rakazone",
+        "gta 6 india",
+        "gta 6 hindi",
+        "gta 6 gameplay",
+        "gta 6 mission",
+        "grand theft auto 6",
+        "hindi gaming",
+        "shorts"
+      ],
+      "priority": 0,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "RakaZone ka GTA 6 mission me live reaction 🔥 Tumhe konsa mission sabse mast laga? 👇\n\n🎥 RakaZone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #hindigaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-23-31-rakazone"
   }
 ]
