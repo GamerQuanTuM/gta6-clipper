@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-547",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -139,5 +139,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795443560,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript is garbled/unintelligible (ASR noise), nothing identifiable happening in-game."
 }

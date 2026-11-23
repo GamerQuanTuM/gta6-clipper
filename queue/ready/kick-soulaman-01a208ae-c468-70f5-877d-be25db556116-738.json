@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-738",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -84,5 +84,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795443602,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Talking about a personal relationship, not about the game; no gameplay moment."
 }

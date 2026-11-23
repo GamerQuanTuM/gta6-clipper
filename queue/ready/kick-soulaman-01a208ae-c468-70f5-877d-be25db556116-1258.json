@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a208ae-c468-70f5-877d-be25db556116-1258",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -104,5 +104,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795443524,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript is garbled/unintelligible (ASR noise), no verifiable reaction or game content; VOD 'Live November 10' predates launch week."
 }
