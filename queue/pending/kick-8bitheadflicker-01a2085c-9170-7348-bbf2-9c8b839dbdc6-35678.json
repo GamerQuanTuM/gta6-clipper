@@ -1,0 +1,63 @@
+{
+  "id": "kick-8bitheadflicker-01a2085c-9170-7348-bbf2-9c8b839dbdc6-35678",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a2085c-9170-7348-bbf2-9c8b839dbdc6#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a2085c-9170-7348-bbf2-9c8b839dbdc6",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 6 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 35646,
+  "end": 35689.83,
+  "peak": 35678,
+  "score": 2.16,
+  "language": "hi",
+  "transcript": "माफ्या कुछ तो पूओ इस पास बड़ा है",
+  "words": [
+    [
+      27.42,
+      28.82,
+      "माफ्या"
+    ],
+    [
+      28.84,
+      29.42,
+      "कुछ"
+    ],
+    [
+      29.42,
+      29.72,
+      "तो"
+    ],
+    [
+      29.72,
+      30.36,
+      "पूओ"
+    ],
+    [
+      30.36,
+      31.16,
+      "इस"
+    ],
+    [
+      42.55,
+      42.75,
+      "पास"
+    ],
+    [
+      42.75,
+      43.11,
+      "बड़ा"
+    ],
+    [
+      43.11,
+      43.53,
+      "है"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795476020,
+  "meta": null
+}

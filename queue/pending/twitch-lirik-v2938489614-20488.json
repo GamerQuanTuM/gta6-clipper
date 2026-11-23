@@ -1,0 +1,148 @@
+{
+  "id": "twitch-lirik-v2938489614-20488",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lirik",
+  "streamer_name": "LIRIK",
+  "channel_url": "https://www.twitch.tv/lirik",
+  "vod_url": "https://www.twitch.tv/videos/2938489614",
+  "vod_id": "v2938489614",
+  "vod_title": "NEXT STREAM MONDAY",
+  "game": "GTA 6",
+  "start": 20452.79,
+  "end": 20500.42,
+  "peak": 20488,
+  "score": 1.65,
+  "language": "en",
+  "transcript": "My god, she's winning if she wins we win right? This race is fucking bullshit Oh really that's scripted brown scripted as hell obese debuff",
+  "words": [
+    [
+      0.15,
+      0.61,
+      "My"
+    ],
+    [
+      0.61,
+      0.75,
+      "god,"
+    ],
+    [
+      0.77,
+      1.07,
+      "she's"
+    ],
+    [
+      1.07,
+      1.35,
+      "winning"
+    ],
+    [
+      1.35,
+      2.95,
+      "if"
+    ],
+    [
+      2.95,
+      3.15,
+      "she"
+    ],
+    [
+      3.15,
+      3.39,
+      "wins"
+    ],
+    [
+      3.39,
+      3.63,
+      "we"
+    ],
+    [
+      3.63,
+      3.93,
+      "win"
+    ],
+    [
+      3.93,
+      5.11,
+      "right?"
+    ],
+    [
+      12.91,
+      13.37,
+      "This"
+    ],
+    [
+      13.37,
+      13.69,
+      "race"
+    ],
+    [
+      13.69,
+      13.89,
+      "is"
+    ],
+    [
+      13.89,
+      14.13,
+      "fucking"
+    ],
+    [
+      14.13,
+      14.79,
+      "bullshit"
+    ],
+    [
+      33.03,
+      33.71,
+      "Oh"
+    ],
+    [
+      33.71,
+      34.13,
+      "really"
+    ],
+    [
+      34.13,
+      35.23,
+      "that's"
+    ],
+    [
+      35.23,
+      35.77,
+      "scripted"
+    ],
+    [
+      35.77,
+      36.11,
+      "brown"
+    ],
+    [
+      36.11,
+      36.91,
+      "scripted"
+    ],
+    [
+      36.91,
+      37.09,
+      "as"
+    ],
+    [
+      37.09,
+      37.43,
+      "hell"
+    ],
+    [
+      45.05,
+      46.35,
+      "obese"
+    ],
+    [
+      46.35,
+      47.33,
+      "debuff"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795475416,
+  "meta": null
+}
