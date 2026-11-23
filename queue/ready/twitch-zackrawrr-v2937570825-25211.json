@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2937570825-25211",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -254,5 +254,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795399865,
-  "meta": null
+  "meta": {
+    "hook": "HOLD THEM OFF AT ALL COSTS",
+    "title": "zackrawrr holds the line in a wild GTA 6 firefight 🔥 #shorts",
+    "description": "zackrawrr is flying through a GTA 6 shootout and refusing to back down 💥\n\nCould you hold this position? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "gta 6 shootout",
+      "gta 6 action",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr holds the line in a chaotic GTA 6 firefight 🔥 Could you hold it down? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

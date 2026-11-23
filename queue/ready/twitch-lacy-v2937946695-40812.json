@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937946695-40812",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -254,5 +254,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795399954,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled scripted-sounding in-game lines, nothing clear happening"
 }

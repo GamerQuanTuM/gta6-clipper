@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-21701",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -139,5 +139,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795400091,
-  "meta": null
+  "meta": {
+    "hook": "THE COPS HAVE A NEW TRICK",
+    "title": "xQc learns cops in GTA 6 aren't lethal 😭 #shorts",
+    "description": "xQc gets busted in GTA 6 and finds out what the cops' weapons really do 👀\n\nHow are you handling the police in GTA 6? 👇\n\n#gta6 #gtavi #xqc #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "xqc",
+      "gta 6 police",
+      "gta 6 cops",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "xQc gets busted in GTA 6 and breaks down how the cops' non-lethal weapons work 👀 How do you escape the police? 👇\n\n🎥 xQc (kick.com/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

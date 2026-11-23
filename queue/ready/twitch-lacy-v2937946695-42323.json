@@ -1,6 +1,6 @@
 {
   "id": "twitch-lacy-v2937946695-42323",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lacy",
   "streamer_name": "Lacy",
@@ -69,5 +69,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795399957,
-  "meta": null
+  "meta": {
+    "hook": "HOLY STEALTH MISSION",
+    "title": "Lacy goes full stealth in a GTA 6 mission 🤫 #shorts",
+    "description": "Lacy picks off guards in a tense GTA 6 stealth mission 👀\n\nStealth or guns blazing in GTA 6? 👇\n\n#gta6 #gtavi #lacy #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "lacy",
+      "gta 6 stealth",
+      "gta 6 mission",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Lacy tries a quiet takedown in a GTA 6 stealth mission 🤫 Stealth or guns blazing? 👇\n\n🎥 Lacy (twitch.tv/lacy)\n\n#gta6 #gtavi #lacy #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

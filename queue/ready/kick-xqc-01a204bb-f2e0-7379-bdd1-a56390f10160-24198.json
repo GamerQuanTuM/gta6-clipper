@@ -1,6 +1,6 @@
 {
   "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-24198",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "xqc",
   "streamer_name": "xqc",
@@ -349,5 +349,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795400100,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads like scripted/team radio dialogue, no clear reaction"
 }
