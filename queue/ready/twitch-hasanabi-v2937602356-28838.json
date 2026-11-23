@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-28838",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -344,5 +344,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795403567,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Talk about pop music requests, nothing happening in the game"
 }

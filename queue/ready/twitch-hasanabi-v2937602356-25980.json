@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-25980",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -599,5 +599,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795403577,
-  "meta": null
+  "meta": {
+    "hook": "JUST THROW A BELT ON IT",
+    "title": "HasanAbi finishes his GTA 6 fit with a belt, then goes shopping #shorts",
+    "description": "After the white pants drama, HasanAbi locks in his GTA 6 look and heads out to buy more 🛍️\n\nWould you rate this Vice City outfit? 👇\n\n#gta6 #gtavi #hasanabi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 funny moments",
+      "gta 6 vice city",
+      "gta 6 clothes shopping",
+      "gta 6 outfits",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi's GTA 6 fit is finally done: \"just throw a belt on it\" 😂 Rate the outfit 1-10 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
