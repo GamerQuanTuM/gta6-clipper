@@ -1,0 +1,153 @@
+{
+  "id": "twitch-zackrawrr-v2938575130-9134",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2938575130",
+  "vod_id": "v2938575130",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW STREAM W/KAISE LATER BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247 2026-11-23 21:13",
+  "game": "GTA 6",
+  "start": 9103.64,
+  "end": 9147,
+  "peak": 9134,
+  "score": 3.93,
+  "language": "en",
+  "transcript": "There's just a guy sitting there while this crash out happens saying nothing totally unbothered Nigga's got a whole day lips I Understand What a crash",
+  "words": [
+    [
+      0.15,
+      0.75,
+      "There's"
+    ],
+    [
+      0.75,
+      0.85,
+      "just"
+    ],
+    [
+      0.85,
+      1.03,
+      "a"
+    ],
+    [
+      1.03,
+      1.31,
+      "guy"
+    ],
+    [
+      1.31,
+      1.69,
+      "sitting"
+    ],
+    [
+      1.69,
+      2.07,
+      "there"
+    ],
+    [
+      2.07,
+      2.65,
+      "while"
+    ],
+    [
+      2.65,
+      2.89,
+      "this"
+    ],
+    [
+      2.89,
+      3.21,
+      "crash"
+    ],
+    [
+      3.21,
+      3.55,
+      "out"
+    ],
+    [
+      3.55,
+      4.03,
+      "happens"
+    ],
+    [
+      4.03,
+      4.95,
+      "saying"
+    ],
+    [
+      4.95,
+      5.43,
+      "nothing"
+    ],
+    [
+      9.24,
+      9.84,
+      "totally"
+    ],
+    [
+      11.41,
+      12.01,
+      "unbothered"
+    ],
+    [
+      21.37,
+      21.97,
+      "Nigga's"
+    ],
+    [
+      21.97,
+      22.11,
+      "got"
+    ],
+    [
+      22.11,
+      22.23,
+      "a"
+    ],
+    [
+      22.23,
+      22.39,
+      "whole"
+    ],
+    [
+      22.39,
+      22.55,
+      "day"
+    ],
+    [
+      22.55,
+      22.87,
+      "lips"
+    ],
+    [
+      23.39,
+      23.81,
+      "I"
+    ],
+    [
+      33.71,
+      34.55,
+      "Understand"
+    ],
+    [
+      34.55,
+      34.55,
+      "What"
+    ],
+    [
+      34.55,
+      38.37,
+      "a"
+    ],
+    [
+      42.5,
+      42.92,
+      "crash"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795468490,
+  "meta": null
+}
