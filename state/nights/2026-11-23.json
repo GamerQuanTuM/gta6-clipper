@@ -808,5 +808,65 @@
     },
     "duration_s": 45.3,
     "release": "2026-11-23-26-xqc"
+  },
+  {
+    "id": "kick-xqc-01a204bb-f2e0-7379-bdd1-a56390f10160-39976",
+    "streamer": "xqc",
+    "streamer_name": "xqc",
+    "channel_url": "https://kick.com/xqc",
+    "meta": {
+      "hook": "HE DROVE IN THE WRONG LANE",
+      "title": "xQc finds out the wrong lane is a bad idea in GTA 6 #shorts",
+      "description": "🎥 Clip from xqc's live stream: https://kick.com/xqc\n\nxQc talks himself through the traffic rules in GTA 6 and realises he picked the wrong lane 😭\n\nHave you broken the traffic rules in GTA 6 yet? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 driving",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc picks the wrong lane in GTA 6 and gets a quick lesson 😭 Have you broken traffic rules yet? 👇\n\n🎥 xQc (kick.com/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.1,
+    "release": "2026-11-23-27-xqc"
+  },
+  {
+    "id": "twitch-xqc-v2937629817-39550",
+    "streamer": "xqc",
+    "streamer_name": "xQc",
+    "channel_url": "https://www.twitch.tv/xqc",
+    "meta": {
+      "hook": "HE WANTS MEGA SPEED IN GTA 6",
+      "title": "xQc hunts for his jumper to go mega speed in GTA 6 #shorts",
+      "description": "🎥 Clip from xQc's live stream: https://www.twitch.tv/xqc\n\nxQc searches for his jumper so he can go mega speed in GTA 6 ⚡\n\nWhat would you do first with speed in GTA 6? 👇\n\n#gta6 #gtavi #xqc #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "xqc",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 speed",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 0,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "xQc wants to go MEGA speed in GTA 6 ⚡ What would you do first? 👇\n\n🎥 xQc (twitch.tv/xqc)\n\n#gta6 #gtavi #xqc #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.1,
+    "release": "2026-11-23-28-xqc"
   }
 ]
