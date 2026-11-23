@@ -182,5 +182,36 @@
     },
     "duration_s": 49.4,
     "release": "2026-11-24-06-jynxzi"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-12393",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "LUDWIG CANNOT BELIEVE RAUL'S MOVE",
+      "title": "Ludwig rants about Raul's betrayal in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig is NOT letting Raul off the hook in GTA 6 💀\n\nWho's really to blame in this story - Raul or the bodybuilders? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "gta 6 story",
+        "gta 6 reaction",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Ludwig is fuming at Raul in GTA 6 💀 Who's really to blame? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 49.0,
+    "release": "2026-11-24-07-ludwig"
   }
 ]
