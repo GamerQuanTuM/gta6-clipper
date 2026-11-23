@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2937602356-17816",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -659,5 +659,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795396272,
-  "meta": null
+  "meta": {
+    "hook": "HE CANNOT FIND A GOOD GETAWAY CAR",
+    "title": "HasanAbi hunts for the perfect escape car in GTA 6 #shorts",
+    "description": "HasanAbi tries car after car in GTA 6 and none of them is quite right as a getaway ride 🚗\n\nWhat's your go-to escape car in Vice City? 👇\n\n#gta6 #gtavi #hasanabi #vicecity #shorts #gaming",
+    "tags": [
+      "hasanabi",
+      "hasan piker",
+      "gta 6 vice city",
+      "gta 6 cars",
+      "gta 6 getaway car",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi tests car after car in GTA 6 looking for the perfect getaway ride 🚗 What would you steal? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #vicecity #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

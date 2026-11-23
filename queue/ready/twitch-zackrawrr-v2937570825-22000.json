@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2937570825-22000",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -64,5 +64,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795396158,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Too short and nothing visible happening in the transcript"
 }

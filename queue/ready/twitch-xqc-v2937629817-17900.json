@@ -1,6 +1,6 @@
 {
   "id": "twitch-xqc-v2937629817-17900",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "xqc",
   "streamer_name": "xQc",
@@ -59,5 +59,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795396064,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Thin 8-word remark, duplicate of the Kick xQc clip of the same moment"
 }

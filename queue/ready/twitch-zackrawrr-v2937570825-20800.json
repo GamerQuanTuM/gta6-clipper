@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2937570825-20800",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -334,5 +334,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795396162,
-  "meta": null
+  "meta": {
+    "hook": "GTA 6 NPCS HAVE NO MERCY",
+    "title": "zackrawrr almost causes chaos, GTA 6 NPCs fire back 😂 #shorts",
+    "description": "zackrawrr squeezes through traffic in GTA 6, apologizes, and the NPCs still have words for him 😂\n\nHave GTA 6 NPCs roasted you yet? 👇\n\n#gta6 #gtavi #zackrawrr #npc #shorts #gaming",
+    "tags": [
+      "zackrawrr",
+      "zack",
+      "gta 6 npc",
+      "gta 6 traffic",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr says sorry, but the GTA 6 NPCs have zero chill 😂 First time he's heard that one! Have they roasted you yet? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #npc #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

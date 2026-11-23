@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2937570825-20627",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -204,5 +204,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795396174,
-  "meta": null
+  "meta": {
+    "hook": "THE JUGGERNAUT IS AFTER HIM",
+    "title": "zackrawrr gets hunted by a juggernaut in GTA 6 😳 #shorts",
+    "description": "zackrawrr is mid-conversation in GTA 6 when a juggernaut comes after him 💀\n\nWould you survive this one? 👇\n\n#gta6 #gtavi #zackrawrr #juggernaut #shorts #gaming",
+    "tags": [
+      "zackrawrr",
+      "zack",
+      "gta 6 juggernaut",
+      "gta 6 chase",
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr suddenly has a juggernaut on his tail in GTA 6 😳 Could you survive it? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #juggernaut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
