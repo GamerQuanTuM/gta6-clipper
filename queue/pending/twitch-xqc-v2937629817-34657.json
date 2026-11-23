@@ -1,0 +1,163 @@
+{
+  "id": "twitch-xqc-v2937629817-34657",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "xqc",
+  "streamer_name": "xQc",
+  "channel_url": "https://www.twitch.tv/xqc",
+  "vod_url": "https://www.twitch.tv/videos/2937629817",
+  "vod_id": "v2937629817",
+  "vod_title": "⌛DROPS⌛60 FPS⌛GTA 6⌛BEATING THE GAME⌛THE FINAL HOURS⌛DONT MISS IT⌛BEST ENDING ONLY⌛BEST PLAYER OF GAMES⌛FULL REVIEW AFTER⌛COOL⌛ 2026-11-23 05:10",
+  "game": "GTA 6",
+  "start": 34622.87,
+  "end": 34669.51,
+  "peak": 34657,
+  "score": 1.68,
+  "language": "en",
+  "transcript": "I'll line you up. Please, how many? Get him up to the north side. Up the RPK. What happened to this guy? What is this guy doing? Where?",
+  "words": [
+    [
+      0.15,
+      0.51,
+      "I'll"
+    ],
+    [
+      0.51,
+      0.71,
+      "line"
+    ],
+    [
+      0.71,
+      0.87,
+      "you"
+    ],
+    [
+      0.87,
+      1.13,
+      "up."
+    ],
+    [
+      6.29,
+      6.59,
+      "Please,"
+    ],
+    [
+      6.73,
+      6.85,
+      "how"
+    ],
+    [
+      6.85,
+      7.05,
+      "many?"
+    ],
+    [
+      7.67,
+      7.87,
+      "Get"
+    ],
+    [
+      7.87,
+      7.99,
+      "him"
+    ],
+    [
+      7.99,
+      8.07,
+      "up"
+    ],
+    [
+      8.07,
+      8.21,
+      "to"
+    ],
+    [
+      8.21,
+      8.29,
+      "the"
+    ],
+    [
+      8.29,
+      8.49,
+      "north"
+    ],
+    [
+      8.49,
+      8.85,
+      "side."
+    ],
+    [
+      15.97,
+      16.11,
+      "Up"
+    ],
+    [
+      16.11,
+      16.23,
+      "the"
+    ],
+    [
+      16.23,
+      16.69,
+      "RPK."
+    ],
+    [
+      18.97,
+      19.37,
+      "What"
+    ],
+    [
+      21.19,
+      21.59,
+      "happened"
+    ],
+    [
+      21.59,
+      21.71,
+      "to"
+    ],
+    [
+      21.71,
+      21.87,
+      "this"
+    ],
+    [
+      21.87,
+      22.05,
+      "guy?"
+    ],
+    [
+      26.99,
+      27.27,
+      "What"
+    ],
+    [
+      27.27,
+      27.39,
+      "is"
+    ],
+    [
+      27.39,
+      27.45,
+      "this"
+    ],
+    [
+      27.45,
+      27.55,
+      "guy"
+    ],
+    [
+      27.55,
+      27.77,
+      "doing?"
+    ],
+    [
+      45.94,
+      46.34,
+      "Where?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795410642,
+  "meta": null
+}
