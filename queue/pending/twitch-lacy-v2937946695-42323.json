@@ -1,0 +1,73 @@
+{
+  "id": "twitch-lacy-v2937946695-42323",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "lacy",
+  "streamer_name": "Lacy",
+  "channel_url": "https://www.twitch.tv/lacy",
+  "vod_url": "https://www.twitch.tv/videos/2937946695",
+  "vod_id": "v2937946695",
+  "vod_title": "Highlight: 🌴️ GTA 6 MARATHON 🍹 GIVING AWAY GTA 6 TO VIEWERS 🦩️ 80% FINISHED 🍹️ IN VICE CITY 🌴️ LIVE 24/7 🦩️ !CLIPPING !COM",
+  "game": "GTA 6",
+  "start": 42289.8,
+  "end": 42336,
+  "peak": 42323,
+  "score": 2.92,
+  "language": "en",
+  "transcript": "I might take these two out Yeah, holy stealth mission",
+  "words": [
+    [
+      0.15,
+      0.61,
+      "I"
+    ],
+    [
+      0.61,
+      0.71,
+      "might"
+    ],
+    [
+      0.71,
+      0.97,
+      "take"
+    ],
+    [
+      0.97,
+      1.17,
+      "these"
+    ],
+    [
+      1.17,
+      1.41,
+      "two"
+    ],
+    [
+      1.41,
+      1.73,
+      "out"
+    ],
+    [
+      31.09,
+      31.73,
+      "Yeah,"
+    ],
+    [
+      34.9,
+      35.54,
+      "holy"
+    ],
+    [
+      35.54,
+      36.06,
+      "stealth"
+    ],
+    [
+      36.06,
+      36.66,
+      "mission"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795399957,
+  "meta": null
+}
