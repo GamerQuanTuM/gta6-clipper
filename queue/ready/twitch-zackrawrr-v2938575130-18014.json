@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-18014",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -289,5 +289,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795478950,
-  "meta": null
+  "meta": {
+    "hook": "HE WILL NOT LET GO OF THIS CAR",
+    "title": "zackrawrr goes full speed chasing a car in GTA 6 🔥 #shorts",
+    "description": "zackrawrr is flat out chasing a car in GTA 6 and refusing to give up 🏎️\n\nWould you have made it? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "gta 6 car chase",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 release",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr goes full speed after a car in GTA 6 🔥 Would you catch it? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #gta6chase #reels",
+    "source": "claude"
+  }
 }

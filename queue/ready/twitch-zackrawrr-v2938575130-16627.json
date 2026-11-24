@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-16627",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -394,5 +394,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795478956,
-  "meta": null
+  "meta": {
+    "hook": "HE JUST GOT FREE BODY ARMOR",
+    "title": "zackrawrr gets free body armor then loses it in GTA 6 😭 #shorts",
+    "description": "zackrawrr's GTA 6 stream goes from free body armor to full chaos in seconds 💀\n\nWhat's the wildest thing you've seen in GTA 6 so far? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "zack rawrr",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 release",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr's GTA 6 stream is pure chaos 💀 What was your funniest moment so far? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #gta6funny #reels",
+    "source": "claude"
+  }
 }

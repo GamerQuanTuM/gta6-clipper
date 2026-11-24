@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a2085c-9170-7348-bbf2-9c8b839dbdc6-39457",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -144,5 +144,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795479420,
-  "meta": null
+  "meta": null,
+  "reject_reason": "garbled transcript, no clear moment"
 }
