@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2939504732-2784",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -259,5 +259,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795547310,
-  "meta": null
+  "meta": {
+    "hook": "KAI HAS ZERO DOLLARS IN GTA 6",
+    "title": "Kai Cenat starts with $0 in the GTA 6 money race 😭 #gta6 #shorts",
+    "description": "Kai Cenat's GTA 6 money race goes chaotic with zero dollars in his pocket 💀\n\nCould you win a GTA 6 race to a million from zero? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "kai cenat",
+      "kaicenat",
+      "kai vs speed",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat has zero dollars and total chaos in the GTA 6 money race 😭 Could you win from zero? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #funny #reels",
+    "source": "claude"
+  }
 }

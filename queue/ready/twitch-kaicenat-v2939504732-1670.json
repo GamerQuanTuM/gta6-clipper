@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2939504732-1670",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -664,5 +664,31 @@
   ],
   "chat_sample": [],
   "created_unix": 1795547306,
-  "meta": null
+  "meta": {
+    "hook": "HE CAN'T EVEN AFFORD THE RIDE HOME",
+    "title": "Kai Cenat is BROKE in GTA 6 vs Speed 😭 #gta6 #shorts",
+    "description": "Kai Cenat vs Speed: first to a million dollars in GTA 6, and Kai says he doesn't have money to get to his house 💀\n\nWho wins the GTA 6 money race? 👇\n\n#gta6 #gtavi #kaicenat #ishowspeed #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "kai cenat",
+      "kaicenat",
+      "ishowspeed",
+      "speed",
+      "kai vs speed",
+      "gta 6 funny moments",
+      "gta 6 million dollars",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat says he's too broke to even get home in the GTA 6 million dollar race vs Speed 😭 Who wins? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #streamer #funny #reels",
+    "source": "claude"
+  }
 }

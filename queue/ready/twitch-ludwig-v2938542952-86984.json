@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-86984",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -744,5 +744,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795547408,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Off-topic discourse about developers, sensitive content, no game moment"
 }

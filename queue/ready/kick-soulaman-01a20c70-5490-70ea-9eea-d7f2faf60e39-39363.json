@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-39363",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -324,5 +324,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795548247,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE GLITCH KYA HAI",
+    "title": "Soulaman ko mila GTA 6 ka naya glitch 😳 #gta6 #shorts",
+    "description": "Soulaman ne GTA 6 me ek naya glitch dhoond liya aur Rockstar se bol raha hai fix karo 😭\n\nAapko GTA 6 me kaunsa glitch mila? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6glitch #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "gta 6 glitch",
+      "gta 6 new glitch",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 funny moments",
+      "indian streamer",
+      "gta 6 gameplay",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ko GTA 6 me naya glitch mil gaya, bolta hai Rockstar please fix karo 😭 Aapko kaunsa glitch mila? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6glitch #gta6hindi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
