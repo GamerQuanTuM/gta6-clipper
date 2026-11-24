@@ -1,6 +1,6 @@
 {
   "id": "twitch-shroud-v2938768445-18333",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "shroud",
   "streamer_name": "shroud",
@@ -479,5 +479,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795493446,
-  "meta": null
+  "meta": {
+    "hook": "SHE NOTICED HIS OUTFIT",
+    "title": "shroud's GTA 6 outfit effort finally pays off 😭 #shorts",
+    "description": "shroud spent a lot of time on his GTA 6 look and someone noticed 👀\n\nWhat's your GTA 6 character wearing? 👇\n\n#gta6 #gtavi #shroud #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "shroud",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "shroud gta 6",
+      "gta 6 outfit",
+      "gta 6 roleplay",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "shroud's GTA 6 outfit effort finally paid off 👀 What's your character wearing? 👇\n\n🎥 shroud (twitch.tv/shroud)\n\n#gta6 #gtavi #shroud #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

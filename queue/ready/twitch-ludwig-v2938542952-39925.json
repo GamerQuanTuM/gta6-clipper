@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-39925",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -419,5 +419,31 @@
   ],
   "chat_sample": [],
   "created_unix": 1795501196,
-  "meta": null
+  "meta": {
+    "hook": "HOW DID HE HIT FIVE STARS",
+    "title": "Ludwig hits a wall, then FIVE STARS in GTA 6 😭 #shorts",
+    "description": "Ludwig mistakes a wall for an alleyway in GTA 6 and suddenly the heat is maxed out 🚔\n\nHave you survived five stars yet? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 five star",
+      "gta 6 wanted level",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig thought it was an alleyway. It was a wall. Now it's five stars 🚔 Have you survived it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #fivestar #streamer #reels",
+    "source": "claude"
+  }
 }

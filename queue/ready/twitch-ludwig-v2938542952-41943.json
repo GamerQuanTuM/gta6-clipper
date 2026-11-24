@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-41943",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -379,5 +379,30 @@
   ],
   "chat_sample": [],
   "created_unix": 1795501178,
-  "meta": null
+  "meta": {
+    "hook": "THE GTA 6 PLOT DOESN'T ADD UP",
+    "title": "Ludwig questions the GTA 6 story's biggest plot hole #shorts",
+    "description": "Ludwig picks apart how many corrupt cops Mendez somehow has in GTA 6 🤔\n\nDoes the story make sense to you? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 story",
+      "gta 6 mendez",
+      "gta 6 plot",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig has questions about how many corrupt cops Mendez has in GTA 6 🤔 Does the story add up? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #gta6story #reels",
+    "source": "claude"
+  }
 }

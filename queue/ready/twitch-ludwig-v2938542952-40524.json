@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-40524",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -599,5 +599,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795501187,
-  "meta": null
+  "meta": null,
+  "reject_reason": "story about a mass shooting at a hospital, unsuitable"
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-shroud-v2938768445-20133",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "shroud",
   "streamer_name": "shroud",
@@ -304,5 +304,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795493451,
-  "meta": null
+  "meta": null,
+  "reject_reason": "vague, no clear moment"
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-33724",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -159,5 +159,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795493361,
-  "meta": null
+  "meta": {
+    "hook": "5000 COPS AND HE JUST DRIVES THROUGH",
+    "title": "Ludwig can't believe the cops in GTA 6 😭 #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run keeps throwing chaos at him 🚔\n\nHow would you survive this many cops? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 cops",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's non-lethal GTA 6 run keeps throwing cops at him 🚔 How would you handle it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

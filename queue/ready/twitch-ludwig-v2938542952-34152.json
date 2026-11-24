@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-34152",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -199,5 +199,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795493358,
-  "meta": null
+  "meta": {
+    "hook": "NOT THE MURAL ANYTHING BUT THE MURAL",
+    "title": "Ludwig loses it over a mural in GTA 6 💀 #shorts",
+    "description": "Ludwig's GTA 6 day 4 non-lethal run claims an unexpected victim 😭\n\nWhat's the funniest thing you've wrecked in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 mural",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig panics over a mural in GTA 6 😭 What's the funniest thing you've wrecked? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
