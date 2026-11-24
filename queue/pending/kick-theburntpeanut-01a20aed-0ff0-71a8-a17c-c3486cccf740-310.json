@@ -1,0 +1,88 @@
+{
+  "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-310",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "theburntpeanut",
+  "streamer_name": "theburntpeanut",
+  "channel_url": "https://kick.com/theburntpeanut",
+  "vod_url": "https://kick.com/theburntpeanut/videos/01a20aed-0ff0-71a8-a17c-c3486cccf740#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a20aed-0ff0-71a8-a17c-c3486cccf740",
+  "vod_title": "GTA 6 | DAY 5 | DIMENSIONAL RIFTS, DEMONS, SECRET MISSIONS | POSSIBLY 1ST STREAMER TO FINISH STORY | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 278,
+  "end": 323,
+  "peak": 310,
+  "score": 3.05,
+  "language": "en",
+  "transcript": "Well, the earth gets dumb, so much if you don't go. Come on!",
+  "words": [
+    [
+      7.02,
+      7.32,
+      "Well,"
+    ],
+    [
+      7.6,
+      7.74,
+      "the"
+    ],
+    [
+      15.64,
+      15.92,
+      "earth"
+    ],
+    [
+      15.92,
+      16.28,
+      "gets"
+    ],
+    [
+      16.28,
+      16.62,
+      "dumb,"
+    ],
+    [
+      16.68,
+      17.06,
+      "so"
+    ],
+    [
+      17.06,
+      17.26,
+      "much"
+    ],
+    [
+      22.03,
+      22.27,
+      "if"
+    ],
+    [
+      22.27,
+      22.41,
+      "you"
+    ],
+    [
+      22.41,
+      22.71,
+      "don't"
+    ],
+    [
+      22.71,
+      22.89,
+      "go."
+    ],
+    [
+      33.56,
+      33.9,
+      "Come"
+    ],
+    [
+      33.9,
+      34.28,
+      "on!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795483140,
+  "meta": null
+}
