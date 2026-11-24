@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2939504732-15422",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -404,5 +404,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795558057,
-  "meta": null
+  "meta": {
+    "hook": "KAI IS UP 60K, THIS IS IT",
+    "title": "Kai Cenat is up 60K in his GTA 6 race to a million vs Speed #shorts",
+    "description": "Kai Cenat is up 60K in the GTA 6 million dollar race and the tension is real 💰\n\nWho wins, Kai or Speed? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat gta 6",
+      "kai vs speed",
+      "gta 6 million dollar race",
+      "gta 6 heist",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat is up 60K in the GTA 6 race to a million vs Speed 💰 Who's winning? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-12616",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -514,5 +514,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795558252,
-  "meta": null
+  "meta": {
+    "hook": "CHAT SAID HE CAN'T DRIVE",
+    "title": "Jynxzi tries to prove he can drive in GTA 6 #shorts",
+    "description": "Jynxzi is about to silence the doubters with some GTA 6 driving 🚗\n\nCan he actually drive? Vote below 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "jynxzi gta 6",
+      "gta 6 driving",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi says chat is about to be ERASED for doubting his driving in GTA 6 🚗 Can he actually drive? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

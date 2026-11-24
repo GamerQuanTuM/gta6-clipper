@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2939504732-14524",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -394,5 +394,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795558070,
-  "meta": null
+  "meta": null,
+  "reject_reason": "map planning talk, no real moment"
 }

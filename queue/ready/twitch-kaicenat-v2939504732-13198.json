@@ -1,6 +1,6 @@
 {
   "id": "twitch-kaicenat-v2939504732-13198",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "kaicenat",
   "streamer_name": "KaiCenat",
@@ -364,5 +364,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795558063,
-  "meta": null
+  "meta": {
+    "hook": "IT'S OVER, GGS IN THE CHAT",
+    "title": "Kai Cenat thinks he's caught in his GTA 6 million dollar race #shorts",
+    "description": "Kai Cenat panics mid-heist in his GTA 6 race to a million vs Speed 😭\n\nDid he keep the bag? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat gta 6",
+      "kai vs speed",
+      "gta 6 million dollar race",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat thinks it's OVER mid-heist in the GTA 6 race to a million vs Speed 😭 Did he keep the bag? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+    "source": "claude"
+  }
 }
