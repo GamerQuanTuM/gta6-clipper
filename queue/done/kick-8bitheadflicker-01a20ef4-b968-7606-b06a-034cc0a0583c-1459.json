@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-1459",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -15,89 +15,12 @@
   "score": 2.47,
   "language": "hi",
   "transcript": "मैं जो खुटनो बेमकर नहुर मुश्किल है प्रील वेहिकल क्या उठाए भाई? वाओ वे! पोलो!",
-  "words": [
-    [
-      5.29,
-      5.81,
-      "मैं"
-    ],
-    [
-      5.81,
-      5.99,
-      "जो"
-    ],
-    [
-      5.99,
-      6.39,
-      "खुटनो"
-    ],
-    [
-      6.39,
-      6.73,
-      "बेमकर"
-    ],
-    [
-      6.73,
-      6.95,
-      "नहुर"
-    ],
-    [
-      6.95,
-      7.33,
-      "मुश्किल"
-    ],
-    [
-      7.33,
-      7.45,
-      "है"
-    ],
-    [
-      27.41,
-      27.78,
-      "प्रील"
-    ],
-    [
-      27.78,
-      28.52,
-      "वेहिकल"
-    ],
-    [
-      30.25,
-      30.62,
-      "क्या"
-    ],
-    [
-      30.62,
-      30.88,
-      "उठाए"
-    ],
-    [
-      30.88,
-      31.08,
-      "भाई?"
-    ],
-    [
-      33.0,
-      33.74,
-      "वाओ"
-    ],
-    [
-      33.74,
-      34.04,
-      "वे!"
-    ],
-    [
-      34.18,
-      34.82,
-      "पोलो!"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795551394,
   "meta": {
     "hook": "BHAI KAUNSI GAADI UTHAYE",
     "title": "8bitheadflicker ka GTA 6 me gaadi choose karna 😂 #gta6 #shorts",
-    "description": "8bitheadflicker GTA 6 me gaadi choose karte hue react karta hai 🚗\n\nTum kaunsi gaadi uthate? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+    "description": "🎥 Clip from 8bitheadflicker's live stream: https://kick.com/8bitheadflicker\n\n8bitheadflicker GTA 6 me gaadi choose karte hue react karta hai 🚗\n\nTum kaunsi gaadi uthate? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -117,5 +40,7 @@
     ],
     "ig_caption": "8bitheadflicker GTA 6 me gaadi choose karte hue 🚗 Tum kaunsi gaadi uthate? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6india #gta6hindi #8bitheadflicker #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795554617
 }
