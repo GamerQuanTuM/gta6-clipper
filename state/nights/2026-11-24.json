@@ -402,5 +402,98 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-24-13-ludwig"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-27478",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "HOW MUCH DID THAT HEIST PAY",
+      "title": "Ludwig escapes the cops and argues over the payday in GTA 6 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig and the crew get away from the cops in GTA 6, and nobody agrees on how much the job paid 💀\n\nIs it a quarter mil or not? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "grand theft auto 6",
+        "gta 6 heist",
+        "gta 6 cop chase",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Ludwig's crew escapes the cops in GTA 6 and can't agree on the payday 💀 Quarter mil or not? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #gta6heist",
+      "source": "claude"
+    },
+    "duration_s": 51.0,
+    "release": "2026-11-24-14-ludwig"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-25390",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "THIS GUN IS TRASH BUT HE CHARGES IN",
+      "title": "Ludwig hates his gun then charges in anyway in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig complains about his gun in GTA 6, then goes in loud to save Lucia 💀\n\nWould you rush in with a bad weapon? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "grand theft auto 6",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 lucia",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Ludwig hates his gun in GTA 6, then runs in to save Lucia anyway 💀 Would you? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #gta6funny",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-24-15-ludwig"
+  },
+  {
+    "id": "twitch-zackrawrr-v2938575130-24093",
+    "streamer": "zackrawrr",
+    "streamer_name": "zackrawrr",
+    "channel_url": "https://www.twitch.tv/zackrawrr",
+    "meta": {
+      "hook": "SO MANY OF THEM IN GTA 6",
+      "title": "zackrawrr uses his ability in a packed GTA 6 shootout #shorts",
+      "description": "🎥 Clip from zackrawrr's live stream: https://www.twitch.tv/zackrawrr\n\nzackrawrr pops his ability and takes on a crowd of enemies in GTA 6 🔫\n\nHow would you clear this room? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "zackrawrr",
+        "grand theft auto 6",
+        "gta 6 shootout",
+        "gta 6 gameplay",
+        "gta 6 reaction",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 0,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "zackrawrr pops his ability against a crowd in GTA 6 🔫 How would you clear this? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.4,
+    "release": "2026-11-24-16-zackrawrr"
   }
 ]

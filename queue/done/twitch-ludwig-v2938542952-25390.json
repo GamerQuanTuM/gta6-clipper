@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-25390",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -15,74 +15,12 @@
   "score": 1.99,
   "language": "en",
   "transcript": "Goddamn this gun fucking sucks ass. Fuck it. I'M COMING LUCIA! HOLD!",
-  "words": [
-    [
-      19.94,
-      20.5,
-      "Goddamn"
-    ],
-    [
-      20.5,
-      20.64,
-      "this"
-    ],
-    [
-      20.64,
-      20.8,
-      "gun"
-    ],
-    [
-      20.8,
-      21.22,
-      "fucking"
-    ],
-    [
-      21.22,
-      21.58,
-      "sucks"
-    ],
-    [
-      21.58,
-      22.12,
-      "ass."
-    ],
-    [
-      30.27,
-      30.89,
-      "Fuck"
-    ],
-    [
-      30.89,
-      31.11,
-      "it."
-    ],
-    [
-      31.55,
-      31.95,
-      "I'M"
-    ],
-    [
-      31.95,
-      32.35,
-      "COMING"
-    ],
-    [
-      32.35,
-      33.11,
-      "LUCIA!"
-    ],
-    [
-      34.13,
-      34.53,
-      "HOLD!"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795486052,
   "meta": {
     "hook": "THIS GUN IS TRASH BUT HE CHARGES IN",
     "title": "Ludwig hates his gun then charges in anyway in GTA 6 😭 #shorts",
-    "description": "Ludwig complains about his gun in GTA 6, then goes in loud to save Lucia 💀\n\nWould you rush in with a bad weapon? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig complains about his gun in GTA 6, then goes in loud to save Lucia 💀\n\nWould you rush in with a bad weapon? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -101,5 +39,7 @@
     ],
     "ig_caption": "Ludwig hates his gun in GTA 6, then runs in to save Lucia anyway 💀 Would you? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #gta6funny",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795489697
 }

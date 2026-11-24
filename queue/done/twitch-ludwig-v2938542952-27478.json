@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2938542952-27478",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 02:07",
+  "game": "GTA 6",
+  "start": 27441.95,
+  "end": 27491,
+  "peak": 27478,
+  "score": 1.99,
+  "language": "en",
+  "transcript": "The fuck outta here. Your eyes are on the gas, Denny. I'm in the eyes. Yeah. All right, we're going. We out. W adrenaline. OK, now we just got out. We're on the coppers. Then this is like a quarter mil payday, dude. No, it wasn't that much. How much was it? 100k? 150 maybe? I don't even know. It seems easy. Focus, focus, focus. Focus on the here and now.",
+  "chat_sample": [],
+  "created_unix": 1795486059,
+  "meta": {
+    "hook": "HOW MUCH DID THAT HEIST PAY",
+    "title": "Ludwig escapes the cops and argues over the payday in GTA 6 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig and the crew get away from the cops in GTA 6, and nobody agrees on how much the job paid 💀\n\nIs it a quarter mil or not? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "grand theft auto 6",
+      "gta 6 heist",
+      "gta 6 cop chase",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's crew escapes the cops in GTA 6 and can't agree on the payday 💀 Quarter mil or not? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels #gta6heist",
+    "source": "claude"
+  },
+  "duration_s": 51.0,
+  "rendered_unix": 1795489646
+}
