@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-23575",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -604,5 +604,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795482558,
-  "meta": null
+  "meta": null,
+  "reject_reason": "mostly scripted in-game mission dialogue (security checkpoint lines)"
 }

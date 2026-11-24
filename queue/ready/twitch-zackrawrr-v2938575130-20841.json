@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-20841",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -389,5 +389,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795482654,
-  "meta": null
+  "meta": null,
+  "reject_reason": "off-topic chat about news/layoffs, no GTA moment"
 }
