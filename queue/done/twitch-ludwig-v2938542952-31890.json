@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2938542952-31890",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 03:06",
+  "game": "GTA 6",
+  "start": 31858,
+  "end": 31903,
+  "peak": 31890,
+  "score": 2.07,
+  "language": "en",
+  "transcript": "Oh fuck masks on by the way, all right how much how much we got here 40k already y 'all 40k already 80k Drop a bag off",
+  "chat_sample": [],
+  "created_unix": 1795489633,
+  "meta": {
+    "hook": "MASKS ON, 80K AND COUNTING",
+    "title": "Ludwig pulls a heist and stacks 80K in GTA 6 🔥 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run turns into a full-on heist, and the cash keeps climbing 💰\n\nWould you pull the job non-lethal? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "gta 6 heist",
+      "gta 6 non lethal",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig masks up and the cash hits 80K in GTA 6 💰 Could you pull it off non-lethal? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795493292
+}

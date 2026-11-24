@@ -495,5 +495,97 @@
     },
     "duration_s": 46.4,
     "release": "2026-11-24-16-zackrawrr"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-31890",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "MASKS ON, 80K AND COUNTING",
+      "title": "Ludwig pulls a heist and stacks 80K in GTA 6 🔥 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run turns into a full-on heist, and the cash keeps climbing 💰\n\nWould you pull the job non-lethal? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "ludwig",
+        "gta 6 heist",
+        "gta 6 non lethal",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Ludwig masks up and the cash hits 80K in GTA 6 💰 Could you pull it off non-lethal? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-24-17-ludwig"
+  },
+  {
+    "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-8550",
+    "streamer": "theburntpeanut",
+    "streamer_name": "theburntpeanut",
+    "channel_url": "https://kick.com/theburntpeanut",
+    "meta": {
+      "hook": "DON'T FREEZE UP ON ME NOW",
+      "title": "theburntpeanut begs his ride not to freeze in GTA 6 😭 #shorts",
+      "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\ntheburntpeanut's day 5 GTA 6 run gets chaotic when everything starts freezing up 💀\n\nWhat's the funniest GTA 6 glitch you've hit? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "theburntpeanut",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 glitch",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "theburntpeanut pleading with GTA 6 not to freeze up on him 😭 What's the worst glitch you've seen? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 50.9,
+    "release": "2026-11-24-18-theburntpeanut"
+  },
+  {
+    "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-9261",
+    "streamer": "theburntpeanut",
+    "streamer_name": "theburntpeanut",
+    "channel_url": "https://kick.com/theburntpeanut",
+    "meta": {
+      "hook": "YOU DON'T STAND A CHANCE BUDDY",
+      "title": "theburntpeanut's GTA 6 driving trash talk 🚗 #shorts",
+      "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\ntheburntpeanut trash-talks everyone's driving skills in GTA 6 🚗💨\n\nWho's the worst driver you know? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "theburntpeanut",
+        "gta 6 driving",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 0,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "theburntpeanut roasting everyone's driving in GTA 6 🚗 Who's the worst driver you know? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-24-19-theburntpeanut"
   }
 ]
