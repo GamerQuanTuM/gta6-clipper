@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-30225",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -344,5 +344,30 @@
   ],
   "chat_sample": [],
   "created_unix": 1795536855,
-  "meta": null
+  "meta": {
+    "hook": "YAHAN SE NIKALNA MUSHKIL HAI",
+    "title": "Soulaman ka GTA 6 me helicopter wala escape 😭 #gta6 #shorts",
+    "description": "Soulaman GTA 6 me helicopter ke beech se nikalne ki koshish karte hain, aur end me sab gadbad ho jata hai 💀\n\nKya wo bach paaye? Comment me batao 👇\n\n#gta6 #gtavi #soulaman #hindigaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "hindi gaming",
+      "streamer moments",
+      "shorts",
+      "gta 6 chase",
+      "gta 6 helicopter",
+      "soulaman gta 6"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Helicopter, tezz gaadi aur 'mar gaya, mar gaya' 😭 Soulaman ka GTA 6 escape kaisa raha? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #hindigaming #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

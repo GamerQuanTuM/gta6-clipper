@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-30029",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -214,5 +214,29 @@
   ],
   "chat_sample": [],
   "created_unix": 1795536831,
-  "meta": null
+  "meta": {
+    "hook": "ROAD BLOCK AUR TYRE PUNCTURE",
+    "title": "Soulaman ka GTA 6 me road block aur punctured tyre 😭 #gta6 #shorts",
+    "description": "Soulaman GTA 6 me parking dhundte dhundte road block me fas gaye aur tyre pehle se punctured 💀\n\nAapke saath GTA 6 me kabhi aisa hua? Comment karo 👇\n\n#gta6 #gtavi #soulaman #hindigaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "hindi gaming",
+      "streamer moments",
+      "shorts",
+      "gta 6 funny moments",
+      "soulaman gta 6"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman GTA 6 me road block me fas gaye aur tyre bhi pehle se punctured 😭 Aapke saath aisa hua? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #hindigaming #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
