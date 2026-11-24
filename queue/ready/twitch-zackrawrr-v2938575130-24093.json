@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-24093",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -184,5 +184,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795486096,
-  "meta": null
+  "meta": {
+    "hook": "SO MANY OF THEM IN GTA 6",
+    "title": "zackrawrr uses his ability in a packed GTA 6 shootout #shorts",
+    "description": "zackrawrr pops his ability and takes on a crowd of enemies in GTA 6 🔫\n\nHow would you clear this room? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "zackrawrr",
+      "grand theft auto 6",
+      "gta 6 shootout",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr pops his ability against a crowd in GTA 6 🔫 How would you clear this? 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

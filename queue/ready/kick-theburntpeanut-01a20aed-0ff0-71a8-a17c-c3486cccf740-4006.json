@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-4006",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -339,5 +339,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795486702,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Mostly scripted in-game dialogue/cutscene lines (throne, Satan chant), not a live reaction"
 }
