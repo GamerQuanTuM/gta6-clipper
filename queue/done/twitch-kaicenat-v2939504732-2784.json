@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2939504732-2784",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2939504732",
+  "vod_id": "v2939504732",
+  "vod_title": "KAI VS SPEED: FIRST TO MAKE A MILLION DOLLARS IN GTA 6 2026-11-24 19:08",
+  "game": "GTA 6",
+  "start": 2748.15,
+  "end": 2797,
+  "peak": 2784,
+  "score": 1.91,
+  "language": "en",
+  "transcript": "We go we go They go they go Yeah, oh, yeah How much money you got I got zero dollars sir. I got zero dollars Dollars come on Casey come on Casey come on Casey Yo, let's just help me you stop Help me stop helping Oh shit",
+  "chat_sample": [],
+  "created_unix": 1795547310,
+  "meta": {
+    "hook": "KAI HAS ZERO DOLLARS IN GTA 6",
+    "title": "Kai Cenat starts with $0 in the GTA 6 money race 😭 #gta6 #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat's GTA 6 money race goes chaotic with zero dollars in his pocket 💀\n\nCould you win a GTA 6 race to a million from zero? 👇\n\n#gta6 #gtavi #kaicenat #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "kai cenat",
+      "kaicenat",
+      "kai vs speed",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat has zero dollars and total chaos in the GTA 6 money race 😭 Could you win from zero? 👇\n\n🎥 KaiCenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #gaming #streamer #funny #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.8,
+  "rendered_unix": 1795551230
+}
