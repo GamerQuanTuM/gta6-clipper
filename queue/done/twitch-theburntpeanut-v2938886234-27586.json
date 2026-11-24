@@ -1,0 +1,44 @@
+{
+  "id": "twitch-theburntpeanut-v2938886234-27586",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "theburntpeanut",
+  "streamer_name": "TheBurntPeanut",
+  "channel_url": "https://www.twitch.tv/theburntpeanut",
+  "vod_url": "https://www.twitch.tv/videos/2938886234",
+  "vod_id": "v2938886234",
+  "vod_title": "[DROPS] GTA 6 | DAY 5 | DIMENSIONAL RIFTS, DEMONS, SECRET MISSIONS | POSSIBLY 1ST STREAMER TO FINISH STORY | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 27554,
+  "end": 27601.34,
+  "peak": 27586,
+  "score": 2.19,
+  "language": "en",
+  "transcript": "Maybe an alcoholic What the hell better call scooter better call mr. Scooter. He can fix this for me. He's good with the tans You know he got no gas in it. They got no gas in it mouse ahead on over to the buff guys",
+  "chat_sample": [],
+  "created_unix": 1795522343,
+  "meta": {
+    "hook": "NO GAS AND NO PLAN",
+    "title": "TheBurntPeanut calls for help after GTA 6 car runs dry #gta6 #shorts",
+    "description": "🎥 Clip from TheBurntPeanut's live stream: https://www.twitch.tv/theburntpeanut\n\nTheBurntPeanut's GTA 6 ride has no gas, so who's he calling? Mr. Scooter to the rescue 😂\n\nWho would you call in this situation? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "the burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "TheBurntPeanut's car has no gas in GTA 6 and he's calling Mr. Scooter 😂 Who would you call? 👇\n\n🎥 TheBurntPeanut (twitch.tv/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.3,
+  "rendered_unix": 1795526165
+}
