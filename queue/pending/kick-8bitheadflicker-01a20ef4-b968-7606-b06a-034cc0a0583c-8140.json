@@ -1,0 +1,73 @@
+{
+  "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-8140",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "8bitheadflicker",
+  "streamer_name": "8bitheadflicker",
+  "channel_url": "https://kick.com/8bitheadflicker",
+  "vod_url": "https://kick.com/8bitheadflicker/videos/01a20ef4-b968-7606-b06a-034cc0a0583c#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a20ef4-b968-7606-b06a-034cc0a0583c",
+  "vod_title": "GTA 6 IS FINALLY HERE | Gameplay Walkthrough | Day 7 #s8ul #gta6",
+  "game": "GTA 6",
+  "start": 8108,
+  "end": 8153,
+  "peak": 8140,
+  "score": 2.58,
+  "language": "hi",
+  "transcript": "करते हैं ग लोणको अपलापन सबने और भाखज़ को अपलाप",
+  "words": [
+    [
+      38.96,
+      40.36,
+      "करते"
+    ],
+    [
+      40.36,
+      41.76,
+      "हैं"
+    ],
+    [
+      41.78,
+      41.86,
+      "ग"
+    ],
+    [
+      41.86,
+      42.48,
+      "लोणको"
+    ],
+    [
+      42.48,
+      42.84,
+      "अपलापन"
+    ],
+    [
+      42.84,
+      43.32,
+      "सबने"
+    ],
+    [
+      43.32,
+      43.42,
+      "और"
+    ],
+    [
+      43.42,
+      44.58,
+      "भाखज़"
+    ],
+    [
+      44.58,
+      44.8,
+      "को"
+    ],
+    [
+      44.8,
+      45.0,
+      "अपलाप"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795559349,
+  "meta": null
+}

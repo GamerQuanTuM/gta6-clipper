@@ -1,0 +1,218 @@
+{
+  "id": "twitch-jynxzi-v2939550825-12762",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴 2026-11-24 22:10",
+  "game": "GTA 6",
+  "start": 12726.34,
+  "end": 12773.71,
+  "peak": 12762,
+  "score": 2.78,
+  "language": "en",
+  "transcript": "You might want to watch your back wheel in case coming I do smell my me home no mom is way First place bitch, what did I say Chad come on? Kitty litter drugs what did I say brah?",
+  "words": [
+    [
+      0.15,
+      0.61,
+      "You"
+    ],
+    [
+      0.61,
+      0.71,
+      "might"
+    ],
+    [
+      0.71,
+      0.83,
+      "want"
+    ],
+    [
+      0.83,
+      0.93,
+      "to"
+    ],
+    [
+      0.93,
+      1.13,
+      "watch"
+    ],
+    [
+      1.13,
+      1.27,
+      "your"
+    ],
+    [
+      1.27,
+      1.53,
+      "back"
+    ],
+    [
+      1.53,
+      1.85,
+      "wheel"
+    ],
+    [
+      1.85,
+      2.57,
+      "in"
+    ],
+    [
+      2.57,
+      3.07,
+      "case"
+    ],
+    [
+      3.07,
+      3.79,
+      "coming"
+    ],
+    [
+      17.29,
+      17.65,
+      "I"
+    ],
+    [
+      17.65,
+      18.37,
+      "do"
+    ],
+    [
+      18.37,
+      18.93,
+      "smell"
+    ],
+    [
+      18.93,
+      19.29,
+      "my"
+    ],
+    [
+      19.29,
+      19.49,
+      "me"
+    ],
+    [
+      19.49,
+      19.97,
+      "home"
+    ],
+    [
+      19.97,
+      21.17,
+      "no"
+    ],
+    [
+      21.17,
+      21.45,
+      "mom"
+    ],
+    [
+      21.45,
+      21.69,
+      "is"
+    ],
+    [
+      21.69,
+      22.01,
+      "way"
+    ],
+    [
+      33.0,
+      33.72,
+      "First"
+    ],
+    [
+      35.42,
+      35.82,
+      "place"
+    ],
+    [
+      35.82,
+      36.34,
+      "bitch,"
+    ],
+    [
+      36.62,
+      37.14,
+      "what"
+    ],
+    [
+      37.14,
+      37.28,
+      "did"
+    ],
+    [
+      37.28,
+      37.4,
+      "I"
+    ],
+    [
+      37.4,
+      37.64,
+      "say"
+    ],
+    [
+      37.64,
+      38.02,
+      "Chad"
+    ],
+    [
+      38.02,
+      38.32,
+      "come"
+    ],
+    [
+      38.32,
+      38.68,
+      "on?"
+    ],
+    [
+      39.94,
+      40.74,
+      "Kitty"
+    ],
+    [
+      40.74,
+      41.02,
+      "litter"
+    ],
+    [
+      41.02,
+      41.54,
+      "drugs"
+    ],
+    [
+      41.54,
+      42.64,
+      "what"
+    ],
+    [
+      45.29,
+      45.67,
+      "did"
+    ],
+    [
+      45.67,
+      45.93,
+      "I"
+    ],
+    [
+      45.93,
+      46.33,
+      "say"
+    ],
+    [
+      46.33,
+      47.07,
+      "brah?"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795558242,
+  "meta": null
+}
