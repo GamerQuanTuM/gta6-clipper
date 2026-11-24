@@ -1,6 +1,6 @@
 {
   "id": "twitch-lirik-v2938489614-20785",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lirik",
   "streamer_name": "LIRIK",
@@ -64,5 +64,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795475411,
-  "meta": null
+  "meta": {
+    "hook": "LIRIK THINKS HE IS WINNING THIS",
+    "title": "LIRIK locks in for a GTA 6 race and says he's winning 🏁 #gta6 #shorts",
+    "description": "LIRIK gets hyped mid-race in GTA 6 and swears he's winning this one 🏁\n\nDid he actually pull it off? 👇\n\n#gta6 #gtavi #lirik #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "lirik",
+      "lirik gta 6",
+      "gta 6 race",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "LIRIK gets hyped mid-race in GTA 6 and swears he's winning 🏁 Did he pull it off? 👇\n\n🎥 LIRIK (twitch.tv/lirik)\n\n#gta6 #gtavi #lirik #gaming #streamer #twitch #reels",
+    "source": "claude"
+  }
 }

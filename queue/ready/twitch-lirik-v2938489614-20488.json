@@ -1,6 +1,6 @@
 {
   "id": "twitch-lirik-v2938489614-20488",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "lirik",
   "streamer_name": "LIRIK",
@@ -144,5 +144,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795475416,
-  "meta": null
+  "meta": {
+    "hook": "LIRIK SAYS THE RACE IS RIGGED",
+    "title": "LIRIK loses it over a 'scripted' race in GTA 6 😤 #gta6 #shorts",
+    "description": "LIRIK is convinced this GTA 6 race is scripted as hell 💀\n\nIs the rubber-banding real or is he just salty? Tell us below 👇\n\n#gta6 #gtavi #lirik #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "lirik",
+      "lirik gta 6",
+      "gta 6 race",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "LIRIK says this GTA 6 race is scripted as hell 😤 Rigged or just salty? 👇\n\n🎥 LIRIK (twitch.tv/lirik)\n\n#gta6 #gtavi #lirik #gaming #streamer #twitch #reels",
+    "source": "claude"
+  }
 }

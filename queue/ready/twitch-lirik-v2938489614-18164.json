@@ -1,6 +1,6 @@
 {
   "id": "twitch-lirik-v2938489614-18164",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lirik",
   "streamer_name": "LIRIK",
@@ -504,5 +504,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795475425,
-  "meta": null
+  "meta": null,
+  "reject_reason": "scripted in-game heist dialogue, not a live reaction"
 }

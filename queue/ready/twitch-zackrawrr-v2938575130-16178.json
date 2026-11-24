@@ -1,6 +1,6 @@
 {
   "id": "twitch-zackrawrr-v2938575130-16178",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "zackrawrr",
   "streamer_name": "zackrawrr",
@@ -619,5 +619,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795475519,
-  "meta": null
+  "meta": {
+    "hook": "THE SECRET FURRY HIDEOUT IN GTA 6",
+    "title": "zackrawrr heads to the 'secret furry hideout' in GTA 6 😭 #gta6 #shorts",
+    "description": "Cops on his tail and zackrawrr is racing to the 'secret furry hideout' in GTA 6 😭\n\nWhat is going on in this mission? 👇\n\n#gta6 #gtavi #zackrawrr #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "zackrawrr",
+      "zackrawrr gta 6",
+      "gta 6 mission",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "zackrawrr is racing to the 'secret furry hideout' in GTA 6 😭 What is this mission?! 👇\n\n🎥 zackrawrr (twitch.tv/zackrawrr)\n\n#gta6 #gtavi #zackrawrr #gaming #streamer #twitch #reels",
+    "source": "claude"
+  }
 }
