@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-85028",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -924,5 +924,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795543897,
-  "meta": null
+  "meta": null,
+  "reject_reason": "off-topic chat about Casino Royale, not the game"
 }

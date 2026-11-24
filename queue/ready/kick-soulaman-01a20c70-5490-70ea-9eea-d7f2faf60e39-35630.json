@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-35630",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -104,5 +104,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795544515,
-  "meta": null
+  "meta": null,
+  "reject_reason": "garbled Hindi transcript, nothing clear happening"
 }
