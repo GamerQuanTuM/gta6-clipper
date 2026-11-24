@@ -1,6 +1,6 @@
 {
   "id": "twitch-lirik-v2938489614-20785",
-  "status": "ready",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "lirik",
   "streamer_name": "LIRIK",
@@ -15,53 +15,6 @@
   "score": 1.74,
   "language": "en",
   "transcript": "Dirt slam 5k I'm winning this I'm winning this",
-  "words": [
-    [
-      25.24,
-      25.88,
-      "Dirt"
-    ],
-    [
-      25.88,
-      26.2,
-      "slam"
-    ],
-    [
-      26.2,
-      27.56,
-      "5k"
-    ],
-    [
-      44.92,
-      45.56,
-      "I'm"
-    ],
-    [
-      45.56,
-      45.72,
-      "winning"
-    ],
-    [
-      45.72,
-      46.0,
-      "this"
-    ],
-    [
-      46.0,
-      46.18,
-      "I'm"
-    ],
-    [
-      46.18,
-      46.32,
-      "winning"
-    ],
-    [
-      46.32,
-      46.7,
-      "this"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795475411,
   "meta": {
@@ -85,5 +38,6 @@
     ],
     "ig_caption": "LIRIK gets hyped mid-race in GTA 6 and swears he's winning 🏁 Did he pull it off? 👇\n\n🎥 LIRIK (twitch.tv/lirik)\n\n#gta6 #gtavi #lirik #gaming #streamer #twitch #reels",
     "source": "claude"
-  }
+  },
+  "reject_reason": "audio muted in the source stream"
 }
