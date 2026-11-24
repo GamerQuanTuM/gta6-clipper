@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-17721",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -324,5 +324,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795526111,
-  "meta": null
+  "meta": {
+    "hook": "CLEAR CLEAR CLEAR EASY BHAI",
+    "title": "Soulaman ka GTA 6 heist me paisa hi paisa 😭 #gta6 #shorts",
+    "description": "Soulaman ne GTA 6 me clean heist nikal ke bahut paisa bana liya 💰\n\nAap isme kitna kama paate? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 heist",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 heist: clear, clear, clear, easy! 💰 Aap kitna kama lete? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gtaindia #gaming #reels #streamer",
+    "source": "claude"
+  }
 }

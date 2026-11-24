@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-19124",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -399,5 +399,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795526086,
-  "meta": null
+  "meta": {
+    "hook": "HAR ROBBERY KE BAAD EK CHUMMI",
+    "title": "Soulaman ke GTA 6 heist ka funny rule 😂 #gta6 #shorts",
+    "description": "Soulaman ne GTA 6 heist ke liye apne partner ke saath ek funny reward rule bana diya 😂\n\nAapke squad ka rule kya hai? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 heist",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "indian streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "GTA 6 heist ke har success par ek special reward! 😂 Aapke squad ka rule kya hai? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gtaindia #gaming #reels #streamer",
+    "source": "claude"
+  }
 }
