@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-1326",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -119,5 +119,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795551405,
-  "meta": null
+  "meta": {
+    "hook": "BHAI FIGHT MODE ON HO GAYA",
+    "title": "8bitheadflicker ka GTA 6 me full fight mode 😭 #gta6 #shorts",
+    "description": "8bitheadflicker GTA 6 me fight ke liye ready ho gaya 💀\n\nTumhe kya lagta hai, ye fight jeeta ya nahi? 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "8bitheadflicker",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 fight",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "8bitheadflicker ne GTA 6 me fight mode on kar diya 💀 Tum hote to kya karte? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6india #gta6hindi #8bitheadflicker #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

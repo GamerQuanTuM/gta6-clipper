@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-1036",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -139,5 +139,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795551382,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript is garbled/unintelligible; no clear moment or reaction to build a hook on."
 }
