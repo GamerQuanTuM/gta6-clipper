@@ -1,0 +1,113 @@
+{
+  "id": "kick-adinross-01a20c78-2490-715b-b9d4-46ec4a46d9bc-15801",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "adinross",
+  "streamer_name": "adinross",
+  "channel_url": "https://kick.com/adinross",
+  "vod_url": "https://kick.com/adinross/videos/01a20c78-2490-715b-b9d4-46ec4a46d9bc#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a20c78-2490-715b-b9d4-46ec4a46d9bc",
+  "vod_title": "GTA 6 PART 5",
+  "game": "GTA 6",
+  "start": 15768.19,
+  "end": 15814,
+  "peak": 15801,
+  "score": 2.36,
+  "language": "en",
+  "transcript": "Bro this car is amazing Yo, how do I save this car Oh my god move fucking retard",
+  "words": [
+    [
+      0.15,
+      0.65,
+      "Bro"
+    ],
+    [
+      0.65,
+      0.83,
+      "this"
+    ],
+    [
+      0.83,
+      1.07,
+      "car"
+    ],
+    [
+      1.07,
+      1.21,
+      "is"
+    ],
+    [
+      1.21,
+      1.69,
+      "amazing"
+    ],
+    [
+      6.03,
+      6.51,
+      "Yo,"
+    ],
+    [
+      7.85,
+      7.97,
+      "how"
+    ],
+    [
+      7.97,
+      8.03,
+      "do"
+    ],
+    [
+      8.03,
+      8.13,
+      "I"
+    ],
+    [
+      8.13,
+      8.41,
+      "save"
+    ],
+    [
+      8.41,
+      8.63,
+      "this"
+    ],
+    [
+      8.63,
+      9.05,
+      "car"
+    ],
+    [
+      30.25,
+      31.39,
+      "Oh"
+    ],
+    [
+      31.39,
+      31.79,
+      "my"
+    ],
+    [
+      31.79,
+      31.99,
+      "god"
+    ],
+    [
+      31.99,
+      32.59,
+      "move"
+    ],
+    [
+      32.59,
+      34.15,
+      "fucking"
+    ],
+    [
+      34.15,
+      34.69,
+      "retard"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795522428,
+  "meta": null
+}
