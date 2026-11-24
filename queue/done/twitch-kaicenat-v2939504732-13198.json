@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2939504732-13198",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2939504732",
+  "vod_id": "v2939504732",
+  "vod_title": "KAI VS SPEED: FIRST TO MAKE A MILLION DOLLARS IN GTA 6 2026-11-24 22:07",
+  "game": "GTA 6",
+  "start": 13164.17,
+  "end": 13209.4,
+  "peak": 13198,
+  "score": 2.26,
+  "language": "en",
+  "transcript": "What oh my god, I think Lucy's getting caught bro Yo, bro. Oh my god. It's over GGs GGs in the chat GGs in the chat My god, it's over. It's over. I think I dropped the bag though. I dropped the bag though So it's good. I think I dropped the bag. It's good. It's okay. It's okay Oh my god, oh it gets it doesn't get impounded.",
+  "chat_sample": [],
+  "created_unix": 1795558063,
+  "meta": {
+    "hook": "IT'S OVER, GGS IN THE CHAT",
+    "title": "Kai Cenat thinks he's caught in his GTA 6 million dollar race #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat panics mid-heist in his GTA 6 race to a million vs Speed 😭\n\nDid he keep the bag? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat gta 6",
+      "kai vs speed",
+      "gta 6 million dollar race",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat thinks it's OVER mid-heist in the GTA 6 race to a million vs Speed 😭 Did he keep the bag? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.2,
+  "rendered_unix": 1795561858
+}

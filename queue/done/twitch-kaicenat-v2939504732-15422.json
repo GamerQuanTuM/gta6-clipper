@@ -1,0 +1,45 @@
+{
+  "id": "twitch-kaicenat-v2939504732-15422",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "kaicenat",
+  "streamer_name": "KaiCenat",
+  "channel_url": "https://www.twitch.tv/kaicenat",
+  "vod_url": "https://www.twitch.tv/videos/2939504732",
+  "vod_id": "v2939504732",
+  "vod_title": "KAI VS SPEED: FIRST TO MAKE A MILLION DOLLARS IN GTA 6 2026-11-24 22:07",
+  "game": "GTA 6",
+  "start": 15390,
+  "end": 15433.01,
+  "peak": 15422,
+  "score": 2.32,
+  "language": "en",
+  "transcript": "Think about it, bro. I'm up That I'm up 60 k. I know I know I know I know he can do a vault and take it in tech If he does do a hundred k the ball is gonna be worth it. No go vault You hear that bitch No Stop talking to people stop talking to people bro. No, you like you keep talking to people bro. This is it y 'all. This is it",
+  "chat_sample": [],
+  "created_unix": 1795558057,
+  "meta": {
+    "hook": "KAI IS UP 60K, THIS IS IT",
+    "title": "Kai Cenat is up 60K in his GTA 6 race to a million vs Speed #shorts",
+    "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat is up 60K in the GTA 6 million dollar race and the tension is real 💰\n\nWho wins, Kai or Speed? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "kai cenat",
+      "kaicenat gta 6",
+      "kai vs speed",
+      "gta 6 million dollar race",
+      "gta 6 heist",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Kai Cenat is up 60K in the GTA 6 race to a million vs Speed 💰 Who's winning? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+    "source": "claude"
+  },
+  "duration_s": 45.0,
+  "rendered_unix": 1795562038
+}

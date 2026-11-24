@@ -255,5 +255,98 @@
     },
     "duration_s": 47.0,
     "release": "2026-11-25-08-8bitheadflicker"
+  },
+  {
+    "id": "twitch-kaicenat-v2939504732-13198",
+    "streamer": "kaicenat",
+    "streamer_name": "KaiCenat",
+    "channel_url": "https://www.twitch.tv/kaicenat",
+    "meta": {
+      "hook": "IT'S OVER, GGS IN THE CHAT",
+      "title": "Kai Cenat thinks he's caught in his GTA 6 million dollar race #shorts",
+      "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat panics mid-heist in his GTA 6 race to a million vs Speed 😭\n\nDid he keep the bag? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "kai cenat",
+        "kaicenat gta 6",
+        "kai vs speed",
+        "gta 6 million dollar race",
+        "gta 6 funny moments",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Kai Cenat thinks it's OVER mid-heist in the GTA 6 race to a million vs Speed 😭 Did he keep the bag? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.2,
+    "release": "2026-11-25-09-kaicenat"
+  },
+  {
+    "id": "twitch-jynxzi-v2939550825-12616",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "CHAT SAID HE CAN'T DRIVE",
+      "title": "Jynxzi tries to prove he can drive in GTA 6 #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi is about to silence the doubters with some GTA 6 driving 🚗\n\nCan he actually drive? Vote below 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "jynxzi gta 6",
+        "gta 6 driving",
+        "gta 6 funny moments",
+        "grand theft auto 6",
+        "gta 6 gameplay",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Jynxzi says chat is about to be ERASED for doubting his driving in GTA 6 🚗 Can he actually drive? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.5,
+    "release": "2026-11-25-10-jynxzi"
+  },
+  {
+    "id": "twitch-kaicenat-v2939504732-15422",
+    "streamer": "kaicenat",
+    "streamer_name": "KaiCenat",
+    "channel_url": "https://www.twitch.tv/kaicenat",
+    "meta": {
+      "hook": "KAI IS UP 60K, THIS IS IT",
+      "title": "Kai Cenat is up 60K in his GTA 6 race to a million vs Speed #shorts",
+      "description": "🎥 Clip from KaiCenat's live stream: https://www.twitch.tv/kaicenat\n\nKai Cenat is up 60K in the GTA 6 million dollar race and the tension is real 💰\n\nWho wins, Kai or Speed? 👇\n\n#gta6 #gtavi #kaicenat #speed #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "kai cenat",
+        "kaicenat gta 6",
+        "kai vs speed",
+        "gta 6 million dollar race",
+        "gta 6 heist",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Kai Cenat is up 60K in the GTA 6 race to a million vs Speed 💰 Who's winning? 👇\n\n🎥 Kai Cenat (twitch.tv/kaicenat)\n\n#gta6 #gtavi #kaicenat #speed #gaming #reels",
+      "source": "claude"
+    },
+    "duration_s": 45.0,
+    "release": "2026-11-25-11-kaicenat"
   }
 ]
