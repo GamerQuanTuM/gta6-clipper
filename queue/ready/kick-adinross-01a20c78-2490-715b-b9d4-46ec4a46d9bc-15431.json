@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a20c78-2490-715b-b9d4-46ec4a46d9bc-15431",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -229,5 +229,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795522414,
-  "meta": null
+  "meta": null,
+  "reject_reason": "off-game banter/argument with friends, no clear GTA moment"
 }

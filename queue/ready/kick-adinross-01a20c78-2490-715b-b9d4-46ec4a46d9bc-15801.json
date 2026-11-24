@@ -1,6 +1,6 @@
 {
   "id": "kick-adinross-01a20c78-2490-715b-b9d4-46ec4a46d9bc-15801",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "adinross",
   "streamer_name": "adinross",
@@ -109,5 +109,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795522428,
-  "meta": null
+  "meta": {
+    "hook": "BRO THIS CAR IS AMAZING",
+    "title": "Adin Ross finds an amazing car in GTA 6 and panics 😭 #gta6 #shorts",
+    "description": "Adin Ross falls in love with a car in GTA 6 and immediately tries to figure out how to save it 😂\n\nWould you keep this car or sell it? 👇\n\n#gta6 #gtavi #adinross #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "adin ross",
+      "adinross",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 cars",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Adin Ross finds an amazing car in GTA 6 and instantly panics about saving it 😂 Would you keep it? 👇\n\n🎥 adinross (kick.com/adinross)\n\n#gta6 #gtavi #adinross #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

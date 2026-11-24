@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-15963",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -279,5 +279,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795522638,
-  "meta": null
+  "meta": {
+    "hook": "ROBBERY KE LIYE KAUNSI CAR?",
+    "title": "Soulaman ka GTA 6 robbery car debate: fast ya durable? #gta6 #shorts",
+    "description": "GTA 6 me robbery ke liye fast car lena sahi ya durable military wali car? Chat aur Soulaman ka debate 🔥\n\nAap kaunsi car lete? Comment karo 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 robbery",
+      "gta 6 best car",
+      "grand theft auto 6",
+      "hindi gaming",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "GTA 6 me robbery ke liye fast car ya durable car? Soulaman ke stream pe full debate 🔥 Aap kaunsi lete? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }
