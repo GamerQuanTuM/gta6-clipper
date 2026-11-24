@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-9261",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -114,5 +114,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795490032,
-  "meta": null
+  "meta": {
+    "hook": "YOU DON'T STAND A CHANCE BUDDY",
+    "title": "theburntpeanut's GTA 6 driving trash talk 🚗 #shorts",
+    "description": "theburntpeanut trash-talks everyone's driving skills in GTA 6 🚗💨\n\nWho's the worst driver you know? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 driving",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut roasting everyone's driving in GTA 6 🚗 Who's the worst driver you know? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-31890",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -154,5 +154,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795489633,
-  "meta": null
+  "meta": {
+    "hook": "MASKS ON, 80K AND COUNTING",
+    "title": "Ludwig pulls a heist and stacks 80K in GTA 6 🔥 #shorts",
+    "description": "Ludwig's non-lethal GTA 6 run turns into a full-on heist, and the cash keeps climbing 💰\n\nWould you pull the job non-lethal? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "ludwig",
+      "gta 6 heist",
+      "gta 6 non lethal",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig masks up and the cash hits 80K in GTA 6 💰 Could you pull it off non-lethal? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a20aed-0ff0-71a8-a17c-c3486cccf740-8550",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -389,5 +389,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795490040,
-  "meta": null
+  "meta": {
+    "hook": "DON'T FREEZE UP ON ME NOW",
+    "title": "theburntpeanut begs his ride not to freeze in GTA 6 😭 #shorts",
+    "description": "theburntpeanut's day 5 GTA 6 run gets chaotic when everything starts freezing up 💀\n\nWhat's the funniest GTA 6 glitch you've hit? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 glitch",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut pleading with GTA 6 not to freeze up on him 😭 What's the worst glitch you've seen? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
