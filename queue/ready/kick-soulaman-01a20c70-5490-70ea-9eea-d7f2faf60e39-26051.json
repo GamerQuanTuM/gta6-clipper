@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-26051",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -314,5 +314,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795533304,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Garbled Hindi transcript, VOD titled 'Live November 10' predates GTA 6 launch so game label is doubtful; no clear moment"
 }

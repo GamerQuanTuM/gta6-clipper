@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-27106",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -354,5 +354,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795533378,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Donation/superchat talk about a bungalow price and 1 crore, no gameplay moment"
 }

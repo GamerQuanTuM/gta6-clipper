@@ -1,6 +1,6 @@
 {
   "id": "twitch-ludwig-v2938542952-74175",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "ludwig",
   "streamer_name": "Ludwig",
@@ -334,5 +334,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795533060,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not about the game: Ludwig is making a beat/song with chat; no gameplay moment"
 }

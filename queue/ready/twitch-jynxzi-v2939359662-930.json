@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939359662-930",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -99,5 +99,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795533082,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript reads like scripted in-game/NPC dialogue, not a live reaction (930 also under 20 words)"
 }
