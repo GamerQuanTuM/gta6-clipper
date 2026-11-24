@@ -1,0 +1,47 @@
+{
+  "id": "twitch-ludwig-v2938542952-34152",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 04:07",
+  "game": "GTA 6",
+  "start": 34120,
+  "end": 34167.65,
+  "peak": 34152,
+  "score": 2.14,
+  "language": "en",
+  "transcript": "Wow Oh my god, not the mural not the mural anything but the mural I was just car cell for 13 ,000 I don't mind this one I can sell us that paying sprays to you",
+  "chat_sample": [],
+  "created_unix": 1795493358,
+  "meta": {
+    "hook": "NOT THE MURAL ANYTHING BUT THE MURAL",
+    "title": "Ludwig loses it over a mural in GTA 6 💀 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's GTA 6 day 4 non-lethal run claims an unexpected victim 😭\n\nWhat's the funniest thing you've wrecked in GTA 6? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 mural",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig panics over a mural in GTA 6 😭 What's the funniest thing you've wrecked? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.7,
+  "rendered_unix": 1795522380
+}

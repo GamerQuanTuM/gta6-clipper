@@ -1,0 +1,49 @@
+{
+  "id": "twitch-ludwig-v2938542952-39925",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 06:18",
+  "game": "GTA 6",
+  "start": 39889.5,
+  "end": 39936.96,
+  "peak": 39925,
+  "score": 1.75,
+  "language": "en",
+  "transcript": "I'm gonna be so honest I thought that was an alleyway. I was actually like so fully convinced that was an alleyway. Just hard to fucking read the minimap when this shit is lighten up like a Christmas tree. Okay, well I could have told you that was a fucking wall. Five star? Why did he hit five star? What'd I do? Five star? Oh god. Why did he hit five star? I've never dealt with five star before. What?",
+  "chat_sample": [],
+  "created_unix": 1795501196,
+  "meta": {
+    "hook": "HOW DID HE HIT FIVE STARS",
+    "title": "Ludwig hits a wall, then FIVE STARS in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig mistakes a wall for an alleyway in GTA 6 and suddenly the heat is maxed out 🚔\n\nHave you survived five stars yet? 👇\n\n#gta6 #gtavi #ludwig #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 five star",
+      "gta 6 wanted level",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Ludwig thought it was an alleyway. It was a wall. Now it's five stars 🚔 Have you survived it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #fivestar #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 49.5,
+  "rendered_unix": 1795522146
+}

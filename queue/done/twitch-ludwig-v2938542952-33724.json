@@ -1,0 +1,47 @@
+{
+  "id": "twitch-ludwig-v2938542952-33724",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 04:07",
+  "game": "GTA 6",
+  "start": 33691.93,
+  "end": 33737,
+  "peak": 33724,
+  "score": 2.03,
+  "language": "en",
+  "transcript": "Who's not showing up on the map, but he's right here? My god meeting Choppa are you serious? 5000 cops and you just drive through it all fucking",
+  "chat_sample": [],
+  "created_unix": 1795493361,
+  "meta": {
+    "hook": "5000 COPS AND HE JUST DRIVES THROUGH",
+    "title": "Ludwig can't believe the cops in GTA 6 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig's non-lethal GTA 6 run keeps throwing chaos at him 🚔\n\nHow would you survive this many cops? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "ludwig gta 6",
+      "gta 6 cops",
+      "non lethal run",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Ludwig's non-lethal GTA 6 run keeps throwing cops at him 🚔 How would you handle it? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.1,
+  "rendered_unix": 1795522461
+}

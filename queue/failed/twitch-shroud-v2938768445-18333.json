@@ -1,0 +1,46 @@
+{
+  "id": "twitch-shroud-v2938768445-18333",
+  "status": "rejected",
+  "platform": "twitch",
+  "streamer": "shroud",
+  "streamer_name": "shroud",
+  "channel_url": "https://www.twitch.tv/shroud",
+  "vod_url": "https://www.twitch.tv/videos/2938768445",
+  "vod_id": "v2938768445",
+  "vod_title": "i guess ill try the 30fps controller experience.... feeling left out.... fomo.......",
+  "game": "GTA 6",
+  "start": 18297.18,
+  "end": 18346,
+  "peak": 18333,
+  "score": 2.45,
+  "language": "en",
+  "transcript": "Yeah, it looks like it You still driving that piece of shit car. Hey, the Phoenix was a classic. No, I got something This is wild. This is it. Oh What do you drive? Yeah, I'm not complaining. I like it. Nice outfit by the way. Hey address for These clothes are gross man Oh, I got your stuff. It's just right there She noticed my clothes guys It was worth it. I spent so much time and it was worth it Fuck yeah, I put a lot of effort into that",
+  "chat_sample": [],
+  "created_unix": 1795493446,
+  "meta": {
+    "hook": "SHE NOTICED HIS OUTFIT",
+    "title": "shroud's GTA 6 outfit effort finally pays off 😭 #shorts",
+    "description": "shroud spent a lot of time on his GTA 6 look and someone noticed 👀\n\nWhat's your GTA 6 character wearing? 👇\n\n#gta6 #gtavi #shroud #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "shroud",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "shroud gta 6",
+      "gta 6 outfit",
+      "gta 6 roleplay",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "shroud's GTA 6 outfit effort finally paid off 👀 What's your character wearing? 👇\n\n🎥 shroud (twitch.tv/shroud)\n\n#gta6 #gtavi #shroud #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "reject_reason": "audio muted in the source stream"
+}

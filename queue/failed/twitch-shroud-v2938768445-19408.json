@@ -1,0 +1,46 @@
+{
+  "id": "twitch-shroud-v2938768445-19408",
+  "status": "rejected",
+  "platform": "twitch",
+  "streamer": "shroud",
+  "streamer_name": "shroud",
+  "channel_url": "https://www.twitch.tv/shroud",
+  "vod_url": "https://www.twitch.tv/videos/2938768445",
+  "vod_id": "v2938768445",
+  "vod_title": "i guess ill try the 30fps controller experience.... feeling left out.... fomo.......",
+  "game": "GTA 6",
+  "start": 19376,
+  "end": 19419.88,
+  "peak": 19408,
+  "score": 2.52,
+  "language": "en",
+  "transcript": "Everyone's having so much fun. Trout made such a pretty boy. Yeah, dude. I mean, it was her big day. I gotta look good. Are you kidding me? I wasn't gonna go looking like Trash. No way. The big day she just got released. I can look like shit later.",
+  "chat_sample": [],
+  "created_unix": 1795493441,
+  "meta": {
+    "hook": "HE DRESSED UP FOR HER BIG DAY",
+    "title": "shroud refuses to look bad on release day in GTA 6 #shorts",
+    "description": "shroud insists on looking good for the big day in GTA 6 😂\n\nWould you dress up for launch day? 👇\n\n#gta6 #gtavi #shroud #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "shroud",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 clips",
+      "shroud gta 6",
+      "gta 6 release day",
+      "gta 6 outfit",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "shroud wasn't going to look trash on GTA 6's big day 😂 Would you dress up for launch? 👇\n\n🎥 shroud (twitch.tv/shroud)\n\n#gta6 #gtavi #shroud #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "reject_reason": "audio muted in the source stream"
+}
