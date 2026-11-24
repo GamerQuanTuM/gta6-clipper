@@ -1,0 +1,83 @@
+{
+  "id": "twitch-ludwig-v2938542952-25390",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 02:07",
+  "game": "GTA 6",
+  "start": 25358,
+  "end": 25403,
+  "peak": 25390,
+  "score": 1.99,
+  "language": "en",
+  "transcript": "Goddamn this gun fucking sucks ass. Fuck it. I'M COMING LUCIA! HOLD!",
+  "words": [
+    [
+      19.94,
+      20.5,
+      "Goddamn"
+    ],
+    [
+      20.5,
+      20.64,
+      "this"
+    ],
+    [
+      20.64,
+      20.8,
+      "gun"
+    ],
+    [
+      20.8,
+      21.22,
+      "fucking"
+    ],
+    [
+      21.22,
+      21.58,
+      "sucks"
+    ],
+    [
+      21.58,
+      22.12,
+      "ass."
+    ],
+    [
+      30.27,
+      30.89,
+      "Fuck"
+    ],
+    [
+      30.89,
+      31.11,
+      "it."
+    ],
+    [
+      31.55,
+      31.95,
+      "I'M"
+    ],
+    [
+      31.95,
+      32.35,
+      "COMING"
+    ],
+    [
+      32.35,
+      33.11,
+      "LUCIA!"
+    ],
+    [
+      34.13,
+      34.53,
+      "HOLD!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795486052,
+  "meta": null
+}

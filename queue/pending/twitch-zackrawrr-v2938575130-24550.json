@@ -1,0 +1,93 @@
+{
+  "id": "twitch-zackrawrr-v2938575130-24550",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "zackrawrr",
+  "streamer_name": "zackrawrr",
+  "channel_url": "https://www.twitch.tv/zackrawrr",
+  "vod_url": "https://www.twitch.tv/videos/2938575130",
+  "vod_id": "v2938575130",
+  "vod_title": "[DROPS ON] UNBANNED GTA 6 RELEASE STREAM FOREVER WOW STREAM W/KAISE LATER BIG DAY HUGE DRAMA NEW GAMES BIG NEWS !restedXP | @asmongold247 2026-11-24 02:08",
+  "game": "GTA 6",
+  "start": 24518,
+  "end": 24563,
+  "peak": 24550,
+  "score": 1.98,
+  "language": "en",
+  "transcript": "Okay Yeah, like put them in and out right it's like you're like waterboarding",
+  "words": [
+    [
+      26.53,
+      27.93,
+      "Okay"
+    ],
+    [
+      30.51,
+      31.05,
+      "Yeah,"
+    ],
+    [
+      31.15,
+      31.43,
+      "like"
+    ],
+    [
+      31.43,
+      31.67,
+      "put"
+    ],
+    [
+      31.67,
+      31.79,
+      "them"
+    ],
+    [
+      31.79,
+      31.93,
+      "in"
+    ],
+    [
+      31.93,
+      32.01,
+      "and"
+    ],
+    [
+      32.01,
+      32.29,
+      "out"
+    ],
+    [
+      32.29,
+      32.55,
+      "right"
+    ],
+    [
+      32.55,
+      32.87,
+      "it's"
+    ],
+    [
+      32.87,
+      33.01,
+      "like"
+    ],
+    [
+      33.01,
+      33.49,
+      "you're"
+    ],
+    [
+      33.49,
+      34.11,
+      "like"
+    ],
+    [
+      34.11,
+      34.81,
+      "waterboarding"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795486103,
+  "meta": null
+}
