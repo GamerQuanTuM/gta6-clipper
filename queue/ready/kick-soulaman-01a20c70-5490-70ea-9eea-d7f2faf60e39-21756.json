@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-21756",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -434,5 +434,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795529739,
-  "meta": null
+  "meta": {
+    "hook": "HELICOPTER SE BACH KE NIKLA",
+    "title": "Soulaman ka GTA 6 me police chase se escape 😮 #gta6 #shorts",
+    "description": "Soulaman ne GTA 6 me police aur helicopter se bachne ka plan bataya 🚁\n\nBhai ye escape possible tha ya nahi? Comment me batao 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "gta 6 police chase",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka GTA 6 me police aur helicopter se escape 🚁 Kya tum nikal paate? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #gta6hindi #gta6india #gaming #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a20c70-5490-70ea-9eea-d7f2faf60e39-22563",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -329,5 +329,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795529726,
-  "meta": null
+  "meta": {
+    "hook": "3 STAR WANTED LEVEL KA SACH",
+    "title": "Soulaman ne bataya GTA 6 me 3-4 star wanted ka haal 🚔 #gta6 #shorts",
+    "description": "Soulaman explain karte hain GTA 6 me wanted level kaise badhta hai aur 3-4 star pe gaadi kaise toot jaati hai 🚔\n\nTumhe sabse tough wanted level kaunsa laga? 👇\n\n#gta6 #gtavi #soulaman #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "soulaman",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "gta 6 police chase",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "GTA 6 me 3-4 star wanted pe halat kharab 🚔 Soulaman ka experience kaisa raha? Tumhara? 👇\n\n🎥 Soulaman (kick.com/soulaman)\n\n#gta6 #gtavi #soulaman #wantedlevel #gta6hindi #gaming #reels",
+    "source": "claude"
+  }
 }
