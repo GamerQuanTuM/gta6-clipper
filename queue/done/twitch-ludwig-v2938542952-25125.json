@@ -1,0 +1,47 @@
+{
+  "id": "twitch-ludwig-v2938542952-25125",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 01:07",
+  "game": "GTA 6",
+  "start": 25095.13,
+  "end": 25137.63,
+  "peak": 25125,
+  "score": 3.57,
+  "language": "en",
+  "transcript": "No, no way this guy's shit is fucked. No problem Hey Well, well the fuck is the hold up this guy man. Oh margin show up, and I don't know who the fuck this is Holy fuck that's crazy That's crazy Raul's an idiot. Oh My god, he put himself too close. He got too cocky Icarus the wings were powerful, but you can't get that close to the Sun my boy. Oh No, it's all over it's all over. They're gonna kill Raul right now.",
+  "chat_sample": [],
+  "created_unix": 1795482540,
+  "meta": {
+    "hook": "HE GOT TOO CLOSE TO THE SUN",
+    "title": "Ludwig calls Raul's GTA 6 downfall: Icarus, but worse 💀 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nRaul got too cocky in GTA 6 and Ludwig narrates the whole collapse like a Greek tragedy 💀\n\nWho's the Raul in your friend group? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 funny moments",
+      "gta 6 raul",
+      "gta 6 gameplay",
+      "streamer moments",
+      "gta 6 reaction",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Raul flew too close to the sun in GTA 6 and Ludwig had the Icarus commentary ready 💀 Who's the Raul in your group? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #funny #reels",
+    "source": "claude"
+  },
+  "duration_s": 44.5,
+  "rendered_unix": 1795486071
+}

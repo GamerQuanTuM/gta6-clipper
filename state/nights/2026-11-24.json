@@ -337,5 +337,70 @@
     },
     "duration_s": 49.3,
     "release": "2026-11-24-11-zackrawrr-16627"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-25125",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "HE GOT TOO CLOSE TO THE SUN",
+      "title": "Ludwig calls Raul's GTA 6 downfall: Icarus, but worse 💀 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nRaul got too cocky in GTA 6 and Ludwig narrates the whole collapse like a Greek tragedy 💀\n\nWho's the Raul in your friend group? 👇\n\n#gta6 #gtavi #ludwig #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "ludwig",
+        "ludwig gta 6",
+        "gta 6 funny moments",
+        "gta 6 raul",
+        "gta 6 gameplay",
+        "streamer moments",
+        "gta 6 reaction",
+        "shorts"
+      ],
+      "priority": 3,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Raul flew too close to the sun in GTA 6 and Ludwig had the Icarus commentary ready 💀 Who's the Raul in your group? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gaming #streamer #funny #reels",
+      "source": "claude"
+    },
+    "duration_s": 44.5,
+    "release": "2026-11-24-12-ludwig-25125"
+  },
+  {
+    "id": "twitch-ludwig-v2938542952-24867",
+    "streamer": "ludwig",
+    "streamer_name": "Ludwig",
+    "channel_url": "https://www.twitch.tv/ludwig",
+    "meta": {
+      "hook": "THE PLAN WAS PERFECT UNTIL THIS",
+      "title": "Ludwig's GTA 6 heist ends in a 5-star police chase 😭 #shorts",
+      "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig watches the perfect heist plan fall apart as one person's ambition brings five stars of cops down on the crew 🚔\n\nHave you ever had a plan ruined by one teammate? 👇\n\n#gta6 #gtavi #ludwig #heist #shorts #gaming",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "grand theft auto 6",
+        "ludwig",
+        "ludwig gta 6",
+        "gta 6 heist",
+        "gta 6 police chase",
+        "gta 6 five star",
+        "gta 6 funny moments",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 2,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "The plan was going perfectly... until one person's ambition brought five-star cops down on the whole crew 🚔 Who ruins every heist in your group? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gtaheist #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 47.0,
+    "release": "2026-11-24-13-ludwig"
   }
 ]

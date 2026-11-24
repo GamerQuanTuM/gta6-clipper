@@ -1,0 +1,46 @@
+{
+  "id": "twitch-ludwig-v2938542952-24867",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 01:07",
+  "game": "GTA 6",
+  "start": 24835,
+  "end": 24880,
+  "peak": 24867,
+  "score": 3.03,
+  "language": "en",
+  "transcript": "We're holding this now come on Here we go These meatheads really thought they were gonna get away with it here Look there's like such tension built up to plans being executed perfectly We keep this something ready to go a ride one person's ambition crashing the entire plan down cops everywhere five -star police chase",
+  "chat_sample": [],
+  "created_unix": 1795482548,
+  "meta": {
+    "hook": "THE PLAN WAS PERFECT UNTIL THIS",
+    "title": "Ludwig's GTA 6 heist ends in a 5-star police chase 😭 #shorts",
+    "description": "🎥 Clip from Ludwig's live stream: https://www.twitch.tv/ludwig\n\nLudwig watches the perfect heist plan fall apart as one person's ambition brings five stars of cops down on the crew 🚔\n\nHave you ever had a plan ruined by one teammate? 👇\n\n#gta6 #gtavi #ludwig #heist #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "ludwig",
+      "ludwig gta 6",
+      "gta 6 heist",
+      "gta 6 police chase",
+      "gta 6 five star",
+      "gta 6 funny moments",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "The plan was going perfectly... until one person's ambition brought five-star cops down on the whole crew 🚔 Who ruins every heist in your group? 👇\n\n🎥 Ludwig (twitch.tv/ludwig)\n\n#gta6 #gtavi #ludwig #gtaheist #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795486139
+}
