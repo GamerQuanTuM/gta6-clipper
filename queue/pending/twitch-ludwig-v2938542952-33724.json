@@ -1,0 +1,163 @@
+{
+  "id": "twitch-ludwig-v2938542952-33724",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "ludwig",
+  "streamer_name": "Ludwig",
+  "channel_url": "https://www.twitch.tv/ludwig",
+  "vod_url": "https://www.twitch.tv/videos/2938542952",
+  "vod_id": "v2938542952",
+  "vod_title": "🚘DAY 4 NON-LETHAL GTA VI RUN [DROPS ON] 🚘🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Alienware #GameChanger 2026-11-24 04:07",
+  "game": "GTA 6",
+  "start": 33691.93,
+  "end": 33737,
+  "peak": 33724,
+  "score": 2.03,
+  "language": "en",
+  "transcript": "Who's not showing up on the map, but he's right here? My god meeting Choppa are you serious? 5000 cops and you just drive through it all fucking",
+  "words": [
+    [
+      0.15,
+      0.77,
+      "Who's"
+    ],
+    [
+      0.77,
+      0.91,
+      "not"
+    ],
+    [
+      0.91,
+      1.09,
+      "showing"
+    ],
+    [
+      1.09,
+      1.25,
+      "up"
+    ],
+    [
+      1.25,
+      1.31,
+      "on"
+    ],
+    [
+      1.31,
+      1.39,
+      "the"
+    ],
+    [
+      1.39,
+      1.61,
+      "map,"
+    ],
+    [
+      1.61,
+      1.75,
+      "but"
+    ],
+    [
+      1.75,
+      1.85,
+      "he's"
+    ],
+    [
+      1.85,
+      1.97,
+      "right"
+    ],
+    [
+      1.97,
+      2.47,
+      "here?"
+    ],
+    [
+      7.99,
+      8.25,
+      "My"
+    ],
+    [
+      12.12,
+      13.02,
+      "god"
+    ],
+    [
+      13.02,
+      13.44,
+      "meeting"
+    ],
+    [
+      17.4,
+      18.04,
+      "Choppa"
+    ],
+    [
+      18.04,
+      18.62,
+      "are"
+    ],
+    [
+      31.81,
+      31.99,
+      "you"
+    ],
+    [
+      31.99,
+      32.69,
+      "serious?"
+    ],
+    [
+      34.01,
+      34.65,
+      "5000"
+    ],
+    [
+      34.65,
+      35.27,
+      "cops"
+    ],
+    [
+      35.27,
+      35.77,
+      "and"
+    ],
+    [
+      35.77,
+      35.87,
+      "you"
+    ],
+    [
+      35.87,
+      36.09,
+      "just"
+    ],
+    [
+      36.09,
+      36.45,
+      "drive"
+    ],
+    [
+      36.45,
+      36.79,
+      "through"
+    ],
+    [
+      36.79,
+      37.03,
+      "it"
+    ],
+    [
+      37.03,
+      37.39,
+      "all"
+    ],
+    [
+      37.39,
+      38.31,
+      "fucking"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795493361,
+  "meta": null
+}
