@@ -1,0 +1,108 @@
+{
+  "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-20967",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "theburntpeanut",
+  "streamer_name": "theburntpeanut",
+  "channel_url": "https://kick.com/theburntpeanut",
+  "vod_url": "https://kick.com/theburntpeanut/videos/01a2100e-dbf8-7e8a-a67b-2f771f7d0654#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a2100e-dbf8-7e8a-a67b-2f771f7d0654",
+  "vod_title": "GTA 6 | DAY 6 | GHOSTS & DEMONS & ALIENS | BEST ENDING 100% GARUNTEED | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 20937.76,
+  "end": 20980,
+  "peak": 20967,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "You're finished, man! We had to be a cool song first! Wait, hold on! Be a boy!",
+  "words": [
+    [
+      0.15,
+      0.33,
+      "You're"
+    ],
+    [
+      0.33,
+      0.53,
+      "finished,"
+    ],
+    [
+      0.69,
+      0.85,
+      "man!"
+    ],
+    [
+      1.69,
+      1.85,
+      "We"
+    ],
+    [
+      1.85,
+      2.45,
+      "had"
+    ],
+    [
+      2.45,
+      2.59,
+      "to"
+    ],
+    [
+      2.59,
+      2.67,
+      "be"
+    ],
+    [
+      2.67,
+      2.75,
+      "a"
+    ],
+    [
+      2.75,
+      2.87,
+      "cool"
+    ],
+    [
+      2.87,
+      3.07,
+      "song"
+    ],
+    [
+      3.07,
+      3.27,
+      "first!"
+    ],
+    [
+      4.67,
+      5.07,
+      "Wait,"
+    ],
+    [
+      8.59,
+      8.97,
+      "hold"
+    ],
+    [
+      8.97,
+      9.09,
+      "on!"
+    ],
+    [
+      25.42,
+      25.82,
+      "Be"
+    ],
+    [
+      29.15,
+      29.29,
+      "a"
+    ],
+    [
+      29.29,
+      29.53,
+      "boy!"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795587546,
+  "meta": null
+}
