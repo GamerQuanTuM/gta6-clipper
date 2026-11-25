@@ -1,0 +1,45 @@
+{
+  "id": "twitch-hasanabi-v2939580472-27294",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2939580472",
+  "vod_id": "v2939580472",
+  "vod_title": "🚉TRUMPCARE🚉H3 IS OVER?!🚉 JENSEN HUANG🚉ARMY LEAD BOMB OVER IOWA🗽GTA CH3 CONT🗽 !donate 2026-11-25 03:10",
+  "game": "GTA 6",
+  "start": 27258.87,
+  "end": 27307,
+  "peak": 27294,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "hell yeah wait how do you how do you do that wait I can please tell me I can retry the checkpoint no no no do I have to redo the whole mission did",
+  "chat_sample": [],
+  "created_unix": 1795576311,
+  "meta": {
+    "hook": "WAIT, HE HAS TO REDO THE WHOLE MISSION?",
+    "title": "HasanAbi fumbles a GTA 6 mission checkpoint 😭 #gta6 #shorts",
+    "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi cheers, then panics about whether he has to redo the whole GTA 6 mission 💀\n\nHave you been burned by a checkpoint in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 checkpoint",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi goes from \"hell yeah\" to \"do I have to redo the whole mission?\" in GTA 6 😭 Ever lost a mission like this? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 50.1,
+  "rendered_unix": 1795579713
+}

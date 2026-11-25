@@ -692,5 +692,98 @@
     },
     "duration_s": 47.7,
     "release": "2026-11-25-22-theburntpeanut"
+  },
+  {
+    "id": "twitch-hasanabi-v2939580472-27294",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "WAIT, HE HAS TO REDO THE WHOLE MISSION?",
+      "title": "HasanAbi fumbles a GTA 6 mission checkpoint 😭 #gta6 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi cheers, then panics about whether he has to redo the whole GTA 6 mission 💀\n\nHave you been burned by a checkpoint in GTA 6? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan piker",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 checkpoint",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi goes from \"hell yeah\" to \"do I have to redo the whole mission?\" in GTA 6 😭 Ever lost a mission like this? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 50.1,
+    "release": "2026-11-25-23-hasanabi"
+  },
+  {
+    "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-9588",
+    "streamer": "theburntpeanut",
+    "streamer_name": "theburntpeanut",
+    "channel_url": "https://kick.com/theburntpeanut",
+    "meta": {
+      "hook": "EVERY MISSION IS THE GOON MISSION",
+      "title": "theburntpeanut calls a little Uber in GTA 6 and loses it 😭 #shorts",
+      "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\ntheburntpeanut hails a cab in GTA 6 and still has no idea which mission he's on 💀\n\nHow many missions deep are you before you give up on the map? 👇\n\n#gta6 #gtavi #theburntpeanut #funny #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "theburntpeanut",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "gta 6 taxi",
+        "streamer moments",
+        "kick streamer",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "theburntpeanut hails a cab in GTA 6 and has no clue which mission he's on 💀 Who's still lost on the map? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels #funny",
+      "source": "claude"
+    },
+    "duration_s": 49.5,
+    "release": "2026-11-25-24-theburntpeanut"
+  },
+  {
+    "id": "twitch-hasanabi-v2939580472-27590",
+    "streamer": "hasanabi",
+    "streamer_name": "HasanAbi",
+    "channel_url": "https://www.twitch.tv/hasanabi",
+    "meta": {
+      "hook": "CHAT DOESN'T DESERVE ANYTHING",
+      "title": "HasanAbi tells chat they don't deserve GTA 6 missions 😭 #gta6 #shorts",
+      "description": "🎥 Clip from HasanAbi's live stream: https://www.twitch.tv/hasanabi\n\nHasanAbi lines up the Frank Waffles mission in GTA 6, then tells chat they don't deserve anything 💀\n\nWould you scam your chat too? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "hasanabi",
+        "hasan piker",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "grand theft auto 6",
+        "streamer moments",
+        "twitch streamer",
+        "shorts"
+      ],
+      "priority": 0,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "HasanAbi lines up a GTA 6 mission, then tells chat they don't deserve anything 💀 Is he wrong? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+      "source": "claude"
+    },
+    "duration_s": 46.7,
+    "release": "2026-11-25-25-hasanabi"
   }
 ]
