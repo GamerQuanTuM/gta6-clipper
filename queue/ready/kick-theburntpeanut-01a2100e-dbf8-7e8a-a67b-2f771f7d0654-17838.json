@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-17838",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -69,5 +69,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795583767,
-  "meta": null
+  "meta": {
+    "hook": "OH MY GOD WHO IS THAT",
+    "title": "theburntpeanut's jaw drops at a surprise in GTA 6 #shorts",
+    "description": "theburntpeanut runs into someone unexpected in GTA 6 😳\n\nWho do you think she is? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "theburntpeanut",
+      "theburntpeanut gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut meets a surprise in GTA 6 😳 Who is she? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

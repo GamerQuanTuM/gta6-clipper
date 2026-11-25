@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-15163",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -174,5 +174,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795583761,
-  "meta": null
+  "meta": {
+    "hook": "THEN THE GHOSTS SHOWED UP",
+    "title": "theburntpeanut panics in GTA 6 and bolts for a cave 😭 #shorts",
+    "description": "theburntpeanut's GTA 6 night takes a turn and he's begging to get out of there 💀\n\nWould you have run too? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "theburntpeanut",
+      "theburntpeanut gta 6",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 reaction",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut's GTA 6 run gets scary fast — 'oh no, oh no' 💀 Would you step into that cave? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels #kick",
+    "source": "claude"
+  }
 }
