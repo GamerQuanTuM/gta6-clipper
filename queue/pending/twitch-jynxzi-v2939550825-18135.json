@@ -1,0 +1,153 @@
+{
+  "id": "twitch-jynxzi-v2939550825-18135",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴 2026-11-25 00:11",
+  "game": "GTA 6",
+  "start": 18103,
+  "end": 18149.52,
+  "peak": 18135,
+  "score": 1.65,
+  "language": "en",
+  "transcript": "GTA 5 that bush would have owned me That bush would have fucking owned me. I was reading chat. I was reading chat. Oh my god",
+  "words": [
+    [
+      33.22,
+      33.56,
+      "GTA"
+    ],
+    [
+      33.56,
+      34.0,
+      "5"
+    ],
+    [
+      34.0,
+      34.24,
+      "that"
+    ],
+    [
+      34.24,
+      34.46,
+      "bush"
+    ],
+    [
+      34.46,
+      34.62,
+      "would"
+    ],
+    [
+      34.62,
+      34.72,
+      "have"
+    ],
+    [
+      34.72,
+      34.98,
+      "owned"
+    ],
+    [
+      34.98,
+      35.26,
+      "me"
+    ],
+    [
+      36.36,
+      36.8,
+      "That"
+    ],
+    [
+      36.8,
+      37.04,
+      "bush"
+    ],
+    [
+      37.04,
+      37.2,
+      "would"
+    ],
+    [
+      37.2,
+      37.32,
+      "have"
+    ],
+    [
+      37.32,
+      37.6,
+      "fucking"
+    ],
+    [
+      37.6,
+      37.92,
+      "owned"
+    ],
+    [
+      37.92,
+      38.2,
+      "me."
+    ],
+    [
+      38.46,
+      38.9,
+      "I"
+    ],
+    [
+      44.66,
+      44.78,
+      "was"
+    ],
+    [
+      44.78,
+      44.94,
+      "reading"
+    ],
+    [
+      44.94,
+      45.18,
+      "chat."
+    ],
+    [
+      45.3,
+      45.3,
+      "I"
+    ],
+    [
+      45.3,
+      45.4,
+      "was"
+    ],
+    [
+      45.4,
+      45.56,
+      "reading"
+    ],
+    [
+      45.56,
+      45.8,
+      "chat."
+    ],
+    [
+      45.9,
+      45.94,
+      "Oh"
+    ],
+    [
+      45.94,
+      46.04,
+      "my"
+    ],
+    [
+      46.04,
+      46.22,
+      "god"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795565496,
+  "meta": null
+}

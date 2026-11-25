@@ -1,0 +1,108 @@
+{
+  "id": "twitch-jynxzi-v2939550825-17612",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴 2026-11-25 00:11",
+  "game": "GTA 6",
+  "start": 17580,
+  "end": 17625,
+  "peak": 17612,
+  "score": 1.74,
+  "language": "en",
+  "transcript": "Don't make me hot wire. If I hot -wired, I'm dead. If I hot -wired, I'm dead.",
+  "words": [
+    [
+      19.59,
+      19.69,
+      "Don't"
+    ],
+    [
+      19.69,
+      19.79,
+      "make"
+    ],
+    [
+      19.79,
+      19.89,
+      "me"
+    ],
+    [
+      19.89,
+      20.07,
+      "hot"
+    ],
+    [
+      20.07,
+      20.29,
+      "wire."
+    ],
+    [
+      20.47,
+      20.59,
+      "If"
+    ],
+    [
+      20.59,
+      20.71,
+      "I"
+    ],
+    [
+      20.71,
+      20.89,
+      "hot"
+    ],
+    [
+      20.89,
+      21.13,
+      "-wired,"
+    ],
+    [
+      21.25,
+      21.33,
+      "I'm"
+    ],
+    [
+      21.33,
+      21.53,
+      "dead."
+    ],
+    [
+      21.95,
+      22.07,
+      "If"
+    ],
+    [
+      22.07,
+      22.17,
+      "I"
+    ],
+    [
+      22.17,
+      22.31,
+      "hot"
+    ],
+    [
+      22.31,
+      22.55,
+      "-wired,"
+    ],
+    [
+      22.61,
+      22.75,
+      "I'm"
+    ],
+    [
+      22.75,
+      22.93,
+      "dead."
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795565493,
+  "meta": null
+}
