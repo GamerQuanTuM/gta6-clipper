@@ -1,0 +1,83 @@
+{
+  "id": "kick-rakazone-01a21214-50b8-7512-8a39-3305382c3fc0-12592",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "rakazone",
+  "streamer_name": "rakazone",
+  "channel_url": "https://kick.com/rakazone",
+  "vod_url": "https://kick.com/rakazone/videos/01a21214-50b8-7512-8a39-3305382c3fc0#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a21214-50b8-7512-8a39-3305382c3fc0",
+  "vod_title": "GTA 6 Gameplay Walkthrough Part 8 in 4K 60FPS ( 72% Completed)",
+  "game": "GTA 6",
+  "start": 12560,
+  "end": 12605,
+  "peak": 12592,
+  "score": 1.66,
+  "language": "hi",
+  "transcript": "गवाँ जी जब दो पूप उसकी रभी सेज़ जो गाड़ी चुना थे",
+  "words": [
+    [
+      3.88,
+      4.28,
+      "गवाँ"
+    ],
+    [
+      4.28,
+      4.6,
+      "जी"
+    ],
+    [
+      7.94,
+      8.7,
+      "जब"
+    ],
+    [
+      8.7,
+      9.02,
+      "दो"
+    ],
+    [
+      9.02,
+      9.12,
+      "पूप"
+    ],
+    [
+      9.12,
+      9.5,
+      "उसकी"
+    ],
+    [
+      9.5,
+      10.04,
+      "रभी"
+    ],
+    [
+      11.4,
+      12.16,
+      "सेज़"
+    ],
+    [
+      12.16,
+      12.66,
+      "जो"
+    ],
+    [
+      17.81,
+      18.19,
+      "गाड़ी"
+    ],
+    [
+      18.19,
+      18.39,
+      "चुना"
+    ],
+    [
+      18.39,
+      18.57,
+      "थे"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795613242,
+  "meta": null
+}
