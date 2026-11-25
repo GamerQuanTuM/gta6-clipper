@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a21109-8fa8-7e98-88ed-5d3637f635fe-4620",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -334,5 +334,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795587413,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Stream intro and chat greetings; no moment, and the streamer says GTA 5, not GTA 6"
 }
