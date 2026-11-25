@@ -1,6 +1,6 @@
 {
   "id": "twitch-theburntpeanut-v2939866004-30608",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "theburntpeanut",
   "streamer_name": "TheBurntPeanut",
@@ -354,5 +354,25 @@
   ],
   "chat_sample": [],
   "created_unix": 1795597828,
-  "meta": null
+  "meta": {
+    "hook": "SEE WHAT WE GOT IN THE BACK",
+    "title": "TheBurntPeanut opens up the haul in GTA 6 #gta6 #shorts",
+    "description": "TheBurntPeanut's crew checks what they grabbed in GTA 6 🔥\n\nWhat's the best loot you've pulled so far? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 gameplay",
+      "gta 6 loot",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "The crew checks what they grabbed in GTA 6 🔥 What's the best loot you've pulled? 👇\n\n🎥 TheBurntPeanut (twitch.tv/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

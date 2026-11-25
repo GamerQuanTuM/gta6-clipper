@@ -1,6 +1,6 @@
 {
   "id": "twitch-theburntpeanut-v2939866004-30276",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "theburntpeanut",
   "streamer_name": "TheBurntPeanut",
@@ -484,5 +484,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795597839,
-  "meta": null
+  "meta": {
+    "hook": "TAKE US TO MCDONALD'S",
+    "title": "TheBurntPeanut's crew plans their GTA 6 hangar job 😭 #gta6 #shorts",
+    "description": "TheBurntPeanut's GTA 6 crew is rolling on a plane-parts hangar job, and the banter is unreal 💀\n\nWho's your go-to crew for chaos in GTA 6? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 crew",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "TheBurntPeanut's crew is rolling on a GTA 6 hangar job and the banter is unreal 💀 Who's your go-to crew for chaos? 👇\n\n🎥 TheBurntPeanut (twitch.tv/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

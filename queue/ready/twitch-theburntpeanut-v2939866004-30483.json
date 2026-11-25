@@ -1,6 +1,6 @@
 {
   "id": "twitch-theburntpeanut-v2939866004-30483",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "theburntpeanut",
   "streamer_name": "TheBurntPeanut",
@@ -619,5 +619,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795597848,
-  "meta": null
+  "meta": {
+    "hook": "WHY DID WE BRING RUBBER BULLETS",
+    "title": "Cops find TheBurntPeanut's crew mid-job in GTA 6 😬 #gta6 #shorts",
+    "description": "The cops catch up with TheBurntPeanut's crew in GTA 6, and someone realises the guns have rubber bullets 💀\n\nWould you have checked the ammo first? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 police chase",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 cops",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "The cops found the crew mid-job in GTA 6 and now the guns have rubber bullets 💀 Would you have checked the ammo first? 👇\n\n🎥 TheBurntPeanut (twitch.tv/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  }
 }
