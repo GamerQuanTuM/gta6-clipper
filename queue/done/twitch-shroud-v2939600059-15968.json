@@ -1,0 +1,45 @@
+{
+  "id": "twitch-shroud-v2939600059-15968",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "shroud",
+  "streamer_name": "shroud",
+  "channel_url": "https://www.twitch.tv/shroud",
+  "vod_url": "https://www.twitch.tv/videos/2939600059",
+  "vod_id": "v2939600059",
+  "vod_title": "day 2 of feeling left out.. but we are VIBING BROTHERS!!!",
+  "game": "GTA 6",
+  "start": 15936,
+  "end": 15981,
+  "peak": 15968,
+  "score": 2.22,
+  "language": "en",
+  "transcript": "Wait, they're starting to shoot now. Right? Oh. Oh, shit. Oh, everyone's gone. What? What the chicken did that? Oh, nice, it crashed.",
+  "chat_sample": [],
+  "created_unix": 1795569003,
+  "meta": {
+    "hook": "WHAT EVEN HAPPENED THERE",
+    "title": "shroud has no idea who just wrecked that car in GTA 6 😂 #shorts",
+    "description": "🎥 Clip from shroud's live stream: https://www.twitch.tv/shroud\n\nShots fired, everyone vanishes and shroud is left asking what just happened in GTA 6 😂\n\nWhat's your funniest GTA 6 chaos moment? 👇\n\n#gta6 #gtavi #shroud #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "shroud",
+      "gta 6 funny moments",
+      "gta 6 crash",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shroud gta 6",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Shots fired, everyone's gone, and shroud just watches a crash happen in GTA 6 😂 Funniest GTA 6 chaos you've seen? 👇\n\n🎥 shroud (twitch.tv/shroud)\n\n#gta6 #gtavi #shroud #funny #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795572883
+}

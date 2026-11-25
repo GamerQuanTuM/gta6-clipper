@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-20830",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -15,64 +15,12 @@
   "score": 2.33,
   "language": "en",
   "transcript": "Sorry doggy, sorry fucking sorry. Oh my god, fucking sorry",
-  "words": [
-    [
-      9.33,
-      10.05,
-      "Sorry"
-    ],
-    [
-      10.05,
-      10.53,
-      "doggy,"
-    ],
-    [
-      10.55,
-      10.85,
-      "sorry"
-    ],
-    [
-      10.85,
-      11.77,
-      "fucking"
-    ],
-    [
-      37.82,
-      38.36,
-      "sorry."
-    ],
-    [
-      38.62,
-      38.76,
-      "Oh"
-    ],
-    [
-      38.76,
-      38.94,
-      "my"
-    ],
-    [
-      38.94,
-      39.3,
-      "god,"
-    ],
-    [
-      47.12,
-      47.48,
-      "fucking"
-    ],
-    [
-      47.48,
-      47.88,
-      "sorry"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795568944,
   "meta": {
     "hook": "SORRY DOGGY SORRY",
     "title": "Jynxzi panics in GTA 6 and keeps saying sorry 😭 #shorts",
-    "description": "Jynxzi can't stop apologizing in GTA 6 after something goes very wrong 😭\n\nHave you ever felt this bad in a game? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi can't stop apologizing in GTA 6 after something goes very wrong 😭\n\nHave you ever felt this bad in a game? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -91,5 +39,7 @@
     ],
     "ig_caption": "Jynxzi keeps apologizing in GTA 6 and honestly we feel it 😭 Ever felt that bad in a game? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #funny #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 50.2,
+  "rendered_unix": 1795572713
 }

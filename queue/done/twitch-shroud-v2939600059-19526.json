@@ -1,0 +1,46 @@
+{
+  "id": "twitch-shroud-v2939600059-19526",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "shroud",
+  "streamer_name": "shroud",
+  "channel_url": "https://www.twitch.tv/shroud",
+  "vod_url": "https://www.twitch.tv/videos/2939600059",
+  "vod_id": "v2939600059",
+  "vod_title": "day 2 of feeling left out.. but we are VIBING BROTHERS!!!",
+  "game": "GTA 6",
+  "start": 19492.67,
+  "end": 19539,
+  "peak": 19526,
+  "score": 2.45,
+  "language": "en",
+  "transcript": "Just like that easy Easy peasy Saw nothing They saw nothing line cop They didn't get there yet First robbery went well. It wasn't a lot of money though. It was like 500 bucks It was quick though. It was quick",
+  "chat_sample": [],
+  "created_unix": 1795568999,
+  "meta": {
+    "hook": "SHROUD'S FIRST ROBBERY IN GTA 6",
+    "title": "shroud pulls off a quick robbery in GTA 6, saw nothing 😎 #shorts",
+    "description": "🎥 Clip from shroud's live stream: https://www.twitch.tv/shroud\n\nshroud pulls off his first robbery in GTA 6 and gets away clean, only about 500 bucks though 😎\n\nWould you go bigger on the next one? 👇\n\n#gta6 #gtavi #shroud #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "shroud",
+      "gta 6 robbery",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "shroud gta 6",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "shroud's first GTA 6 robbery went smooth. In and out, 'saw nothing' 😎 Would you go bigger next time? 👇\n\n🎥 shroud (twitch.tv/shroud)\n\n#gta6 #gtavi #shroud #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 48.3,
+  "rendered_unix": 1795572566
+}

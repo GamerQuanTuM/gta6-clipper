@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-20618",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -15,114 +15,12 @@
   "score": 2.38,
   "language": "en",
   "transcript": "Uh, no status? Yeah, I'm gonna take you boys to the highway, let's see who can really drive now, eh?",
-  "words": [
-    [
-      28.94,
-      29.06,
-      "Uh,"
-    ],
-    [
-      29.2,
-      29.3,
-      "no"
-    ],
-    [
-      29.3,
-      29.66,
-      "status?"
-    ],
-    [
-      31.06,
-      31.42,
-      "Yeah,"
-    ],
-    [
-      31.52,
-      31.6,
-      "I'm"
-    ],
-    [
-      31.6,
-      31.7,
-      "gonna"
-    ],
-    [
-      31.7,
-      31.92,
-      "take"
-    ],
-    [
-      31.92,
-      32.06,
-      "you"
-    ],
-    [
-      32.06,
-      32.28,
-      "boys"
-    ],
-    [
-      32.28,
-      32.46,
-      "to"
-    ],
-    [
-      32.46,
-      32.58,
-      "the"
-    ],
-    [
-      32.58,
-      32.9,
-      "highway,"
-    ],
-    [
-      33.08,
-      33.28,
-      "let's"
-    ],
-    [
-      33.28,
-      33.36,
-      "see"
-    ],
-    [
-      33.36,
-      33.5,
-      "who"
-    ],
-    [
-      33.5,
-      33.64,
-      "can"
-    ],
-    [
-      33.64,
-      33.88,
-      "really"
-    ],
-    [
-      33.88,
-      34.22,
-      "drive"
-    ],
-    [
-      34.22,
-      34.56,
-      "now,"
-    ],
-    [
-      34.64,
-      34.78,
-      "eh?"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795568935,
   "meta": {
     "hook": "HE WANTS TO SEE WHO CAN DRIVE",
     "title": "Jynxzi takes the boys to the highway in GTA 6 🚗 #shorts",
-    "description": "Jynxzi's crew heads to the highway in GTA 6 to see who can really drive 🚗\n\nWho's the best driver in your squad? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi's crew heads to the highway in GTA 6 to see who can really drive 🚗\n\nWho's the best driver in your squad? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -141,5 +39,7 @@
     ],
     "ig_caption": "Jynxzi takes the boys to the highway in GTA 6 to see who can really drive 🚗 Who's the best driver in your squad? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795573024
 }
