@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a21214-50b8-7512-8a39-3305382c3fc0-11057",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -15,99 +15,12 @@
   "score": 1.79,
   "language": "hi",
   "transcript": "गड़ी आप गाड़ी लगा रहा था रिपेर के लिए भाई वो इतर जल्ट वो दाव सो बाड़",
-  "words": [
-    [
-      1.52,
-      3.96,
-      "गड़ी"
-    ],
-    [
-      3.96,
-      5.3,
-      "आप"
-    ],
-    [
-      5.3,
-      9.46,
-      "गाड़ी"
-    ],
-    [
-      31.03,
-      31.35,
-      "लगा"
-    ],
-    [
-      31.35,
-      31.41,
-      "रहा"
-    ],
-    [
-      31.41,
-      31.55,
-      "था"
-    ],
-    [
-      31.55,
-      32.01,
-      "रिपेर"
-    ],
-    [
-      32.01,
-      32.21,
-      "के"
-    ],
-    [
-      32.21,
-      32.39,
-      "लिए"
-    ],
-    [
-      32.39,
-      32.81,
-      "भाई"
-    ],
-    [
-      32.81,
-      33.19,
-      "वो"
-    ],
-    [
-      33.19,
-      33.57,
-      "इतर"
-    ],
-    [
-      33.57,
-      33.93,
-      "जल्ट"
-    ],
-    [
-      33.93,
-      34.23,
-      "वो"
-    ],
-    [
-      45.91,
-      46.17,
-      "दाव"
-    ],
-    [
-      46.17,
-      46.41,
-      "सो"
-    ],
-    [
-      46.41,
-      46.93,
-      "बाड़"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795612451,
   "meta": {
     "hook": "GADI REPAIR KARNE GAYA BHAI",
     "title": "Rakazone ka GTA 6 walkthrough me gadi repair scene #shorts",
-    "description": "Rakazone GTA 6 walkthrough ke Part 8 me gadi repair ka funny talk 🔧\n\nTumhara GTA 6 me pehla repair kaisa raha? 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts",
+    "description": "🎥 Clip from rakazone's live stream: https://kick.com/rakazone\n\nRakazone GTA 6 walkthrough ke Part 8 me gadi repair ka funny talk 🔧\n\nTumhara GTA 6 me pehla repair kaisa raha? 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -126,5 +39,7 @@
     ],
     "ig_caption": "Rakazone ka GTA 6 walkthrough me gadi repair wala moment 🔧 Tumhara kya plan hai? 👇\n\n🎥 rakazone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #hindigaming #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 49.2,
+  "rendered_unix": 1795616262
 }
