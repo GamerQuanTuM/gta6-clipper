@@ -1,0 +1,43 @@
+{
+  "id": "twitch-theburntpeanut-v2939866004-30608",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "theburntpeanut",
+  "streamer_name": "TheBurntPeanut",
+  "channel_url": "https://www.twitch.tv/theburntpeanut",
+  "vod_url": "https://www.twitch.tv/videos/2939866004",
+  "vod_id": "v2939866004",
+  "vod_title": "[DROPS] GTA 6 | DAY 6 | GHOSTS & DEMONS & ALIENS | BEST ENDING 100% GARUNTEED | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 30576,
+  "end": 30622.62,
+  "peak": 30608,
+  "score": 2.29,
+  "language": "en",
+  "transcript": "We go way. Oh ho ho ho ho. There we go boys. There it is. Where's the birth? It's okay. Parts of them to the back of the ground. What's going to be that? You're going to have to get rid of them. Shoot at a black hog with brother Raj. We won't even single those guys without something HD. See what we got in the back.",
+  "chat_sample": [],
+  "created_unix": 1795597828,
+  "meta": {
+    "hook": "SEE WHAT WE GOT IN THE BACK",
+    "title": "TheBurntPeanut opens up the haul in GTA 6 #gta6 #shorts",
+    "description": "🎥 Clip from TheBurntPeanut's live stream: https://www.twitch.tv/theburntpeanut\n\nTheBurntPeanut's crew checks what they grabbed in GTA 6 🔥\n\nWhat's the best loot you've pulled so far? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 gameplay",
+      "gta 6 loot",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "The crew checks what they grabbed in GTA 6 🔥 What's the best loot you've pulled? 👇\n\n🎥 TheBurntPeanut (twitch.tv/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
+    "source": "claude"
+  },
+  "duration_s": 48.6,
+  "rendered_unix": 1795601688
+}
