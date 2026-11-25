@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-17838",
-  "status": "ready",
+  "status": "done",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -15,64 +15,12 @@
   "score": 1.67,
   "language": "en",
   "transcript": "Oh Like oh my god, it's a jack Russian lady",
-  "words": [
-    [
-      13.95,
-      14.71,
-      "Oh"
-    ],
-    [
-      17.11,
-      17.87,
-      "Like"
-    ],
-    [
-      17.87,
-      18.31,
-      "oh"
-    ],
-    [
-      18.31,
-      18.63,
-      "my"
-    ],
-    [
-      18.63,
-      18.93,
-      "god,"
-    ],
-    [
-      18.97,
-      19.31,
-      "it's"
-    ],
-    [
-      19.31,
-      19.39,
-      "a"
-    ],
-    [
-      19.39,
-      19.77,
-      "jack"
-    ],
-    [
-      19.77,
-      20.19,
-      "Russian"
-    ],
-    [
-      20.19,
-      20.57,
-      "lady"
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795583767,
   "meta": {
     "hook": "OH MY GOD WHO IS THAT",
     "title": "theburntpeanut's jaw drops at a surprise in GTA 6 #shorts",
-    "description": "theburntpeanut runs into someone unexpected in GTA 6 😳\n\nWho do you think she is? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "description": "🎥 Clip from theburntpeanut's live stream: https://kick.com/theburntpeanut\n\ntheburntpeanut runs into someone unexpected in GTA 6 😳\n\nWho do you think she is? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
     "tags": [
       "gta 6",
       "gta vi",
@@ -92,5 +40,7 @@
     ],
     "ig_caption": "theburntpeanut meets a surprise in GTA 6 😳 Who is she? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795587276
 }
