@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-8469",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -514,5 +514,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795575128,
-  "meta": null
+  "meta": {
+    "hook": "HE THOUGHT HE'D BE A BILLIONAIRE",
+    "title": "TheBurntPeanut's GTA 6 money plan falls apart 😭 #shorts",
+    "description": "TheBurntPeanut was sure he was about to make tons of cash in GTA 6... and chat did not deliver 💀\n\nHave you ever been scammed by chat? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "the burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 reaction",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "TheBurntPeanut was SURE he'd be a billionaire in GTA 6 💀 Has chat ever played you like this? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #kick #reels",
+    "source": "claude"
+  }
 }

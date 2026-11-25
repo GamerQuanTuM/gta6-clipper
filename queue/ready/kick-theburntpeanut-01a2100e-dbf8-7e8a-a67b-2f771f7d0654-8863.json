@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-8863",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -124,5 +124,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795575115,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads as scripted in-game cutscene/NPC lines, not a live reaction"
 }

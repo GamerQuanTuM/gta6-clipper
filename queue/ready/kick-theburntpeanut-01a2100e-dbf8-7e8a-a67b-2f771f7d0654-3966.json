@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-3966",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -374,5 +374,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795573249,
-  "meta": null
+  "meta": null,
+  "reject_reason": "In-game radio song lyrics, not the streamer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-22547",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -239,5 +239,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795573147,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Hindi transcript is unintelligible garble; no clear moment"
 }

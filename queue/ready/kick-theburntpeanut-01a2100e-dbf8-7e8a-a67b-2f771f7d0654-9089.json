@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-9089",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -414,5 +414,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795575121,
-  "meta": null
+  "meta": {
+    "hook": "HE CAN'T BELIEVE WHO HE FOUND",
+    "title": "TheBurntPeanut meets the one guy he wanted in GTA 6 😭 #shorts",
+    "description": "TheBurntPeanut finally tracks someone down in GTA 6 and can't believe he's talking to him 💀\n\nWho would YOU want to find in GTA 6? 👇\n\n#gta6 #gtavi #theburntpeanut #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "the burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "gta 6 reaction",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "TheBurntPeanut finally finds him in GTA 6 and loses it 💀 Who would you want to find first? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #kick #reels",
+    "source": "claude"
+  }
 }
