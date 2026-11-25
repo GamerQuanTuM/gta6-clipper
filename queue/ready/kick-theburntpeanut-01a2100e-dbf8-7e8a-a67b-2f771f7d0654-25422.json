@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-25422",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -384,5 +384,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795594487,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Transcript reads like scripted in-game mission/cutscene dialogue (heist planning, Bahamas laundering), not a live streamer reaction."
 }

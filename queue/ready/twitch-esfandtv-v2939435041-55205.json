@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2939435041-55205",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -374,5 +374,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795594193,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not GTA: WoW Burning Crusade talk (Hyjal/raid pacing); game field is wrong."
 }

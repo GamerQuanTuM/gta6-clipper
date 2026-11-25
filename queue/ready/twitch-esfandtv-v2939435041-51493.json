@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2939435041-51493",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -654,5 +654,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795594190,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not GTA: streamer is discussing WoW Burning Crusade (Black Temple raids); game field is wrong."
 }

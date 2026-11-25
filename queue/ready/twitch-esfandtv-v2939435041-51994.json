@@ -1,6 +1,6 @@
 {
   "id": "twitch-esfandtv-v2939435041-51994",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "esfandtv",
   "streamer_name": "EsfandTV",
@@ -354,5 +354,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795594198,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not GTA: WoW Burning Crusade chatter (Gladiator Esfandina, carries); game field is wrong."
 }
