@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2939580472-27821",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -534,5 +534,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795576315,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Scripted in-game satire dialogue plus a sub-goal piercing break; not a game reaction."
 }

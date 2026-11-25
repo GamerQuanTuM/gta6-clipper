@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-10092",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -309,5 +309,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795576386,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Aimless driving and apologising to chat, no clear moment."
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-9588",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -404,5 +404,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795576394,
-  "meta": null
+  "meta": {
+    "hook": "EVERY MISSION IS THE GOON MISSION",
+    "title": "theburntpeanut calls a little Uber in GTA 6 and loses it 😭 #shorts",
+    "description": "theburntpeanut hails a cab in GTA 6 and still has no idea which mission he's on 💀\n\nHow many missions deep are you before you give up on the map? 👇\n\n#gta6 #gtavi #theburntpeanut #funny #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "theburntpeanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "gta 6 taxi",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut hails a cab in GTA 6 and has no clue which mission he's on 💀 Who's still lost on the map? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels #funny",
+    "source": "claude"
+  }
 }

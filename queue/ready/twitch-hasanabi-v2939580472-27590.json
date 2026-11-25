@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2939580472-27590",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -349,5 +349,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795576309,
-  "meta": null
+  "meta": {
+    "hook": "CHAT DOESN'T DESERVE ANYTHING",
+    "title": "HasanAbi tells chat they don't deserve GTA 6 missions 😭 #gta6 #shorts",
+    "description": "HasanAbi lines up the Frank Waffles mission in GTA 6, then tells chat they don't deserve anything 💀\n\nWould you scam your chat too? 👇\n\n#gta6 #gtavi #hasanabi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "hasanabi",
+      "hasan piker",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "twitch streamer",
+      "shorts"
+    ],
+    "priority": 0,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "HasanAbi lines up a GTA 6 mission, then tells chat they don't deserve anything 💀 Is he wrong? 👇\n\n🎥 HasanAbi (twitch.tv/hasanabi)\n\n#gta6 #gtavi #hasanabi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

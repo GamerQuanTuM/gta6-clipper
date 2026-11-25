@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-9899",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -299,5 +299,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795576390,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Repetitive \"what a sweet little treat\" lines read like scripted in-game dialogue, not a live reaction."
 }
