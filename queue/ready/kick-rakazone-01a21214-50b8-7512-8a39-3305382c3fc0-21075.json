@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a21214-50b8-7512-8a39-3305382c3fc0-21075",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -254,5 +254,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795623466,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Not about the game: vod_title shows a Big Boss watch party; transcript is garbled Hindi chatter about nominations, no live game reaction."
 }
