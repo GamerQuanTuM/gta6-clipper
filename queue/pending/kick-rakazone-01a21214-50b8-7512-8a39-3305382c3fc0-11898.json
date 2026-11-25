@@ -1,0 +1,88 @@
+{
+  "id": "kick-rakazone-01a21214-50b8-7512-8a39-3305382c3fc0-11898",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "rakazone",
+  "streamer_name": "rakazone",
+  "channel_url": "https://kick.com/rakazone",
+  "vod_url": "https://kick.com/rakazone/videos/01a21214-50b8-7512-8a39-3305382c3fc0#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a21214-50b8-7512-8a39-3305382c3fc0",
+  "vod_title": "GTA 6 Gameplay Walkthrough Part 8 in 4K 60FPS ( 72% Completed)",
+  "game": "GTA 6",
+  "start": 11865.34,
+  "end": 11911,
+  "peak": 11898,
+  "score": 1.87,
+  "language": "hi",
+  "transcript": "ही आग नहीं कि अटना है आगल क्या जिए नहीं कि चाहना है",
+  "words": [
+    [
+      0.15,
+      0.85,
+      "ही"
+    ],
+    [
+      0.85,
+      1.07,
+      "आग"
+    ],
+    [
+      1.07,
+      1.17,
+      "नहीं"
+    ],
+    [
+      1.17,
+      2.53,
+      "कि"
+    ],
+    [
+      2.53,
+      3.13,
+      "अटना"
+    ],
+    [
+      3.13,
+      3.31,
+      "है"
+    ],
+    [
+      3.31,
+      3.57,
+      "आगल"
+    ],
+    [
+      3.57,
+      3.67,
+      "क्या"
+    ],
+    [
+      3.67,
+      3.93,
+      "जिए"
+    ],
+    [
+      3.93,
+      3.93,
+      "नहीं"
+    ],
+    [
+      3.93,
+      3.93,
+      "कि"
+    ],
+    [
+      16.03,
+      17.43,
+      "चाहना"
+    ],
+    [
+      17.43,
+      17.57,
+      "है"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795612433,
+  "meta": null
+}
