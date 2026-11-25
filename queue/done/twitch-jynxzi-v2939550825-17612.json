@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-17612",
-  "status": "ready",
+  "status": "done",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -15,99 +15,12 @@
   "score": 1.74,
   "language": "en",
   "transcript": "Don't make me hot wire. If I hot -wired, I'm dead. If I hot -wired, I'm dead.",
-  "words": [
-    [
-      19.59,
-      19.69,
-      "Don't"
-    ],
-    [
-      19.69,
-      19.79,
-      "make"
-    ],
-    [
-      19.79,
-      19.89,
-      "me"
-    ],
-    [
-      19.89,
-      20.07,
-      "hot"
-    ],
-    [
-      20.07,
-      20.29,
-      "wire."
-    ],
-    [
-      20.47,
-      20.59,
-      "If"
-    ],
-    [
-      20.59,
-      20.71,
-      "I"
-    ],
-    [
-      20.71,
-      20.89,
-      "hot"
-    ],
-    [
-      20.89,
-      21.13,
-      "-wired,"
-    ],
-    [
-      21.25,
-      21.33,
-      "I'm"
-    ],
-    [
-      21.33,
-      21.53,
-      "dead."
-    ],
-    [
-      21.95,
-      22.07,
-      "If"
-    ],
-    [
-      22.07,
-      22.17,
-      "I"
-    ],
-    [
-      22.17,
-      22.31,
-      "hot"
-    ],
-    [
-      22.31,
-      22.55,
-      "-wired,"
-    ],
-    [
-      22.61,
-      22.75,
-      "I'm"
-    ],
-    [
-      22.75,
-      22.93,
-      "dead."
-    ]
-  ],
   "chat_sample": [],
   "created_unix": 1795565493,
   "meta": {
     "hook": "IF HE HOT WIRES, HE'S DEAD",
     "title": "Jynxzi begs not to hot wire a car in GTA 6 😭 #gta6 #shorts",
-    "description": "Jynxzi is terrified of hot wiring in his first days of GTA 6 💀\n\nWould you risk the hot wire? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi is terrified of hot wiring in his first days of GTA 6 💀\n\nWould you risk the hot wire? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
     "tags": [
       "gta 6",
       "gta vi",
@@ -126,5 +39,7 @@
     ],
     "ig_caption": "Jynxzi begging not to hot wire in GTA 6 💀 Would you risk it? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
     "source": "claude"
-  }
+  },
+  "duration_s": 47.0,
+  "rendered_unix": 1795568954
 }
