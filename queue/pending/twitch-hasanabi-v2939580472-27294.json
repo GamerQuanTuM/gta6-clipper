@@ -1,0 +1,193 @@
+{
+  "id": "twitch-hasanabi-v2939580472-27294",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "hasanabi",
+  "streamer_name": "HasanAbi",
+  "channel_url": "https://www.twitch.tv/hasanabi",
+  "vod_url": "https://www.twitch.tv/videos/2939580472",
+  "vod_id": "v2939580472",
+  "vod_title": "🚉TRUMPCARE🚉H3 IS OVER?!🚉 JENSEN HUANG🚉ARMY LEAD BOMB OVER IOWA🗽GTA CH3 CONT🗽 !donate 2026-11-25 03:10",
+  "game": "GTA 6",
+  "start": 27258.87,
+  "end": 27307,
+  "peak": 27294,
+  "score": 2.1,
+  "language": "en",
+  "transcript": "hell yeah wait how do you how do you do that wait I can please tell me I can retry the checkpoint no no no do I have to redo the whole mission did",
+  "words": [
+    [
+      0.15,
+      0.63,
+      "hell"
+    ],
+    [
+      0.63,
+      1.11,
+      "yeah"
+    ],
+    [
+      1.11,
+      2.27,
+      "wait"
+    ],
+    [
+      5.76,
+      6.0,
+      "how"
+    ],
+    [
+      6.0,
+      6.1,
+      "do"
+    ],
+    [
+      6.1,
+      6.28,
+      "you"
+    ],
+    [
+      6.28,
+      6.5,
+      "how"
+    ],
+    [
+      6.5,
+      6.58,
+      "do"
+    ],
+    [
+      6.58,
+      6.68,
+      "you"
+    ],
+    [
+      6.68,
+      6.86,
+      "do"
+    ],
+    [
+      6.86,
+      7.18,
+      "that"
+    ],
+    [
+      22.67,
+      26.83,
+      "wait"
+    ],
+    [
+      26.83,
+      30.13,
+      "I"
+    ],
+    [
+      30.13,
+      30.35,
+      "can"
+    ],
+    [
+      30.35,
+      30.77,
+      "please"
+    ],
+    [
+      30.77,
+      31.01,
+      "tell"
+    ],
+    [
+      31.01,
+      31.11,
+      "me"
+    ],
+    [
+      31.11,
+      31.19,
+      "I"
+    ],
+    [
+      31.19,
+      31.25,
+      "can"
+    ],
+    [
+      31.25,
+      31.57,
+      "retry"
+    ],
+    [
+      31.57,
+      31.69,
+      "the"
+    ],
+    [
+      31.69,
+      31.99,
+      "checkpoint"
+    ],
+    [
+      31.99,
+      33.05,
+      "no"
+    ],
+    [
+      33.05,
+      35.09,
+      "no"
+    ],
+    [
+      35.09,
+      35.75,
+      "no"
+    ],
+    [
+      35.75,
+      36.33,
+      "do"
+    ],
+    [
+      36.33,
+      36.49,
+      "I"
+    ],
+    [
+      36.49,
+      36.59,
+      "have"
+    ],
+    [
+      36.59,
+      36.69,
+      "to"
+    ],
+    [
+      36.69,
+      36.93,
+      "redo"
+    ],
+    [
+      36.93,
+      37.17,
+      "the"
+    ],
+    [
+      37.17,
+      37.37,
+      "whole"
+    ],
+    [
+      37.37,
+      37.77,
+      "mission"
+    ],
+    [
+      37.77,
+      38.99,
+      "did"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795576311,
+  "meta": null
+}
