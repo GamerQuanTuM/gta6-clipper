@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-14721",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -274,5 +274,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795561921,
-  "meta": null
+  "meta": {
+    "hook": "GTA 6 DID SOMETHING GTA 5 NEVER COULD",
+    "title": "Jynxzi can't believe what GTA 6 just let him do 😭 #gta6 #shorts",
+    "description": "Jynxzi finds out GTA 6 is NOT GTA 5 and he's shook 💀\n\nWhat's the biggest upgrade you've noticed in GTA 6? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 vs gta 5",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi realizes GTA 6 is a whole different game compared to GTA 5 😭 What's the biggest upgrade you've noticed? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #gta5",
+    "source": "claude"
+  }
 }

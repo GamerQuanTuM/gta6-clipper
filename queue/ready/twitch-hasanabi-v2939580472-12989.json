@@ -1,6 +1,6 @@
 {
   "id": "twitch-hasanabi-v2939580472-12989",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "hasanabi",
   "streamer_name": "HasanAbi",
@@ -394,5 +394,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795562446,
-  "meta": null
+  "meta": null,
+  "reject_reason": "political talk about a voice actor; not a GTA 6 moment"
 }

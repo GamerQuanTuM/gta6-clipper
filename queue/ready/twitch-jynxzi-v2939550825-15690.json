@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-15690",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -434,5 +434,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795561911,
-  "meta": null
+  "meta": {
+    "hook": "HE'S GOT A GUN! OFFICER, ARREST HIM",
+    "title": "Jynxzi panics as a gunman shows up in GTA 6 😭 #gta6 #shorts",
+    "description": "Jynxzi gets knocked over by a bottle, then a guy pulls a gun... and he asks the cop to do something 💀\n\nWould you have run or fought? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 police",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi loses it when a guy pulls a gun in GTA 6 and the cop just stands there 😭 Would you run or fight? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #funny",
+    "source": "claude"
+  }
 }
