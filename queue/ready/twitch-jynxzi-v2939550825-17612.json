@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-17612",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -104,5 +104,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795565493,
-  "meta": null
+  "meta": {
+    "hook": "IF HE HOT WIRES, HE'S DEAD",
+    "title": "Jynxzi begs not to hot wire a car in GTA 6 😭 #gta6 #shorts",
+    "description": "Jynxzi is terrified of hot wiring in his first days of GTA 6 💀\n\nWould you risk the hot wire? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 hot wire",
+      "grand theft auto 6",
+      "streamer moments",
+      "jynxzi gta 6",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi begging not to hot wire in GTA 6 💀 Would you risk it? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-18135",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -149,5 +149,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795565496,
-  "meta": null
+  "meta": {
+    "hook": "GTA 5 BUSH WOULD HAVE OWNED HIM",
+    "title": "Jynxzi dodges a GTA 5 bush trap in GTA 6 😭 #gta6 #shorts",
+    "description": "Jynxzi was busy reading chat and GTA 6 nearly got him 💀\n\nDid GTA 6 fix this classic GTA 5 annoyance? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 5 vs gta 6",
+      "grand theft auto 6",
+      "streamer moments",
+      "jynxzi gta 6",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi: GTA 5 that bush would have owned me 😭 Did GTA 6 fix it? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-8bitheadflicker-01a20ef4-b968-7606-b06a-034cc0a0583c-17251",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "8bitheadflicker",
   "streamer_name": "8bitheadflicker",
@@ -249,5 +249,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795566361,
-  "meta": null
+  "meta": {
+    "hook": "BHAI YE KYA SYSTEM HAI",
+    "title": "8bitheadflicker ka GTA 6 hotel wala gussa 😭 #gta6 #shorts",
+    "description": "GTA 6 me hotel wale scene pe 8bitheadflicker full frustrate ho gaye 😭\n\nAapko ye mechanic kaisa laga? Comment karo 👇\n\n#gta6 #gtavi #8bitheadflicker #gta6hindi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "8bitheadflicker",
+      "gta 6 india",
+      "gta 6 hindi",
+      "gta 6 gameplay",
+      "gta 6 funny moments",
+      "grand theft auto 6",
+      "hindi gaming",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "GTA 6 me hotel wale scene pe 8bitheadflicker ka gussa 😭 Aapko ye mechanic kaisa laga? 👇\n\n🎥 8bitheadflicker (kick.com/8bitheadflicker)\n\n#gta6 #gtavi #gta6hindi #8bitheadflicker #hindigaming #gaming #reels",
+    "source": "claude"
+  }
 }
