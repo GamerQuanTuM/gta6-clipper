@@ -1,6 +1,6 @@
 {
   "id": "kick-rakazone-01a21214-50b8-7512-8a39-3305382c3fc0-11057",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "rakazone",
   "streamer_name": "rakazone",
@@ -104,5 +104,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795612451,
-  "meta": null
+  "meta": {
+    "hook": "GADI REPAIR KARNE GAYA BHAI",
+    "title": "Rakazone ka GTA 6 walkthrough me gadi repair scene #shorts",
+    "description": "Rakazone GTA 6 walkthrough ke Part 8 me gadi repair ka funny talk 🔧\n\nTumhara GTA 6 me pehla repair kaisa raha? 👇\n\n#gta6 #gtavi #rakazone #gta6hindi #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "rakazone",
+      "gta 6 hindi",
+      "gta 6 india",
+      "gta 6 walkthrough",
+      "hindi gaming",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Rakazone ka GTA 6 walkthrough me gadi repair wala moment 🔧 Tumhara kya plan hai? 👇\n\n🎥 rakazone (kick.com/rakazone)\n\n#gta6 #gtavi #rakazone #gta6hindi #hindigaming #reels",
+    "source": "claude"
+  }
 }

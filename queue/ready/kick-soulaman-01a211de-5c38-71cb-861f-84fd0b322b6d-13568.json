@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a211de-5c38-71cb-861f-84fd0b322b6d-13568",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -264,5 +264,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795612728,
-  "meta": null
+  "meta": {
+    "hook": "LAST MISSION SABSE BADA HAI",
+    "title": "Soulaman ka 20 lakh ka plan aur last mission #shorts",
+    "description": "Soulaman bol raha hai 20 lakh kamane hain aur last mission sabse bada hai 💰\n\nTum kitna kama paoge? 👇\n\n#gta #soulaman #gtahindi #hindigaming #shorts",
+    "tags": [
+      "gta",
+      "soulaman",
+      "gta hindi",
+      "gta india",
+      "gta mission",
+      "hindi gaming",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Soulaman ka 20 lakh wala plan, last mission sabse bada 💰 Tum kya karte? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta #soulaman #gtahindi #hindigaming #streamer #reels",
+    "source": "claude"
+  }
 }

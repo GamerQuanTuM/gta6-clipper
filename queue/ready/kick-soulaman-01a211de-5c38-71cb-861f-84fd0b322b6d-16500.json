@@ -1,6 +1,6 @@
 {
   "id": "kick-soulaman-01a211de-5c38-71cb-861f-84fd0b322b6d-16500",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "soulaman",
   "streamer_name": "soulaman",
@@ -224,5 +224,26 @@
   ],
   "chat_sample": [],
   "created_unix": 1795613353,
-  "meta": null
+  "meta": {
+    "hook": "50 LOGO KO EK BULLET MEIN",
+    "title": "Soulaman ko chahiye 50 kill, bas ek bullet me 😭 #shorts",
+    "description": "Soulaman ka funny GTA challenge: 50 logo ko ek bullet me maarna 💀\n\nKya ye possible hai? Comment karo 👇\n\n#gta #soulaman #gtahindi #hindigaming #shorts",
+    "tags": [
+      "gta",
+      "soulaman",
+      "gta hindi",
+      "gta india",
+      "gta funny moments",
+      "hindi gaming",
+      "streamer moments",
+      "kick streamer",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "50 logo ko ek bullet me? Soulaman ka funny GTA moment 💀 Kya ye possible hai? 👇\n\n🎥 soulaman (kick.com/soulaman)\n\n#gta #soulaman #gtahindi #hindigaming #funny #reels",
+    "source": "claude"
+  }
 }
