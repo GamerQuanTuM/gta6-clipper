@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-13569",
-  "status": "pending",
+  "status": "ready",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -199,5 +199,28 @@
   ],
   "chat_sample": [],
   "created_unix": 1795580074,
-  "meta": null
+  "meta": {
+    "hook": "FIVE STARS FOR KILLING THREE GUYS",
+    "title": "theburntpeanut hits 5 stars after 3 kills in GTA 6 😭 #shorts",
+    "description": "theburntpeanut can't believe he's at five wanted stars after barely doing anything in GTA 6 💀\n\nHow fast did YOU get five stars? 👇\n\n#gta6 #gtavi #theburntpeanut #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "grand theft auto 6",
+      "theburntpeanut",
+      "burnt peanut",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "streamer moments",
+      "shorts",
+      "gta 6 wanted level",
+      "gta 6 five stars"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "theburntpeanut is at FIVE stars after killing like three dudes in GTA 6 😭 How fast did you get five stars? 👇\n\n🎥 theburntpeanut (kick.com/theburntpeanut)\n\n#gta6 #gtavi #theburntpeanut #gaming #streamer #reels #funnymoments",
+    "source": "claude"
+  }
 }
