@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-20830",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -69,5 +69,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795568944,
-  "meta": null
+  "meta": {
+    "hook": "SORRY DOGGY SORRY",
+    "title": "Jynxzi panics in GTA 6 and keeps saying sorry 😭 #shorts",
+    "description": "Jynxzi can't stop apologizing in GTA 6 after something goes very wrong 😭\n\nHave you ever felt this bad in a game? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 reaction",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "jynxzi gta 6",
+      "shorts"
+    ],
+    "priority": 2,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi keeps apologizing in GTA 6 and honestly we feel it 😭 Ever felt that bad in a game? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #funny #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

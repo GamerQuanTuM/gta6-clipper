@@ -1,6 +1,6 @@
 {
   "id": "twitch-shroud-v2939600059-19332",
-  "status": "pending",
+  "status": "rejected",
   "platform": "twitch",
   "streamer": "shroud",
   "streamer_name": "shroud",
@@ -149,5 +149,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795569006,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Only planning chatter before the robbery, no real moment"
 }

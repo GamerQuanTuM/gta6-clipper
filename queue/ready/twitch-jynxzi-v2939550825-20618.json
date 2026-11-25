@@ -1,6 +1,6 @@
 {
   "id": "twitch-jynxzi-v2939550825-20618",
-  "status": "pending",
+  "status": "ready",
   "platform": "twitch",
   "streamer": "jynxzi",
   "streamer_name": "Jynxzi",
@@ -119,5 +119,27 @@
   ],
   "chat_sample": [],
   "created_unix": 1795568935,
-  "meta": null
+  "meta": {
+    "hook": "HE WANTS TO SEE WHO CAN DRIVE",
+    "title": "Jynxzi takes the boys to the highway in GTA 6 🚗 #shorts",
+    "description": "Jynxzi's crew heads to the highway in GTA 6 to see who can really drive 🚗\n\nWho's the best driver in your squad? 👇\n\n#gta6 #gtavi #jynxzi #shorts #gaming",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 driving",
+      "gta 6 gameplay",
+      "grand theft auto 6",
+      "streamer moments",
+      "jynxzi gta 6",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi takes the boys to the highway in GTA 6 to see who can really drive 🚗 Who's the best driver in your squad? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels",
+    "source": "claude"
+  }
 }

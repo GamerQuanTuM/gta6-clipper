@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-3139",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -159,5 +159,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795569751,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Reads like in-game radio/song lyrics, not a live reaction; sexual wording"
 }

@@ -1,6 +1,6 @@
 {
   "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-3374",
-  "status": "pending",
+  "status": "rejected",
   "platform": "kick",
   "streamer": "theburntpeanut",
   "streamer_name": "theburntpeanut",
@@ -69,5 +69,6 @@
   ],
   "chat_sample": [],
   "created_unix": 1795569754,
-  "meta": null
+  "meta": null,
+  "reject_reason": "Spelling/scripted audio (\"O-U-S-Y\"), nothing clearly happening"
 }
