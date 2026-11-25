@@ -1,0 +1,73 @@
+{
+  "id": "twitch-jynxzi-v2939550825-20830",
+  "status": "pending",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴",
+  "game": "GTA 6",
+  "start": 20798,
+  "end": 20846.18,
+  "peak": 20830,
+  "score": 2.33,
+  "language": "en",
+  "transcript": "Sorry doggy, sorry fucking sorry. Oh my god, fucking sorry",
+  "words": [
+    [
+      9.33,
+      10.05,
+      "Sorry"
+    ],
+    [
+      10.05,
+      10.53,
+      "doggy,"
+    ],
+    [
+      10.55,
+      10.85,
+      "sorry"
+    ],
+    [
+      10.85,
+      11.77,
+      "fucking"
+    ],
+    [
+      37.82,
+      38.36,
+      "sorry."
+    ],
+    [
+      38.62,
+      38.76,
+      "Oh"
+    ],
+    [
+      38.76,
+      38.94,
+      "my"
+    ],
+    [
+      38.94,
+      39.3,
+      "god,"
+    ],
+    [
+      47.12,
+      47.48,
+      "fucking"
+    ],
+    [
+      47.48,
+      47.88,
+      "sorry"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795568944,
+  "meta": null
+}

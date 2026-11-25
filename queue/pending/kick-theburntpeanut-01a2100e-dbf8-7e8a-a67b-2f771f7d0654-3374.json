@@ -1,0 +1,73 @@
+{
+  "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-3374",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "theburntpeanut",
+  "streamer_name": "theburntpeanut",
+  "channel_url": "https://kick.com/theburntpeanut",
+  "vod_url": "https://kick.com/theburntpeanut/videos/01a2100e-dbf8-7e8a-a67b-2f771f7d0654#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a2100e-dbf8-7e8a-a67b-2f771f7d0654",
+  "vod_title": "GTA 6 | DAY 6 | GHOSTS & DEMONS & ALIENS | BEST ENDING 100% GARUNTEED | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 3340.46,
+  "end": 3387,
+  "peak": 3374,
+  "score": 2.32,
+  "language": "en",
+  "transcript": "- Oh, here we go! O -U -S -Y -",
+  "words": [
+    [
+      0.15,
+      0.29,
+      "-"
+    ],
+    [
+      0.29,
+      0.59,
+      "Oh,"
+    ],
+    [
+      0.71,
+      0.97,
+      "here"
+    ],
+    [
+      0.97,
+      1.23,
+      "we"
+    ],
+    [
+      1.23,
+      1.59,
+      "go!"
+    ],
+    [
+      18.62,
+      18.94,
+      "O"
+    ],
+    [
+      18.94,
+      19.2,
+      "-U"
+    ],
+    [
+      19.2,
+      19.76,
+      "-S"
+    ],
+    [
+      19.76,
+      20.06,
+      "-Y"
+    ],
+    [
+      20.06,
+      20.54,
+      "-"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795569754,
+  "meta": null
+}

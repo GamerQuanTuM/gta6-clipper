@@ -1,0 +1,123 @@
+{
+  "id": "kick-theburntpeanut-01a2100e-dbf8-7e8a-a67b-2f771f7d0654-1898",
+  "status": "pending",
+  "platform": "kick",
+  "streamer": "theburntpeanut",
+  "streamer_name": "theburntpeanut",
+  "channel_url": "https://kick.com/theburntpeanut",
+  "vod_url": "https://kick.com/theburntpeanut/videos/01a2100e-dbf8-7e8a-a67b-2f771f7d0654#__youtubedl_smuggle=%7B%22availability%22%3A+%22public%22%7D",
+  "vod_id": "01a2100e-dbf8-7e8a-a67b-2f771f7d0654",
+  "vod_title": "GTA 6 | DAY 6 | GHOSTS & DEMONS & ALIENS | BEST ENDING 100% GARUNTEED | #BUNGULATE",
+  "game": "GTA 6",
+  "start": 1863.13,
+  "end": 1912.79,
+  "peak": 1898,
+  "score": 2.26,
+  "language": "en",
+  "transcript": "I Know he's dancing to the beat not really dancing to the beat That's okay Check on the leaf rivers",
+  "words": [
+    [
+      0.15,
+      0.45,
+      "I"
+    ],
+    [
+      0.75,
+      1.05,
+      "Know"
+    ],
+    [
+      1.05,
+      1.37,
+      "he's"
+    ],
+    [
+      1.37,
+      1.81,
+      "dancing"
+    ],
+    [
+      1.81,
+      1.99,
+      "to"
+    ],
+    [
+      1.99,
+      2.13,
+      "the"
+    ],
+    [
+      2.13,
+      2.37,
+      "beat"
+    ],
+    [
+      2.37,
+      2.91,
+      "not"
+    ],
+    [
+      2.91,
+      3.09,
+      "really"
+    ],
+    [
+      3.09,
+      3.47,
+      "dancing"
+    ],
+    [
+      3.47,
+      3.67,
+      "to"
+    ],
+    [
+      3.67,
+      3.77,
+      "the"
+    ],
+    [
+      3.77,
+      4.07,
+      "beat"
+    ],
+    [
+      6.11,
+      6.71,
+      "That's"
+    ],
+    [
+      6.71,
+      6.97,
+      "okay"
+    ],
+    [
+      27.11,
+      27.41,
+      "Check"
+    ],
+    [
+      47.92,
+      48.52,
+      "on"
+    ],
+    [
+      48.52,
+      48.7,
+      "the"
+    ],
+    [
+      48.7,
+      48.92,
+      "leaf"
+    ],
+    [
+      48.92,
+      49.36,
+      "rivers"
+    ]
+  ],
+  "chat_sample": [],
+  "created_unix": 1795569757,
+  "meta": null
+}
