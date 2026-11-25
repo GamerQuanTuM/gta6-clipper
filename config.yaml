@@ -26,7 +26,7 @@ game_phases:
 # YouTube streams are scanned once they end. Names in `hindi` are transcribed as Hindi.
 streamers:
   twitch: [kaicenat, ludwig, jynxzi, xqc, summit1g, caseoh_, sodapoppin, lirik, zackrawrr, timthetatman, shroud,
-           pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel, ishowspeed, dukedennis, lacy, theburntpeanut]
+           pokimane, asmongold, esfandtv, hasanabi, plaqueboymax, tommyinnit, wilbursoot, georgenotfound, caedrel, ishowspeed, dukedennis, lacy, theburntpeanut, ohnepixel]
   kick: [adinross, trainwreckstv, n3on, stevewilldoit, sneako, amouranth,
          8bitheadflicker, rakazone, soulaman, anshyt, binks69, xqc, theburntpeanut]
   youtube: [GamerFleet, LiveInsaan, CarryisLive, TechnoGamerzOfficial, PAYALGAMING, RakaZoneGaming,
