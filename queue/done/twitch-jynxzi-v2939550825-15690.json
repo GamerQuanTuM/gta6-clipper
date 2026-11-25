@@ -1,0 +1,45 @@
+{
+  "id": "twitch-jynxzi-v2939550825-15690",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴 2026-11-24 23:11",
+  "game": "GTA 6",
+  "start": 15654.69,
+  "end": 15703,
+  "peak": 15690,
+  "score": 2.21,
+  "language": "en",
+  "transcript": "How does a bottle knock you over? You know what? It's those darn cigarettes chat. I'm telling you it's those darn cigarettes. It makes you weak How's it going sir? How's it going? Everybody get the fuck out Thank you Oh shit, he's got a gun. He's got a gun. He's got a gun. He's got a gun. He's got a gun. He's got a gun. He's got a gun HE'S GOT A GUN! Hey officer, how about you arrest the guy shooting?",
+  "chat_sample": [],
+  "created_unix": 1795561911,
+  "meta": {
+    "hook": "HE'S GOT A GUN! OFFICER, ARREST HIM",
+    "title": "Jynxzi panics as a gunman shows up in GTA 6 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi gets knocked over by a bottle, then a guy pulls a gun... and he asks the cop to do something 💀\n\nWould you have run or fought? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 police",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 3,
+    "platforms": [
+      "youtube",
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi loses it when a guy pulls a gun in GTA 6 and the cop just stands there 😭 Would you run or fight? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #funny",
+    "source": "claude"
+  },
+  "duration_s": 50.3,
+  "rendered_unix": 1795565335
+}

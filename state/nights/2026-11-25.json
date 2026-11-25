@@ -348,5 +348,66 @@
     },
     "duration_s": 45.0,
     "release": "2026-11-25-11-kaicenat"
+  },
+  {
+    "id": "twitch-jynxzi-v2939550825-15690",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "HE'S GOT A GUN! OFFICER, ARREST HIM",
+      "title": "Jynxzi panics as a gunman shows up in GTA 6 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi gets knocked over by a bottle, then a guy pulls a gun... and he asks the cop to do something 💀\n\nWould you have run or fought? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 police",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 3,
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "ig_caption": "Jynxzi loses it when a guy pulls a gun in GTA 6 and the cop just stands there 😭 Would you run or fight? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #funny",
+      "source": "claude"
+    },
+    "duration_s": 50.3,
+    "release": "2026-11-25-12-jynxzi"
+  },
+  {
+    "id": "twitch-jynxzi-v2939550825-14721",
+    "streamer": "jynxzi",
+    "streamer_name": "Jynxzi",
+    "channel_url": "https://www.twitch.tv/jynxzi",
+    "meta": {
+      "hook": "GTA 6 DID SOMETHING GTA 5 NEVER COULD",
+      "title": "Jynxzi can't believe what GTA 6 just let him do 😭 #gta6 #shorts",
+      "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi finds out GTA 6 is NOT GTA 5 and he's shook 💀\n\nWhat's the biggest upgrade you've noticed in GTA 6? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+      "tags": [
+        "gta 6",
+        "gta vi",
+        "jynxzi",
+        "gta 6 funny moments",
+        "gta 6 gameplay",
+        "gta 6 vs gta 5",
+        "grand theft auto 6",
+        "streamer moments",
+        "shorts"
+      ],
+      "priority": 1,
+      "platforms": [
+        "instagram"
+      ],
+      "ig_caption": "Jynxzi realizes GTA 6 is a whole different game compared to GTA 5 😭 What's the biggest upgrade you've noticed? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #gta5",
+      "source": "claude"
+    },
+    "duration_s": 53.0,
+    "release": "2026-11-25-13-jynxzi"
   }
 ]

@@ -1,0 +1,44 @@
+{
+  "id": "twitch-jynxzi-v2939550825-14721",
+  "status": "done",
+  "platform": "twitch",
+  "streamer": "jynxzi",
+  "streamer_name": "Jynxzi",
+  "channel_url": "https://www.twitch.tv/jynxzi",
+  "vod_url": "https://www.twitch.tv/videos/2939550825",
+  "vod_id": "v2939550825",
+  "vod_title": "[685/730] 🔴 CLIPS -> FIRST TIME PLAYING GTA 6 DAY 5 🔴 2026-11-24 23:11",
+  "game": "GTA 6",
+  "start": 14686.4,
+  "end": 14737.35,
+  "peak": 14721,
+  "score": 1.96,
+  "language": "en",
+  "transcript": "Bro the card tracker. Oh my god. Oh really? You want to teleport to hell? Bro in GTA 5 that would not have happened. I'm not even kidding. I would have just got fucking killed. By the fence. In GTA 5 you could really only run through like those thin gates.",
+  "chat_sample": [],
+  "created_unix": 1795561921,
+  "meta": {
+    "hook": "GTA 6 DID SOMETHING GTA 5 NEVER COULD",
+    "title": "Jynxzi can't believe what GTA 6 just let him do 😭 #gta6 #shorts",
+    "description": "🎥 Clip from Jynxzi's live stream: https://www.twitch.tv/jynxzi\n\nJynxzi finds out GTA 6 is NOT GTA 5 and he's shook 💀\n\nWhat's the biggest upgrade you've noticed in GTA 6? 👇\n\n#gta6 #gtavi #jynxzi #gaming #shorts",
+    "tags": [
+      "gta 6",
+      "gta vi",
+      "jynxzi",
+      "gta 6 funny moments",
+      "gta 6 gameplay",
+      "gta 6 vs gta 5",
+      "grand theft auto 6",
+      "streamer moments",
+      "shorts"
+    ],
+    "priority": 1,
+    "platforms": [
+      "instagram"
+    ],
+    "ig_caption": "Jynxzi realizes GTA 6 is a whole different game compared to GTA 5 😭 What's the biggest upgrade you've noticed? 👇\n\n🎥 Jynxzi (twitch.tv/jynxzi)\n\n#gta6 #gtavi #jynxzi #gaming #streamer #reels #gta5",
+    "source": "claude"
+  },
+  "duration_s": 53.0,
+  "rendered_unix": 1795565409
+}
